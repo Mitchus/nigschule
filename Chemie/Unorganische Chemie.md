@@ -349,5 +349,12 @@ Anfangsgeschw.
 
 $V_{R}=\frac{|\nabla c|}{\nabla t}$
 
-CaCarbonat + HCl -> 
-in 100ml Lösung 30mg Calciumchlorid CaCl
+CaCarbonat + HCl -> CaCl
+$\ce{ CaCO_{3} + 2HCl \to CaCl_{2}+H_{2}O+CO_{2} }$
+m= 30mg
+$V_{Lsg}=100ml$
+$t=10s$
+in 100ml Lösung 30mg Calciumchlorid 
+berechne Reaktions geschw.
+
+$\ce{ CaCO_{3}+HBr->CaCO }$
