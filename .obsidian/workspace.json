@@ -11,12 +11,24 @@
             "id": "bf1c69be9ab01653",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Geschichte/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -94.69574013650248,
+                  "zoom": 0.5
+                }
+              }
+            }
+          },
+          {
+            "id": "36f9109d80aea9e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md"
               }
             }
           },
@@ -124,7 +136,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md"
               }
             }
           },
@@ -295,8 +308,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bf1c69be9ab01653",
+  "active": "36f9109d80aea9e6",
   "lastOpenFiles": [
+    "Excalidraw/files/Pasted Image 20240418082536_959.png",
+    "Geschichte/Untitled.canvas",
+    "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md",
+    "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Chemie/Halogen Alkane.md",
     "Sozialkunde/Instis der EU.md",
@@ -315,7 +332,6 @@
     "Deutsch/Interpretation.md",
     "Deutsch/Sachtextanalyse.md",
     "Physik/E-Lehre.md",
-    "Chemie/Unorganische Chemie.md",
     "Physik/Mechanische Arbeit.md",
     "Mathe/Differenzialrechnung.md",
     "Englisch/Summary.md",
@@ -326,8 +342,6 @@
     "Englisch/files/Pasted image 20231220082422.png",
     "Englisch/Adolescence.md",
     "Englisch/Timeline.canvas",
-    "DVT Aufgaben.md",
-    "DVT/Festplatten.md",
     "Physik/files/Pasted image 20240409115945.png",
     "Physik/files/Pasted image 20240409115857.png",
     "Physik/files/Pasted image 20240409115614.png",

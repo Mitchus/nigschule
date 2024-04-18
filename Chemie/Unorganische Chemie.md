@@ -102,7 +102,7 @@ Fe + S = FeS
 Konzentrationsberechnung
 C in mol/l
 n = Stoffmenge
-Feststoff
+Feststoff5
 m = n * M
 Flüssigkeit
 VLsg. = n/c 
