@@ -8,73 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf1c69be9ab01653",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Geschichte/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -94.69574013650248,
-                  "zoom": 0.5
-                }
-              }
-            }
-          },
-          {
-            "id": "36f9109d80aea9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaft/Markt und Preis/Markt & Preis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c01f6b94ad0c6b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sozialkunde/Europäisches Parlament.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4f665d89c8d1fda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sozialkunde/Europäische Kommission.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80ea24e593169159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sozialkunde/Europäischer Gerichtshof.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b7ed0caa9efa181",
             "type": "leaf",
             "state": {
@@ -139,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaft/Markt und Preis/Markt & Preis.md",
+                "file": "Sozialkunde/Europäischer Rat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaft/Markt und Preis/Markt & Preis.md",
+                "file": "Sozialkunde/Europäischer Rat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaft/Markt und Preis/Markt & Preis.md"
+                "file": "Sozialkunde/Europäischer Rat.md"
               }
             }
           },
@@ -312,8 +244,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "420cc5a24a211e96",
+  "active": "9b7ed0caa9efa181",
   "lastOpenFiles": [
+    "Sozialkunde/Europäischer Gerichtshof.md",
+    "Geschichte/Untitled.canvas",
+    "Wirtschaft/Markt und Preis/Markt & Preis.md",
     "Wirtschaft/Markt und Preis/Markt-arten.md",
     "Wirtschaft/Markt und Preis/vollkommener Markt.md",
     "Wirtschaft/Markt und Preis/Vollkommene Konkurrenz.md",
@@ -321,12 +256,10 @@
     "Wirtschaft/Markt und Preis/AngebotNachfrage.md",
     "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md",
     "Excalidraw/files/Pasted Image 20240418082536_959.png",
-    "Geschichte/Untitled.canvas",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Chemie/Halogen Alkane.md",
     "Sozialkunde/Instis der EU.md",
-    "Sozialkunde/Europäischer Gerichtshof.md",
     "Sozialkunde/Für und Wider Humanitäre Interventionen.md",
     "Sozialkunde/Rat der EU.md",
     "Sozialkunde/Europäischer Rat.md",
@@ -340,8 +273,6 @@
     "Deutsch/Erörtern.md",
     "Deutsch/Interpretation.md",
     "Deutsch/Sachtextanalyse.md",
-    "Physik/E-Lehre.md",
-    "Physik/Mechanische Arbeit.md",
     "Englisch/files/Pasted image 20231110094456.png",
     "Englisch/files/Pasted image 20231110094611.png",
     "Englisch/files/Pasted image 20231110094627.png",
