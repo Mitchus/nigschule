@@ -345,3 +345,9 @@ Reaktionsgeschw.
 Durchschnittgeschw.
 Momentangeschw.
 Anfangsgeschw. 
+
+
+$V_{R}=\frac{|\nabla c|}{\nabla t}$
+
+CaCarbonat + HCl -> 
+in 100ml Lösung 30mg Calciumchlorid CaCl
