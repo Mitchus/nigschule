@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Europäischer Rat.md",
+                "file": "Sozialkunde/Europäisches Parlament.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/Europäischer Rat.md",
+                "file": "Sozialkunde/Europäisches Parlament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/Europäischer Rat.md",
+                "file": "Sozialkunde/Europäisches Parlament.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/Europäischer Rat.md"
+                "file": "Sozialkunde/Europäisches Parlament.md"
               }
             }
           },
@@ -247,6 +246,8 @@
   "active": "9b7ed0caa9efa181",
   "lastOpenFiles": [
     "Sozialkunde/Europäischer Gerichtshof.md",
+    "Sozialkunde/Europäischer Rat.md",
+    "Sozialkunde/Europäische Kommission.md",
     "Geschichte/Untitled.canvas",
     "Wirtschaft/Markt und Preis/Markt & Preis.md",
     "Wirtschaft/Markt und Preis/Markt-arten.md",
@@ -262,9 +263,7 @@
     "Sozialkunde/Instis der EU.md",
     "Sozialkunde/Für und Wider Humanitäre Interventionen.md",
     "Sozialkunde/Rat der EU.md",
-    "Sozialkunde/Europäischer Rat.md",
     "Sozialkunde/Europäisches Parlament.md",
-    "Sozialkunde/Europäische Kommission.md",
     "Sozialkunde/Internationale Beziehungen.md",
     "Sozialkunde/Untitled.md",
     "Sozialkunde/Internationaler Gerichtshof.md",
