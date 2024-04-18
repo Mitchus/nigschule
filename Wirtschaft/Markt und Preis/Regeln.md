@@ -1,0 +1,5 @@
+[Angebot und Nachfrage](AngebotNachfrage.md)
+[**Marktidentifikation**](Marktidentifikation.md)
+[**Eigentumsrechte**](Eigentumsrechte.md)
+[**Wettbewerb**](Wettbewerb.md)
+[**Konsumentenschutz**](Konsumentenschutz)

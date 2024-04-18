@@ -1,0 +1,8 @@
+- **PC (Program Counter)**: Hält die Adresse der nächsten auszuführenden Instruktion.
+- **Instr. Memory (Instruction Memory)**: Speichert die auszuführenden Instruktionen.
+- **Decoder**: Dekodiert die abgerufene Instruktion, um sie für die Ausführung vorzubereiten.
+- **Registers**: Eine Sammlung von Registern, die zur temporären Speicherung von Daten und Adressen verwendet werden.
+- **Imm. (Immediate Value)**: Ein unmittelbarer Wert, der als Teil einer Instruktion verwendet wird.
+- **Branch Logic (Branch Unit)**: Übernimmt die Kontrolle über die Ausführungspfade des Programms, basierend auf Verzweigungsanweisungen.
+- **ALU (Arithmetic Logic Unit)**: Führt arithmetische und logische Operationen aus.
+- **Data Memory (Data Cache)**: Speichert Daten, auf die zugegriffen oder von denen sie in einem Programm manipuliert werden.

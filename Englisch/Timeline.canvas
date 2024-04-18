@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e93ef8a31cc006ea","type":"text","text":"baby","x":-968,"y":-120,"width":109,"height":50},
+		{"id":"234d61068b8bbdfb","type":"text","text":"toddler","x":-859,"y":-120,"width":130,"height":50},
+		{"id":"e5e5b02463fba033","type":"text","text":"child","x":-729,"y":-120,"width":105,"height":50},
+		{"id":"ee80160bd9df86fb","type":"text","text":"prebuscent","x":-624,"y":-120,"width":168,"height":50},
+		{"id":"607979729998ba5c","type":"text","text":"pre-teen","x":-456,"y":-120,"width":152,"height":50},
+		{"id":"0d767ebef0315f68","type":"text","text":"tweenager","x":-304,"y":-120,"width":146,"height":50},
+		{"id":"25e430ca8722e466","type":"text","text":"youth","x":132,"y":-120,"width":119,"height":50},
+		{"id":"e33068ad617c03f4","type":"text","text":"adult","x":251,"y":-120,"width":105,"height":50},
+		{"id":"7e49c08810cc0391","type":"text","text":"adolescent","x":-22,"y":-120,"width":154,"height":50},
+		{"id":"0ee2fae9c49fc84b","type":"text","text":"teenager","x":-158,"y":-120,"width":136,"height":52}
+	],
+	"edges":[]
+}

@@ -1,0 +1,1 @@
+1. Ein Monopol ist eine Marktform, bei der es nur einen einzigen Anbieter gibt, der ein Produkt oder eine Dienstleistung kontrolliert und daher den Preis bestimmen kann, ohne nennenswerte Konkurrenz.

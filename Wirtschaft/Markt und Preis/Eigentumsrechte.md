@@ -1,0 +1,1 @@
+**Eigentumsrechte:** Schutz des Privateigentums und Rechte

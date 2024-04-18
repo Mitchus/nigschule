@@ -1,0 +1,9 @@
+- **Van-der-Waals-Kräfte (VDW):** Schwache intermolekulare Kräfte zwischen Atomen und Molekülen.
+- **Dipol-Dipol-Wechselwirkungen:** Zwischen permanenten Dipolen in polarisierten Molekülen.
+- **London-Dispersion-Kräfte:** Zwischen vorübergehenden Dipolen in nichtpolarisierten Molekülen.
+- **Induzierte Dipole:** Temporäre Ladungsverschiebungen durch Elektronenbewegung.
+- **Attraktiv und abstoßend:** VDW-Kräfte sind anziehend (zwischen Dipolen) und können auch abstoßend wirken (bei zu nahem Kontakt).
+- **Einfluss auf Aggregatzustand:** VDW-Kräfte beeinflussen Schmelz- und Siedepunkte sowie die Kondensation von Stoffen.
+- **Je größer die Moleküle:** Desto stärker sind die VDW-Kräfte aufgrund einer größeren Elektronenwolke.
+- **Gesamtkraft:** Die VDW-Kräfte sind kumulativ mit anderen Kräften wie elektrostatischen Kräften.
+- **Bedeutung:** Sie spielen eine wichtige Rolle in der Chemie, besonders in der Phasenumwandlung von Stoffen.

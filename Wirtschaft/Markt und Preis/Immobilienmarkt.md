@@ -1,0 +1,1 @@
+Gebäude und Grundstücke

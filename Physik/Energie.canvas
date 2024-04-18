@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f80b2d141b811270","type":"text","text":"EE","x":-20,"y":-180,"width":98,"height":97},
+		{"id":"8a63fa9ebc381589","type":"text","text":"Prozess der Arbeit","x":-260,"y":-183,"width":240,"height":52},
+		{"id":"80b61bd6be5acb02","type":"text","text":"EA","x":-362,"y":-180,"width":102,"height":97},
+		{"id":"b384ef25ab76ee9a","type":"text","text":"Vom Körper wird Arbeit verrichtet","x":-119,"y":-31,"width":158,"height":89},
+		{"id":"78f9d897bf52baaf","type":"text","text":"Am Körper wird Arbeit verrichtet","x":-318,"y":-34,"width":160,"height":94},
+		{"id":"5326cd5eab97051d","type":"text","text":"1","x":-238,"y":-108,"width":50,"height":50},
+		{"id":"02f54505c77f3fbf","type":"text","text":"2","x":-90,"y":-108,"width":50,"height":50},
+		{"id":"873e6585f20794e2","type":"file","file":"Physik/Energie.md","x":-466,"y":-600,"width":652,"height":397}
+	],
+	"edges":[
+		{"id":"ec618d547dd9e165","fromNode":"80b61bd6be5acb02","fromSide":"right","toNode":"f80b2d141b811270","toSide":"left","toEnd":"none"},
+		{"id":"6c3a630edeecd2f3","fromNode":"78f9d897bf52baaf","fromSide":"top","toNode":"8a63fa9ebc381589","toSide":"bottom"},
+		{"id":"2634e37a525d9bb3","fromNode":"8a63fa9ebc381589","fromSide":"bottom","toNode":"b384ef25ab76ee9a","toSide":"top"}
+	]
+}

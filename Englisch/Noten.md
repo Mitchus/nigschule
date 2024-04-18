@@ -1,0 +1,1 @@
+Vortrag: 13 Punkte

@@ -1,0 +1,12 @@
+- **Aufgaben**: direkt gewähltes EU-Organ, zuständig für Gesetzgebung, Kontrolle und Haushalt
+- **Mitglieder**: 705 Abgeordnete (Mitglieder des Europäischen Parlaments)
+- **Präsidentin**: Roberta Metsola
+- **Gegründet**: 1952 als Gemeinsame Versammlung der Europäischen Gemeinschaft für Kohle und Stahl, 1962 umbenannt in Europäisches Parlament; erste Direktwahlen 1979
+- **Sitz**: Straßburg (Frankreich), Brüssel (Belgien), Luxemburg
+
+- Europäisches Parlament (EP)
+	    - Besteht aus von direktgewählten Abgeordneten
+	    - Legislative (Gesetzgebung)
+	    - Aufstellung des Haushaltsplan mit Rat der EU
+	    - Zustimmungsrecht bei allen intern. Abkommen und EU-Beitritten
+	    - Sitz in Straßburg

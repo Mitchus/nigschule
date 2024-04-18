@@ -1,0 +1,2 @@
+- [[Investitionsgütermarkt]]
+- [[Konsumgütermarkt]]
