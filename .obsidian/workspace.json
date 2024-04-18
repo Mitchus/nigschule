@@ -26,9 +26,12 @@
             "id": "36f9109d80aea9e6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md"
+                "file": "Wirtschaft/Markt und Preis/Markt & Preis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -183,7 +186,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md",
+                "file": "Wirtschaft/Markt und Preis/Markt & Preis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md",
+                "file": "Wirtschaft/Markt und Preis/Markt & Preis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md"
+                "file": "Wirtschaft/Markt und Preis/Markt & Preis.md"
               }
             }
           },
@@ -308,11 +312,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "36f9109d80aea9e6",
+  "active": "420cc5a24a211e96",
   "lastOpenFiles": [
+    "Wirtschaft/Markt und Preis/Markt-arten.md",
+    "Wirtschaft/Markt und Preis/vollkommener Markt.md",
+    "Wirtschaft/Markt und Preis/Vollkommene Konkurrenz.md",
+    "Wirtschaft/Markt und Preis/Arbeitsmarkt.md",
+    "Wirtschaft/Markt und Preis/AngebotNachfrage.md",
+    "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md",
     "Excalidraw/files/Pasted Image 20240418082536_959.png",
     "Geschichte/Untitled.canvas",
-    "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Chemie/Halogen Alkane.md",
@@ -333,21 +342,16 @@
     "Deutsch/Sachtextanalyse.md",
     "Physik/E-Lehre.md",
     "Physik/Mechanische Arbeit.md",
-    "Mathe/Differenzialrechnung.md",
-    "Englisch/Summary.md",
-    "Englisch/Privacy.md",
     "Englisch/files/Pasted image 20231110094456.png",
     "Englisch/files/Pasted image 20231110094611.png",
     "Englisch/files/Pasted image 20231110094627.png",
     "Englisch/files/Pasted image 20231220082422.png",
-    "Englisch/Adolescence.md",
     "Englisch/Timeline.canvas",
     "Physik/files/Pasted image 20240409115945.png",
     "Physik/files/Pasted image 20240409115857.png",
     "Physik/files/Pasted image 20240409115614.png",
     "Physik/files/Pasted image 20240409114612.png",
     "Physik/files/Pasted image 20240409114552.png",
-    "Physik/files/Pasted image 20240408095456.png",
     "Chemie/Untitled.canvas",
     "DVT/files",
     "Physik/Energie.canvas",
