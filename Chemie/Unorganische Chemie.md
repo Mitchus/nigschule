@@ -357,4 +357,6 @@ $t=10s$
 in 100ml Lösung 30mg Calciumchlorid 
 berechne Reaktions geschw.
 
-$\ce{ CaCO_{3}+HBr->CaCO }$
+$\ce{ CaCO_{3}+2HBr->CaBr_{2}+H_{2}O+CO_{2} }$
+
+4g
