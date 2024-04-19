@@ -109,7 +109,7 @@ Kritik am Utilitarismus
 
 Fertigen sie eine Skizze zu den 4 Stufen in Höhlen füchnis an. Platon Der Staaten Höhlen Linien und Sonnengleichung.
 
-Das Höhlengleichnis symbolisiert den Weg der Erkenntnis und des Wissens.
+Das Höhlengleichnis symbolisiert den Weg der Erkenntnis und des Wissens. Die Gefangenen sehen nur Schatten an der Höhlenwand und nehmen diese als Realität wahr.
 
 
 1. Die Gefangenen sehen nur Schatten an der Höhlenwand und nehmen diese als Realität wahr.
@@ -126,3 +126,5 @@ Das Höhlengleichnis symbolisiert den Weg der Erkenntnis und des Wissens.
 	1. Die Rückkehr in die Höhle und das Unverständnis der anderen Gefangenen symbolisieren die Schwierigkeit, die Wahrheit und Erkenntnis mit anderen zu teilen und zu verbreiten.
 	2. ![[Pillager_firing_at_villager.gif]]
 
+
+Ideen Hilfmittel verstehen der Welt
