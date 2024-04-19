@@ -107,3 +107,18 @@ Kritik am Utilitarismus
 - Menschliche Wesen sind moralisch wertvoll an sich ("Zweck an sich selbst"), und dürfen daher nicht nur als Mittel zum Zweck behandelt werden. |
 
 
+Fertigen sie eine Skizze zu den 4 Stufen in Höhlen füchnis an. Platon Der Staaten Höhlen Linien und Sonnengleichung.
+
+Das Höhlengleichnis symbolisiert den Weg der Erkenntnis und des Wissens.
+
+
+1. Die Gefangenen sehen nur Schatten an der Höhlenwand und nehmen diese als Realität wahr.
+	1. Die Gefangenen in der Höhle stellen die Menschen dar, die in der materiellen Welt gefangen sind und die nur oberflächliche Realität wahrnehmen.
+2. Einer der Gefangenen wird befreit und erkennt die wahren Formen der Gegenstände, die Schatten werfen.
+	1. Der befreite Gefangene steht für den Philosophen, der durch Philosophie und Bildung die wahren Formen und Ideen erkennt.
+3. Der befreite Gefangene verlässt die Höhle und erblickt die Sonne, die die Quelle des Lichts und der Wahrheit ist.
+	1. Die Sonne repräsentiert die Idee des Guten, die Quelle aller Erkenntnis und Wahrheit.
+4. Der befreite Gefangene kehrt in die Höhle zurück, um den anderen Gefangenen von der Wahrheit zu berichten, wird jedoch von ihnen nicht verstanden oder gar verspottet.
+	1. Die Rückkehr in die Höhle und das Unverständnis der anderen Gefangenen symbolisieren die Schwierigkeit, die Wahrheit und Erkenntnis mit anderen zu teilen und zu verbreiten.
+
+

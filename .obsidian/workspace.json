@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "77550a4e8d3a06cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "596468cb3e2c7ec1",
             "type": "leaf",
             "state": {
@@ -86,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md"
+                "file": "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md"
               }
             }
           },
@@ -257,8 +267,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "16d4813486ec5754",
+  "active": "77550a4e8d3a06cd",
   "lastOpenFiles": [
+    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+    "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Sozialkunde/Europäisches Parlament.md",
     "Sozialkunde/Europäischer Gerichtshof.md",
@@ -285,8 +297,6 @@
     "Deutsch/Faust.md",
     "Deutsch/Barock.md",
     "Deutsch/Erörtern.md",
-    "Deutsch/Interpretation.md",
-    "Deutsch/Sachtextanalyse.md",
     "Englisch/files/Pasted image 20231110094456.png",
     "Englisch/files/Pasted image 20231110094611.png",
     "Englisch/files/Pasted image 20231110094627.png",
