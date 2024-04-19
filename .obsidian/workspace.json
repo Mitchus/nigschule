@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "77550a4e8d3a06cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "596468cb3e2c7ec1",
             "type": "leaf",
             "state": {
@@ -96,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md"
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md"
               }
             }
           },
@@ -267,10 +257,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "77550a4e8d3a06cd",
+  "active": "16d4813486ec5754",
   "lastOpenFiles": [
-    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+    "Philosophie/files/Pillager_firing_at_villager.gif",
+    "Philosophie/files/Pasted image 20240419083319.png",
+    "Philosophie/files/Pasted image 20240419083158.png",
+    "Philosophie/files/Pasted image 20240419083012.png",
     "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md",
+    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Sozialkunde/Europäisches Parlament.md",
     "Sozialkunde/Europäischer Gerichtshof.md",
@@ -296,7 +290,6 @@
     "Sozialkunde/Internationaler Gerichtshof.md",
     "Deutsch/Faust.md",
     "Deutsch/Barock.md",
-    "Deutsch/Erörtern.md",
     "Englisch/files/Pasted image 20231110094456.png",
     "Englisch/files/Pasted image 20231110094611.png",
     "Englisch/files/Pasted image 20231110094627.png",
@@ -304,9 +297,6 @@
     "Englisch/Timeline.canvas",
     "Physik/files/Pasted image 20240409115945.png",
     "Physik/files/Pasted image 20240409115857.png",
-    "Physik/files/Pasted image 20240409115614.png",
-    "Physik/files/Pasted image 20240409114612.png",
-    "Physik/files/Pasted image 20240409114552.png",
     "Chemie/Untitled.canvas",
     "DVT/files",
     "Physik/Energie.canvas",
