@@ -83,3 +83,27 @@ Kritik am Utilitarismus
 - kein allgemein findlicher Glücksbegriff
 - keine Allgemeinbindlichen Regeln für alle
 - Menschenrechte könnte nicht begründet werden
+
+| Theorie | Grundkonzept |
+| --- | --- |
+| John Stuart Mill - Qualitativer Utilitarismus | - Moralisches Handeln, das darauf abzielt, den größtmöglichen Nutzen für die größtmögliche Anzahl von Personen zu erzielen (Prinzip des größten Glücks oder Nutzen).
+- Unterscheidung zwischen höheren und niedrigeren Freuden/Happyness: Höhere Freuden sind die intellektuellen und moralischen Freuden, während niedrigere Freuden die körperlichen und sinnlichen Freuden sind.
+- Höhere Freuden sind wertvoller als die niedrigeren Freuden. Wenn man die Wahl hat, sollte man die höhere Freude wählen, auch wenn dies weniger Gesamtgenuss bedeuten würde.
+- Jedes Individuum ist der beste Richter seines eigenen Glücks.
+- 
+- 
+- 
+| John Stuart Mill - Qualitativer Utilitarismus | - Streben nach dem höchsten Gut das ist Freude/Happiness.
+- Unterscheidet zwischen höheren (z.B. intellektuellen Freuden) und niedrigeren Freuden (z.B. physischen Freuden).
+- Höhere Freuden sind wertvoller, selbst wenn sie weniger Gesamtfreude erzeugen.
+- Jedes Individuum ist der beste Richter für sein eigenes Glück. |
+| Jeremy Bentham - Quantitativer Utilitarismus | - Streben nach dem höchsten Gut das ist Freude/Happiness.
+- Macht keinen Unterschied zwischen Arten von Freude - eine Freude ist so gut wie andere.
+- Der Wert einer Handlung wird quantitativ durch den Grad der Freude oder Schmerz, den sie hervorruft, gemessen.
+- Betont die quantitative Maximierung des Glücks für so viele Menschen wie möglich. |
+| Immanuel Kant - Deontologische Ethik | - Moralisches Handeln basiert auf der Einhaltung moralischer Pflichten und Prinzipien, nicht auf den Konsequenzen des Handelns.
+- Einführung des Kategorischen Imperativs, das ist ein universelles Moralgsetz: "Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde."
+- Für Kant ist das moralisch Gute der "Gute Wille", der aus Respekt vor dem moralischen Gesetz handelt, unabhängig von den Ergebnissen.
+- Menschliche Wesen sind moralisch wertvoll an sich ("Zweck an sich selbst"), und dürfen daher nicht nur als Mittel zum Zweck behandelt werden. |
+
+
