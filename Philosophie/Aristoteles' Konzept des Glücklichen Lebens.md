@@ -62,10 +62,13 @@ Typ will sich Opfern um 5 kranke Familienmitglieder zu retten, indem er seine Or
 | Leid gesamt                                                      |                                       |                |       |                                        | 99    |
 Kritik an Beutham
 - Glück oder Leid mit einem konkreten Zahlenwert zu belegen
-- direkt und indirekte Auswirkungen sollen wie für die Bereherung erfasst werden
+- direkt un
+- d indirekte Auswirkungen sollen wie für die Bereherung erfasst werden
 - Betroffenen-kreis ist nicht immer leicht zu ermitteln
 - Einzelinteressen können unberücksichtigt bleiben, wenn die große Zahl davon profitiert (Minderheiten bleiben unberücksichtigt)
-John Stuart Mill: Qualitativer Utilitarismus
+
+
+Erkläre mir kurz in Stichpunkten die Theorien von John Stuart Mill: Qualitativer Utilitarismus vs Beutham vs Kant in Stichpunkten. erkläre das grundkonzept, du kannst es in ener tabelle vergleichen
 
 "Lieber ein unzufriedener Sokrates als ein zufriedenes Schwein"
 Freude und Leid als Handlungs-Kultur vorausgesetzt 
