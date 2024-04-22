@@ -142,7 +142,10 @@ Reinvermögen             334269.53
 Bilanz
 | Aktive | Passiva |
 | ------ | ------- |
-| AV     |         |
+| AV     | EK      |
+| UV     | FK      |
+
+
 Bilanz wichtig für Mittelverwendung/Investition und Mittelherkunft/Finanzierung
 
 
