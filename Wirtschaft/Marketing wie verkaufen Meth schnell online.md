@@ -88,3 +88,26 @@ Um dem Absatzrückgang des "orangephone" entgegenzuwirken, könnte die Orange OH
 5. mehr Marketing/Werbung
 
 
+| Anlagevermögen | Einzelwerte | Gesamtwerte |
+| -------------- | ----------- | ----------- |
+| Gebäude        | 638700      | 638700      |
+| Braumaschine   | 25000       |             |
+| Mischmaschine  | 18000       |             |
+| Bürostuff      | 15000       |             |
+| Firmenwagen    | 6200        |             |
+| PCs            | 5000        |             |
+| Gärtanks       | 3000        |             |
+| Abfüllanlage   |             |             |
+
+| Umlaufvermögen | Einzelwerte | Geamtwerte |
+| -------------- | ----------- | ---------- |
+|                |             |            |
+Summe des Vermögens
+
+Schulden
+
+| Art | Einzelwerte | Gesamtwerte |
+| --- | ----------- | ----------- |
+|     |             |             |
+Summe der Schulden
+Reinvermögen

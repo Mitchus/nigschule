@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "0f8a293b11d325e2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "596468cb3e2c7ec1",
             "type": "leaf",
             "state": {
@@ -96,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md",
+                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md",
+                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md"
+                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md"
               }
             }
           },
@@ -267,11 +257,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0f8a293b11d325e2",
+  "active": "16d4813486ec5754",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md",
     "Excalidraw/files/Pasted Image 20240422095127_203.png",
     "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
-    "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md",
     "DVT Aufgaben.md",
     "Wirtschaft/Markt und Preis/AngebotNachfrage.md",
     "Wirtschaft/Markt und Preis/Eigentumsrechte.md",
@@ -306,7 +296,6 @@
     "Englisch/files/Pasted image 20231110094627.png",
     "Englisch/files/Pasted image 20231220082422.png",
     "Englisch/Timeline.canvas",
-    "Physik/files/Pasted image 20240409115945.png",
     "Chemie/Untitled.canvas",
     "DVT/files",
     "Physik/Energie.canvas",
