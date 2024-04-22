@@ -111,14 +111,16 @@ AV: Liquidität angeordnet in Verbleibedauer im Betrieb
 
 UV:
 
-| Umlaufvermögen | Einzelwerte | Geamtwerte |     |
-| -------------- | ----------- | ---------- | --- |
-| Bargeld        | 470         | 470        |     |
-| Bionier        | 100000      | 100470     |     |
-| Malz           | 900         | 101370     |     |
-| Hopfen         | 5800        | 107170     |     |
-| Kontostand     | 91599.53    | 198769.53  |     |
-Summe des Vermögens 848070
+| Umlaufvermögen           | Einzelwerte | Geamtwerte |     |
+| ------------------------ | ----------- | ---------- | --- |
+| Bargeld                  | 470         | 470        |     |
+| Bionier                  | 100000      | 100470     |     |
+| Malz                     | 900         | 101370     |     |
+| Hopfen                   | 5800        | 107170     |     |
+| Kontostand + 470         | 91599.53    | 198769.53  |     |
+| Forderungen Einzelhandel | 500         | 199269.53  |     |
+|                          |             |            |     |
+Summe des Vermögens 940169.53
 
 Schulden
 - langfristiges FK (Fremdkapital)
@@ -137,5 +139,10 @@ Reinvermögen = Vermögen - Schulden
 Summe der Schulden 605400
 Reinvermögen             334269.53
 
+Bilanz
+| Aktive | Passiva |
+| ------ | ------- |
+| AV     |         |
+Bilanz wichtig für Mittelverwendung/Investition und Mittelherkunft/Finanzierung
 
 
