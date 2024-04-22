@@ -89,12 +89,13 @@ Um dem Absatzrückgang des "orangephone" entgegenzuwirken, könnte die Orange OH
 
 
 
-Def. Inventur
-Arten d. Inventur
-Def. Inventar
+Def. Inventur: Aufnahme und Bewertung (in Geld) der Bestände eines Betriebes (zählen, messen, wiegen und bewerten)
+Arten d. Inventur Körperliche + Buchinventur 
+permantnete o. Stichstagsinventur
+Def. Inventar: Inventur in einer bestimmten Struktur
 
 Vermögen
-AV: Liquidität | Verbleibedauer im Betrieb
+AV: Liquidität angeordnet in Verbleibedauer im Betrieb
 
 | Anlagevermögen | Einzelwerte | Gesamtwerte |
 | -------------- | ----------- | ----------- |
@@ -106,21 +107,22 @@ AV: Liquidität | Verbleibedauer im Betrieb
 | PCs            | 5000        | 707900      |
 | Gärtanks       | 3000        | 710900      |
 | Abfüllanlage   | 30000       | 740900      |
+|                |             |             |
 
 UV:
 
-| Umlaufvermögen | Einzelwerte | Geamtwerte |
-| -------------- | ----------- | ---------- |
-| Bargeld        | 470         | 470        |
-| Bionier        | 100000      | 100470     |
-| Malz           | 900         | 101370     |
-| Hopfen         | 5800        | 107170     |
-|                |             |            |
+| Umlaufvermögen | Einzelwerte | Geamtwerte |     |
+| -------------- | ----------- | ---------- | --- |
+| Bargeld        | 470         | 470        |     |
+| Bionier        | 100000      | 100470     |     |
+| Malz           | 900         | 101370     |     |
+| Hopfen         | 5800        | 107170     |     |
+| Kontostand     | 91599.53    | 198769.53  |     |
 Summe des Vermögens 848070
 
 Schulden
 - langfristiges FK (Fremdkapital)
-- mittelfr.
+- mittelfr. 5jahre
 - kurzfristiges FK
 
 | Art              | Einzelwerte | Gesamtwerte |
@@ -133,7 +135,7 @@ Schulden
 Reinvermögen = Vermögen - Schulden
 
 Summe der Schulden 605400
-Reinvermögen             242670 
+Reinvermögen             334269.53
 
 
 
