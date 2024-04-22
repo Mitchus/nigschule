@@ -315,3 +315,7 @@ b)
 verhältnis der Geschwindigkeiten
 1.224744871
 
+Gangunterschied
+Welle 1 
+Welle 2 bissle x verschoben
+
