@@ -292,5 +292,8 @@ ges:
 1. ß
 2. f,  $\lambda_{2}$
 
-
-37.684433303
+rech:
+$\frac{\sin\alpha}{\sin \beta}=\frac{c_{1}}{c_{2}} |*\sin \beta|*\frac{c_{1}}{c_{2}}$
+$\sin \beta= \frac{\sin\alpha*c_{2}}{c_{1}}$
+$\beta=\arcsin( \frac{ \sin 60° *24 \frac{cm}{s}}{32 \frac{cm}{s}})$
+$\beta=40.50535034°$
