@@ -314,3 +314,4 @@ $c_{flach}=20.412414523 \frac{cm}{s}$
 b)
 verhältnis der Geschwindigkeiten
 1.224744871
+
