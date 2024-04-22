@@ -297,3 +297,20 @@ $\frac{\sin\alpha}{\sin \beta}=\frac{c_{1}}{c_{2}} |*\sin \beta|*\frac{c_{1}}{c_
 $\sin \beta= \frac{\sin\alpha*c_{2}}{c_{1}}$
 $\beta=\arcsin( \frac{ \sin 60° *24 \frac{cm}{s}}{32 \frac{cm}{s}})$
 $\beta=40.50535034°$
+$\beta_{2}=37.68°$
+24cm/s / 20hz = 1.2cm
+
+In einer Wellenwanne läuft eine Welle von einer Seichten Stelle in ein Gebiet mit tieferem Wasser, 
+
+$\frac{\sin\alpha}{\sin \beta}=\frac{c_{1}}{c_{2}}$
+
+$\alpha=45°$
+$\beta=60°$
+
+a)
+$c_{tief} = 25 \frac{cm}{s}$
+$c_{flach}=20.412414523 \frac{cm}{s}$
+
+b)
+verhältnis der Geschwindigkeiten
+1.224744871
