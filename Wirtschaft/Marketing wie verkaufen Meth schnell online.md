@@ -88,26 +88,52 @@ Um dem Absatzrückgang des "orangephone" entgegenzuwirken, könnte die Orange OH
 5. mehr Marketing/Werbung
 
 
+
+Def. Inventur
+Arten d. Inventur
+Def. Inventar
+
+Vermögen
+AV: Liquidität | Verbleibedauer im Betrieb
+
 | Anlagevermögen | Einzelwerte | Gesamtwerte |
 | -------------- | ----------- | ----------- |
 | Gebäude        | 638700      | 638700      |
-| Braumaschine   | 25000       |             |
-| Mischmaschine  | 18000       |             |
-| Bürostuff      | 15000       |             |
-| Firmenwagen    | 6200        |             |
-| PCs            | 5000        |             |
-| Gärtanks       | 3000        |             |
-| Abfüllanlage   |             |             |
+| Braumaschine   | 25000       | 663700      |
+| Mischmaschine  | 18000       | 681700      |
+| Bürostuff      | 15000       | 696700      |
+| Firmenwagen    | 6200        | 702900      |
+| PCs            | 5000        | 707900      |
+| Gärtanks       | 3000        | 710900      |
+| Abfüllanlage   | 30000       | 740900      |
+
+UV:
 
 | Umlaufvermögen | Einzelwerte | Geamtwerte |
 | -------------- | ----------- | ---------- |
+| Bargeld        | 470         | 470        |
+| Bionier        | 100000      | 100470     |
+| Malz           | 900         | 101370     |
+| Hopfen         | 5800        | 107170     |
 |                |             |            |
-Summe des Vermögens
+Summe des Vermögens 848070
 
 Schulden
+- langfristiges FK (Fremdkapital)
+- mittelfr.
+- kurzfristiges FK
 
-| Art | Einzelwerte | Gesamtwerte |
-| --- | ----------- | ----------- |
-|     |             |             |
-Summe der Schulden
-Reinvermögen
+| Art              | Einzelwerte | Gesamtwerte |
+| ---------------- | ----------- | ----------- |
+| Langfristig Bank | 600000      | 600000      |
+| Kurz             | 3000        | 603000      |
+| Kurz             | 2400        | 605400      |
+
+
+Reinvermögen = Vermögen - Schulden
+
+Summe der Schulden 605400
+Reinvermögen             242670 
+
+
+
