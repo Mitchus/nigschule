@@ -319,3 +319,5 @@ Gangunterschied
 Welle 1 
 Welle 2 bissle x verschoben
 
+Unter dem Gangunterschied 2 Wellen versteht man die Strecke 
+$\Delta s$ um die man eine Welle verschieben müsste damit beide Wellen an jedem Ort Schwingungen mit gleicher Phase erzeugen.
