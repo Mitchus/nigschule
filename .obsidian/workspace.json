@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0f8a293b11d325e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md"
               }
             }
           },
@@ -86,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md"
+                "file": "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md"
               }
             }
           },
@@ -257,26 +267,33 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "16d4813486ec5754",
+  "active": "0f8a293b11d325e2",
   "lastOpenFiles": [
+    "Excalidraw/files/Pasted Image 20240422095127_203.png",
+    "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
+    "Excalidraw/Drawing 2024-04-22 09.50.57.excalidraw.md",
+    "DVT Aufgaben.md",
+    "Wirtschaft/Markt und Preis/AngebotNachfrage.md",
+    "Wirtschaft/Markt und Preis/Eigentumsrechte.md",
+    "Wirtschaft/Markt und Preis/Wie entsteht ein Markt.md",
+    "Wirtschaft/Markt und Preis/Wettbewerb.md",
+    "Wirtschaft/Markt und Preis/vollkommener Markt.md",
+    "Wirtschaft/Markt und Preis/Vollkommene Konkurrenz.md",
+    "Wirtschaft/Markt und Preis/Markt & Preis.md",
+    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/files/Pillager_firing_at_villager.gif",
     "Philosophie/files/Pasted image 20240419083319.png",
     "Philosophie/files/Pasted image 20240419083158.png",
     "Philosophie/files/Pasted image 20240419083012.png",
     "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md",
-    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Sozialkunde/Europäisches Parlament.md",
     "Sozialkunde/Europäischer Gerichtshof.md",
     "Sozialkunde/Europäischer Rat.md",
     "Sozialkunde/Europäische Kommission.md",
     "Geschichte/Untitled.canvas",
-    "Wirtschaft/Markt und Preis/Markt & Preis.md",
     "Wirtschaft/Markt und Preis/Markt-arten.md",
-    "Wirtschaft/Markt und Preis/vollkommener Markt.md",
-    "Wirtschaft/Markt und Preis/Vollkommene Konkurrenz.md",
     "Wirtschaft/Markt und Preis/Arbeitsmarkt.md",
-    "Wirtschaft/Markt und Preis/AngebotNachfrage.md",
     "Excalidraw/Drawing 2024-04-18 08.21.36.excalidraw.md",
     "Excalidraw/files/Pasted Image 20240418082536_959.png",
     "Chemie/Unorganische Chemie.md",
@@ -284,19 +301,12 @@
     "Chemie/Halogen Alkane.md",
     "Sozialkunde/Instis der EU.md",
     "Sozialkunde/Für und Wider Humanitäre Interventionen.md",
-    "Sozialkunde/Rat der EU.md",
-    "Sozialkunde/Internationale Beziehungen.md",
-    "Sozialkunde/Untitled.md",
-    "Sozialkunde/Internationaler Gerichtshof.md",
-    "Deutsch/Faust.md",
-    "Deutsch/Barock.md",
     "Englisch/files/Pasted image 20231110094456.png",
     "Englisch/files/Pasted image 20231110094611.png",
     "Englisch/files/Pasted image 20231110094627.png",
     "Englisch/files/Pasted image 20231220082422.png",
     "Englisch/Timeline.canvas",
     "Physik/files/Pasted image 20240409115945.png",
-    "Physik/files/Pasted image 20240409115857.png",
     "Chemie/Untitled.canvas",
     "DVT/files",
     "Physik/Energie.canvas",

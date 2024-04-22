@@ -86,3 +86,5 @@ Um dem Absatzrückgang des "orangephone" entgegenzuwirken, könnte die Orange OH
 3. 55k
 4. regionale Produktion in DE | faire Bezahlung
 5. mehr Marketing/Werbung
+
+
