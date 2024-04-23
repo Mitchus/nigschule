@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "596468cb3e2c7ec1",
+            "id": "a587ba44377458ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/E-Lehre.md",
+                "file": "Deutsch/Inzenierungskonzept.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Europäisches Parlament.md",
+                "file": "Deutsch/Faust.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,26 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "6807aae385314e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "596468cb3e2c7ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch/Inzenierungskonzept.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/E-Lehre.md",
+                "file": "Deutsch/Faust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/E-Lehre.md",
+                "file": "Deutsch/Faust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/E-Lehre.md"
+                "file": "Deutsch/Faust.md"
               }
             }
           },
@@ -241,8 +260,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "596468cb3e2c7ec1",
+  "active": "72a75f4be77b8b9f",
   "lastOpenFiles": [
+    "Sozialkunde/Europäisches Parlament.md",
+    "Deutsch/Inzenierungskonzept.md",
+    "Deutsch/Faust.md",
+    "Deutsch/Untitled.md",
+    "Physik/E-Lehre.md",
     "Physik/Energie.md",
     "Physik/Stoßvorgänge.md",
     "Physik/Mechanische Wellen.md",
@@ -265,15 +289,10 @@
     "Wirtschaft/Markt und Preis/Wie entsteht ein Markt.md",
     "Wirtschaft/Markt und Preis/Wettbewerb.md",
     "Wirtschaft/Markt und Preis/vollkommener Markt.md",
-    "Wirtschaft/Markt und Preis/Vollkommene Konkurrenz.md",
-    "Wirtschaft/Markt und Preis/Markt & Preis.md",
-    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/files/Pillager_firing_at_villager.gif",
     "Philosophie/files/Pasted image 20240419083319.png",
     "Philosophie/files/Pasted image 20240419083158.png",
     "Philosophie/files/Pasted image 20240419083012.png",
-    "Excalidraw/Drawing 2024-04-19 08.28.26.excalidraw.md",
-    "Philosophie/Was soll ich tun? - Ethik.md",
     "Geschichte/Untitled.canvas",
     "Excalidraw/files/Pasted Image 20240418082536_959.png",
     "Englisch/files/Pasted image 20231110094456.png",
