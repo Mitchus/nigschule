@@ -13,10 +13,10 @@ Auswirkungen der Itlienreise auf Goethe
 
 ### Abend. Ein kleines reinliches Zimmer
 
-**Margarete** _ihre Zöpfe flechtend und aufbindend._
+**Margarete** _Öffnet von der Arbeit erschöpft ihre Haare._
 
 Ich gäb was drum, wenn ich nur wüßt,  
-Wer heut der Herr gewesen ist!  
+Wer heut der Heuchler gewesen ist!  
 Er sah gewiß recht wacker aus  
 Und ist aus einem edlen Haus;  
 Das konnt ich ihm an der Stirne lesen –  

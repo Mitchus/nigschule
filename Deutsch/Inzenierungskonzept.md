@@ -1,14 +1,22 @@
-> Ortsveränderung
+## Szenario:
+Abend. Ein kleines, modernes städtisches Apartment, ordentlich und sauber. Margarete kommt von der Arbeit nach Hause, während sie über den geheimnisvollen Fremden nachdenkt, den sie heute getroffen hat.
 
-- "Abend. Ein kleines reinliches Zimmer"
-- Änderung: Modernes städtisches Apartment 
-- Neues Setting hilft dem Publikum sich besser zu identifizieren
+## Veränderung im Spielablauf:
+- Margarete von Arbeit kommend: Margaretes Schauspielerin, kommt mit ordentlicher Arbeitskleidung ins Apartment, während sie über den mysteriösen Mann nachdenkt, den sie getroffen hat.
+- Mephistopheles und Faust aus dem Off: Die Spieler, die Mephistopheles und Faust verkörpern, kommen nicht physisch in das Apartment. Sie kommentieren die Situation aus dem Off, womit sie den Zuschauern ihre Manipulation zeigen.
+- Digitale Überraschung von Mephistopheles: Anstelle des physischen Schmuckkästchens erhält Margarete eine Email oder Textnachricht von Mephistopheles. Ihre Reaktion auf diese Überraschung wird von der Spielerin ausgespielt.
+- Interaktion mit Technologie: Die Spielerin, die Margarete spielt, entdeckt und öffnet die digitale Überraschung und reagiert emotional darauf.
+- Digitale Musikproduktion: Statt das Lied "König in Thule" zu singen, hört Margarete auf ihrem Handy "Baller los" von Mero. Ihre Emotionen während dieses Musikproduktionsprozesses werden von mit Tanzeinlagen der Darstellerin betont.
+- Abschluss der Szene: Die Spieler führen die Szene entsprechend ihrem digitalen und modernen Set-up zu einem passenden Abschluss.
 
-> Anpassung der Rolle von Margarete
+## Spielende:
+Das Spiel endet nach Abschluss der Szene. Die Spieler diskutieren ihre Erfahrungen und Interpretationen in der neuen, modernen Umsetzung des Szenarios.
 
-- "Margarete ihre Zöpfe flechtend und aufbindend"
-- Änderung: Margarete in moderner Arbeitskleidung, kommt von der Arbeit heim
-- Betonung auf Unabhängigkeit, aktuelle Frauenbilder
+1. Änderung: Modernes städtisches Apartment 
+	- Neues Setting hilft dem Publikum sich besser zu identifizieren
+
+2. Änderung: Margarete in moderner Arbeitskleidung, kommt von der Arbeit heim
+	- Betonung auf Unabhängigkeit, aktuelle Frauenbilder
 
 > Stimmengewirr
 
