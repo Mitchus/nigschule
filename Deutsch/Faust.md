@@ -1,4 +1,4 @@
-[[Inzenierungskonzept]]
+[[Spielablauf]]
 
 - Mephisto bietet Faust einen Pakt an, der Wünsche erfüllen soll, im Austausch für Fausts Seele nach dem Tod (1635-1674)
 - Faust reagiert skeptisch, aber fasziniert von der Möglichkeit, seine Träume zu verwirklichen (1635-1674)

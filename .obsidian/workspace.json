@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Inzenierungskonzept.md",
+                "file": "Deutsch/Spielablauf.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Inzenierungskonzept.md",
+                "file": "Deutsch/Spielablauf.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Inzenierungskonzept.md",
+                "file": "Deutsch/Spielablauf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Inzenierungskonzept.md",
+                "file": "Deutsch/Spielablauf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Inzenierungskonzept.md"
+                "file": "Deutsch/Spielablauf.md"
               }
             }
           },
@@ -263,7 +263,7 @@
   "active": "596468cb3e2c7ec1",
   "lastOpenFiles": [
     "Deutsch/Faust.md",
-    "Deutsch/Inzenierungskonzept.md",
+    "Deutsch/Spielablauf.md",
     "Sozialkunde/Europäisches Parlament.md",
     "Deutsch/Untitled.md",
     "Physik/E-Lehre.md",
