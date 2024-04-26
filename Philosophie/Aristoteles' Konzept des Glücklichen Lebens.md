@@ -115,7 +115,6 @@ Das Höhlengleichnis symbolisiert den Weg der Erkenntnis und des Wissens. Die Ge
 1. Die Gefangenen sehen nur Schatten an der Höhlenwand und nehmen diese als Realität wahr.
 	1. Die Gefangenen in der Höhle stellen die Menschen dar, die in der materiellen Welt gefangen sind und die nur oberflächliche Realität wahrnehmen.
 	2. ![[Pasted image 20240419083158.png]]
-2. y
 3. 
 	2. ![[Pasted image 20240419083012.png]]
 4. Der befreite Gefangene verlässt die Höhle und erblickt die Sonne, die die Quelle des Lichts und der Wahrheit ist.
