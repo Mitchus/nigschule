@@ -138,3 +138,5 @@ Bsp.: Apfel-> viele verschiedene Sorten von Äpfeln aber im Vergleich zur Birne 
 Idee des Apfel muss unvergänglich/unveränderlich seein
 Idee des Guten als Urpsprung aller anderen Ideen göttlicher Urpsprung
 Für den Idialismus ist die objektive Realität ausschließlich das Produkt des erkennenden Subjekts
+
+build-essential gcc make perl dkms autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev libboost-all-dev software-properties-common 
