@@ -132,4 +132,9 @@ Ideen Hilfmittel verstehen der Welt
 Ideen sind ewig unveränderbar und nur denkend zu Begreifen
 Erscheinungen (sinnliche Wahrnehmungen) sind vergängliche Dinge/ Abbilder der ewigen Ideen aus denen die Abbilder einen Anteil haben
 hierarchische Gliederung der Ideenwelt
-An der Spitze: Idee des guten Vergleich mit Sonne als Ursprung allem Werden unnd Seins
+An der Spitze: Idee des guten Vergleich mit Sonne als Ursprung allem Werden und Seins
+Um das "Licht der Wahrheit" zu erkennen, müssen die Fesseln der sinnlichen Wahrnehmung gelöst werden 
+Bsp.: Apfel-> viele verschiedene Sorten von Äpfeln aber im Vergleich zur Birne wissen wir was ein Apfel ist -> Wissen ist auch noch vorhanden wenn es keine Äpfel mehr geben wird
+Idee des Apfel muss unvergänglich/unveränderlich seein
+Idee des Guten als Urpsprung aller anderen Ideen göttlicher Urpsprung
+Für den Idialismus ist die objektive Realität ausschließlich das Produkt des erkennenden Subjekts
