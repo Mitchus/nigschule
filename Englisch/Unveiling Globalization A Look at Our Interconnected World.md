@@ -93,3 +93,4 @@ _Speaker Notes_ Globalization also presents challenges:
 - Image: A diverse group of people working together
 
 _Speaker Notes_ Globalization is a complex and ongoing process with both benefits and drawbacks. By working together
+
