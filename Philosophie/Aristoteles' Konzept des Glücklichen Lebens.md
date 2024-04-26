@@ -129,3 +129,7 @@ Das Höhlengleichnis symbolisiert den Weg der Erkenntnis und des Wissens. Die Ge
 Ideen Hilfmittel verstehen der Welt
 
 
+Ideen sind ewig unveränderbar und nur denkend zu Begreifen
+Erscheinungen (sinnliche Wahrnehmungen) sind vergängliche Dinge/ Abbilder der ewigen Ideen aus denen die Abbilder einen Anteil haben
+hierarchische Gliederung der Ideenwelt
+An der Spitze: Idee des guten Vergleich mit Sonne als Ursprung allem Werden unnd Seins
