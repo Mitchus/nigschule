@@ -94,3 +94,7 @@ _Speaker Notes_ Globalization also presents challenges:
 
 _Speaker Notes_ Globalization is a complex and ongoing process with both benefits and drawbacks. By working together
 
+
+often nice friendly/depends on the friend not the country
+Plays a role | bc different society's
+new language new friends 
