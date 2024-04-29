@@ -140,6 +140,7 @@ Summe der Schulden 605400
 Reinvermögen             334269.53
 
 Bilanz
+
 | Aktive | Passiva |
 | ------ | ------- |
 | AV     | EK      |
