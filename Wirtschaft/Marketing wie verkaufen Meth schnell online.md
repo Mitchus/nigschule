@@ -150,4 +150,18 @@ Bilanz
 Bilanz wichtig für Mittelverwendung/Investition und Mittelherkunft/Finanzierung
 
 Buchführung: ist die 
-lückenlose zeitlich und sachlich geordnete und übersichtliche Aufzeichnung der Geschäftsfälle aufgrund von Belegen.
+- lückenlose 
+- zeitlich und sachlich geordnete und 
+- übersichtliche 
+Aufzeichnung der Geschäftsfälle aufgrund von Belegen.
+
+für
+- Gedächnisstütze
+- Überblick über Wirtschaftliche Verhältnisse
+- Grundlage für zukünftige Entscheidungen
+- Grundlage der Besteuerung
+- Kontrolle durch die Öffentlichkeit
+- Grundlage für Kostenrechnung
+
+§ 238 Buchführungspflicht
+- 
