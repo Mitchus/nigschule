@@ -58,3 +58,8 @@ Kreis Bewegung
 
 
 Interferenz.Überlagerung der Schwingungen
+2 Erregerzentren haben einen Abstand von 5cm, der Abstand zwischen dem Maximum 0. und 1. Ordnung beträgt 1dm max ist 1m vom Mittelpunkt entfernt berechne Wellenlänge 
+
+b=0.05m
+
+n = 1
