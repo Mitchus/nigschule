@@ -141,11 +141,11 @@ Reinvermögen             334269.53
 
 Bilanz
 
-| Aktive | Passiva |
-| ------ | ------- |
-| AV     | EK      |
-| UV     | FK      |
-
+| Aktive  | Passiva |     |     |
+| ------- | ------- | --- | --- |
+| AV1,2,4 | EK      |     |     |
+| UV3,4,6 | FK7-8   |     |     |
+82600
 
 Bilanz wichtig für Mittelverwendung/Investition und Mittelherkunft/Finanzierung
 
@@ -164,4 +164,5 @@ für
 - Grundlage für Kostenrechnung
 
 § 238 Buchführungspflicht
-- 
+- Die Buchführung muss so beschaffen sein, dass sie einem Sachverständigen Dritten innerhalb angemessener Zeit einen Überblick über die Geschäftsvorfälle und über die Lage des Unternehmen vermitteln kann
+- Die Geschäftsvorfälle müssen sich in ihrer Entstehung und Abwicklung verfolgen lassen
