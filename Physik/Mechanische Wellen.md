@@ -55,3 +55,6 @@ Longitudinal- oder Längswellen
 ### Wasserwellen
 ![[Pasted image 20240409115945.png]]
 Kreis Bewegung
+
+
+Interferenz.Überlagerung der Schwingungen

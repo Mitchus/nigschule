@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Mathe Aufgaben.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e76f2d8666630e74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
+                "file": "Physik/Mechanische Wellen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Gesetz",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
+                "file": "Physik/Mechanische Wellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
+                "file": "Physik/Mechanische Wellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md"
+                "file": "Physik/Mechanische Wellen.md"
               }
             }
           },
@@ -205,8 +191,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e76f2d8666630e74",
+  "active": "596468cb3e2c7ec1",
   "lastOpenFiles": [
+    "Physik/Stoßvorgänge.md",
+    "Mathe/Mathe Aufgaben.md",
+    "Physik/Aufgaben Seite 1.md",
+    "Physik/Der Energieerhaltungssatz der Mechanik.md",
+    "Physik/Energie.md",
+    "Physik/Mechanische Energie.md",
+    "Physik/Mechanische Arbeit.md",
+    "Physik/Mechanische Wellen.md",
+    "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
     "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
     "Englisch/Adolescence.md",
     "Englisch/Analysis of Selin's Perception of Harvard in \"The Idiot\" by Elif Batuman.md",
@@ -225,19 +220,10 @@
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Mathe/FDP Wahlprogramm.md",
-    "Mathe/Mathe Aufgaben.md",
     "Deutsch/Spielablauf.md",
     "Deutsch/Faust.md",
     "Sozialkunde/Europäisches Parlament.md",
     "Deutsch/Untitled.md",
-    "Physik/E-Lehre.md",
-    "Physik/Energie.md",
-    "Physik/Stoßvorgänge.md",
-    "Physik/Mechanische Wellen.md",
-    "Physik/Leifi E Lehre.md",
-    "Physik/Mechanische Energie.md",
-    "Physik/Mechanische Arbeit.md",
-    "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
     "Excalidraw/files/Pasted Image 20240422095127_203.png",
     "Philosophie/files/Pillager_firing_at_villager.gif",
     "Philosophie/files/Pasted image 20240419083319.png",
