@@ -149,4 +149,5 @@ Bilanz
 
 Bilanz wichtig für Mittelverwendung/Investition und Mittelherkunft/Finanzierung
 
-
+Buchführung: ist die 
+lückenlose zeitlich und sachlich geordnete und übersichtliche Aufzeichnung der Geschäftsfälle aufgrund von Belegen.
