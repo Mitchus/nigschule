@@ -63,3 +63,12 @@ Interferenz.Überlagerung der Schwingungen
 b= 0.077m
 $\lambda = 0.0002m$
 31.3°
+
+n=sin 31.3 * 0.77cm/2cm 
+
+4 
+60dm
+5m/s
+2hz
+1.5m
+k=2
