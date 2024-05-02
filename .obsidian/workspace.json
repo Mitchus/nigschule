@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Mechanische Wellen.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d81fcc13633fb8b2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-02 07.40.36.excalidraw.md"
               }
             }
           }
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Mechanische Wellen.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Mechanische Wellen.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Mechanische Wellen.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -193,6 +203,13 @@
   },
   "active": "596468cb3e2c7ec1",
   "lastOpenFiles": [
+    "Chemie/files/Pasted image 20240502074120.png",
+    "Excalidraw/Drawing 2024-05-02 07.40.36.excalidraw.md",
+    "Excalidraw/files/Pasted Image 20240502074055_371.png",
+    "Chemie/Unorganische Chemie.md",
+    "Chemie/files/Pasted image 20240502074010.png",
+    "Chemie/Organische Chemie.md",
+    "Physik/Mechanische Wellen.md",
     "Physik/Stoßvorgänge.md",
     "Mathe/Mathe Aufgaben.md",
     "Physik/Aufgaben Seite 1.md",
@@ -200,7 +217,6 @@
     "Physik/Energie.md",
     "Physik/Mechanische Energie.md",
     "Physik/Mechanische Arbeit.md",
-    "Physik/Mechanische Wellen.md",
     "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
     "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
     "Englisch/Adolescence.md",
@@ -220,17 +236,11 @@
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Mathe/FDP Wahlprogramm.md",
-    "Deutsch/Spielablauf.md",
-    "Deutsch/Faust.md",
-    "Sozialkunde/Europäisches Parlament.md",
-    "Deutsch/Untitled.md",
     "Excalidraw/files/Pasted Image 20240422095127_203.png",
     "Philosophie/files/Pillager_firing_at_villager.gif",
     "Philosophie/files/Pasted image 20240419083319.png",
     "Philosophie/files/Pasted image 20240419083158.png",
-    "Philosophie/files/Pasted image 20240419083012.png",
     "Geschichte/Untitled.canvas",
-    "Excalidraw/files/Pasted Image 20240418082536_959.png",
     "Chemie/Untitled.canvas",
     "DVT/files",
     "Physik/Energie.canvas",

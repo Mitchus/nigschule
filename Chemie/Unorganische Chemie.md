@@ -360,3 +360,11 @@ berechne Reaktions geschw.
 $\ce{ CaCO_{3}+2HBr->CaBr_{2}+H_{2}O+CO_{2} }$
 
 4g
+
+Katalysator: setzt die Aktivierungsenergie herab.
+$E_{A}$ nimmt ab
+![[Pasted image 20240502074120.png]]
+
+Liegt als Feststoff vor 
+Ausgangsstoffe werden kontinuierlich über den Katalysator der 
+Aufgebracht ist, geleitet
