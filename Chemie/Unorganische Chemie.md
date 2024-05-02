@@ -366,5 +366,9 @@ $E_{A}$ nimmt ab
 ![[Pasted image 20240502074120.png]]
 
 Liegt als Feststoff vor 
-Ausgangsstoffe werden kontinuierlich über den Katalysator der 
-Aufgebracht ist, geleitet
+Ausgangsstoffe werden kontinuierlich über den Katalysator geleitet der auf Trägermaterialien mit großer Oberfläche aufgebracht ist.
+
+Homo:
+Katalysator und Ausgangsstoffe liegen in Lösung vor
+
+Enzyme: sind an alles Lebensvorgängen beteiligt
