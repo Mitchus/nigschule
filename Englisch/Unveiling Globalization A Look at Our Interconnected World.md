@@ -98,3 +98,9 @@ _Speaker Notes_ Globalization is a complex and ongoing process with both benefit
 often nice friendly/depends on the friend not the country
 Plays a role | bc different society's
 new language new friends 
+
+
+
+Do you think Globalization has a positive or negative effect on ur live
+
+What impact has globalization had on the labor markets of developed countries?
