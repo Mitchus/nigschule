@@ -34,3 +34,30 @@ Server
 Client/s
 
 Netzwerkmedien
+
+
+Natürlich, hier sind die wichtigsten Punkte zu den genannten IEEE-Standards in Stichpunkten:
+
+**IEEE 802:**
+- Standardsfamilie für lokale Netzwerke (LAN)
+- Definiert die physische und Datenverbindungsschichtspezifikationen für den Datenaustausch über ein Netzwerk.
+
+**IEEE 802.3:**
+- Ethernet-Standard.
+- Definiert Standards für physische und Datenverbindungsschicht des OSI-Modells 2
+- 10 Mbps (10BASE-T), 100 Mbps (100BASE-TX) und 1 Gbps (1000BASE-T).
+
+**IEEE 802.11:**
+- Wi-Fi-Standard.
+- Umfasst verschiedene Iterationen wie 802.11a, 802.11b, 802.11g, 802.11n, 802.11ac und 802.11ax.
+
+**IEEE 802.3u:**
+- Teil der IEEE 802.3-Serie.
+- arbeitet im Vollduplex-Modus undverzichtet  damit auf CSMA/CD
+- eine zusätzliche Flusssteuerung ist erforderlich.
+- Spezifiziert Fast Ethernet (100BASE-TX), das eine Übertragungsgeschwindigkeit von 100 Mbps bietet.
+
+**IEEE 802.3af:**
+- Power over Ethernet (PoE)-Standard.
+- Ermöglicht es Strom über das Ethernet-Kabel zu erhalten
+- PoE-Geräte können ohne zusätzliche Verkabelung oder Steckdosen installiert werden.
