@@ -151,4 +151,9 @@ logische Schlüsse, da man der Täuschung unterworfen sein kann.
 Begründung seines Vorgehens: nur sichere Erkenntnisse akzeptieren, um zu sehen, was unbezweifelt übrig bleibt
 
 Ziel: Erforschung der Wahrheit
+Es handelt sich um einen methodischen Zweifel, er versucht systematisch/bewusst alles anzuzweifeln um zur Wahrheit zu gelangen.
+Sein Zweifel ist kategorisch/künstliche Methode nicht 1:1 wie im Alltag 
+Ergebnis: Durch Nachdenken über alle vermeintlichen Wahrheiten, durch den Methodischen Zweifel, kommt Decares zu dem Ergebnis, dass in diesem Denken die Existent begründet liegt.
 
+Ich denke, also bin ich
+Durch dass Denken, die Tätigkeit der Seele begründet sich die Existenz, nicht durch den Körper, der eine Fiktion sein kann.
