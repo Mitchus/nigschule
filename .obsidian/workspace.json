@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "97385953872544a2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Philo Platon.md"
+              }
+            }
+          },
+          {
             "id": "d81fcc13633fb8b2",
             "type": "leaf",
             "state": {
@@ -30,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Kampf um die Republik.md",
+                "file": "Excalidraw/Philo Platon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Kampf um die Republik.md",
+                "file": "Excalidraw/Philo Platon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Kampf um die Republik.md"
+                "file": "Excalidraw/Philo Platon.md"
               }
             }
           },
@@ -201,10 +212,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "596468cb3e2c7ec1",
+  "active": "97385953872544a2",
   "lastOpenFiles": [
-    "Geschichte/Die Revolution 1848-49.md",
     "Geschichte/Kampf um die Republik.md",
+    "Excalidraw/Philo Platon.md",
+    "Geschichte/Die Revolution 1848-49.md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Timeline.md",
     "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
@@ -232,7 +244,6 @@
     "Physik/Mechanische Arbeit.md",
     "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
     "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
-    "Englisch/Adolescence.md",
     "Englisch/Timeline.canvas",
     "Englisch/files/Pasted image 20231220082422.png",
     "Englisch/files/Pasted image 20231110094627.png",
