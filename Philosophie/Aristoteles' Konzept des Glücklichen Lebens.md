@@ -140,3 +140,15 @@ Idee des Guten als Urpsprung aller anderen Ideen göttlicher Urpsprung
 Für den Idialismus ist die objektive Realität ausschließlich das Produkt des erkennenden Subjekts
 
 build-essential gcc make perl dkms autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev libboost-all-dev software-properties-common 
+
+
+Rene Descartes Weg auf der Suche nach Gewissheit
+Er bezweifelt all das, was er vorher für bewiesen gehalten hatte:
+Sinneswahrnehmungen, da Sinne täuschen können
+alle Bewusstseinsinhalte, da diese uns auch im Traum kommen können
+logische Schlüsse, da man der Täuschung unterworfen sein kann.
+
+Begründung seines Vorgehens: nur sichere Erkenntnisse akzeptieren, um zu sehen, was unbezweifelt übrig bleibt
+
+Ziel: Erforschung der Wahrheit
+

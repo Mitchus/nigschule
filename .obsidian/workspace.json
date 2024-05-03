@@ -24,9 +24,12 @@
             "id": "97385953872544a2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Philo Platon.md"
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Philo Platon.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Philo Platon.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Philo Platon.md"
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md"
               }
             }
           },
@@ -214,8 +217,8 @@
   },
   "active": "97385953872544a2",
   "lastOpenFiles": [
-    "Geschichte/Kampf um die Republik.md",
     "Excalidraw/Philo Platon.md",
+    "Geschichte/Kampf um die Republik.md",
     "Geschichte/Die Revolution 1848-49.md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Timeline.md",
