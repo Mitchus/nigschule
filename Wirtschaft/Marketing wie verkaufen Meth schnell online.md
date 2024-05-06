@@ -166,3 +166,13 @@ für
 § 238 Buchführungspflicht
 - Die Buchführung muss so beschaffen sein, dass sie einem Sachverständigen Dritten innerhalb angemessener Zeit einen Überblick über die Geschäftsvorfälle und über die Lage des Unternehmen vermitteln kann
 - Die Geschäftsvorfälle müssen sich in ihrer Entstehung und Abwicklung verfolgen lassen
+
+
+- Das Rechnungswesen liefert zuverlässige Informationen über Vermögensgegenstände und Schulden in Unternehmen.
+- Es erfasst Veränderungen im Vermögen und den Schulden durch Geld- und Güterströme.
+- Das Rechnungswesen unterstützt Entscheidungen der Unternehmensleitung, z.B. bei Investitionen.
+- Es dokumentiert Transaktionen und Buchungen, z.B. den Kauf von Maschinen.
+- Es ermittelt den Erfolg des Unternehmens, ob Gewinn oder Verlust.
+- Das Rechnungswesen ermöglicht die Kalkulation von Preisen, basierend auf Kosten für Produktion.
+- Es liefert Daten für unternehmerische Entscheidungen, z.B. zur Absatzförderung.
+- Das Rechnungswesen dient als Informationsquelle für Gläubiger, Steuererklärungen und Streitfälle mit Behörden oder Geschäftspartnern.
