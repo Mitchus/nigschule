@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Mathe Aufgaben.md",
+                "file": "Mathe/Stochhastik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Mathe Aufgaben.md",
+                "file": "Mathe/Stochhastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Mathe Aufgaben.md",
+                "file": "Mathe/Stochhastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Mathe Aufgaben.md"
+                "file": "Mathe/Stochhastik.md"
               }
             }
           },
@@ -217,8 +217,9 @@
   },
   "active": "97385953872544a2",
   "lastOpenFiles": [
-    "Mathe/Mathe Klausur Themen.md",
     "Mathe/Mathe Aufgaben.md",
+    "Mathe/Stochhastik.md",
+    "Mathe/Mathe Klausur Themen.md",
     "Mathe/LaTeX Cheat Sheet.md",
     "Mathe/FDP Wahlprogramm.md",
     "Mathe/Differenzialrechnung Verhalten im Unendlichen.md",
@@ -246,7 +247,6 @@
     "Excalidraw/Drawing 2024-05-02 07.40.36.excalidraw.md",
     "Excalidraw/files/Pasted Image 20240502074055_371.png",
     "Chemie/files/Pasted image 20240502074010.png",
-    "Chemie/Organische Chemie.md",
     "Englisch/Timeline.canvas",
     "Englisch/files/Pasted image 20231220082422.png",
     "Englisch/files/Pasted image 20231110094627.png",
