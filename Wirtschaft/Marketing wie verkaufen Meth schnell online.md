@@ -97,6 +97,7 @@ Def. Inventar: Inventur in einer bestimmten Struktur
 Vermögen
 AV: Liquidität angeordnet in Verbleibedauer im Betrieb
 
+
 | Anlagevermögen | Einzelwerte | Gesamtwerte |
 | -------------- | ----------- | ----------- |
 | Gebäude        | 638700      | 638700      |
