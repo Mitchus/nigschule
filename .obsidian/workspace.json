@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Physik/Magnets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Physik/Magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Physik/Magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Stochhastik.md"
+                "file": "Physik/Magnets.md"
               }
             }
           },
@@ -217,8 +217,9 @@
   },
   "active": "97385953872544a2",
   "lastOpenFiles": [
-    "Mathe/Mathe Aufgaben.md",
     "Mathe/Stochhastik.md",
+    "Physik/Magnets.md",
+    "Mathe/Mathe Aufgaben.md",
     "Mathe/Mathe Klausur Themen.md",
     "Mathe/LaTeX Cheat Sheet.md",
     "Mathe/FDP Wahlprogramm.md",
@@ -244,7 +245,6 @@
     "Geschichte/Verfassung 1791.md",
     "Geschichte/Wilhelm II.md",
     "Chemie/files/Pasted image 20240502074120.png",
-    "Excalidraw/Drawing 2024-05-02 07.40.36.excalidraw.md",
     "Excalidraw/files/Pasted Image 20240502074055_371.png",
     "Chemie/files/Pasted image 20240502074010.png",
     "Englisch/Timeline.canvas",
