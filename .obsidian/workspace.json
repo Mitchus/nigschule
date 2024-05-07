@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Deutsch/Faust.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Deutsch/Faust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Deutsch/Faust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Magnets.md"
+                "file": "Deutsch/Faust.md"
               }
             }
           },
@@ -217,8 +217,12 @@
   },
   "active": "97385953872544a2",
   "lastOpenFiles": [
-    "Mathe/Stochhastik.md",
+    "Deutsch/Interpretation.md",
+    "Deutsch/Sachtextanalyse.md",
+    "Deutsch/Untitled.md",
+    "Deutsch/Spielablauf.md",
     "Physik/Magnets.md",
+    "Mathe/Stochhastik.md",
     "Mathe/Mathe Aufgaben.md",
     "Mathe/Mathe Klausur Themen.md",
     "Mathe/LaTeX Cheat Sheet.md",
@@ -240,10 +244,6 @@
     "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
     "Geschichte/Die Französische Revolution - Auftakt zur Modernen Gesellschaft in Europa.md",
     "Geschichte/Biedermeier Kunst 19.J.H..md",
-    "Geschichte/Facharbeit.md",
-    "Geschichte/Geschichte.md",
-    "Geschichte/Verfassung 1791.md",
-    "Geschichte/Wilhelm II.md",
     "Chemie/files/Pasted image 20240502074120.png",
     "Excalidraw/files/Pasted Image 20240502074055_371.png",
     "Chemie/files/Pasted image 20240502074010.png",
