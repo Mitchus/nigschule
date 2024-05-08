@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Faust.md",
+                "file": "Geschichte/Kampf um die Republik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Faust.md",
+                "file": "Geschichte/Kampf um die Republik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Faust.md"
+                "file": "Geschichte/Kampf um die Republik.md"
               }
             }
           },
@@ -215,8 +214,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "97385953872544a2",
+  "active": "596468cb3e2c7ec1",
   "lastOpenFiles": [
+    "Deutsch/Faust.md",
     "Deutsch/Interpretation.md",
     "Deutsch/Sachtextanalyse.md",
     "Deutsch/Untitled.md",
@@ -243,7 +243,6 @@
     "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
     "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
     "Geschichte/Die Französische Revolution - Auftakt zur Modernen Gesellschaft in Europa.md",
-    "Geschichte/Biedermeier Kunst 19.J.H..md",
     "Chemie/files/Pasted image 20240502074120.png",
     "Excalidraw/files/Pasted Image 20240502074055_371.png",
     "Chemie/files/Pasted image 20240502074010.png",

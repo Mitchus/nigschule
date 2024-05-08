@@ -7,6 +7,8 @@
 #### Besetzung Ruhrgebiet Deutschland konnte die Repetitions Zahlungen nicht Termin gerecht leisten
 → 1923 Besetzung des Ruhrgebiets durch Frankreich und Belgien als Pfand Ruhrgebiet war in entmilitarisierter zone 
 → passiver Widerstand - Arbeiter streiken - gewaltsame zerstörung von z.B an eisenbahnen staat zahlte den lohn für die Arbeiter weiter obwohl sie streikten es kam zu **Hyperinflation**
+
+
 1. **Versailler Vertrag (1919):**
     - Legte die Bedingungen des Friedens nach dem Ersten Weltkrieg fest, darunter territoriale Verluste, Reparationen und die Kriegsschuld Deutschlands.
 2. **Hyperinflation (1923):**
@@ -27,6 +29,8 @@
     - Bestrebungen nach Unabhängigkeit in verschiedenen Teilen Deutschlands, insbesondere in Bayern mit der kurzlebigen Räterepublik.
 10. **Ablösung Stresemanns (1923):**
 - Gustav Stresemann, einer der führenden Politiker der Weimarer Republik, wurde als Reichskanzler abgelöst, was eine Phase politischer Instabilität markierte.
+
+
 ### Versailler Vertrag
 
 - Der Versailler Vertrag wurde 1919 unterzeichnet und legte die Bedingungen des Friedens nach dem Ersten Weltkrieg fest.
