@@ -31,56 +31,12 @@
 - Gustav Stresemann, einer der führenden Politiker der Weimarer Republik, wurde als Reichskanzler abgelöst, was eine Phase politischer Instabilität markierte.
 
 
-### Versailler Vertrag
+Bedrohungen der Weimarer Republik 1919-23
 
-- Der Versailler Vertrag wurde 1919 unterzeichnet und legte die Bedingungen des Friedens nach dem Ersten Weltkrieg fest.
-- Deutschland musste große territoriale Verluste hinnehmen, hohe Reparationen zahlen und die Verantwortung für den Krieg übernehmen.
-
-### Finanzpolitik und Wirtschaftsentwicklung
-
-- Die Weimarer Republik stand vor großen finanziellen Herausforderungen, die durch den Verlust von Gebieten und Industrieanlagen im Versailler Vertrag verschärft wurden.
-- Die Hyperinflation von 1923 war ein dramatisches Ergebnis der finanziellen Instabilität.
-
-### Politische Radikalisierung
-
-- Die politische Landschaft in Deutschland war durch starke Polarisierung gekennzeichnet, mit extremistischen Bewegungen auf beiden Seiten des politischen Spektrums.
-
-### Rechtsradikalismus
-
-- Rechtsradikale Gruppen wie die Freikorps und die NSDAP unter Adolf Hitler gewannen in dieser Zeit an Einfluss und versuchten, die Republik zu destabilisieren.
-
-### Aufstände und Putschversuche
-
-- Es gab mehrere Aufstände und Putschversuche, darunter der Kapp-Putsch 1920, bei dem rechtsgerichtete Kräfte versuchten, die Regierung zu stürzen.
-
-### Reparationsprobleme
-
-- Die enormen Reparationszahlungen, die Deutschland leisten musste, führten zu wirtschaftlichen Schwierigkeiten und sozialer Unruhe.
-
-### Deutsch-Russisches Abkommen
-
-- 1922 unterzeichnete Deutschland ein Abkommen mit der Sowjetunion, das eine Zusammenarbeit in wirtschaftlichen und militärischen Fragen vorsah.
-
-### Ruhrbesetzung
-
-- 1923 besetzten französische und belgische Truppen das Ruhrgebiet als Reaktion auf Deutschlands Zahlungsausfall bei den Reparationen.
-
-### Hyperinflation
-
-- Die Hyperinflation von 1923 führte zu einem dramatischen Wertverlust der deutschen Mark und verursachte große wirtschaftliche Not.
-
-### Diktatur in Bayern
-
-- 1923 ergriff Adolf Hitler einen gescheiterten Putschversuch in München, bekannt als der Hitler-Putsch, um eine nationalistische Diktatur zu errichten.
-
-### Kommunistische Umsturzversuche
-
-- Kommunistische Kräfte versuchten ebenfalls, die Republik zu stürzen, aber ihre Aufstände wurden größtenteils niedergeschlagen.
-
-### Separatistenbewegung
-
-- Es gab separatistische Bestrebungen in verschiedenen Teilen Deutschlands, insbesondere in Bayern, wo eine kurzlebige Räterepublik ausgerufen wurde.
-
-### Ablösung Stresemanns
-
-- Gustav Stresemann, ein wichtiger Politiker der Weimarer Republik, wurde 1923 als Reichskanzler abgelöst, was eine Phase politischer Instabilität markierte.
+| linksradikale Aktivitäten                  | rechtsradikale            |
+| ------------------------------------------ | ------------------------- |
+| pol. Morde                                 | pol. Morde                |
+| Aufstände in Thüringen, Sachen, Ruhrgebiet | Dolchstoßlegende          |
+|                                            | Kapp-Putschversuch 1920   |
+|                                            | Hitler-Putschversuch 1923 |
+|                                            |                           |
