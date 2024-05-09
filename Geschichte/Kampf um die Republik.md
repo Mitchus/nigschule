@@ -33,10 +33,27 @@
 
 Bedrohungen der Weimarer Republik 1919-23
 
-| linksradikale Aktivitäten                  | rechtsradikale            |
-| ------------------------------------------ | ------------------------- |
-| pol. Morde                                 | pol. Morde                |
-| Aufstände in Thüringen, Sachen, Ruhrgebiet | Dolchstoßlegende          |
-|                                            | Kapp-Putschversuch 1920   |
-|                                            | Hitler-Putschversuch 1923 |
-|                                            |                           |
+
+**linksradikale Aktivitäten**
+pol. Morde
+	Einsatz der Reichswehr
+Aufstände in Thüringen, Sachen, Ruhrgebiet
+
+**rechtsradikale Aktivitäten**
+pol. Morde
+	Generalstreik Polizeieinsatz
+Dolchstoßlegende
+Kapp-Putschversuch 1920
+Hitler-Putschversuch 1923
+
+**außenpolitische Bedrohung**
+Besetzung des Ruhrgebietes durch F und Belgien wegen Rückstandes bei den Reperationen (Jan. 1923)
+	passiver wiederstand (Ruhrkampf 1923)
+
+**Wirtschaftskrise**
+schleichende Inflation
+große Belastung durch Reparationen
+galoppierende Inflation 1923 Hyperinflation
+	Währungsreform Nov. 1923
+
+Im Krisenjahr 1923 droht die Weimarer Republik pol. und wirtschaftlich zu scheitern
