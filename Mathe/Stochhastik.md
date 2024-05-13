@@ -3,3 +3,29 @@ $\binom{n}{k} = \frac{n!}{k!*(n-k)!}$
 Wie viele Mögliche Lottokombinationen 6 aus 49?
 $\binom{49}{6} = \frac{49!}{6!*(49-6)!} = 13 938 816$ Möglichkeiten
 
+1a)
+- Zufallsexperiment:
+    - ist ein Zufallsexperiment, da das Ergebnis nicht vorhersehbar ist und verschiedene Ergebnisse mit bestimmten Wahrscheinlichkeiten auftreten.
+- Ergebnis:
+    - ist eine einzelne mögliche Ausgabe des Experiment. 1, 2, 3, 4 und 5, je nachdem, auf welchem Sektor das Rad zum Stillstand kommt.
+- Ergebnismenge:
+    - ist die Menge aller möglichen Ergebnisse eines Experiments. {1, 2, 3, 4, 5}.
+- Ereignis:
+    - ist Teilmenge der Ergebnismenge, mit bestimmter Eigenschaft. Zum Beispiel: eine gerade Zahl kommt {2, 4} 
+- Elementarereignis
+    - ist ein einzelnes Ergebnis, das nicht weiter in kleinere Ereignisse unterteilt werden kann. die einzelnen Zahlen 1, 2, 3, 4 und 5.
+- **Wahrscheinlichkeit von Ereignissen:**
+    - ist die Chance, dass dieses Ereignis eintritt. 
+    - Gerade Zahl: $\frac{2}{5}$
+b)
+{2,3,5}
+$\frac{3}{5}$
+c)
+- Gegenereignis:
+	- sind alle anderen mögliche Ereignisse, welche nicht die erforderte Eigenschaft besitzen.
+	- $\frac{5}{5}-\frac{3}{5}=\frac{2}{5}$
+
+2a)
+
+y=Wahrscheinlichkeit
+x=anzahl würfe
