@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Physik/Magnets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Physik/Magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Physik/Magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Stochhastik.md"
+                "file": "Physik/Magnets.md"
               }
             }
           },
@@ -229,6 +229,9 @@
   },
   "active": "596468cb3e2c7ec1",
   "lastOpenFiles": [
+    "Physik/Der Energieerhaltungssatz der Mechanik.md",
+    "Physik/Mechanische Wellen.md",
+    "Mathe/Stochhastik.md",
     "Mathe/Deutsch GPT-Gedicht.md",
     "Geschichte/Kampf um die Republik.md",
     "Geschichte/Untitled.md",
@@ -238,7 +241,6 @@
     "Deutsch/Untitled.md",
     "Deutsch/Spielablauf.md",
     "Physik/Magnets.md",
-    "Mathe/Stochhastik.md",
     "Mathe/Mathe Aufgaben.md",
     "Mathe/Mathe Klausur Themen.md",
     "Mathe/LaTeX Cheat Sheet.md",
@@ -254,8 +256,6 @@
     "Geschichte/Die Revolution 1848-49.md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Timeline.md",
-    "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
-    "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
     "Chemie/files/Pasted image 20240502074120.png",
     "Excalidraw/files/Pasted Image 20240502074055_371.png",
     "Chemie/files/Pasted image 20240502074010.png",

@@ -1,0 +1,1 @@
+Abstand der Feldlinien ist ein Maß für die Stärke des Feldes
