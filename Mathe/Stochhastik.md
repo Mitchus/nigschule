@@ -3,6 +3,7 @@ $\binom{n}{k} = \frac{n!}{k!*(n-k)!}$
 Wie viele Mögliche Lottokombinationen 6 aus 49?
 $\binom{49}{6} = \frac{49!}{6!*(49-6)!} = 13 938 816$ Möglichkeiten
 
+## Grundbegriffe der Wahrscheinlichkeitsrechnung:
 1a)
 - Zufallsexperiment:
     - ist ein Zufallsexperiment, da das Ergebnis nicht vorhersehbar ist und verschiedene Ergebnisse mit bestimmten Wahrscheinlichkeiten auftreten.
@@ -44,3 +45,11 @@ D: $\frac{24}{32}$
 Z: Die Wahrscheinlichkeit das er es ohne Trick 2 mal nacheinander schafft liegt bei $\frac{1}{1024}$. Also kennt er Wahrscheinlich einen Trick oder hatte sehr viel Glück.
 
 4
+a) falsch: absolute Häufigkeit ist tatsächliche Menge im Experiment
+b) wahr
+c) falsch: Ereignis ist mit Bedingung
+d) falsch: nicht alle Kugeln sind schwarz
+e)wahr
+f)wahr
+g)falsch: verschiedene Wahrscheinlichkeiten
+h) wahr
