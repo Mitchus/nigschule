@@ -26,6 +26,21 @@ c)
 	- $\frac{5}{5}-\frac{3}{5}=\frac{2}{5}$
 
 2a)
-
+Beim würfeln mit einem Würfel die 6 als Ergebnis haben.
 y=Wahrscheinlichkeit
 x=anzahl würfe
+b)
+Anfangs können die relativen Häufigkeiten bei einer kleinen Anzahl von Versuchen stark variieren, da der Zufall eine große Rolle spielt.
+Mit zunehmender Anzahl von Versuchen nähert sich die relativen Häufigkeiten aber der wahren Wahrscheinlichkeit des Ereignisses an.
+
+3a)
+$\frac{1}{32}$
+b)
+A: $\frac{16}{32}$
+B: $\frac{8}{32}$
+C: $\frac{4}{32}$
+D: $\frac{24}{32}$
+
+Z: Die Wahrscheinlichkeit das er es ohne Trick 2 mal nacheinander schafft liegt bei $\frac{1}{1024}$. Also kennt er Wahrscheinlich einen Trick oder hatte sehr viel Glück.
+
+4
