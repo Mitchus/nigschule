@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Kampf um die Republik.md",
+                "file": "Mathe/Stochhastik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Kampf um die Republik.md",
+                "file": "Mathe/Stochhastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Kampf um die Republik.md",
+                "file": "Mathe/Stochhastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Kampf um die Republik.md"
+                "file": "Mathe/Stochhastik.md"
               }
             }
           },
@@ -229,8 +229,9 @@
   },
   "active": "596468cb3e2c7ec1",
   "lastOpenFiles": [
-    "Geschichte/Untitled.md",
+    "Mathe/Deutsch GPT-Gedicht.md",
     "Geschichte/Kampf um die Republik.md",
+    "Geschichte/Untitled.md",
     "Deutsch/Faust.md",
     "Deutsch/Interpretation.md",
     "Deutsch/Sachtextanalyse.md",
@@ -255,7 +256,6 @@
     "Geschichte/Timeline.md",
     "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
     "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
-    "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
     "Chemie/files/Pasted image 20240502074120.png",
     "Excalidraw/files/Pasted Image 20240502074055_371.png",
     "Chemie/files/Pasted image 20240502074010.png",
