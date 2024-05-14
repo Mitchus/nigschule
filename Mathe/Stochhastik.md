@@ -7,8 +7,13 @@ $\binom{49}{6} = \frac{49!}{6!*(49-6)!} = 13 938 816$ Möglichkeiten
 
 ![[Kombinatorik]]
 Permutation
-Jede Anordnung der n-Elemente einer endlichen Mengen, nennt man Permuation dieser Elemtente
+Jede Anordnung der n-Elemente einer endlichen Mengen, nennt man Permuation dieser nElemtente
 
+Variation
+Menge M mit n Elementen
+Gesucht ist die Anzahl der eilmengen mit k verschiedenen geordneten Elemtenten
+Jede geordnete Teilmenge bezeichnet man als Variationen von n Elementen zur k-ten Klasse
+$V^k_{n}$
 
 ## Grundbegriffe der Wahrscheinlichkeitsrechnung:
 1a)
