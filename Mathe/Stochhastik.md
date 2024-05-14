@@ -5,12 +5,9 @@ $\binom{n}{k} = \frac{n!}{k!*(n-k)!}$
 Wie viele Mögliche Lottokombinationen 6 aus 49?
 $\binom{49}{6} = \frac{49!}{6!*(49-6)!} = 13 938 816$ Möglichkeiten
 
-![[Pasted image 20240514101211.png]]
-6 Läufer am Start:
-1. Wie viele Möglichkeiten? 
-2. Wie viele Möglichkeiten gibt es das Platz 1-3 von 3 Läufern belegt werden idfk what that means
-3. 
-
+![[Kombinatorik]]
+Permutation
+Jede Anordnung der n-Elemente einer endlichen Mengen, nennt man Permuation dieser Elemtente
 
 
 ## Grundbegriffe der Wahrscheinlichkeitsrechnung:
