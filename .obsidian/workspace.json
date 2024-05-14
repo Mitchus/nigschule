@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Stochhastik.md"
+                "file": "Excalidraw/Kombinatorik.md"
               }
             }
           },
@@ -201,11 +202,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4e95f0b8e0e916ce",
+  "active": "11183014ac2235d6",
   "lastOpenFiles": [
+    "Mathe/Stochhastik.md",
     "Excalidraw/Kombinatorik.md",
     "Excalidraw/files/Pasted Image 20240514112833_827.png",
-    "Mathe/Stochhastik.md",
     "Excalidraw/files/Pasted Image 20240514111558_132.png",
     "Excalidraw/files/Pasted Image 20240514111528_108.png",
     "Excalidraw/files/Pasted Image 20240514110331_730.png",
