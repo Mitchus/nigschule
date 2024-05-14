@@ -1,20 +1,29 @@
 ### Kombinatorik
 
 ! Fakultät
+Binomial Koeffizient
 $\binom{n}{k} = \frac{n!}{k!*(n-k)!}$
 Wie viele Mögliche Lottokombinationen 6 aus 49?
 $\binom{49}{6} = \frac{49!}{6!*(49-6)!} = 13 938 816$ Möglichkeiten
 
 ![[Kombinatorik]]
 Permutation
-Jede Anordnung der n-Elemente einer endlichen Mengen, nennt man Permuation dieser nElemtente
+Jede Anordnung der n-Elemente einer endlichen Mengen, nennt man Permuation dieser n-Elemente
 
 Variation
 Menge M mit n Elementen
-Gesucht ist die Anzahl der eilmengen mit k verschiedenen geordneten Elemtenten
+Gesucht ist die Anzahl der Teilmengen mit k verschiedenen geordneten Elementen
 Jede geordnete Teilmenge bezeichnet man als Variationen von n Elementen zur k-ten Klasse
 $V^k_{n}$
+WTR: nPr 
 
+Kombination
+Ist ähnlich wie Variation, aber die Anordnung in der Teilmenge spielt keine Rolle = weniger
+Menge M mit n Elementen
+Gesucht ist die Anzahl der Teilmengen mit k verschiedenen  Elementen
+Jede geordnete Teilmenge bezeichnet man als Kombination von n Elementen zur k-ten Klasse
+$C^k_{n}$
+WTR: nCr
 ## Grundbegriffe der Wahrscheinlichkeitsrechnung:
 1a)
 - Zufallsexperiment:

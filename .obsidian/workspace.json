@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Mathe/Stochhastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Mathe/Stochhastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Mathe/Stochhastik.md"
               }
             }
           },
@@ -202,14 +201,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "11183014ac2235d6",
+  "active": "4e95f0b8e0e916ce",
   "lastOpenFiles": [
+    "Excalidraw/Kombinatorik.md",
+    "Excalidraw/files/Pasted Image 20240514112833_827.png",
+    "Mathe/Stochhastik.md",
     "Excalidraw/files/Pasted Image 20240514111558_132.png",
     "Excalidraw/files/Pasted Image 20240514111528_108.png",
     "Excalidraw/files/Pasted Image 20240514110331_730.png",
     "Excalidraw/files/Pasted Image 20240514110316_704.png",
-    "Mathe/Stochhastik.md",
-    "Excalidraw/Kombinatorik.md",
     "Excalidraw/files/Pasted Image 20240514104125_628.png",
     "Excalidraw/files/Pasted Image 20240514101240_492.png",
     "Mathe/files/Pasted image 20240514101211.png",
@@ -239,9 +239,7 @@
     "Geschichte/Untitled.canvas",
     "Chemie/files/Pasted image 20240502074120.png",
     "Excalidraw/files/Pasted Image 20240502074055_371.png",
-    "Chemie/files/Pasted image 20240502074010.png",
     "Englisch/Timeline.canvas",
-    "Englisch/files/Pasted image 20231220082422.png",
     "Chemie/Untitled.canvas",
     "DVT/files",
     "Physik/Energie.canvas",
