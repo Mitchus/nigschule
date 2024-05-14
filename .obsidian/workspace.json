@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Faust.md",
+                "file": "Englisch/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Faust.md",
+                "file": "Englisch/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Faust.md",
+                "file": "Englisch/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Faust.md"
+                "file": "Englisch/Untitled.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "4e95f0b8e0e916ce",
   "lastOpenFiles": [
+    "Deutsch/Faust.md",
     "DVT/DVT Aufgaben.md",
     "Notizen.md",
     "Mathe/Stochhastik.md",
@@ -203,7 +204,6 @@
     "Untitled.md",
     "Deutsch/Barock.md",
     "Deutsch/Erörtern.md",
-    "Deutsch/Faust.md",
     "Deutsch/Spielablauf.md",
     "Deutsch/Untitled.md",
     "Deutsch/Sachtextanalyse.md",

@@ -9,3 +9,6 @@ Her struggle to fit in became more evident during class selection and interviews
 In an attempt to connect her personal life with her academic pursuits, Selin chose classes influenced by her mother's interests. Her mother's desire to document the lives of foreign medical graduates mirrored Selin's quest for relevance and connection. However, her inability to get into these desired classes furthered her sense of detachment from the academic community.
 
 Through detailed writing techniques, Batuman effectively portrays Selin's disappointment, sense of not fitting in, and her search for belonging within Harvard's academic environment. Selin's story mirrors the struggles many encounter in prestigious institutions with differing expectations and cultures.
+
+
+Capitalism is bad for the loosers and enables poor people to work 
