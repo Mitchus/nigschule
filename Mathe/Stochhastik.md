@@ -24,6 +24,14 @@ Gesucht ist die Anzahl der Teilmengen mit k verschiedenen  Elementen
 Jede geordnete Teilmenge bezeichnet man als Kombination von n Elementen zur k-ten Klasse
 $C^k_{n}$
 WTR: nCr
+
+
+
+
+
+
+
+
 ## Grundbegriffe der Wahrscheinlichkeitsrechnung:
 1a)
 - Zufallsexperiment:

@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Untitled.md",
+                "file": "Mathe/Stochhastik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce9a209d8bc956a0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Kombinatorik.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Untitled.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Untitled.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Untitled.md"
+                "file": "Excalidraw/Kombinatorik.md"
               }
             }
           },
@@ -191,12 +202,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4e95f0b8e0e916ce",
+  "active": "ce9a209d8bc956a0",
   "lastOpenFiles": [
+    "Excalidraw/Kombinatorik.png",
+    "Mathe/Stochhastik.md",
+    "Englisch/Untitled.md",
     "Deutsch/Faust.md",
     "DVT/DVT Aufgaben.md",
     "Notizen.md",
-    "Mathe/Stochhastik.md",
     "Untitled 2.md",
     "We-00-2023.md",
     "Th-59-2024.md",
@@ -225,8 +238,6 @@
     "Physik/Mechanische Wellen.md",
     "Mathe/Deutsch GPT-Gedicht.md",
     "Geschichte/Kampf um die Republik.md",
-    "Mathe/Mathe Aufgaben.md",
-    "Mathe/Mathe Klausur Themen.md",
     "Geschichte/Untitled.canvas",
     "Chemie/files/Pasted image 20240502074120.png",
     "Excalidraw/files/Pasted Image 20240502074055_371.png",
