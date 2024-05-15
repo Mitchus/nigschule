@@ -24,9 +24,12 @@
             "id": "ce9a209d8bc956a0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Chemie/Unorganische Chemie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -204,6 +207,19 @@
   },
   "active": "ce9a209d8bc956a0",
   "lastOpenFiles": [
+    "Chemie/Alkane als Lösungsmittel.md",
+    "Chemie/Eliminierung.md",
+    "Chemie/Funktionelle Gruppen.md",
+    "Chemie/Halogen Alkane.md",
+    "Chemie/Kunstoffe.md",
+    "Chemie/Zusammenfassung_chem_Energie.pdf",
+    "Chemie/Volumenarbeit und Wärmemenge.md",
+    "Chemie/Van-der-Waals-Kräfte.md",
+    "Chemie/Untitled.canvas",
+    "Chemie/Unorganische Chemie.md",
+    "Chemie/Substitution.md",
+    "Chemie/Redoxreaktion.md",
+    "Excalidraw/Kombinatorik.md",
     "Excalidraw/Kombinatorik.png",
     "Mathe/Stochhastik.md",
     "Englisch/Untitled.md",
@@ -220,8 +236,6 @@
     "Deutsch/Spielablauf.md",
     "Deutsch/Untitled.md",
     "Deutsch/Sachtextanalyse.md",
-    "Deutsch/Interpretation.md",
-    "Excalidraw/Kombinatorik.md",
     "Excalidraw/files/Pasted Image 20240514112833_827.png",
     "Excalidraw/files/Pasted Image 20240514111558_132.png",
     "Excalidraw/files/Pasted Image 20240514111528_108.png",
@@ -230,23 +244,12 @@
     "Excalidraw/files/Pasted Image 20240514104125_628.png",
     "Excalidraw/files/Pasted Image 20240514101240_492.png",
     "Mathe/files/Pasted image 20240514101211.png",
-    "Mathe/Differenzialrechnung.md",
-    "Excalidraw/Drawing 2024-05-02 07.40.36.excalidraw.md",
-    "Geschichte/Untitled.md",
-    "Physik/Magnets.md",
-    "Physik/Der Energieerhaltungssatz der Mechanik.md",
-    "Physik/Mechanische Wellen.md",
-    "Mathe/Deutsch GPT-Gedicht.md",
-    "Geschichte/Kampf um die Republik.md",
     "Geschichte/Untitled.canvas",
     "Chemie/files/Pasted image 20240502074120.png",
-    "Excalidraw/files/Pasted Image 20240502074055_371.png",
     "Englisch/Timeline.canvas",
-    "Chemie/Untitled.canvas",
     "DVT/files",
     "Physik/Energie.canvas",
     "Philosophie/files",
-    "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Englisch/files",
     "Physik/files",
     "Wirtschaft/Markt und Preis.zip",
