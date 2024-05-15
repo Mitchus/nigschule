@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Geschichte/Kampf um die Republik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Geschichte/Kampf um die Republik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Geschichte/Kampf um die Republik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Geschichte/Kampf um die Republik.md"
               }
             }
           },
@@ -207,6 +207,17 @@
   },
   "active": "ce9a209d8bc956a0",
   "lastOpenFiles": [
+    "Geschichte/Verfassung 1791.md",
+    "Geschichte/Wartburg-fest und seine Folgen.md",
+    "Geschichte/Wilhelm II.md",
+    "Geschichte/Untitled.canvas",
+    "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
+    "Geschichte/Biedermeier Kunst 19.J.H..md",
+    "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
+    "Geschichte/Die Französische Revolution - Auftakt zur Modernen Gesellschaft in Europa.md",
+    "Geschichte/Die Revolution 1848-49.md",
+    "Geschichte/Geschichte.md",
+    "Chemie/Unorganische Chemie.md",
     "Chemie/Alkane als Lösungsmittel.md",
     "Chemie/Eliminierung.md",
     "Chemie/Funktionelle Gruppen.md",
@@ -216,7 +227,6 @@
     "Chemie/Volumenarbeit und Wärmemenge.md",
     "Chemie/Van-der-Waals-Kräfte.md",
     "Chemie/Untitled.canvas",
-    "Chemie/Unorganische Chemie.md",
     "Chemie/Substitution.md",
     "Chemie/Redoxreaktion.md",
     "Excalidraw/Kombinatorik.md",
@@ -227,15 +237,6 @@
     "DVT/DVT Aufgaben.md",
     "Notizen.md",
     "Untitled 2.md",
-    "We-00-2023.md",
-    "Th-59-2024.md",
-    "Tu-00-2023.md",
-    "Untitled.md",
-    "Deutsch/Barock.md",
-    "Deutsch/Erörtern.md",
-    "Deutsch/Spielablauf.md",
-    "Deutsch/Untitled.md",
-    "Deutsch/Sachtextanalyse.md",
     "Excalidraw/files/Pasted Image 20240514112833_827.png",
     "Excalidraw/files/Pasted Image 20240514111558_132.png",
     "Excalidraw/files/Pasted Image 20240514111528_108.png",
@@ -244,7 +245,6 @@
     "Excalidraw/files/Pasted Image 20240514104125_628.png",
     "Excalidraw/files/Pasted Image 20240514101240_492.png",
     "Mathe/files/Pasted image 20240514101211.png",
-    "Geschichte/Untitled.canvas",
     "Chemie/files/Pasted image 20240502074120.png",
     "Englisch/Timeline.canvas",
     "DVT/files",
