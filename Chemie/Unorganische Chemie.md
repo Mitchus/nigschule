@@ -372,3 +372,6 @@ Homo:
 Katalysator und Ausgangsstoffe liegen in Lösung vor
 
 Enzyme: sind an alles Lebensvorgängen beteiligt
+
+Das Prinzip von le Chatelier
+Übt man auf ein im Gleichgewicht befindliches chemischen System einen Zwang aus, so verschiebt sich das GG in die Richtung, in der die erfolgte Änderung vermindert wird.
