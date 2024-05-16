@@ -57,3 +57,40 @@ galoppierende Inflation 1923 Hyperinflation
 	Währungsreform Nov. 1923
 
 Im Krisenjahr 1923 droht die Weimarer Republik pol. und wirtschaftlich zu scheitern
+
+
+**Äußere Entspannung:**
+
+1. **Locarno-Verträge (1925):**
+   - Ursache: Die Locarno-Verträge wurden als Versuch zur Sicherung des Friedens in Europa nach dem Ersten Weltkrieg initiiert.
+   - Wirkung: Durch die Anerkennung der Westgrenzen mit Frankreich und Belgien und die Zustimmung zu einem Schiedsverfahren zur Lösung zukünftiger Grenzkonflikte trug dies zur Stabilität in der Region bei und schuf Vertrauen zwischen den beteiligten Ländern.
+
+2. **Beitritt zum Völkerbund (1926):**
+   - Ursache: Deutschland wollte nach dem Ersten Weltkrieg wieder in die internationale Gemeinschaft eingebunden werden und einen Beitrag zur Friedenssicherung leisten.
+   - Wirkung: Der Beitritt zum Völkerbund stärkte Deutschlands internationale Position und ermöglichte die Teilnahme an diplomatischen Bemühungen zur Konfliktlösung und zur Förderung des Weltfriedens.
+
+3. **Dawes-Plan (1924):**
+   - Ursache: Deutschland befand sich nach dem Ersten Weltkrieg in einer wirtschaftlichen Krise und benötigte eine Regelung für die Reparationszahlungen, um seine Wirtschaft zu stabilisieren.
+   - Wirkung: Der Dawes-Plan erleichterte die Rückzahlung der Reparationen und trug zur wirtschaftlichen Erholung Deutschlands bei, was wiederum zur äußeren Entspannung beitrug, indem es die Spannungen mit den Siegermächten des Ersten Weltkriegs verringerte.
+
+4. **Young-Plan (1929):**
+   - Ursache: Der Dawes-Plan war nicht ausreichend, um Deutschlands finanzielle Belastung durch Reparationen zu verringern, daher wurde der Young-Plan entwickelt, um weitere Reduzierungen zu erreichen.
+   - Wirkung: Der Young-Plan erleichterte die finanzielle Last Deutschlands weiter und trug zur Stabilisierung der Wirtschaft bei, was die äußere Entspannung verstärkte, indem es die Reparationsfrage weiter entschärfte.
+
+**Innere Entspannung:**
+
+1. **Stresemann-Kanzlerschaft:**
+   - Ursache: Nach den instabilen Jahren der Weimarer Republik wurde Stresemann als Führer mit politischem Geschick angesehen, der in der Lage war, die Regierung zu stabilisieren.
+   - Wirkung: Stresemanns pragmatische Politik trug zur inneren Stabilisierung Deutschlands bei, indem sie das Vertrauen der Bevölkerung in die Regierung wiederherstellte und politische Stabilität förderte.
+
+2. **Politische Stabilität:**
+   - Ursache: Die politische Stabilität in den Jahren 1924-1929 ermöglichte eine effektive Regierungsführung und einen Konsens in der politischen Landschaft.
+   - Wirkung: Diese Stabilität schuf ein günstiges Umfeld für wirtschaftliche Erholung und kulturelle Blüte, indem sie das Vertrauen von Investoren und Künstlern stärkte und eine Atmosphäre des Fortschritts schuf.
+
+3. **Wirtschaftliche Erholung:**
+   - Ursache: Die wirtschaftlichen Reformen und ausländischen Investitionen, zusammen mit dem Dawes- und Young-Plan, trugen zur Erholung der deutschen Wirtschaft bei.
+   - Wirkung: Die wirtschaftliche Erholung reduzierte die Arbeitslosigkeit, steigerte das BIP und verbesserte das allgemeine Lebensniveau, was wiederum zu sozialer Stabilität beitrug und das Vertrauen in die politische Führung stärkte.
+
+4. **Kulturelle Blüte:**
+   - Ursache: Die relative politische Stabilität und wirtschaftliche Erholung schufen ein günstiges Umfeld für kulturelle Entwicklungen und Innovationen.
+   - Wirkung: Die kulturelle Blütezeit war gekennzeichnet durch eine Vielzahl von künstlerischen, literarischen und wissenschaftlichen Errungenschaften, die Deutschland zu einem Zentrum der intellektuellen und kulturellen Innovation machten und seine internationale Reputation stärkten.
