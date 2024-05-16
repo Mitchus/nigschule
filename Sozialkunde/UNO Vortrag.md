@@ -2,12 +2,26 @@
 ## Vereinte Nationen/United Nations Organization:
 ### Entstehung
 - 24.10.1945 
-- 51 Staaten
+- 51 Staaten, inzwischen 193 Mitgliedstaaten
 - Entstanden wegen dem WW2
 	- durch eine globale Organisation soll Frieden und Sicherheit gewährleistet werden
 	- Verhinderung von zwischenstaatlichen Kriegen Charta Präambel
-	  "Wir, die Völker derr Vereinten Nationen (sind) fest entschlossen" 
+	  "Wir, die Völker derr Vereinten Nationen (sind) fest entschlossen künftige Geschlechter vor der Geißel(schlimme Plage) des Krieges zu bewahren, die zweimal zu unseren Lebzeiten unsagbares Leid über die Menschheit gebracht hat."  
 
+### Ziele und Prinzipien
+- System der kollektiven Sicherheit
+	- Sicherheitssystem zwischen gleichberechtigten souveränen Staaten
+	- nicht gegen äußere Feinde gerichtet
+- Staaten sind verpflichtet sich an von der UN Charta festgelegten Prinzipien zu Orientieren
+	- Verpflichtung zur Beteiligung von Streitfällen mit friedlichen Mitteln
+	- Verbot der Androhung oder Anwendung von Gewalt
+	    
+
+### Charta der UN
+- Grundsatzdokument
+- 26. Juni 1945 in San Francisco, Konferenz der Vereinten Nationen für internationale Organisation unterzeichnet und trat am 24. Oktober 1945 in Kraft. 
+- 1. und 2. Artikel (Ziele von den 51 Gründerstaaten)
+	- 
 
 
 
