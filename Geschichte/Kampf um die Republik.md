@@ -57,40 +57,20 @@ galoppierende Inflation 1923 Hyperinflation
 	Währungsreform Nov. 1923
 
 Im Krisenjahr 1923 droht die Weimarer Republik pol. und wirtschaftlich zu scheitern
+Natürlich, hier ist die Tabelle mit den Erläuterungen zu den Verträgen und Plänen:
 
+| **Äußere Entspannung** | **Ursache** | **Vertrag/Plan** | **Wirkung** |
+|------------------------|-------------|------------------|-------------|
+| Locarno-Verträge (1925) | Initiiert zur Sicherung des Friedens nach dem Ersten Weltkrieg | Vereinbarungen zur Anerkennung der Westgrenzen mit Frankreich und Belgien sowie Zustimmung zu Schiedsverfahren zur Lösung zukünftiger Grenzkonflikte | - Stärkung der Sicherheit in Europa <br> - Schaffung von Vertrauen zwischen den beteiligten Ländern |
+| Beitritt zum Völkerbund (1926) | Wunsch nach Wiedereingliederung in die internationale Gemeinschaft | Deutschland wird offizielles Mitglied des Völkerbunds | - Stärkung der internationalen Position Deutschlands <br> - Teilnahme an diplomatischen Bemühungen zur Konfliktlösung |
+| Dawes-Plan (1924) | Wirtschaftliche Krise nach dem Ersten Weltkrieg und Bedarf an Reparationsregelung | Plan zur Regelung der Reparationszahlungen Deutschlands | - Erleichterte Rückzahlung der Reparationen <br> - Stabilisierung der deutschen Wirtschaft |
+| Young-Plan (1929) | Notwendigkeit weiterer Reduzierungen der Reparationszahlungen | Plan zur weiteren Reduzierung der Reparationen | - Erleichterte finanzielle Last Deutschlands weiter <br> - Verstärkte äußere Entspannung durch weitere Reduzierungen |
 
-**Äußere Entspannung:**
+| **Innere Entspannung**   | **Ursache**                                                                                                                                | **Wirkung**                                                                                                                                                    |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stresemann-Kanzlerschaft | Streben nach innerer Stabilisierung Deutschlands<br>                                                                                       | - Wiederherstellung des Vertrauens in die Regierung <br> - Förderung politischer Stabilität<br>Wirtschaftliche Erholung und außenpol. Anerkennung Deutschlands |
+| Politische Stabilität    | Relative Stabilität in der politischen Landschaft                                                                                          | - Effektive Regierungsführung <br> - Konsens in der Politik                                                                                                    |
+| Wirtschaftliche Erholung | Wirtschaftsreformen und ausländische Investitionen                                                                                         | - Reduzierung der Arbeitslosigkeit <br> - Steigerung des BIP und Lebensstandards                                                                               |
+| Kulturelle Blüte         | Politische Stabilität und wirtschaftliche Erholung, Kinos(Farb und Tonfilm), Baukunst(Eisen, Beton, Glas), Musik,Malerei (abstarkt/modern) | - Vielfalt künstlerischer, literarischer und wissenschaftlicher Errungenschaften <br> - Deutschland als Zentrum der kulturellen Innovation                     |
+| Wissenschaft             | Nobelpreise für Deutsche Einstein, Thomas Mann<br>Luftschiff, Graf Zeppelin<br>Rundfunk als neues Massenmedium<br>PKWs                     |                                                                                                                                                                |
 
-1. **Locarno-Verträge (1925):**
-   - Ursache: Die Locarno-Verträge wurden als Versuch zur Sicherung des Friedens in Europa nach dem Ersten Weltkrieg initiiert.
-   - Wirkung: Durch die Anerkennung der Westgrenzen mit Frankreich und Belgien und die Zustimmung zu einem Schiedsverfahren zur Lösung zukünftiger Grenzkonflikte trug dies zur Stabilität in der Region bei und schuf Vertrauen zwischen den beteiligten Ländern.
-
-2. **Beitritt zum Völkerbund (1926):**
-   - Ursache: Deutschland wollte nach dem Ersten Weltkrieg wieder in die internationale Gemeinschaft eingebunden werden und einen Beitrag zur Friedenssicherung leisten.
-   - Wirkung: Der Beitritt zum Völkerbund stärkte Deutschlands internationale Position und ermöglichte die Teilnahme an diplomatischen Bemühungen zur Konfliktlösung und zur Förderung des Weltfriedens.
-
-3. **Dawes-Plan (1924):**
-   - Ursache: Deutschland befand sich nach dem Ersten Weltkrieg in einer wirtschaftlichen Krise und benötigte eine Regelung für die Reparationszahlungen, um seine Wirtschaft zu stabilisieren.
-   - Wirkung: Der Dawes-Plan erleichterte die Rückzahlung der Reparationen und trug zur wirtschaftlichen Erholung Deutschlands bei, was wiederum zur äußeren Entspannung beitrug, indem es die Spannungen mit den Siegermächten des Ersten Weltkriegs verringerte.
-
-4. **Young-Plan (1929):**
-   - Ursache: Der Dawes-Plan war nicht ausreichend, um Deutschlands finanzielle Belastung durch Reparationen zu verringern, daher wurde der Young-Plan entwickelt, um weitere Reduzierungen zu erreichen.
-   - Wirkung: Der Young-Plan erleichterte die finanzielle Last Deutschlands weiter und trug zur Stabilisierung der Wirtschaft bei, was die äußere Entspannung verstärkte, indem es die Reparationsfrage weiter entschärfte.
-
-**Innere Entspannung:**
-
-1. **Stresemann-Kanzlerschaft:**
-   - Ursache: Nach den instabilen Jahren der Weimarer Republik wurde Stresemann als Führer mit politischem Geschick angesehen, der in der Lage war, die Regierung zu stabilisieren.
-   - Wirkung: Stresemanns pragmatische Politik trug zur inneren Stabilisierung Deutschlands bei, indem sie das Vertrauen der Bevölkerung in die Regierung wiederherstellte und politische Stabilität förderte.
-
-2. **Politische Stabilität:**
-   - Ursache: Die politische Stabilität in den Jahren 1924-1929 ermöglichte eine effektive Regierungsführung und einen Konsens in der politischen Landschaft.
-   - Wirkung: Diese Stabilität schuf ein günstiges Umfeld für wirtschaftliche Erholung und kulturelle Blüte, indem sie das Vertrauen von Investoren und Künstlern stärkte und eine Atmosphäre des Fortschritts schuf.
-
-3. **Wirtschaftliche Erholung:**
-   - Ursache: Die wirtschaftlichen Reformen und ausländischen Investitionen, zusammen mit dem Dawes- und Young-Plan, trugen zur Erholung der deutschen Wirtschaft bei.
-   - Wirkung: Die wirtschaftliche Erholung reduzierte die Arbeitslosigkeit, steigerte das BIP und verbesserte das allgemeine Lebensniveau, was wiederum zu sozialer Stabilität beitrug und das Vertrauen in die politische Führung stärkte.
-
-4. **Kulturelle Blüte:**
-   - Ursache: Die relative politische Stabilität und wirtschaftliche Erholung schufen ein günstiges Umfeld für kulturelle Entwicklungen und Innovationen.
-   - Wirkung: Die kulturelle Blütezeit war gekennzeichnet durch eine Vielzahl von künstlerischen, literarischen und wissenschaftlichen Errungenschaften, die Deutschland zu einem Zentrum der intellektuellen und kulturellen Innovation machten und seine internationale Reputation stärkten.
