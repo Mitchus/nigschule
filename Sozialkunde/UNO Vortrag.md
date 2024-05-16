@@ -1,5 +1,31 @@
-# Vortrag über die Vereinten Nationen (UNO)
 
+## Vereinte Nationen/United Nations Organization:
+### Entstehung
+- 24.10.1945 
+- 51 Staaten
+- Entstanden wegen dem WW2
+	- durch eine globale Organisation soll Frieden und Sicherheit gewährleistet werden
+	- Verhinderung von zwischenstaatlichen Kriegen Charta Präambel
+	  "Wir, die Völker derr Vereinten Nationen (sind) fest entschlossen" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Vortrag über die Vereinten Nationen (UNO)
 ## 1. Einführung
 - Definition und Entstehung der UNO
 - Gründungsdatum: 24. Oktober 1945
