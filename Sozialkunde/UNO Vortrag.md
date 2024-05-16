@@ -19,12 +19,24 @@
 
 ### Charta der UN
 - Grundsatzdokument
-- 26. Juni 1945 in San Francisco, Konferenz der Vereinten Nationen für internationale Organisation unterzeichnet und trat am 24. Oktober 1945 in Kraft. 
-- 1. und 2. Artikel (Ziele von den 51 Gründerstaaten)
-	- 
+- 26. Juni 1945 in San Francisco unterzeichnet 
+- trat 24. Oktober 1945 in Kraft 
+- 1. Artikel (Ziele von den 51 Gründerstaaten)
+	- bestreben
+	- Weltfrieden
+	- internationale Sicherheit wahren, 
+	- Achtung und den Schutz der Menschenrechte
+	  Grundfreiheiten zu fördern
+	-  Zusammenarbeit zwischen den Staaten zu stärken
+-  2. Artikel (Grundsätze)
+	- Staaten sind gleich und haben dieselben Rechte und Pflichten
+	- zwischenstaatliche Konflikte müssen friedlichen gelöst werden
+	- die Zusammenarbeit zwischen den Staaten in allen Bereichen fördern
 
-
-
+### Organisationen der UNO
+Hauptorgane und Hilfsorganisationen
+Kinderhilfswerk UNICEF, 
+Entwicklungsprogramm UNDP
 
 
 
