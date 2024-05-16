@@ -375,3 +375,15 @@ Enzyme: sind an alles Lebensvorgängen beteiligt
 
 Das Prinzip von le Chatelier
 Übt man auf ein im Gleichgewicht befindliches chemischen System einen Zwang aus, so verschiebt sich das GG in die Richtung, in der die erfolgte Änderung vermindert wird.
+
+$\ce{ C_{(S)}+CO_{2(g)} <--> 2CO_{(g)}}$
+$\ce{ \Delta_{r}H=172kJ }$
+
+Höhere Temp:
+endotherme Reaktion wird  begünstigt -> GG verschiebt sich nach rechts
+Niedrigere Temp:
+exotherme Reaktion wird begünstigt -> GG verschiebt sich nach links
+höherer Druck:
+fördert Reaktionen wo die Anzahl der Gasteilchen abnimmt -> Rückreaktion gefordert-> 2mol->1mol
+niedrigerer Druck:
+fördert Reaktionen wo die Anzahl der Gasteilchen zunimmt -> Hin gefordert -> 1mol->2mol
