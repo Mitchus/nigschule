@@ -34,10 +34,15 @@
 	- die Zusammenarbeit zwischen den Staaten in allen Bereichen fördern
 
 ### Organisationen der UNO
-Hauptorgane und Hilfsorganisationen
+Hauptorgane und 
+
+Hilfsorganisationen
 Kinderhilfswerk UNICEF, 
 Entwicklungsprogramm UNDP
 
+Sonderorganisationen
+UNESCO
+Internationale Währungsfonds IWF
 
 
 
