@@ -1,5 +1,15 @@
+|              | IPV4              | IPV6                |     |
+| ------------ | ----------------- | ------------------- | --- |
+| Schreibweise | Dezimal           | Hexa                |     |
+| Notation     | Punkt-Notation    | Doppelpunktnotation |     |
+| Aufbau       | 32 bit in 4 bytes | 128bit 16byte       |     |
+| Größe        | 2³²               | 2¹²⁸                |     |
+|              |                   |                     |     |
+|              |                   |                     |     |
+
 Bereich von 0.0.0.0 bis 255.255.255.255 (Broadcast)
 ![[Pasted image 20240517112123.png]]
+
 
 
 ### Aufteilen von Netze in Subnetze 
