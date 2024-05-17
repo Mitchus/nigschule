@@ -61,5 +61,6 @@ Adding to the pressure, Bri feels the need to measure up to her successful older
  
 bc the sterotype is that women spend way more money on clothes, but in reality man are even worse
 
-calls to action by meaning that we can change smth(false), telling storys about the exploitet shein workers embedding help mesages in their clothes and the 
-adressing it as our failures
+calls to action by meaning that we can change smth(false), 
+telling storys about the exploitet shein workers embedding help mesages in their clothes and the burned down factoryy killing a thousand
+
