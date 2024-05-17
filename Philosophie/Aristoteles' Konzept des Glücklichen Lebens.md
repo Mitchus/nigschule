@@ -108,7 +108,7 @@ Kritik am Utilitarismus
 
 
 Fertigen sie eine Skizze zu den 4 Stufen in Höhlen füchnis an. Platon Der Staaten Höhlen Linien und Sonnengleichung.
-
+![[Philo Platon]]
 Das Höhlengleichnis symbolisiert den Weg der Erkenntnis und des Wissens. Die Gefangenen sehen nur Schatten an der Höhlenwand und nehmen diese als Realität wahr.
 
 
@@ -135,9 +135,9 @@ hierarchische Gliederung der Ideenwelt
 An der Spitze: Idee des guten Vergleich mit Sonne als Ursprung allem Werden und Seins
 Um das "Licht der Wahrheit" zu erkennen, müssen die Fesseln der sinnlichen Wahrnehmung gelöst werden 
 Bsp.: Apfel-> viele verschiedene Sorten von Äpfeln aber im Vergleich zur Birne wissen wir was ein Apfel ist -> Wissen ist auch noch vorhanden wenn es keine Äpfel mehr geben wird
-Idee des Apfel muss unvergänglich/unveränderlich seein
-Idee des Guten als Urpsprung aller anderen Ideen göttlicher Urpsprung
-Für den Idialismus ist die objektive Realität ausschließlich das Produkt des erkennenden Subjekts
+Idee des Apfel muss unvergänglich/unveränderlich sein
+Idee des Guten als Ursprung aller anderen Ideen göttlicher Ursprung
+Für den Idealismus ist die objektive Realität ausschließlich das Produkt des erkennenden Subjekts
 
 build-essential gcc make perl dkms autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev libboost-all-dev software-properties-common 
 

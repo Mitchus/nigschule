@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "01eaa1fb66fd2dbb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Philo Platon.md"
               }
             }
           }
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md"
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md"
               }
             }
           },
@@ -207,8 +217,10 @@
   },
   "active": "ce9a209d8bc956a0",
   "lastOpenFiles": [
-    "Mathe/Stochhastik.md",
+    "Excalidraw/Philo Platon.md",
+    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Sozialkunde/UNO Vortrag.md",
+    "Mathe/Stochhastik.md",
     "Geschichte/Kampf um die Republik.md",
     "Geschichte/Wartburg-fest und seine Folgen.md",
     "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
@@ -235,8 +247,6 @@
     "Excalidraw/Kombinatorik.md",
     "Excalidraw/Kombinatorik.png",
     "Englisch/Untitled.md",
-    "Deutsch/Faust.md",
-    "DVT/DVT Aufgaben.md",
     "Excalidraw/files/Pasted Image 20240514112833_827.png",
     "Excalidraw/files/Pasted Image 20240514111558_132.png",
     "Excalidraw/files/Pasted Image 20240514111528_108.png",
