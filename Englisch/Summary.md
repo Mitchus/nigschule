@@ -59,3 +59,7 @@ Adding to the pressure, Bri feels the need to measure up to her successful older
 **Gender-Based Violence**: Gender-based violence is a deeply rooted human rights violation stemming from gender inequality, impacting both men and women. It includes assaults like attacks on homosexuals globally and predominantly affects women, seen in incidents like gang rapes in India and instances of sexual harassment in powerful industries like the film sector.
 
  
+bc the sterotype is that women spend way more money on clothes, but in reality man are even worse
+
+calls to action by meaning that we can change smth(false), telling storys about the exploitet shein workers embedding help mesages in their clothes and the 
+adressing it as our failures

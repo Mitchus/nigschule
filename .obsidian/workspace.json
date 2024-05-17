@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Englisch/Summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Englisch/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Englisch/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md"
+                "file": "Englisch/Summary.md"
               }
             }
           },
@@ -217,8 +217,8 @@
   },
   "active": "ce9a209d8bc956a0",
   "lastOpenFiles": [
-    "Excalidraw/Philo Platon.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+    "Excalidraw/Philo Platon.md",
     "Sozialkunde/UNO Vortrag.md",
     "Mathe/Stochhastik.md",
     "Geschichte/Kampf um die Republik.md",
