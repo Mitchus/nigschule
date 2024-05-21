@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DVT/IP-Adressierung und Subnetting.md",
+                "file": "Mathe/Stochhastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DVT/IP-Adressierung und Subnetting.md",
+                "file": "Mathe/Stochhastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DVT/IP-Adressierung und Subnetting.md"
+                "file": "Mathe/Stochhastik.md"
               }
             }
           },
