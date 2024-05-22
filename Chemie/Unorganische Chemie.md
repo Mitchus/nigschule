@@ -399,3 +399,13 @@ $\ce{ KOH_{(s)}+HNO_{3(aq)}->KNO_{3(aq)}+H_{2}O_{(l)} }$
 $\ce{ KOH_{(s)}+H⁺_{aq}+NO_{3}⁻_{aq}->K⁺_{aq}+NO_{3}⁻_{aq}+H_{2}O_{(l)} }$
 -425     0             ___                -251   __             -285
 $\ce{ \Delta rH=-1111\frac{kJ}{mol} }$
+Konzentration
+C up eines Ausgangstoffes:
+ Hinreaktion wird gefördert -> GG verschiebt sch nach rechts -> es wird mehr co gebildet / der vorgang ist schneller rückreaktion aber nicht
+ Cdown eines Endprodukts:
+  Hinreaktion wird gefördert -> GG verschiebt sch nach rechts -> es wird mehr co gebildet / der vorgang ist schneller rückreaktion aber nicht
+  Cdown eines Ausgangsstoffes:
+    Rückreaktion wird gefördert -> GG verschiebt sch nach links -> es wird weniger co gebildet / der vorgang ist langsamer rückreaktion aber nicht
+   Cup eines Endproduktes:
+    Rückreaktion wird gefördert -> GG verschiebt sch nach links -> es wird weniger co gebildet / der vorgang ist langsamer rückreaktion aber nicht
+    
