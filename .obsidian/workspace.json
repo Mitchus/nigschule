@@ -37,9 +37,12 @@
             "id": "6511d196065e27b8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Englisch/Obama.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Englisch/Obama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Englisch/Obama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Englisch/Obama.md"
               }
             }
           },
@@ -226,8 +229,12 @@
   },
   "active": "6511d196065e27b8",
   "lastOpenFiles": [
-    "Mathe/Stochhastik.md",
+    "Englisch/Noten.md",
+    "Englisch/How to analyse the atmosphere.md",
+    "Englisch/Adolescence.md",
+    "Englisch/Analysis of Selin's Perception of Harvard in \"The Idiot\" by Elif Batuman.md",
     "Excalidraw/Kombinatorik.md",
+    "Mathe/Stochhastik.md",
     "Mathe/Mathe Aufgaben.md",
     "DVT/IP-Adressierung und Subnetting.md",
     "Englisch/Obama.md",
@@ -253,11 +260,7 @@
     "Geschichte/Geschichte.md",
     "Chemie/Alkane als Lösungsmittel.md",
     "Chemie/Eliminierung.md",
-    "Chemie/Funktionelle Gruppen.md",
-    "Chemie/Halogen Alkane.md",
-    "Chemie/Kunstoffe.md",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
-    "Chemie/Volumenarbeit und Wärmemenge.md",
     "Chemie/Untitled.canvas",
     "Excalidraw/Kombinatorik.png",
     "Excalidraw/files/Pasted Image 20240514112833_827.png",

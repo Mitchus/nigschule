@@ -1,69 +1,45 @@
-Barack Obama's speech at the 2015 Paris UN Conference on Climate Change employs several rhetorical devices from your comprehensive list to effectively communicate his message. Below, I'll identify and analyze some of these devices within the context of the speech.
+1. Metaphor
 
-### Figurative Language Devices
+- Example: "the growing threat of climate change could define the contours of this century more dramatically than any other."
+- Supposed to show that climate change will have a big and important effect on this century.
 
-1. **Metaphor**
+2. Hyperbole
 
-- **Example**: "the growing threat of climate change could define the contours of this century more dramatically than any other."
+- Example: "Our generation may not even live to see the full realization of what we do here."
+- Supposed to show that what we do now will have effects far into the future and that it is very important.
 
-- **Effect**: This metaphor helps to emphasize the significant and shaping impact of climate change on the current century.
+3. Antithesis
 
-2. **Hyperbole**
+- Example: "We have proved that strong economic growth and a safer environment no longer have to conflict with one another; they can work in concert with one another."
+- Supposed to show that economy and environment are not enemies but can work together, changing how people usually think about this topic.
 
-- **Example**: "Our generation may not even live to see the full realization of what we do here."
+4. Anaphora
 
-- **Effect**: This exaggeration highlights the long-term impact and the generational responsibility required to combat climate change.
+- Example: "Here in Paris, let's secure an agreement... Here in Paris, let's agree to a strong system... Here in Paris, let's reaffirm our commitment..."
+- Supposed to make it more important and make people focus on what they need to do now.
 
-### Rhetorical Devices
+5. Ethos
 
-1. **Antithesis**
+- Example: "Over the last seven years, we've made ambitious investments in clean energy, and ambitious reductions in our carbon emissions."
+- Supposed to show that USA is serious about climate change, so other people should believe him and do the same.
 
-- **Example**: "We have proved that strong economic growth and a safer environment no longer have to conflict with one another; they can work in concert with one another."
+6. Emotional Appeal
 
-- **Effect**: The juxtaposition of economic growth and environmental safety positions them not as opposing forces but as complementary ones, altering the audience's perception of common narratives around economic development and environmental conservation.
+- Example: "And it was a preview of one possible future - a glimpse of our children's fate if the climate keeps changing faster than our efforts to address it. Submerged countries. Abandoned cities. Fields that no longer grow."
+- Supposed to make people feel worried and scared for the future, making them understand that climate change is a very serious problem.
 
-2. **Anaphora**
+7. Rhetorical Question
 
-- **Example**: "Here in Paris, let's secure an agreement... Here in Paris, let's agree to a strong system... Here in Paris, let's reaffirm our commitment..."
+- Example: "Can we imagine a more worthy reward than that?"
+- Supposed to make people think and feel that saving the future for children is very important.
 
-- **Effect**: The repetition of "Here in Paris" at the beginning of successive phrases creates a rhythm and emphasizes the importance of the actions that need to be taken during the conference.
+8. Allusion
 
-3. **Ethos (Credibility)**
+- Example: "For I believe, in the words of Dr. Martin Luther King, Jr., that there is such a thing as being too late."
+- Supposed to use his respect and emotional power to show that we need to act quickly on climate change.
 
-- **Example**: "Over the last seven years, we've made ambitious investments in clean energy, and ambitious reductions in our carbon emissions."
 
-- **Effect**: By referencing the tangible actions and achievements of the United States, Obama establishes credibility and demonstrates a commitment to addressing climate change, thereby persuading the audience to take similar actions.
+10. Repetition
 
-4. **Pathos (Emotional Appeal)**
-
-- **Example**: "And it was a preview of one possible future - a glimpse of our children's fate if the climate keeps changing faster than our efforts to address it. Submerged countries. Abandoned cities. Fields that no longer grow."
-
-- **Effect**: Vivid descriptions of a dire future evoke emotions such as fear and concern, making the issue more personal and urgent for the audience.
-
-5. **Rhetorical Question**
-
-- **Example**: "Can we imagine a more worthy reward than that?"
-
-- **Effect**: This rhetorical question is not meant to elicit an answer but to provoke thought and reinforce the idea that future generations' well-being is the ultimate reward for taking climate action.
-
-6. **Allusion**
-
-- **Example**: "For I believe, in the words of Dr. Martin Luther King, Jr., that there is such a thing as being too late."
-
-- **Effect**: By quoting Dr. Martin Luther King, Jr., Obama draws on the moral authority and emotional resonance associated with Dr. King to underscore the urgency of immediate climate action.
-
-7. **Eutrepismus**
-
-- **Example**: "So our task here in Paris is to turn these achievements into an enduring framework for human progress - not a stopgap solution, but a long-term strategy that gives the world confidence in a low-carbon future."
-
-- **Effect**: By clearly enumerating steps for action ("not a stopgap solution, but a long-term strategy"), Obama provides a structured argument that is easy to follow and underscores the comprehensive nature of the required solutions.
-
-8. **Repetition**
-
-- **Example**: "If we act here, if we act now, if we place our own short-term interests behind the air that our young people will breathe..."
-
-- **Effect**: Repeating "if we" multiple times builds a sense of urgency and collective responsibility, reinforcing the idea that immediate and concerted action is crucial.
-
-### Conclusion
-
-Barack Obama's speech uses a combination of figurative language and rhetorical devices to effectively communicate the dangers of climate change, inspire hope, and encourage global action. By integrating metaphors, hyperbole, antithesis, anaphora, ethical and emotional appeals, rhetorical questions, allusions, eutrepismus, and repetition, he crafts a compelling and persuasive argument that resonates with his audience and calls them to meaningful action.
+- Example: "If we act here, if we act now, if we place our own short-term interests behind the air that our young people will breathe..."
+- Supposed to make people feel that we all need to do something now and work together to fix the problem.
