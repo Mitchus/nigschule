@@ -389,3 +389,6 @@ niedrigerer Druck:
 fördert Reaktionen wo die Anzahl der Gasteilchen zunimmt -> Hin gefordert -> 1mol->2mol
 
 
+Heizwert= $\ce{ \Delta rH(g)*n }$
+Brennwert= $\ce{ \Delta rH(l)*n }$
+Festes Kaliumhydroxid wird in Salpetersäure gelöst
