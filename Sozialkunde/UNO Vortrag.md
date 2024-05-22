@@ -1,57 +1,186 @@
+## Vereinte Nationen/United Nations Organization
 
-## Vereinte Nationen/United Nations Organization:
 ### Entstehung
-- 24.10.1945 
-- 51 Staaten, inzwischen 193 Mitgliedstaaten
-- Entstanden wegen dem WW2
-	- durch eine globale Organisation soll Frieden und Sicherheit gewährleistet werden
-	- Verhinderung von zwischenstaatlichen Kriegen Charta Präambel
-	  "Wir, die Völker derr Vereinten Nationen (sind) fest entschlossen künftige Geschlechter vor der Geißel(schlimme Plage) des Krieges zu bewahren, die zweimal zu unseren Lebzeiten unsagbares Leid über die Menschheit gebracht hat."  
+
+- **Gründungsdatum:** 24. Oktober 1945
+- **Ursprüngliche Mitglieder:** 51 Staaten, heute 193 Mitgliedstaaten
+- **Hintergrund:** Entstanden nach dem Zweiten Weltkrieg zur Sicherung von Frieden und Sicherheit durch eine globale Organisation
+    - Ziel: Verhinderung zwischenstaatlicher Kriege
+    - **Charta-Präambel:** "Wir, die Völker der Vereinten Nationen, sind fest entschlossen, künftige Geschlechter vor der Geißel des Krieges zu bewahren, die zweimal zu unseren Lebzeiten unsagbares Leid über die Menschheit gebracht hat."
 
 ### Ziele und Prinzipien
-- System der kollektiven Sicherheit
-	- Sicherheitssystem zwischen gleichberechtigten souveränen Staaten
-	- nicht gegen äußere Feinde gerichtet
-- Staaten sind verpflichtet sich an von der UN Charta festgelegten Prinzipien zu Orientieren
-	- Verpflichtung zur Beteiligung von Streitfällen mit friedlichen Mitteln
-	- Verbot der Androhung oder Anwendung von Gewalt
-	    
+
+- **System der kollektiven Sicherheit:**
+    - Sicherheitssystem zwischen gleichberechtigten souveränen Staaten
+    - Nicht gegen äußere Feinde gerichtet
+- **Prinzipien der UN-Charta:**
+    - Verpflichtung zur friedlichen Beilegung von Streitfällen
+    - Verbot der Androhung oder Anwendung von Gewalt
 
 ### Charta der UN
-- Grundsatzdokument
-- 26. Juni 1945 in San Francisco unterzeichnet 
-- trat 24. Oktober 1945 in Kraft 
-- 1. Artikel (Ziele von den 51 Gründerstaaten)
-	- bestreben
-	- Weltfrieden
-	- internationale Sicherheit wahren, 
-	- Achtung und den Schutz der Menschenrechte
-	  Grundfreiheiten zu fördern
-	-  Zusammenarbeit zwischen den Staaten zu stärken
--  2. Artikel (Grundsätze)
-	- Staaten sind gleich und haben dieselben Rechte und Pflichten
-	- zwischenstaatliche Konflikte müssen friedlichen gelöst werden
-	- die Zusammenarbeit zwischen den Staaten in allen Bereichen fördern
+
+- **Grundsatzdokument:** UN-Charta
+    - **Unterzeichnung:** 26. Juni 1945 in San Francisco
+    - **Inkrafttreten:** 24. Oktober 1945
+- **Erster Artikel (Ziele der 51 Gründerstaaten):**
+    - Streben nach Weltfrieden und internationaler Sicherheit
+    - Förderung und Schutz der Menschenrechte und Grundfreiheiten
+    - Stärkung der Zusammenarbeit zwischen den Staaten
+- **Zweiter Artikel (Grundsätze):**
+    - Gleichheit der Staaten mit gleichen Rechten und Pflichten
+    - Friedliche Lösung zwischenstaatlicher Konflikte
+    - Förderung der Zusammenarbeit in allen Bereichen
 
 ### Organisationen der UNO
-Hauptorgane und 
 
-Hilfsorganisationen
-Kinderhilfswerk UNICEF, 
-Entwicklungsprogramm UNDP
+#### Hauptorgane
 
-Sonderorganisationen
-UNESCO
-Internationale Währungsfonds IWF
+- **Generalversammlung:**
+    - Besteht aus allen Mitgliedstaaten
+    - Diskutiert und koordiniert internationale Angelegenheiten
+    - Wählt den Generalsekretär und die nicht-ständigen Mitglieder des Sicherheitsrats
+- **Sicherheitsrat:**
+    - Verantwortlich für die Wahrung des Weltfriedens und der internationalen Sicherheit
+    - Besteht aus 15 Mitgliedern, davon 5 ständige (China, Frankreich, Russland, Großbritannien, USA) und 10 nicht-ständige
+    - Kann bindende Resolutionen erlassen
+- **Generalsekretär:**
+    - Oberster Verwaltungsbeamter der UNO
+    - Repräsentiert die UNO nach außen
+    - Aktueller Generalsekretär: António Guterres (seit Januar 2017)
+- **Internationaler Gerichtshof:**
+    - Hauptrechtsprechungsorgan der UNO
+    - Sitz in Den Haag, Niederlande
+    - Entscheidet Rechtsstreitigkeiten zwischen Staaten
+- **Treuhandrat:**
+    - Überwacht die Verwaltung von Treuhandgebieten und fördert deren Entwicklung zur Selbstverwaltung
+    - Derzeit inaktiv, da alle Treuhandgebiete unabhängig geworden sind
+
+#### Hilfsorganisationen
+
+- **Kinderhilfswerk UNICEF:**
+    - Setzt sich für das Wohl von Kindern weltweit ein
+    - Bietet Nothilfe, Gesundheitsversorgung, Bildung und Schutz
+- **Entwicklungsprogramm UNDP:**
+    - Fördert nachhaltige Entwicklung
+    - Unterstützt Länder bei Armutsbekämpfung, Krisenprävention und demokratischer Regierungsführung
+
+#### Sonderorganisationen
+
+- **UNESCO (Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur):**
+    - Fördert internationale Zusammenarbeit in Bildung, Wissenschaft, Kultur und Kommunikation
+    - Setzt sich für den Schutz des Weltkulturerbes ein
+- **Internationaler Währungsfonds (IWF):**
+    - Fördert internationale finanzielle Zusammenarbeit
+    - Gewährt Kredite an Länder mit Zahlungsbilanzproblemen
+    - Unterstützt finanzielle Stabilität und Wirtschaftswachstum
+
+## Sicherung des Friedens durch die UN
+
+### Verpflichtung zur friedlichen Beilegung von Konflikten
+
+- **Grundprinzip:** Mitgliedstaaten sind verpflichtet, internationale Streitigkeiten mit friedlichen Mitteln zu lösen.
+- **Mechanismen:** Verhandlungen, Mediation, Schlichtung, Schiedsgerichtsbarkeit und Gerichtsverfahren.
+- **Ziel:** Konflikte sollen nicht zu Gewalt eskalieren und der internationale Frieden und die Sicherheit sollen gewahrt bleiben.
+
+### Verbot der Androhung und Anwendung von Gewalt
+
+- **Grundsatz:** Laut Artikel 2 Absatz 4 der UN-Charta ist die Androhung oder Anwendung von Gewalt in internationalen Beziehungen verboten.
+- **Ausnahme:** Gewaltanwendung ist nur erlaubt, wenn sie im Rahmen der Selbstverteidigung gemäß Artikel 51 der UN-Charta erfolgt oder durch eine Resolution des UN-Sicherheitsrats autorisiert wird.
+
+### Beistandsverpflichtung
+
+- **Verpflichtung der Mitgliedstaaten:** Unterstützung der UN-Maßnahmen zur Friedenssicherung.
+- **Beitrag:** Bereitstellung von Ressourcen, Truppen und logistischer Unterstützung für UN-Friedensmissionen.
+
+---
+
+## Blauhelme und ihre Rolle im Frieden
+
+### Blauhelme (UN Peacekeepers)
+
+- **Definition:** Friedenssicherungskräfte der Vereinten Nationen, die in Konfliktgebieten eingesetzt werden.
+- **Ziel:** Schutz von Zivilpersonen, Überwachung von Waffenstillständen und Unterstützung bei der Umsetzung von Friedensabkommen.
+- **Mandat:** Vom UN-Sicherheitsrat beschlossen und kann verschiedene Aufgaben umfassen, je nach Situation im Einsatzgebiet.
+
+### Wichtige Blauhelmmissionen
+
+- **UNIFIL (United Nations Interim Force in Lebanon):**
+    - **Ziel:** Überwachung des Waffenstillstands zwischen Israel und Libanon, Unterstützung der libanesischen Regierung bei der Sicherung ihrer Souveränität.
+- **MINUSMA (United Nations Multidimensional Integrated Stabilization Mission in Mali):**
+    - **Ziel:** Stabilisierung von Mali nach dem Bürgerkrieg, Schutz von Zivilisten, Unterstützung bei der Umsetzung des Friedensabkommens.
+- **MONUSCO (United Nations Organization Stabilization Mission in the Democratic Republic of the Congo):**
+    - **Ziel:** Schutz von Zivilpersonen, Unterstützung der kongolesischen Regierung bei der Stabilisierung des Landes, Bekämpfung bewaffneter Gruppen.
+
+---
+
+## Peacekeeping, Peacebuilding und Peace Enforcement
+
+### Peacekeeping (Friedenssicherung)
+
+- **Definition:** Einsatz von UN-Truppen und zivilen Helfern zur Überwachung und Durchsetzung von Waffenstillständen und Friedensabkommen.
+- **Ziele:** Schutz von Zivilisten, Unterstützung bei der politischen Übergangsphase, humanitäre Hilfe.
+- **Beispiel:** Bereitstellung von sicheren Zonen für Zivilisten in Konfliktgebieten.
+
+### Peacebuilding (Friedenskonsolidierung)
+
+- **Definition:** Maßnahmen zur Schaffung nachhaltigen Friedens nach einem Konflikt.
+- **Ziele:** Wiederaufbau von Institutionen, Förderung der Rechtsstaatlichkeit, Unterstützung wirtschaftlicher und sozialer Entwicklung.
+- **Beispiel:** Aufbau von Verwaltungsstrukturen und Durchführung freier Wahlen nach einem Bürgerkrieg.
+
+### Peace Enforcement (Friedenserzwingung)
+
+- **Definition:** Einsatz von militärischer Gewalt durch UN-Truppen, um Frieden und Sicherheit wiederherzustellen.
+- **Ziele:** Erzwingung von Waffenstillständen, Schutz der Zivilbevölkerung, Eindämmung von Gewalt durch bewaffnete Gruppen.
+- **Beispiel:** Militärische Intervention zur Beendigung von Völkermord oder schweren Menschenrechtsverletzungen.
 
 
 
+## Begrenzte Handlungsoptionen der UN bei Friedensmissionen
 
+### Sicherheit/Show of Force
 
+- **Definition:** Demonstration militärischer Präsenz und Stärke zur Abschreckung potenzieller Konfliktparteien.
+- **Ziel:** Abschreckung von Gewalt durch sichtbare militärische Präsenz und Signal an Konfliktparteien, dass die UN bereit ist, Frieden zu erzwingen, wenn nötig.
 
+### Humanitäre Hilfe
 
+- **Definition:** Bereitstellung von lebensnotwendigen Gütern und Dienstleistungen in Krisen- und Konfliktgebieten.
+- **Ziel:** Sicherstellung der Grundbedürfnisse von betroffenen Bevölkerungsgruppen, einschließlich Nahrung, Wasser, medizinischer Versorgung und Unterkünften.
 
+### Disarmament, Demobilization and Reintegration (DDR)
 
+- **Definition:** Prozess der Entwaffnung, Demobilisierung und Wiedereingliederung ehemaliger Kombattanten in die Gesellschaft.
+- **Ziel:** Verringerung der Gefahr eines Wiederaufflammens von Konflikten durch die Entwaffnung von Kämpfern, ihre Rückkehr ins zivile Leben und die Förderung sozialer und wirtschaftlicher Integration.
+
+### Aufbau von (staatlichen) Institutionen
+
+- **Definition:** Unterstützung beim Aufbau und der Stärkung staatlicher Strukturen und Institutionen.
+- **Ziel:** Förderung von Stabilität und Rechtsstaatlichkeit durch Unterstützung von Regierungsinstitutionen, Justizsystemen und lokalen Verwaltungen.
+
+### Wirtschaftliche und soziale Entwicklung
+
+- **Definition:** Förderung von Projekten und Programmen zur Verbesserung der wirtschaftlichen und sozialen Bedingungen in Post-Konflikt-Gesellschaften.
+- **Ziel:** Schaffung von wirtschaftlichen Chancen, Reduzierung von Armut und Förderung der sozialen Kohäsion, um langfristigen Frieden und Stabilität zu gewährleisten.
+
+### Hoheitliche Aufgaben
+
+- **Definition:** Übernahme von Regierungsfunktionen in Gebieten, in denen die lokale Regierung nicht funktionsfähig ist.
+- **Ziel:** Gewährleistung von öffentlicher Sicherheit, Ordnung und grundlegenden Dienstleistungen bis zur Wiederherstellung funktionsfähiger lokaler Regierungen.
+
+### Zusammenarbeit mit nichtstaatlichen Organisationen
+
+- **Definition:** Kooperation mit NGOs, die in verschiedenen Bereichen wie humanitärer Hilfe, Menschenrechten und Entwicklung tätig sind.
+- **Ziel:** Maximierung der Wirkung von Friedensmissionen durch die Nutzung der Expertise und Ressourcen von NGOs.
+
+### Interagency Cooperation
+
+- **Definition:** Zusammenarbeit zwischen verschiedenen UN-Organisationen und anderen internationalen Akteuren.
+- **Ziel:** Sicherstellung eines kohärenten und umfassenden Ansatzes bei Friedensmissionen, indem verschiedene Akteure ihre Anstrengungen koordinieren und Ressourcen bündeln.
+
+### Robustes Mandat
+
+- **Definition:** Ein Mandat, das es UN-Friedensmissionen erlaubt, Gewalt anzuwenden, um ihre Aufgaben zu erfüllen.
+- **Ziel:** Schutz von Zivilpersonen und Sicherstellung der Umsetzung des Mandats durch die Erlaubnis, Gewalt als letztes Mittel einzusetzen, falls erforderlich.
 
 
 
