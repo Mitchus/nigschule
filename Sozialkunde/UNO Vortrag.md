@@ -182,102 +182,213 @@
 - **Definition:** Ein Mandat, das es UN-Friedensmissionen erlaubt, Gewalt anzuwenden, um ihre Aufgaben zu erfüllen.
 - **Ziel:** Schutz von Zivilpersonen und Sicherstellung der Umsetzung des Mandats durch die Erlaubnis, Gewalt als letztes Mittel einzusetzen, falls erforderlich.
 
+## Finanzierung der Vereinten Nationen
+
+### Pflichtbeiträge
+
+- **Grundlage:** Die Mitgliedstaaten sind verpflichtet, jährliche Beiträge zu zahlen, die auf einer von der UN-Generalversammlung festgelegten Skala basieren.
+- **Bemessung:** Die Beitragsskala berücksichtigt die wirtschaftliche Leistungsfähigkeit der Länder, basierend auf dem Bruttoinlandsprodukt (BIP) und anderen wirtschaftlichen Indikatoren.
+- **Beispiele für Beiträge 2017:**
+    - **USA:** 28.5%
+    - **China:** 10.3%
+    - **Japan:** 9.7%
+    - **Deutschland:** 6.4%
+
+### Gesamtbudget 2017
+
+- **Betrag:** Insgesamt betrug das UN-Budget im Jahr 2017 etwa 7,87 Milliarden US-Dollar.
+
+### Freiwillige Beiträge
+
+- **Zusätzlich zu Pflichtbeiträgen:** Mitgliedstaaten und andere Akteure wie NGOs und private Sektoren leisten freiwillige Beiträge zur Finanzierung bestimmter UN-Programme und -Projekte.
+- **Verwendung:** Diese Beiträge werden oft für humanitäre Hilfe, Entwicklungsprojekte und spezifische UN-Organisationen wie UNICEF oder das UNHCR verwendet.
+
+### Spezielle Fonds und Programme
+
+- **Sonderfonds:** Die UN verwaltet verschiedene Fonds und Programme, die durch spezielle Beiträge finanziert werden. Beispiele sind das Entwicklungsprogramm der Vereinten Nationen (UNDP) und das Kinderhilfswerk der Vereinten Nationen (UNICEF).
+- **Zweckgebundene Finanzierung:** Diese Mittel sind oft zweckgebunden und dienen der Finanzierung spezifischer Projekte und Programme, die von den Beitragszahlern festgelegt werden.
+
+### Finanzierung der Friedensmissionen
+
+- **Sonderkonten:** Friedensmissionen der UN werden durch gesonderte Beiträge der Mitgliedstaaten finanziert. Diese Beiträge sind ebenfalls verpflichtend und werden nach einer speziellen Skala berechnet, die die wirtschaftliche Leistungsfähigkeit und die Rolle der Länder im internationalen Frieden und Sicherheit berücksichtigt.
+
+### Herausforderungen
+
+- **Finanzierungslücken:** Trotz der festgelegten Beiträge gibt es immer wieder Finanzierungslücken, da einige Mitgliedstaaten ihre Beiträge verspätet oder unvollständig zahlen.
+- **Abhängigkeit von wenigen Beitragszahlern:** Ein großer Teil des Budgets stammt von wenigen großen Beitragszahlern, was die UN anfällig für finanzielle Schwankungen und politische Einflüsse macht.
+
+---
+
+## Größte Truppensteller der Friedensmissionen (2016)
+
+### Gesamtstärke
+
+- **Gesamtzahl der Blauhelme:** Im Jahr 2016 stellten 123 Länder insgesamt 100.950 Truppen für UN-Friedensmissionen.
+
+### Größte Truppensteller
+
+- **Äthiopien:** 8.326 Soldaten
+- **Indien:** 7.471 Soldaten
+- **Pakistan:** 7.161 Soldaten
+- **Bangladesch:** 6.772 Soldaten
+- **Ruanda:** 6.146 Soldaten
+- **Nepal:** 5.131 Soldaten
+
+### Bedeutung der Truppensteller
+
+- **Rolle:** Diese Länder tragen maßgeblich zur Umsetzung und Aufrechterhaltung von Friedensmissionen bei, indem sie eine beträchtliche Anzahl von Truppen bereitstellen.
+- **Aufgaben:** Die entsandten Soldaten überwachen Waffenstillstände, schützen Zivilisten, unterstützen humanitäre Aktivitäten und tragen zur Stabilisierung von Konfliktgebieten bei.
+## Negative Aspekte der UN
+
+### Ineffizienz und Bürokratie
+
+- **Verwaltung:** Die UN wird oft für ihre langsamen und bürokratischen Prozesse kritisiert, die die Effizienz und Reaktionsfähigkeit der Organisation beeinträchtigen.
+- **Ressourcen:** Hohe Verwaltungskosten und ineffiziente Nutzung von Ressourcen werden häufig bemängelt.
+
+### Machtungleichgewicht im Sicherheitsrat
+
+- **Vetorecht:** Die fünf ständigen Mitglieder des Sicherheitsrats (China, Frankreich, Russland, Großbritannien, USA) haben ein Vetorecht, das oft als ungerecht angesehen wird, da es diesen Ländern unverhältnismäßigen Einfluss verleiht.
+- **Repräsentation:** Viele Länder, insbesondere aus Afrika, Asien und Lateinamerika, sind im Sicherheitsrat unterrepräsentiert, was zu einem Ungleichgewicht in der Entscheidungsfindung führt.
+
+### Missbrauch und Fehlverhalten
+
+- **Friedensmissionen:** Es gab Fälle von Fehlverhalten und Missbrauch durch UN-Friedenssoldaten, einschließlich sexueller Ausbeutung und Missbrauch.
+- **Korruption:** In einigen Fällen wurde die UN für Korruption und Misswirtschaft kritisiert, was das Vertrauen in die Organisation untergräbt.
+
+### Unzureichende Finanzierung und Ressourcen
+
+- **Finanzierungslücken:** Die UN ist oft auf die Beiträge weniger großer Staaten angewiesen, was zu finanziellen Unsicherheiten und Abhängigkeiten führt.
+- **Ressourcenmangel:** Unzureichende finanzielle und materielle Ressourcen können die Wirksamkeit der UN-Programme und -Missionen beeinträchtigen.
+
+### Politische Einflussnahme
+
+- **Interessenpolitik:** Nationale Interessen der Mitgliedstaaten beeinflussen oft die Entscheidungen und Aktionen der UN, was zu Vorwürfen der Parteilichkeit und Ungerechtigkeit führt.
+- **Blockaden:** Politische Spannungen und Blockaden zwischen mächtigen Mitgliedstaaten können die Handlungsfähigkeit der UN erheblich einschränken.
+
+---
+
+## Diskussionen über Reformen der UN
+
+### Sicherheitsratsreform
+
+- **Erweiterung:** Vorschläge zur Erweiterung des Sicherheitsrats beinhalten die Aufnahme neuer ständiger und nicht-ständiger Mitglieder, um eine gerechtere und repräsentativere Struktur zu schaffen.
+- **Vetorecht:** Es gibt Forderungen, das Vetorecht der ständigen Mitglieder abzuschaffen oder einzuschränken, um Entscheidungen demokratischer zu gestalten.
+
+### Effizienzsteigerung
+
+- **Verwaltungsreform:** Initiativen zur Reduzierung der Bürokratie und zur Verbesserung der Effizienz und Transparenz der UN-Verwaltung werden vorgeschlagen.
+- **Ressourcennutzung:** Bessere Nutzung und Verteilung der Ressourcen, um die Wirksamkeit der UN-Programme zu erhöhen.
+
+### Friedensmissionen
+
+- **Reform der Friedensmissionen:** Verbesserung der Ausbildung und Überwachung von UN-Friedenssoldaten, um Fehlverhalten zu verhindern und die Effektivität der Missionen zu steigern.
+- **Mandatserweiterung:** Anpassung der Mandate von Friedensmissionen, um sie flexibler und reaktionsfähiger zu machen.
+
+### Finanzierung
+
+- **Stabilere Finanzierung:** Diversifizierung der Finanzierungsquellen und Einführung von stabileren und gerechteren Finanzierungsmethoden, um die finanzielle Sicherheit der UN zu gewährleisten.
+- **Transparenz:** Erhöhung der Transparenz und Rechenschaftspflicht bei der Mittelverwendung, um das Vertrauen der Mitgliedstaaten und der Öffentlichkeit zu stärken.
+
+### Menschenrechte und Demokratie
+
+- **Stärkung der Menschenrechte:** Verbesserung der Mechanismen zum Schutz und zur Förderung der Menschenrechte weltweit.
+- **Demokratisierung:** Förderung der demokratischen Prinzipien innerhalb der UN-Strukturen, um die Repräsentation und Beteiligung aller Mitgliedstaaten zu verbessern.
+
+- UN spielen zentrale Rolle in internationaler Politik seit 1945
+- Erfolge in Friedenssicherung, Menschenrechtsförderung und Zusammenarbeit der Nationen
+- Vielfältige Organstrukturen und Agenturen für globale Problemlösungen
+- Herausforderungen wie Bürokratie, Machtungleichgewichte und Finanzierungsprobleme
+- Diskussionen über Reformen für mehr Effektivität, Transparenz und Repräsentation
+- Internationale Zusammenarbeit erforderlich, um UN zu stärken und globale Herausforderungen anzugehen
+- UN sind unverzichtbarer Akteur, aber Reformen notwendig, um ihre Rolle im 21. Jahrhundert zu festigen
 
 
+# Inhaltsverzeichnis
 
-### Vortrag über die Vereinten Nationen (UNO)
-## 1. Einführung
-- Definition und Entstehung der UNO
-- Gründungsdatum: 24. Oktober 1945
-- Hauptziele: Friedenssicherung, Menschenrechte, internationale Zusammenarbeit
-
-### Sprecher 1
-- Vorstellung der UNO als globale Organisation für Frieden und Zusammenarbeit
-- Historischer Hintergrund zur Gründung nach dem Zweiten Weltkrieg
-
-### Sprecher 2
-- Betonung der Bedeutung des Gründungsdatums am 24. Oktober 1945
-- Erklärung der Hauptziele der UNO: Friedenssicherung, Menschenrechte und internationale Zusammenarbeit
-
-## 2. Aufbau und Struktur
-- Generalversammlung: Staatenvertreter diskutieren globale Angelegenheiten
-- Sicherheitsrat: Entscheidungen über Frieden und Sicherheit
-- Generalsekretär: Ban Ki-moon, António Guterres (Stand 2021)
-
-### Sprecher 1
-- Erklärung der Generalversammlung als demokratisches Forum für Staaten
-- Rolle des Sicherheitsrats in der Friedenssicherung und Konfliktlösung
-
-### Sprecher 2
-- Vorstellung des Generalsekretärs und dessen Rolle als Leiter der UNO
-- Nennung der amtierenden Generalsekretäre und ihrer Bedeutung (Ban Ki-moon, António Guterres)
-
-## 3. Hauptaufgaben und Zuständigkeiten
-- Friedenssicherung: Einsatz von Blauhelmsoldaten
-- Förderung der Menschenrechte
-- Humanitäre Hilfe und Entwicklungszusammenarbeit
-
-### Sprecher 1
-- Erläuterung der Friedenssicherung durch den Einsatz von Blauhelmsoldaten
-- Betonung der UNO als Garant für Frieden und Stabilität weltweit
-
-### Sprecher 2
-- Hervorhebung der Bemühungen der UNO im Bereich der Menschenrechte
-- Erklärung der humanitären Hilfe und Entwicklungszusammenarbeit im Kontext der UNO
-
-## 4. Kritik und Herausforderungen
-- Effektivität und Machtstrukturen
-- Kritik an Entscheidungsprozessen im Sicherheitsrat
-- Herausforderungen in aktuellen Konflikten und Krisen
-
-### Sprecher 1
-- Darlegung von Kritikpunkten an der Effektivität und den Machtstrukturen der UNO
-- Diskussion über Entscheidungsprozesse im Sicherheitsrat und ihre Kontroversen
-
-### Sprecher 2
-- Besprechung aktueller Herausforderungen, denen die UNO gegenübersteht, in Konflikten und Krisen
-- Betonung der Notwendigkeit von Reformen zur Bewältigung dieser Herausforderungen
-
-## 5. Schlussfolgerung
-- Bedeutung der UNO für die globale Zusammenarbeit
-- Herausforderungen angehen und Ziele für eine bessere Zukunft
-
-### Sprecher 1
-- Zusammenfassung der Bedeutung der UNO als globale Organisation für Zusammenarbeit und Frieden
-- Betonung der vorgeschlagenen Reformen für eine effektivere UNO
-
-### Sprecher 2
-- Aufruf zur gemeinsamen Anstrengung, um die Herausforderungen anzugehen und eine bessere Zukunft zu gestalten
-- Schlussbemerkung über die Hoffnung auf eine friedliche und kooperative Welt durch die UNO
-
-
-| Sprecher      | Thema       | Inhalt                                                | Struktur                        | Spannend               | Aktuelles | Medien                    | Sprache          | Gestik           | Stoff                           |
-| ------------- | ----------- | ----------------------------------------------------- | ------------------------------- | ---------------------- | --------- | ------------------------- | ---------------- | ---------------- | ------------------------------- |
-| Luis          | Völkerrecht |                                                       | ja                              | ne,  emotionale story  | ja        | Bilder mit Text und Tafel | abgelesene Texte | abgelesene Texte | [[Völkerrecht]]                 |
-| Tim, Carlo    | IGH         | Warum sollte man jz dem IGH folge leisten? Sanktionen | Kurzer einstieg dann gliederung | Einbindung der Zuhörer | ja        | Powerpoint                | gut              | Gut              | [[Internationaler Gerichtshof]] |
-| Lasse H, Max? | Eu          |                                                       |                                 | nein                   |           |                           |                  |                  |                                 |
-
-
-### Für und Wider Humanitäre Interventionen
-
-| Pro Für Humanitäre                                                                                                            | Contra  Wider Humanitäre                                                                                             |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Souveränität und Integrität eines Staates sind ein sekundäres Folgerecht aus den Grundr. der Individuen        | ist militärische Gewalt, Tötung/Verletzung von Menschen<br>verstößt gegen Art.2 Abs. 4 der UN-Charta |
-| Völkerrecht verbietet Waffengewalt wiegt aber Gewalt gegen andere Prinzipien ab                                | verletzt Prinzip der staatlichen Souveränität durch Einmischung in innere Angelegenheiten            |
-| Wenn durch die Unterlassung von Hilfe durch Interventionen mehr Menschen sterben wäre es moralisch verwerflich | Humanitäre Intervention wiegen Tötungen in einem quantitativen Verhältnis ab                         |
-|                                                                                                                | Humanitäre Ziele werden oft als Pseudo Gründe für Macht und Ressourcen Erweiterungen benutzt         |
-|                                                                                                                | nicht jede Tötung wird durch die Massen als ethische Einzelfallentscheidung ausgewertet              |
-|                                                                                                                |                                                                                                      |
-
-Völker- bzw. staatsrechtlich:
-- Pro: Souveränität und Integrität sind sekundäre Folgerechte aus Grundrechten der Individuen.
-- Contra: Militärische Gewalt verstößt gegen Artikel 2 Absatz 4 der UN-Charta und verletzt das Prinzip der staatlichen Souveränität.
-Ethisch:
-- Pro: Es ist moralisch verwerflich, wenn durch Unterlassung von Hilfe mehr Menschen sterben.
-- Contra: nicht jede Tötung wird durch die Massen als ethische Einzelfallentscheidung ausgewertet.
-Historisch-politisch:
-- Pro: Es ist moralisch verwerflich, wenn durch Unterlassung von Hilfe mehr Menschen sterben.
-- Contra: Humanitäre Ziele werden oft als Vorwand für Macht- und Ressourcenerweiterungen genutzt.
-
-
-Damen und Herren, das Streben nach einer kleineren Anzahl von Todesopfern ist Lobenswert, aber die möglichen Konsequenzen von Humanitären Interventionen müssen bedacht werden. Militärische Operationen können unvorhersehbare Auswirkungen haben. Deswegen ist es wichtig sicherzustellen, dass die Handlungen nicht zu weiteren Katastrophen oder destabilisierenden Effekte führen. Manchmal ist eine gut geplante Diplomatie eher die Lösung, als militärische Hilfe.  
+1. **Einleitung**
+    
+    - Einführung in die Vereinten Nationen
+2. **Entstehung der Vereinten Nationen**
+    
+    - Gründung am 24. Oktober 1945
+    - Ursprüngliche Mitgliedstaaten und heutige Anzahl
+    - Hintergrund der Gründung (Zweiter Weltkrieg)
+    - Zitat aus der Präambel der UN-Charta
+3. **Ziele und Prinzipien der UN**
+    
+    - System der kollektiven Sicherheit
+    - Verpflichtung der Staaten zur friedlichen Beilegung von Streitfällen
+    - Verbot der Androhung und Anwendung von Gewalt
+4. **Die Charta der Vereinten Nationen**
+    
+    - Grundsatzdokument der UN
+    - Unterzeichnung und Inkrafttreten
+    - Artikel 1: Ziele der UN
+    - Artikel 2: Grundsätze der UN
+5. **Organisationen der UN**
+    
+    - Hauptorgane
+        - Generalversammlung
+        - Sicherheitsrat
+        - Generalsekretär
+        - Internationaler Gerichtshof
+        - Treuhandrat
+    - Hilfsorganisationen
+        - UNICEF (Kinderhilfswerk)
+        - UNDP (Entwicklungsprogramm)
+    - Sonderorganisationen
+        - UNESCO
+        - IWF (Internationaler Währungsfonds)
+6. **Sicherung des Friedens durch die UN**
+    
+    - Verpflichtung zur friedlichen Beilegung von Konflikten
+    - Verbot der Androhung und Anwendung von Gewalt
+    - Beistandsverpflichtung
+7. **Blauhelme und ihre Rolle im Frieden**
+    
+    - Definition und Aufgaben der Blauhelme
+    - Wichtige Blauhelmmissionen
+        - UNIFIL (Libanon)
+        - MINUSMA (Mali)
+        - MONUSCO (DR Kongo)
+8. **Friedensstrategien der UN**
+    
+    - Peacekeeping (Friedenssicherung)
+    - Peacebuilding (Friedenskonsolidierung)
+    - Peace Enforcement (Friedenserzwingung)
+9. **Begrenzte Handlungsoptionen der UN bei Friedensmissionen**
+    
+    - Sicherheit/Show of Force
+    - Humanitäre Hilfe
+    - Disarmament, Demobilization and Reintegration (DDR)
+    - Aufbau von (staatlichen) Institutionen
+    - Wirtschaftliche und soziale Entwicklung
+    - Hoheitliche Aufgaben
+    - Zusammenarbeit mit nichtstaatlichen Organisationen
+    - Interagency Cooperation
+    - Robustes Mandat
+10. **Finanzierung der UN**
+    
+    - Pflichtbeiträge der Mitgliedstaaten
+    - Freiwillige Beiträge
+    - Spezielle Fonds und Programme
+    - Herausforderungen der Finanzierung
+    - Beiträge 2017 (USA, China, Japan, Deutschland)
+11. **Größte Truppensteller der UN-Friedensmissionen (2016)**
+    
+    - Gesamtstärke und bedeutendste Truppensteller
+    - Rolle und Aufgaben der Truppensteller
+12. **Negative Aspekte der UN und Diskussionen über Reformen**
+    
+    - Ineffizienz und Bürokratie
+    - Machtungleichgewicht im Sicherheitsrat
+    - Missbrauch und Fehlverhalten
+    - Unzureichende Finanzierung und Ressourcen
+    - Politische Einflussnahme
+    - Reformvorschläge
+        - Sicherheitsratsreform
+        - Effizienzsteigerung
+        - Friedensmissionen
+        - Finanzierung
+        - Menschenrechte und Demokratie
+13. **Schlussfolgerung**
