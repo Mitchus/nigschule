@@ -344,19 +344,14 @@
     - Verpflichtung zur friedlichen Beilegung von Konflikten
     - Verbot der Androhung und Anwendung von Gewalt
     - Beistandsverpflichtung
-7. **Blauhelme und ihre Rolle im Frieden**
-    
-    - Definition und Aufgaben der Blauhelme
-    - Wichtige Blauhelmmissionen
-        - UNIFIL (Libanon)
-        - MINUSMA (Mali)
-        - MONUSCO (DR Kongo)
-8. **Friedensstrategien der UN**
+## Friedensmissionen der Vereinten Nationen
+
+1. **Strategien zur Friedenssicherung**
     
     - Peacekeeping (Friedenssicherung)
     - Peacebuilding (Friedenskonsolidierung)
     - Peace Enforcement (Friedenserzwingung)
-9. **Begrenzte Handlungsoptionen der UN bei Friedensmissionen**
+2. **Begrenzte Handlungsoptionen bei Friedensmissionen**
     
     - Sicherheit/Show of Force
     - Humanitäre Hilfe
@@ -367,17 +362,17 @@
     - Zusammenarbeit mit nichtstaatlichen Organisationen
     - Interagency Cooperation
     - Robustes Mandat
-10. **Finanzierung der UN**
+3. **Blauhelme und ihre Rolle im Frieden**
     
-    - Pflichtbeiträge der Mitgliedstaaten
-    - Freiwillige Beiträge
-    - Spezielle Fonds und Programme
-    - Herausforderungen der Finanzierung
-    - Beiträge 2017 (USA, China, Japan, Deutschland)
-11. **Größte Truppensteller der UN-Friedensmissionen (2016)**
+    - Definition und Aufgaben der Blauhelme
+    - Wichtige Blauhelmmissionen
+        - UNIFIL (Libanon)
+        - MINUSMA (Mali)
+        - MONUSCO (DR Kongo)
+4. **Finanzierung und Truppenstellung**
     
-    - Gesamtstärke und bedeutendste Truppensteller
-    - Rolle und Aufgaben der Truppensteller
+    - Finanzierung der Friedensmissionen
+    - Truppensteller der UN-Friedensmissionen (2016)
 12. **Negative Aspekte der UN und Diskussionen über Reformen**
     
     - Ineffizienz und Bürokratie
