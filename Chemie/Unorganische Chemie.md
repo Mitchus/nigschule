@@ -387,3 +387,5 @@ höherer Druck:
 fördert Reaktionen wo die Anzahl der Gasteilchen abnimmt -> Rückreaktion gefordert-> 2mol->1mol
 niedrigerer Druck:
 fördert Reaktionen wo die Anzahl der Gasteilchen zunimmt -> Hin gefordert -> 1mol->2mol
+
+
