@@ -597,3 +597,8 @@ Triple-Entente:
 S. 167 Quelle 1 Nr. 1,2,3
 S. 168 Quelle 3 Nr 1
 S. 168 Quelle 4 Nr 1
+
+
+
+![[Pasted image 20240522112752.png]]
+![[Pasted image 20240522112826.png]]
