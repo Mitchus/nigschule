@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DVT/IP-Adressierung und Subnetting.md",
+                "file": "Mathe/Stochhastik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6511d196065e27b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Kombinatorik.md"
               }
             }
           },
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DVT/IP-Adressierung und Subnetting.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DVT/IP-Adressierung und Subnetting.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DVT/IP-Adressierung und Subnetting.md"
+                "file": "Excalidraw/Kombinatorik.md"
               }
             }
           },
@@ -214,11 +224,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ce9a209d8bc956a0",
+  "active": "6511d196065e27b8",
   "lastOpenFiles": [
     "Mathe/Stochhastik.md",
-    "Englisch/Obama.md",
+    "Excalidraw/Kombinatorik.md",
+    "Mathe/Mathe Aufgaben.md",
     "DVT/IP-Adressierung und Subnetting.md",
+    "Englisch/Obama.md",
     "DVT/files/Pasted image 20240521095704.png",
     "DVT/files/Pasted image 20240517114058.png",
     "DVT/files/Pasted image 20240517113630.png",
@@ -246,9 +258,7 @@
     "Chemie/Kunstoffe.md",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Volumenarbeit und Wärmemenge.md",
-    "Chemie/Van-der-Waals-Kräfte.md",
     "Chemie/Untitled.canvas",
-    "Chemie/Substitution.md",
     "Excalidraw/Kombinatorik.png",
     "Excalidraw/files/Pasted Image 20240514112833_827.png",
     "Excalidraw/files/Pasted Image 20240514111558_132.png",
