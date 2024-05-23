@@ -135,52 +135,7 @@
 
 
 
-## Begrenzte Handlungsoptionen der UN bei Friedensmissionen
-
-### Sicherheit/Show of Force
-
-- **Definition:** Demonstration militärischer Präsenz und Stärke zur Abschreckung potenzieller Konfliktparteien.
-- **Ziel:** Abschreckung von Gewalt durch sichtbare militärische Präsenz und Signal an Konfliktparteien, dass die UN bereit ist, Frieden zu erzwingen, wenn nötig.
-
-### Humanitäre Hilfe
-
-- **Definition:** Bereitstellung von lebensnotwendigen Gütern und Dienstleistungen in Krisen- und Konfliktgebieten.
-- **Ziel:** Sicherstellung der Grundbedürfnisse von betroffenen Bevölkerungsgruppen, einschließlich Nahrung, Wasser, medizinischer Versorgung und Unterkünften.
-
-### Disarmament, Demobilization and Reintegration (DDR)
-
-- **Definition:** Prozess der Entwaffnung, Demobilisierung und Wiedereingliederung ehemaliger Kombattanten in die Gesellschaft.
-- **Ziel:** Verringerung der Gefahr eines Wiederaufflammens von Konflikten durch die Entwaffnung von Kämpfern, ihre Rückkehr ins zivile Leben und die Förderung sozialer und wirtschaftlicher Integration.
-
-### Aufbau von (staatlichen) Institutionen
-
-- **Definition:** Unterstützung beim Aufbau und der Stärkung staatlicher Strukturen und Institutionen.
-- **Ziel:** Förderung von Stabilität und Rechtsstaatlichkeit durch Unterstützung von Regierungsinstitutionen, Justizsystemen und lokalen Verwaltungen.
-
-### Wirtschaftliche und soziale Entwicklung
-
-- **Definition:** Förderung von Projekten und Programmen zur Verbesserung der wirtschaftlichen und sozialen Bedingungen in Post-Konflikt-Gesellschaften.
-- **Ziel:** Schaffung von wirtschaftlichen Chancen, Reduzierung von Armut und Förderung der sozialen Kohäsion, um langfristigen Frieden und Stabilität zu gewährleisten.
-
-### Hoheitliche Aufgaben
-
-- **Definition:** Übernahme von Regierungsfunktionen in Gebieten, in denen die lokale Regierung nicht funktionsfähig ist.
-- **Ziel:** Gewährleistung von öffentlicher Sicherheit, Ordnung und grundlegenden Dienstleistungen bis zur Wiederherstellung funktionsfähiger lokaler Regierungen.
-
-### Zusammenarbeit mit nichtstaatlichen Organisationen
-
-- **Definition:** Kooperation mit NGOs, die in verschiedenen Bereichen wie humanitärer Hilfe, Menschenrechten und Entwicklung tätig sind.
-- **Ziel:** Maximierung der Wirkung von Friedensmissionen durch die Nutzung der Expertise und Ressourcen von NGOs.
-
-### Interagency Cooperation
-
-- **Definition:** Zusammenarbeit zwischen verschiedenen UN-Organisationen und anderen internationalen Akteuren.
-- **Ziel:** Sicherstellung eines kohärenten und umfassenden Ansatzes bei Friedensmissionen, indem verschiedene Akteure ihre Anstrengungen koordinieren und Ressourcen bündeln.
-
-### Robustes Mandat
-
-- **Definition:** Ein Mandat, das es UN-Friedensmissionen erlaubt, Gewalt anzuwenden, um ihre Aufgaben zu erfüllen.
-- **Ziel:** Schutz von Zivilpersonen und Sicherstellung der Umsetzung des Mandats durch die Erlaubnis, Gewalt als letztes Mittel einzusetzen, falls erforderlich.
+Robustes Mandat = Gewalt erlaubt
 
 ## Finanzierung der Vereinten Nationen
 
@@ -238,6 +193,36 @@
 
 - **Rolle:** Diese Länder tragen maßgeblich zur Umsetzung und Aufrechterhaltung von Friedensmissionen bei, indem sie eine beträchtliche Anzahl von Truppen bereitstellen.
 - **Aufgaben:** Die entsandten Soldaten überwachen Waffenstillstände, schützen Zivilisten, unterstützen humanitäre Aktivitäten und tragen zur Stabilisierung von Konfliktgebieten bei.
+## Zusammenfassung: Kritik an der UNO und ihren Missionen
+
+### Gründung und Ziel der Vereinten Nationen
+Die Vereinten Nationen (UN oder UNO) wurden am 26. Juni 1945 gegründet, um den Weltfrieden zu sichern. Heute umfasst die UNO 193 der weltweit 194 Staaten.
+
+### Kritik an der Effizienz der UNO
+Es wird kritisiert, dass die UNO in den letzten Jahren keine signifikanten Erfolge erzielt hat, insbesondere in Friedensmissionen. Hierbei wird oft Geld und militärische Kraft ineffizient eingesetzt.
+
+### Fallbeispiel: MONUSCO in der Demokratischen Republik Kongo
+- **Hintergrund**: Die Mission der Vereinten Nationen für die Stabilisierung in der Demokratischen Republik Kongo (MONUSCO) wurde am 10. November 1999 gegründet, um den zweiten Kongokrieg (1998-2002) zu beenden.
+- **Aufgaben und Herausforderungen**: Anfangs nur Beobachtermission, später wurden Entwaffnung, Demobilisierung und gesellschaftliche Wiedereingliederung versucht. Jedoch gab es zahlreiche Rückschläge:
+  - **Kosten**: Bereits 2005 betrugen die Kosten eine Milliarde US-Dollar.
+  - **Sicherheitsprobleme**: Trotz Bemühungen wurden Massaker und Morde an Peacekeepern nicht verhindert.
+  - **Militärische Rückschläge**: 2006 gelang es Rebellen, die Provinzhauptstadt Goma einzunehmen.
+  - **Kritik an Soldaten**: MONUSCO-Soldaten stammen oft aus nicht-demokratischen Ländern und werden als unprofessionell angesehen.
+  - **Verlängerung der Mission**: Die Mission wurde bis 2049 verlängert, jedoch gilt sie bisher als Misserfolg.
+
+### Kritik an der WHO und der Corona-Pandemie
+- **Langsame Reaktion**: Trotz frühzeitiger Warnungen rief die WHO erst am 30. Januar 2020 eine "Notlage von internationaler Tragweite" aus und erklärte erst am 11. März 2020 eine "Pandemie".
+- **Verlass auf China**: Die WHO verließ sich zu sehr auf Chinas Berichte, was zu Verzögerungen bei globalen Reaktionen führte.
+- **Folgen**: Eine schnellere Reaktion hätte möglicherweise besseres Krisenmanagement und eine effektivere Impfstoffproduktion ermöglicht.
+
+### Nachhaltigkeitsziele der UNO
+- **Rio+20-Konferenz (2012)**: Festlegung neuer Ziele in Bereichen wie Frieden, Ernährungssicherheit, Wasser, Energie, Bildung, Gesundheit, und Klimawandel.
+- **Erfolg und Herausforderungen**: Große Unterschiede in der Umsetzung zwischen den Staaten. Eine Bertelsmann-Studie (2016) zeigte, dass keine Nation alle Ziele erreicht hat, aber es gibt positive Auswirkungen, z.B. die Pariser Klimaziele und die Verfassungsbeschwerden gegen die deutsche Klimapolitik.
+
+### Schlussfolgerung
+Die Analyse bestätigt, dass die UNO in den letzten Jahren in vielen Bereichen ineffizient gehandelt hat, insbesondere bei Friedensmissionen. Es fehlt oft an Geschwindigkeit und Effizienz, wobei die Schuld nicht allein bei der UNO liegt, sondern auch bei den einzelnen Staaten, die die Ziele nicht ausreichend unterstützen. Die UNO kann nur erfolgreich sein, wenn alle Mitgliedsstaaten zusammenarbeiten und die Ziele ernsthaft verfolgen.
+
+
 ## Negative Aspekte der UN
 
 ### Ineffizienz und Bürokratie
