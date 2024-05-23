@@ -1,3 +1,4 @@
+## Aufwärmen
 ### Definition und Funktion
 
 Das Aufwärmen dient der optimalen Vorbereitung auf sportliche Aktivitäten, indem es sowohl körperliche als auch mentale Aspekte anspricht. Es umfasst Maßnahmen zur Herstellung einer optimalen psycho-physischen Verfassung vor Training oder Wettkampf .
@@ -10,6 +11,7 @@ Das Aufwärmen dient der optimalen Vorbereitung auf sportliche Aktivitäten, ind
 - **Stoffwechsel** und **Sauerstoffaufnahme** werden optimiert.
 - **Durchblutung** der Muskulatur erhöht sich um 400%.
 - **Dehnfähigkeit** und **Kontraktionsfähigkeit** der Muskeln steigen.
+- Atmung verbessert sich
 
 ### Psychologische Wirkungen
 
