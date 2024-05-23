@@ -637,3 +637,4 @@ persönliche Intrigen um Hindesburg
 
 30.Januar 1933
 "legale" Ernennung Adolfs zum Reichskanzler einer rechten Koalitionsregierung 
+![[Pasted image 20240523085416.png]]

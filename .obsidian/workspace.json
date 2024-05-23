@@ -34,6 +34,26 @@
             }
           },
           {
+            "id": "4084d82f5032b5eb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Geschichte/files/Pasted image 20240523085416.png"
+              }
+            }
+          },
+          {
+            "id": "bf3da7b42f13265e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Geschichte/files/Pasted image 20240523085416.png"
+              }
+            }
+          },
+          {
             "id": "6511d196065e27b8",
             "type": "leaf",
             "state": {
@@ -70,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Geschichte/files/Pasted image 20240523085416.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Geschichte/files/Pasted image 20240523085416.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Geschichte.md"
+                "file": "Geschichte/files/Pasted image 20240523085416.png"
               }
             }
           },
@@ -240,11 +260,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ce9a209d8bc956a0",
+  "active": "4084d82f5032b5eb",
   "lastOpenFiles": [
-    "Mathe/Stochhastik.md",
-    "sport.md",
     "Geschichte/Geschichte.md",
+    "sport.md",
+    "Geschichte/files/Pasted image 20240523085416.png",
+    "Geschichte/files/Pasted image 20240523085342.png",
+    "Mathe/Stochhastik.md",
     "Sozialkunde/UNO Vortrag.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
@@ -275,12 +297,9 @@
     "Geschichte/Biedermeier Kunst 19.J.H..md",
     "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
     "Geschichte/Die Französische Revolution - Auftakt zur Modernen Gesellschaft in Europa.md",
-    "Geschichte/Die Revolution 1848-49.md",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
     "Excalidraw/Kombinatorik.png",
-    "Excalidraw/files/Pasted Image 20240514112833_827.png",
-    "Excalidraw/files/Pasted Image 20240514111558_132.png",
     "Englisch/Timeline.canvas",
     "DVT/files",
     "Physik/Energie.canvas",
