@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "DVT/IP-Adressierung und Subnetting.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "DVT/IP-Adressierung und Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "DVT/IP-Adressierung und Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md"
+                "file": "DVT/IP-Adressierung und Subnetting.md"
               }
             }
           },
@@ -262,6 +262,8 @@
   },
   "active": "6511d196065e27b8",
   "lastOpenFiles": [
+    "DVT/Netzwerktechnik.md",
+    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Sozialkunde/phi.md",
     "Sozialkunde/UNO Vortrag.md",
@@ -288,7 +290,6 @@
     "DVT/files/Pasted image 20240517113630.png",
     "DVT/files/Pasted image 20240517112123.png",
     "Englisch/Summary.md",
-    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Excalidraw/Philo Platon.md",
     "Geschichte/Kampf um die Republik.md",
     "Geschichte/Wartburg-fest und seine Folgen.md",
@@ -297,7 +298,6 @@
     "Geschichte/Wilhelm II.md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Biedermeier Kunst 19.J.H..md",
-    "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
     "Excalidraw/Kombinatorik.png",
