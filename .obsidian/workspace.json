@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md",
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md"
+                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md"
               }
             }
           },
@@ -262,12 +262,14 @@
   },
   "active": "6511d196065e27b8",
   "lastOpenFiles": [
+    "Philosophie/Was soll ich tun? - Ethik.md",
+    "Sozialkunde/phi.md",
+    "Sozialkunde/UNO Vortrag.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Geschichte.md",
     "sport.md",
     "Geschichte/files/Pasted image 20240523085342.png",
     "Mathe/Stochhastik.md",
-    "Sozialkunde/UNO Vortrag.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Geschichte/files/Pasted image 20240522112826.png",
@@ -296,7 +298,6 @@
     "Geschichte/Untitled.canvas",
     "Geschichte/Biedermeier Kunst 19.J.H..md",
     "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
-    "Geschichte/Die Französische Revolution - Auftakt zur Modernen Gesellschaft in Europa.md",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
     "Excalidraw/Kombinatorik.png",

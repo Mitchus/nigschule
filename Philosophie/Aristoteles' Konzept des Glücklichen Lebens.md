@@ -157,3 +157,8 @@ Ergebnis: Durch Nachdenken über alle vermeintlichen Wahrheiten, durch den Metho
 
 Ich denke, also bin ich
 Durch dass Denken, die Tätigkeit der Seele begründet sich die Existenz, nicht durch den Körper, der eine Fiktion sein kann.
+Rationalismus
+Welt als Konstruktion der Vernunft
+"denkende Ich" als Ausgangspunkt
+Reine Desearts angeborene Ideen als Grundlage für Wissen (alles) 
+denkende ich Zweifelt Methodisch  an dem was wir bisher als Wahrheit angenommen haben
