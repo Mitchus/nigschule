@@ -19,4 +19,4 @@ linke Hand
 Lorenzkraft
 $F=B* \frac{Q}{t}*l$
 $F_{L}=B* Q*v=$ Lorenzkraft
-Kraft auf eine Ladung !, die sich der Gesch
+Kraft auf eine Ladung !, die sich der Geschwindigkeit v in einem Magnetfeld der Stärke B bewegt.
