@@ -70,9 +70,12 @@
             "id": "aa11f92325cfed8e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Physik/Magnets.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -166,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Physik/Magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Physik/Magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Physik/Magnets.md"
               }
             }
           },
@@ -272,6 +275,7 @@
   },
   "active": "aa11f92325cfed8e",
   "lastOpenFiles": [
+    "Excalidraw/Kombinatorik.md",
     "Mathe/Stochhastik.md",
     "Sozialkunde/UNO Vortrag.md",
     "DVT/IP-Adressierung und Subnetting.md",
@@ -293,7 +297,6 @@
     "Englisch/How to analyse the atmosphere.md",
     "Englisch/Adolescence.md",
     "Englisch/Analysis of Selin's Perception of Harvard in \"The Idiot\" by Elif Batuman.md",
-    "Excalidraw/Kombinatorik.md",
     "Mathe/Mathe Aufgaben.md",
     "DVT/files/Pasted image 20240521095704.png",
     "DVT/files/Pasted image 20240517114058.png",
