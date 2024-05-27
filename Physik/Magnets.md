@@ -16,3 +16,7 @@ linke Hand
 2. Finger zeigen von + nach - Technische Stromrichtung
 3. Der Daumen zeigt in Richtung der Kraft
 
+Lorenzkraft
+$F=B* \frac{Q}{t}*l$
+$F_{L}=B* Q*v=$ Lorenzkraft
+Kraft auf eine Ladung !, die sich der Gesch
