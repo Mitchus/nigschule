@@ -59,10 +59,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md",
+                "file": "Mathe/Stochhastik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "aa11f92325cfed8e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Kombinatorik.md"
               }
             }
           },
@@ -90,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/UNO Vortrag.md"
+                "file": "Excalidraw/Kombinatorik.md"
               }
             }
           },
@@ -260,19 +270,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6511d196065e27b8",
+  "active": "aa11f92325cfed8e",
   "lastOpenFiles": [
+    "Mathe/Stochhastik.md",
+    "Sozialkunde/UNO Vortrag.md",
     "DVT/IP-Adressierung und Subnetting.md",
     "DVT/Netzwerktechnik.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Sozialkunde/phi.md",
-    "Sozialkunde/UNO Vortrag.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Geschichte.md",
     "sport.md",
     "Geschichte/files/Pasted image 20240523085342.png",
-    "Mathe/Stochhastik.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Geschichte/files/Pasted image 20240522112826.png",
