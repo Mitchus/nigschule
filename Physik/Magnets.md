@@ -15,3 +15,4 @@ linke Hand
 1. Magnetfeldlinien zeigen in die Handfläche
 2. Finger zeigen von + nach - Technische Stromrichtung
 3. Der Daumen zeigt in Richtung der Kraft
+
