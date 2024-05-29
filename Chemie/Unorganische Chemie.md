@@ -392,7 +392,7 @@ fördert Reaktionen wo die Anzahl der Gasteilchen zunimmt -> Hin gefordert -> 1m
 Heizwert= $\ce{ \Delta rH(g)*n }$
 Brennwert= $\ce{ \Delta rH(l)*n }$
 Festes Kaliumhydroxid wird in Salpetersäure gelöst
-
+$\ce{ H_{2} }$
 
 Base + Säure -> Salz + Wasser
 $\ce{ KOH_{(s)}+HNO_{3(aq)}->KNO_{3(aq)}+H_{2}O_{(l)} }$

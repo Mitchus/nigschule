@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Magnets.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -275,6 +275,7 @@
   },
   "active": "aa11f92325cfed8e",
   "lastOpenFiles": [
+    "Physik/Magnets.md",
     "Excalidraw/Kombinatorik.md",
     "Mathe/Stochhastik.md",
     "Sozialkunde/UNO Vortrag.md",
@@ -310,7 +311,6 @@
     "Geschichte/Verfassung 1791.md",
     "Geschichte/Wilhelm II.md",
     "Geschichte/Untitled.canvas",
-    "Geschichte/Biedermeier Kunst 19.J.H..md",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
     "Excalidraw/Kombinatorik.png",
