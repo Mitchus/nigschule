@@ -638,3 +638,25 @@ persönliche Intrigen um Hindesburg
 30.Januar 1933
 "legale" Ernennung Adolfs zum Reichskanzler einer rechten Koalitionsregierung 
 ![[Pasted image 20240523085416.png]]
+
+Ursachen des Aufstieges der NSDAP
+
+1928 2.6%
+Anwachsen sozialer Not und Arbeitslosigkeit (WWirtschaftskrise)
+Antirepublikanische Handlung großer Teile der Beamten, Richter, Polizei, Reichswehr,
+Demagogische Versprechungen:
+Wiederherstellung der nationalen Größe
+Lebensraum im Osten
+Stärkung des Militärs
+
+1930 18.3%
+Nationalistische und antisemitische Traditionen in der Gesellschaft, Angst vor "Überfremdung"
+
+Finanzielle Millionenunterstützung durch viele Industrielle und Bankiers
+Uneinigkeit der politischen linken
+Unterschätzung der Faschistischen Gefahr
+SPD KPD
+
+Straffe Organisationen der Partei, paramillitärische Verbände
+
+1932 37.4%

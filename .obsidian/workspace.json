@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Geschichte/Geschichte.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Geschichte/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Geschichte/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Geschichte/Geschichte.md"
               }
             }
           },
@@ -275,6 +275,7 @@
   },
   "active": "aa11f92325cfed8e",
   "lastOpenFiles": [
+    "Chemie/Unorganische Chemie.md",
     "Physik/Magnets.md",
     "Excalidraw/Kombinatorik.md",
     "Mathe/Stochhastik.md",
@@ -288,7 +289,6 @@
     "Geschichte/Geschichte.md",
     "sport.md",
     "Geschichte/files/Pasted image 20240523085342.png",
-    "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Geschichte/files/Pasted image 20240522112826.png",
     "Geschichte/files/Pasted image 20240522112823.png",
