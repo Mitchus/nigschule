@@ -413,7 +413,15 @@ Das Massenwirkungsgesetz (MWG)
 beschreibt ein bestimmtes Verhältnis der Konzentrationen der Reaktionspartner im GG
 K... Gleichgewichtskonstant
 $\ce{ 2A + 2B <-->C + D }$
-$K=\frac{C_{C}*C_{D}}{C²_{A}*C²_{B}}$
-mol²/l²
+$K_{C}=\frac{C_{C}*C_{D}}{C²_{A}*C²_{B}}$
 
-C2H * I  /  
+
+
+$\ce{ H_{2} +I_{2} <--> 2HI}$
+$K_{C}=\frac{C²_{HI}}{C_{H_{2}}*C_{I_{2}}}$
+%
+$\ce{ N_{2}O_{4}<-->2NO_{2} }$
+$K_{C}=\frac{C²_{NO_{3}}}{C_{N_{2}O_{4}}}$
+mol/l
+
+$\ce{ 2SO_{2}+O_{2} <--> 2 }$
