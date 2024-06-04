@@ -438,3 +438,14 @@ KC
 
 
 ![[Pasted image 20240604102918.png]]
+														T
+KC ist immer Temperaturabhängig 
+je größer $K_{C}$ umso weiter in Richtung der EP
+verschiebt sich das GG
+
+DasMWG beim Erstergleichgewicht
+Säure + Alkohol $\ce{ <--> }$Ester + Wasser
+Stoffe kommen alle im Mengenverhältnis 1:1 vor
+alle Stoffe sind flüssig ich darf statt c (Konz.) n(Stoffmenge) einsetzen
+
+Propansäure + Propanol $\ce{ <--> }$Propansäurepropylester + Wasser
