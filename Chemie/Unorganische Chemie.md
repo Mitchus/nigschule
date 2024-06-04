@@ -408,4 +408,12 @@ C up eines Ausgangstoffes:
     Rückreaktion wird gefördert -> GG verschiebt sch nach links -> es wird weniger co gebildet / der vorgang ist langsamer rückreaktion aber nicht
    Cup eines Endproduktes:
     Rückreaktion wird gefördert -> GG verschiebt sch nach links -> es wird weniger co gebildet / der vorgang ist langsamer rückreaktion aber nicht
-    
+
+Das Massenwirkungsgesetz (MWG) 
+beschreibt ein bestimmtes Verhältnis der Konzentrationen der Reaktionspartner im GG
+K... Gleichgewichtskonstant
+$\ce{ 2A + 2B <-->C + D }$
+$K=\frac{C_{C}*C_{D}}{C²_{A}*C²_{B}}$
+mol²/l²
+
+C2H * I  /  
