@@ -36,3 +36,17 @@
 1. **Verkauf von Baumaterialien**: Umsätze aus dem Verkauf von Holz, Zement, Farbe usw.
 2. **Verleih von Werkzeugen**: Einnahmen aus der Vermietung von Bohrmaschinen, Sägen usw.
 3. **Dienstleistungen**: Einnahmen aus Montageservices oder Beratungsleistungen im Laden.
+
+KLR
+Kostenarten
+
+nach Verbrauchsart
+Matenalkosten
+Fertigungskosten
+Personalkosten
+Abschreibungskosten
+nach zurechenarten der Einzelkosten
+Einzelkosten Gemeinkosten
+nach Ausbringungsmenge
+fixen Kosten
+variable Kosten
