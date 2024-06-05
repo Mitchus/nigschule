@@ -666,4 +666,11 @@ Kanzler, Verträge, Pakte,
 
 
 NSDAP:
-Plak
+Das Plakat stellt Hitler dramatisch als Wahrung vor dem "Ende" da
+
+SDP:
+Warnt vor der NSDAP, indem ein Arbeiter ans Hakenkreuz gefesselt wurde
+
+Zentrum:
+Bietet Schutz als Bollwerk, fordert Ordnung gegen Straße Kämpfe und Freiheit durch das Ende des Versailler Vertrages
+	
