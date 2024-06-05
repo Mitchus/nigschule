@@ -660,3 +660,10 @@ SPD KPD
 Straffe Organisationen der Partei, paramillitärische Verbände
 
 1932 37.4%
+GE Test:
+Kanzler, Verträge, Pakte, 
+
+
+
+NSDAP:
+Plak
