@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Geschichte.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -206,11 +206,11 @@
   },
   "active": "1e94b6dc1eea3b57",
   "lastOpenFiles": [
+    "Geschichte/Geschichte.md",
     "Geschichte/Facharbeit.md",
     "Geschichte/Kampf um die Republik.md",
     "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
     "Geschichte/Verfassung 1791.md",
-    "Geschichte/Geschichte.md",
     "Mathe/Deutsch GPT-Gedicht.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/files/Pasted image 20240604102918.png",

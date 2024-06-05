@@ -443,7 +443,7 @@ KC ist immer Temperaturabhängig
 je größer $K_{C}$ umso weiter in Richtung der EP
 verschiebt sich das GG
 
-DasMWG beim Erstergleichgewicht
+DasMWG beim Erstergleichgewichtdw
 Säure + Alkohol $\ce{ <--> }$Ester + Wasser
 Stoffe kommen alle im Mengenverhältnis 1:1 vor
 alle Stoffe sind flüssig ich darf statt c (Konz.) n(Stoffmenge) einsetzen
