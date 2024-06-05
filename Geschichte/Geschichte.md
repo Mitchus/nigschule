@@ -666,7 +666,7 @@ Kanzler, Verträge, Pakte,
 
 
 NSDAP:
-Das Plakat stellt Hitler dramatisch als Wahrung vor dem "Ende" da
+Das Plakat stellt Hitler dramatisch als Wahrung vor dem "Ende" da, andere Wahlplakate zeigen Stärke, Entschlossenheit und Arbeit 
 
 SDP:
 Warnt vor der NSDAP, indem ein Arbeiter ans Hakenkreuz gefesselt wurde
