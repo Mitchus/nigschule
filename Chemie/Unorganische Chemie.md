@@ -449,3 +449,7 @@ Stoffe kommen alle im Mengenverhältnis 1:1 vor
 alle Stoffe sind flüssig ich darf statt c (Konz.) n(Stoffmenge) einsetzen
 
 Propansäure + Propanol $\ce{ <--> }$Propansäurepropylester + Wasser
+C2H5COO(H) + C3H7(OH)  $\ce{ <--> }$ C2H5 CooC3H7 + H2O
+
+Ethansäure + Ethanol $\ce{ <--> }$ Ethansäureethylester + Wasser
+CH3COOH + C2H5OH $\ce{ <--> }$ CH3COOC2H5 + H2O
