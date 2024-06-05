@@ -454,4 +454,10 @@ C2H5COO(H) + C3H7(OH)  $\ce{ <--> }$ C2H5 CooC3H7 + H2O
 Ethansäure + Ethanol $\ce{ <--> }$ Ethansäureethylester + Wasser
 CH3COOH + C2H5OH $\ce{ <--> }$ CH3COOC2H5 + H2O
 
-Bestimmen sie die Massen in g für alle Reakt.teilnehmer im 
+Methansäure + Methanol -> 
+HCOOH      CH3OH            -> HCOOCH3  +    H2O
+0.9             0.9                                                  
+0.3mol             0.3mol                           0.6mol                     0.6mol
+KC = 4
+13.8g        9.6g                               36.06g          0.6g
+20%
