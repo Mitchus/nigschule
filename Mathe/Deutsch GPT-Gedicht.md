@@ -23,3 +23,7 @@ In diesem Zauber, sanft und rein und pur.
 - Verwendet Symbolik und Metaphern aus der Natur
 - Betont individuelle Erfahrung und Ausdruck der Gefühle
 - Reflektiert Sensibilität und innere Empfindungen, charakteristisch für die Weimarer Klassik
+
+
+
+Das Gedicht handelt von 2 Gesellen, welche verschiedene Lebenswege eingeschlagen haben. Der erste findet sein Glück indem er beschieden mit Liebe lebt und der andere verfällt den Versuchungen und hat ein abenteuerliches Leben. 

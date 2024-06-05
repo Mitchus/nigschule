@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Mathe/Deutsch GPT-Gedicht.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Mathe/Deutsch GPT-Gedicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Mathe/Deutsch GPT-Gedicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Mathe/Deutsch GPT-Gedicht.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "1e94b6dc1eea3b57",
   "lastOpenFiles": [
+    "Chemie/Unorganische Chemie.md",
     "Chemie/files/Pasted image 20240604102918.png",
     "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
     "Mathe/Untitled.md",
@@ -214,7 +215,6 @@
     "sport.md",
     "Mathe/Stochhastik.md",
     "Geschichte/Geschichte.md",
-    "Chemie/Unorganische Chemie.md",
     "Physik/Magnets.md",
     "Excalidraw/Kombinatorik.md",
     "Sozialkunde/UNO Vortrag.md",
@@ -244,7 +244,6 @@
     "Geschichte/Untitled.canvas",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
-    "Excalidraw/Kombinatorik.png",
     "Englisch/Timeline.canvas",
     "DVT/files",
     "Physik/Energie.canvas",
