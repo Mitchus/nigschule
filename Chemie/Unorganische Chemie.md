@@ -459,5 +459,5 @@ HCOOH      CH3OH            -> HCOOCH3  +    H2O
 0.9             0.9                                                  
 0.3mol             0.3mol                           0.6mol                     0.6mol
 KC = 4
-13.8g        9.6g                               36.06g          0.6g
-20%
+13.8g        9.6g                               36.06g          0.6               10.8
+
