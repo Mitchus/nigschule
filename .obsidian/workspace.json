@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
-                "mode": "preview",
+                "file": "Englisch/Mediationsss.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Englisch/Mediationsss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+                "file": "Englisch/Mediationsss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md"
+                "file": "Englisch/Mediationsss.md"
               }
             }
           },
@@ -206,6 +206,8 @@
   },
   "active": "1e94b6dc1eea3b57",
   "lastOpenFiles": [
+    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
+    "Englisch/Mediationsss.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Chemie/Unorganische Chemie.md",
     "Geschichte/Geschichte.md",
@@ -225,7 +227,6 @@
     "Sozialkunde/UNO Vortrag.md",
     "DVT/IP-Adressierung und Subnetting.md",
     "DVT/Netzwerktechnik.md",
-    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Sozialkunde/phi.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/files/Pasted image 20240523085342.png",
@@ -237,7 +238,6 @@
     "Englisch/Noten.md",
     "Englisch/How to analyse the atmosphere.md",
     "Englisch/Adolescence.md",
-    "Englisch/Analysis of Selin's Perception of Harvard in \"The Idiot\" by Elif Batuman.md",
     "DVT/files/Pasted image 20240521095704.png",
     "DVT/files/Pasted image 20240517114058.png",
     "DVT/files/Pasted image 20240517113630.png",
