@@ -1,3 +1,4 @@
+Michel Nowacki
 Ladies and Gentlemen,
 
 Today, I would like to address the issue of consumer habits in the fashion industry and explore new approaches emerging in Germany to combat the effects of fast fashion.
@@ -6,7 +7,7 @@ Today, I would like to address the issue of consumer habits in the fashion indus
 
 On average, every German purchases 60 new items of clothing annually. Shockingly, only a small fraction of this ever-growing clothing mountain is worn regularly. This phenomenon, known as "Fast Fashion," involves the rapid production and consumption of fashion items, with trends changing at an increasingly rapid pace. High-street giants such as H&M and Zara change their collection up to 24 times yearly, prompting consumers to buy more frequently.
 
-However, this comes with significant social and environmental costs. For instance, from a shirt priced at 29 euros in Germany, only 18 cents go to the workers involved in its production, according to the Clean Clothes Campaign. It is not surprising that about 40% of the clothes we purchase are seldom or never worn, leading to a quicker disposal rate and shorter usage duration compared to 15 years ago. Germany alone sends a staggering one million tons of textiles to clothing collection points annually.
+However, this comes with significant social and environmental costs. For instance, from a shirt priced at 29 euros in Germany, only 18 cents go to the workers involved in its production, according to the Clean Clothes Campaign. It is not surprising that about 40% of the clothes we purchase are thrown away or never worn, leading to a quicker disposal rate and shorter usage duration compared to 15 years ago. Germany alone sends a staggering one million tons of textiles to clothing collection points annually.
 
 **2. Innovations and Combating Fast Fashion**
 In response to the wastefulness of fast fashion, there has been a noticeable shift towards the sharing economy within the fashion sector. Here's how:
