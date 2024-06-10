@@ -72,4 +72,11 @@ Induktionsgesetz
 hängt von der Richtung der Änderung der Stärke des Magnetfeldes ab
 Die Induktionsspannung ist umso größer je schneller sich das Magnetfeld ändert
 
-In einem Homogenen Magnetfeld, der Flussdichte 0.2Tesla 
+In einem Homogenen Magnetfeld, der Flussdichte 0.2Tesla befindet sich senkrecht zu den Feldlinien eine Kreisförmige Leiterschleife mit dem Radius 4.5cm und einem Wiederstand von 0.32 Ohm
+	Die Magnetische Flussdichte nimmt linear in 3ms auf 0 ab
+	Welcher Strom fließt während dieses Vorgangs durch die Leiterschleife
+B= 0.2T
+r= 4.5cm
+R=0.32Ohm
+t=3 * 10⁻³s
+ges: J
