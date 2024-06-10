@@ -36,10 +36,22 @@ b) A
 $n=\frac{B*l}{M_{o}*I}$
 $n=\frac{1.5*10⁻¹ \frac{Vs}{m²}*20*10⁻²m}{1.26 \frac{Vs}{Am} * 10⁻ * 6A* }$
 n= 397
-$R=P_{cu}* \frac{m}{A}$
-$R=1.68*10⁻⁸$
+$R=P_{cu}* \frac{l_{d}}{A}$
+$R=1.68*10⁻⁸* \frac{62.53m}{1.96*10⁻⁷m²}$
+$R=5.37\Omega$
 $A=\pi* \left( \frac{D}{2} \right)²$
-$A=\pi*0.00025²$
+$A=\pi*0.00025m²$
 $A=1.96*10⁻⁷m²$
-$l_{d}=N*\pi*D$
+$l_{d}=N*\pi*d_{s}$
 $l_{d}=62.53m$
+$u=5.37 \frac{V}{A}*6A$
+$u=32.22V$
+
+
+In einer Luftgefüllten Spule, 
+mit 500 Windungen,
+und Länge 8cm,
+soll ein Magnetisches Feld der Flussdichte 2 * 10⁻³Tesla erzeugt werden
+500 Windungen
+
+Welchen Querschnitt muss der Spulendraht haben wenn er aus Kupfer ist, eine länge von 2m hat und an den Spulenenden eine Spannung von 12V angelegt wird.
