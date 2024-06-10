@@ -66,3 +66,8 @@ Stromdurchflossene Leiter erzeugen ein Magnetfeld
 Frage:
 Leiter des elektrischen Stromes können Veränderliche Magnetfelder erzeugen (1822-31) 
 Leiter (Spule), Strommessgerät, Dauermagnet, Elektromagnet
+
+Induktionsgesetz
+Ändert sich das ein Spuledurchsetzende Magnetfeld, so wird in der Spule eine Spannung induziert 
+hängt von der Richtung der Änderung der Stärke des Magnetfeldes ab
+Die Induktionsspannung ist umso größer je schneller sich das Magnetfeld ändert
