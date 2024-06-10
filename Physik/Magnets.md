@@ -71,3 +71,5 @@ Induktionsgesetz
 Ändert sich das ein Spuledurchsetzende Magnetfeld, so wird in der Spule eine Spannung induziert 
 hängt von der Richtung der Änderung der Stärke des Magnetfeldes ab
 Die Induktionsspannung ist umso größer je schneller sich das Magnetfeld ändert
+
+In einem Homogenen Magnetfeld, der Flussdichte 0.2Tesla 
