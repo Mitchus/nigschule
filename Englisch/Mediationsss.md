@@ -31,3 +31,8 @@ The German landscape offers a progressive model in tackling fast fashion through
 As members of an international group committed to changing consumer habits, we can draw valuable lessons from these examples. By supporting and promoting such initiatives globally, we can collectively make a significant impact on our planet’s well-being.
 
 Thank you for your attention.
+
+Rechnerarchitekturen
+Serieller Monitor, LED_Leiste, LCDisplay, Tasterleiste
+Basic Syntax
+
