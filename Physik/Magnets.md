@@ -64,4 +64,5 @@ $F=B*I*l$
 Elektromagnetische Induktion
 Stromdurchflossene Leiter erzeugen ein Magnetfeld
 Frage:
-Magnetfelder können in einem el. Leiter Veränderliche Magnetfelder(1822) 
+Leiter des elektrischen Stromes können Veränderliche Magnetfelder erzeugen (1822-31) 
+Leiter (Spule), Strommessgerät, Dauermagnet, Elektromagnet
