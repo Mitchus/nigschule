@@ -55,3 +55,13 @@ soll ein Magnetisches Feld der Flussdichte 2 * 10⁻³Tesla erzeugt werden
 500 Windungen
 
 Welchen Querschnitt muss der Spulendraht haben wenn er aus Kupfer ist, eine länge von 2m hat und an den Spulenenden eine Spannung von 12V angelegt wird.
+$B=2*10⁻³ T$
+$l=8cm$
+$N=500$
+$F=B*I*l$
+6.8 * 10⁻⁴ mm²
+
+Elektromagnetische Induktion
+Stromdurchflossene Leiter erzeugen ein Magnetfeld
+Frage:
+Magnetfelder können in einem el. Leiter Veränderliche Magnetfelder(1822) 
