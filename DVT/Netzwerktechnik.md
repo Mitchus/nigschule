@@ -189,3 +189,23 @@ Satellitenverbindung
 ![[Pasted image 20240313142124.png]]
 ![[Pasted image 20240313142203.png]]
 ![[Pasted image 20240313142242.png]]
+
+## Zusammenfassung
+
+- **IPv4-Adressierung und Subnetzmasken**
+  - Host benötigt IPv4-Adresse für Internetzugang
+  - Paket mit Quell- und Ziel-IPv4-Adresse
+  - IPv4-Adresse: 32 binäre Bits (vier Oktette à 8 Bit)
+  - IPv4-Adresse hierarchisch: Netzwerkteil und Hostteil
+  - Subnetzmaske: 32 Bit lang, zeigt Netzwerk- und Hostteil der IPv4-Adresse
+
+- **Arten von IPv4-Adressen**
+  - Netzklassenadressierung (1981): private Adressbereiche Klasse A, B, C
+  - Klassenlose Adressierung (CIDR)
+  - Unicast, Multicast, Broadcast
+
+- **Zuweisung von IPv4-Adressen**
+  - Statische Zuweisung: manuelle Konfiguration durch Netzwerkadministrator
+  - Automatische Zuweisung: Dynamic Host Configuration Protocol (DHCP)
+
+- **IPv4-Adress

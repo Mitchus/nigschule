@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "DVT/Netzwerktechnik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "DVT/Netzwerktechnik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "DVT/Netzwerktechnik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Magnets.md"
+                "file": "DVT/Netzwerktechnik.md"
               }
             }
           },
@@ -206,10 +206,10 @@
   },
   "active": "1e94b6dc1eea3b57",
   "lastOpenFiles": [
+    "Physik/Magnets.md",
     "Physik/Stoßvorgänge.md",
     "Physik/Mechanische Wellen.md",
     "Physik/Mechanische Arbeit.md",
-    "Physik/Magnets.md",
     "Physik/Aufgaben Seite 1.md",
     "Physik/Der Energieerhaltungssatz der Mechanik.md",
     "Physik/Mechanische Energie.md",
