@@ -685,6 +685,7 @@ Wichtige historische Ursachen für den Untergang der Republik
 - Wirtschaftliche Krisen: Hyperinflation 1923, Weltwirtschaftskrise 1929, hohe Arbeitslosigkeit.
 - Politische Gewalt und Radikalisierung: Straßenkämpfe, politische Morde, Aufstieg von NSDAP und KPD.
 - Schwache demokratische Tradition: Skepsis und Feindseligkeit der Eliten gegenüber der Demokratie.
+- 
 
 Auswirkungen des reinen Verhältniswahlrechts
 - Zersplitterung des Parlaments: Vielzahl kleiner Parteien, schwierige Koalitionsbildung.
