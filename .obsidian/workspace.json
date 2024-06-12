@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DVT/Netzwerktechnik.md",
+                "file": "Englisch/Mediationsss.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DVT/Netzwerktechnik.md",
+                "file": "Englisch/Mediationsss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DVT/Netzwerktechnik.md",
+                "file": "Englisch/Mediationsss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DVT/Netzwerktechnik.md"
+                "file": "Englisch/Mediationsss.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "1e94b6dc1eea3b57",
   "lastOpenFiles": [
+    "DVT/Netzwerktechnik.md",
     "Physik/Magnets.md",
     "Physik/Stoßvorgänge.md",
     "Physik/Mechanische Wellen.md",
@@ -232,7 +233,6 @@
     "Excalidraw/Kombinatorik.md",
     "Sozialkunde/UNO Vortrag.md",
     "DVT/IP-Adressierung und Subnetting.md",
-    "DVT/Netzwerktechnik.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/files/Pasted image 20240523085342.png",
     "Geschichte/files/Pasted image 20240522112826.png",
