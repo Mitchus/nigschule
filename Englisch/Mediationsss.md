@@ -51,7 +51,7 @@ Basic Syntax
 | - Increased trade and investment     | - Wealth disparity                                |
 | - Job creation                       | - Job losses in high-wage countries               |
 | - Innovation and technology transfer | - Exploitation of workers in developing countries |
-| **Living Standards**                 | **Cultural Erosion**                              |
+| **L11iving Standards**               | **Cultural Erosion**                              |
 | - Poverty reduction                  | - Cultural homogenization                         |
 | - Consumer benefits                  | - Loss of cultural identity                       |
 | - Economic prosperity                |                                                   |
