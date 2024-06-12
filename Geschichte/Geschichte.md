@@ -674,3 +674,20 @@ Warnt vor der NSDAP, indem ein Arbeiter ans Hakenkreuz gefesselt wurde
 Zentrum:
 Bietet Schutz als Bollwerk, fordert Ordnung gegen Straße Kämpfe und Freiheit durch das Ende des Versailler Vertrages
 	
+
+Schwächen der Verfassung und ihre Auswirkungen auf die Demokratie
+Artikel 48: Missbrauch präsidialer Notverordnungen, schwächte das Parlament.
+Mangelnde Gewaltenteilung: Starke Exekutive, schwache Legislative, instabile Regierungen.
+Proportionales Wahlsystem: Zersplittertes Parlament, schwierige Regierungsbildungen.
+
+Wichtige historische Ursachen für den Untergang der Republik
+- Versailler Vertrag: Wirtschaftliche Belastungen, nationale Demütigung, Auftrieb für Extremismus.
+- Wirtschaftliche Krisen: Hyperinflation 1923, Weltwirtschaftskrise 1929, hohe Arbeitslosigkeit.
+- Politische Gewalt und Radikalisierung: Straßenkämpfe, politische Morde, Aufstieg von NSDAP und KPD.
+- Schwache demokratische Tradition: Skepsis und Feindseligkeit der Eliten gegenüber der Demokratie.
+
+Auswirkungen des reinen Verhältniswahlrechts
+- Zersplitterung des Parlaments: Vielzahl kleiner Parteien, schwierige Koalitionsbildung.
+- Regierungsinstabilität: Häufige Kabinettswechsel, instabile Regierungen.
+- Aufstieg extremistischer Parteien: Leichter Einzug von NSDAP und KPD in den Reichstag, Radikalisierung.
+- Schwierigkeit umfassender Reformen: Fragmentiertes Parlament, mangelnde Durchsetzungskraft.

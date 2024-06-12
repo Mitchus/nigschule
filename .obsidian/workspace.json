@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Mediationsss.md",
+                "file": "Geschichte/Geschichte.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Mediationsss.md",
+                "file": "Geschichte/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Mediationsss.md",
+                "file": "Geschichte/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Mediationsss.md"
+                "file": "Geschichte/Geschichte.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "1e94b6dc1eea3b57",
   "lastOpenFiles": [
+    "Englisch/Mediationsss.md",
     "DVT/Netzwerktechnik.md",
     "Physik/Magnets.md",
     "Physik/Stoßvorgänge.md",
@@ -214,7 +215,6 @@
     "Physik/Aufgaben Seite 1.md",
     "Physik/Der Energieerhaltungssatz der Mechanik.md",
     "Physik/Mechanische Energie.md",
-    "Englisch/Mediationsss.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Chemie/Unorganische Chemie.md",
