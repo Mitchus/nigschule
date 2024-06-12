@@ -692,3 +692,42 @@ Auswirkungen des reinen Verhältniswahlrechts
 - Regierungsinstabilität: Häufige Kabinettswechsel, instabile Regierungen.
 - Aufstieg extremistischer Parteien: Leichter Einzug von NSDAP und KPD in den Reichstag, Radikalisierung.
 - Schwierigkeit umfassender Reformen: Fragmentiertes Parlament, mangelnde Durchsetzungskraft.
+
+Findet heraus, wer der Regierung unter Reichskanzler Hitler 30.Januar 1933 angehörte und bewerte die Kompetenzen und die Machtverteilung innerhalb dieser Regierung
+# Regierung unter Reichskanzler Hitler am 30. Januar 1933
+
+## Mitglieder und ihre Rollen
+
+1. **Adolf Hitler (Reichskanzler)**
+   - **Rolle:** Regierungschef
+   - **Kompetenzen:** Politische Führung
+   - **Macht:** Ultimative Entscheidungsgewalt
+
+2. **Franz von Papen (Vizekanzler)**
+   - **Rolle:** Vizekanzler
+   - **Kompetenzen:** Vermittler zwischen Hitler und konservativen Kräften
+   - **Macht:** Begrenzte Macht
+
+3. **Wilhelm Frick (Reichsminister des Innern)**
+   - **Rolle:** Innenminister
+   - **Kompetenzen:** Innere Angelegenheiten, Polizei
+   - **Macht:** Schlüsselrolle bei der Umsetzung nationalsozialistischer Politik
+
+4. **Hermann Göring (Reichskommissar für das Preußische Innenministerium)**
+   - **Rolle:** Verantwortlich für das preußische Innenministerium
+   - **Kompetenzen:** Kontrolle der preußischen Polizei, Gestapo
+   - **Macht:** Bedeutende Macht in Preußen
+
+5. **Alfred Hugenberg (Reichsminister für Wirtschaft und Landwirtschaft)**
+   - **Rolle:** Wirtschaftsminister
+   - **Kompetenzen:** Wirtschafts- und Agrarpolitik
+   - **Macht:** Beschränkter Einfluss
+
+6. **Werner von Blomberg (Reichswehrminister)**
+   - **Rolle:** Verteidigungspolitik
+   - **Kompetenzen:** Militärische Führung
+   - **Macht:** Unterstützung der NSDAP, aber gewisse Eigenständigkeit der Wehrmacht
+
+## Machtverteilung und Kompetenzenbewertung
+
+Die NSDAP und Hitler strebten danach, die totale Kontrolle zu erlangen, was durch das Ermächtigungsgesetz und andere Maßnahmen rasch gelang. Die konservativen Partner hatten nur vorübergehend Einfluss und wurden schnell marginalisiert. Hitler und seine engsten Vertrauten gewannen zunehmend die Kontrolle über alle relevanten politischen und gesellschaftlichen Bereiche.
