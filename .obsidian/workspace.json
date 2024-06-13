@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Rat der EU.md",
+                "file": "Englisch/Klausurstuff.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/Rat der EU.md",
+                "file": "Englisch/Klausurstuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/Rat der EU.md",
+                "file": "Englisch/Klausurstuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/Rat der EU.md"
+                "file": "Englisch/Klausurstuff.md"
               }
             }
           },
@@ -239,6 +239,8 @@
   },
   "active": "e81e16f60b5073f5",
   "lastOpenFiles": [
+    "Sozialkunde/Rat der EU.md",
+    "Englisch/Klausurstuff.md",
     "Geschichte/Geschichte.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Karl Marx.md",
@@ -267,7 +269,6 @@
     "Mathe/Deutsch GPT-Gedicht.md",
     "Chemie/files/Pasted image 20240604102918.png",
     "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
-    "Mathe/Untitled.md",
     "Geschichte/files/Pasted image 20240523085342.png",
     "Geschichte/files/Pasted image 20240522112826.png",
     "Geschichte/files/Pasted image 20240522112823.png",
