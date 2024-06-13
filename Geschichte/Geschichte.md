@@ -731,3 +731,22 @@ Findet heraus, wer der Regierung unter Reichskanzler Hitler 30.Januar 1933 angeh
 ## Machtverteilung und Kompetenzenbewertung
 
 Die NSDAP und Hitler strebten danach, die totale Kontrolle zu erlangen, was durch das Ermächtigungsgesetz und andere Maßnahmen rasch gelang. Die konservativen Partner hatten nur vorübergehend Einfluss und wurden schnell marginalisiert. Hitler und seine engsten Vertrauten gewannen zunehmend die Kontrolle über alle relevanten politischen und gesellschaftlichen Bereiche.
+
+Die NSDAP
+Ziele der NSDAP
+Ein Volk ein Reich ein Führer 
+- Großdeutschland
+- Führerstaat
+- Antisemitismus
+- Unterdrückung, politischer Gegner (vor allem Marxismus, Sozialdemokratie, Arbeiterbewegung)
+Mittel:
+Abschaffung der parlamentarischen Demokratie (z.B. durch das Ermächtigungsgesetz Gesetzgebung durch den Führer) und der unabhängigen Justiz
+Verbot und Vernichtung der politischen Parteien, enge Verschränkung von Partei (NSDAP) und Staat
+Angst und Einschüchterung, Feinbilder -> Sündenbockmechanismus
+politische und physische Gewalt: Terror und Unterdrückung nach innen und Aggression nach außen
+
+Entwicklung der NSDAP 1919- 1933
+1.Phase 1919-1923 Gründung der NSDAP von durch die Folgen des Ersten Weltkrieges unzufriedenen Leuten (Soldaten, Arbeiter Mittelstand)
+Ziel: Macherlangung auf gewaltsame Wege, keine Beteiligung an Wahlen
+starker Mitgliederzuwachs durch die wirtschaftlich und politisch Instabile  Verhältnisse
+1923 (Marsch auf die Feldherrnhallte) Putschversuch in München scheitert
