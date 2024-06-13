@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Sozialkunde/Rat der EU.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Sozialkunde/Rat der EU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Sozialkunde/Rat der EU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Geschichte.md"
+                "file": "Sozialkunde/Rat der EU.md"
               }
             }
           },
@@ -239,8 +239,8 @@
   },
   "active": "e81e16f60b5073f5",
   "lastOpenFiles": [
-    "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Geschichte.md",
+    "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Karl Marx.md",
     "Geschichte/Kampf um die Republik.md",
     "Geschichte/Noten.md",
