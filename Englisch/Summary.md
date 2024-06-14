@@ -71,28 +71,53 @@ telling storys about the exploitet shein workers embedding help mesages in their
 - **Electoral Victories and Referendums:**
 ## Economic Developments
 - **Global Economic Order Establishment:**
-  - 
+  - Post-WWII Bretton Woods conference established open markets and free trade.
+  - Creation of institutions: IMF, World Bank, precursor to WTO.
+  - Belief in global integration promoting peace and prosperity.
+
 - **Shift in Economic Power:**
-  - 
+  - 1960s collapse of fixed exchange rates and unpegging of the dollar from gold.
+  - Increased global capital mobility.
+  - Entry of China into global trade (1978) and collapse of the Soviet Union (1989).
 
 - **Wealth Redistribution:**
-  - 
+  - Capital mobility favored corporations; labor remained fixed.
+  - Shift of manufacturing from high-wage Western countries to low-wage East Asia.
+  - Western working-class decline vs. rising Chinese prosperity.
+
 ## Social and Cultural Developments
 - **Cultural Exchange:**
-  - 
+  - Increased cultural diversity and cosmopolitanism.
+  - Fear and resentment towards immigrants and foreign cultures.
+
 - **Rise of Religious Fundamentalism:**
-  - 
+  - Increase in religious fundamentalism as a response to cultural globalization.
+  - Examples: BJP in India, fundamentalist movements in various religions.
+
 ## Political and Social Backlash
 - **Nationalism and Xenophobia:**
-  - 
+  - Rise of nationalism with xenophobic elements in Europe and the US.
+  - Politicians exploiting fears of immigration and cultural changes.
+
 - **Economic Dislocation:**
-  - 
+  - Western working-class affected by factory closures and job losses.
+  - Weak safety nets and limited job retraining in countries like the US.
+
 ## Institutional and Political Developments
 - **Expansion of Free Markets:**
-  - 
+  - Trade agreements such as NAFTA (1994).
+  - European Union's development from the Treaty of Rome (1957) to a single market.
+
 - **EU Enlargement Challenges:**
-  - 
+  - Movement of people from poorer to richer EU countries.
+  - Resistance to further EU enlargement due to economic and social strains.
+
 ## Reclaiming Globalization
 - **Guiding Globalization:**
-  - 
+  - Emphasis on shaping globalization towards just and fair outcomes.
+  - Addressing cultural connections and social traditions.
+  - Importance of creating a connected, sustainable, and peaceful world.
+
 *Article by John Rennie Short, republished with permission from The Conversation.*
+
+rise
