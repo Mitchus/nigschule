@@ -64,3 +64,35 @@ bc the sterotype is that women spend way more money on clothes, but in reality m
 calls to action by meaning that we can change smth(false), 
 telling storys about the exploitet shein workers embedding help mesages in their clothes and the burned down factoryy killing a thousand
 
+
+# Outline of Developments Leading to the Backlash Against Globalization
+
+## Political Developments
+- **Electoral Victories and Referendums:**
+## Economic Developments
+- **Global Economic Order Establishment:**
+  - 
+- **Shift in Economic Power:**
+  - 
+
+- **Wealth Redistribution:**
+  - 
+## Social and Cultural Developments
+- **Cultural Exchange:**
+  - 
+- **Rise of Religious Fundamentalism:**
+  - 
+## Political and Social Backlash
+- **Nationalism and Xenophobia:**
+  - 
+- **Economic Dislocation:**
+  - 
+## Institutional and Political Developments
+- **Expansion of Free Markets:**
+  - 
+- **EU Enlargement Challenges:**
+  - 
+## Reclaiming Globalization
+- **Guiding Globalization:**
+  - 
+*Article by John Rennie Short, republished with permission from The Conversation.*
