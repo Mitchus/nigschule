@@ -160,4 +160,4 @@ graph TD;
 Immanuel Kant 
 Gedanken ohne Anschauschauung sind leer, Anschuungen, ohne Begriffe sind blind.
 Kritik Kant an der bisherigen Diskusion der erkenntnistheoretischen Positionen des Rationalismus und des Empirismus
-Prozentual ist die Erkenntnis für Kant, da das Erkenntnisvermögen als Struktur der Welt zu verstehen ist.
+transzendental ist die Erkenntnis für Kant, da das Erkenntnisvermögen als Struktur der Welt zu verstehen ist.
