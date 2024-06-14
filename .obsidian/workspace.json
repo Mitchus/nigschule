@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Klausurstuff.md",
+                "file": "Philosophie/Was soll ich tun? - Ethik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Klausurstuff.md",
+                "file": "Philosophie/Was soll ich tun? - Ethik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Klausurstuff.md",
+                "file": "Philosophie/Was soll ich tun? - Ethik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Klausurstuff.md"
+                "file": "Philosophie/Was soll ich tun? - Ethik.md"
               }
             }
           },
@@ -239,8 +239,9 @@
   },
   "active": "e81e16f60b5073f5",
   "lastOpenFiles": [
-    "Sozialkunde/Rat der EU.md",
+    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Englisch/Klausurstuff.md",
+    "Sozialkunde/Rat der EU.md",
     "Geschichte/Geschichte.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Karl Marx.md",
@@ -263,7 +264,6 @@
     "Physik/Aufgaben Seite 1.md",
     "Physik/Der Energieerhaltungssatz der Mechanik.md",
     "Physik/Mechanische Energie.md",
-    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Geschichte/Facharbeit.md",
     "Mathe/Deutsch GPT-Gedicht.md",
