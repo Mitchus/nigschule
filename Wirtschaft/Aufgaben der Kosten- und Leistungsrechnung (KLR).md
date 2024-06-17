@@ -48,5 +48,5 @@ Abschreibungskosten
 nach zurechenarten der Einzelkosten
 Einzelkosten Gemeinkosten
 nach Ausbringungsmenge
-fixen Kosten
+fixe Kosten
 variable Kosten
