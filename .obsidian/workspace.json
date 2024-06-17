@@ -50,9 +50,12 @@
             "id": "d05234dfcf1018f9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Mathestuff.md"
+                "file": "Physik/Magnets.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -146,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Mathestuff.md",
+                "file": "Physik/Magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Mathestuff.md",
+                "file": "Physik/Magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Mathestuff.md"
+                "file": "Physik/Magnets.md"
               }
             }
           },
@@ -253,11 +256,11 @@
   },
   "active": "d05234dfcf1018f9",
   "lastOpenFiles": [
+    "Excalidraw/Mathestuff.md",
     "Mathe/Stochhastik.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Mathe/Untitled.md",
     "Excalidraw/Chemab.md",
-    "Excalidraw/Mathestuff.md",
     "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
     "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
     "Englisch/Summary.md",
