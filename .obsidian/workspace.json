@@ -52,7 +52,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-17 11.45.04.excalidraw.md"
+                "file": "Excalidraw/Mathestuff.md"
               }
             }
           },
@@ -70,9 +70,12 @@
             "id": "a6fc5e22bf962fff",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Chemab.md"
+                "file": "Mathe/Stochhastik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -143,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-17 11.45.04.excalidraw.md",
+                "file": "Excalidraw/Mathestuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-17 11.45.04.excalidraw.md",
+                "file": "Excalidraw/Mathestuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-17 11.45.04.excalidraw.md"
+                "file": "Excalidraw/Mathestuff.md"
               }
             }
           },
@@ -250,8 +253,12 @@
   },
   "active": "d05234dfcf1018f9",
   "lastOpenFiles": [
+    "Mathe/Stochhastik.md",
+    "Geschichte/files/Pasted image 20240523085416.png",
+    "Mathe/Untitled.md",
+    "Excalidraw/Chemab.md",
+    "Excalidraw/Mathestuff.md",
     "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
-    "Excalidraw/Drawing 2024-06-17 11.45.04.excalidraw.md",
     "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
     "Englisch/Summary.md",
     "Englisch/Charakterisierung.md",
@@ -266,7 +273,6 @@
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Sozialkunde/Rat der EU.md",
     "Geschichte/Geschichte.md",
-    "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Karl Marx.md",
     "Geschichte/Kampf um die Republik.md",
     "Geschichte/Noten.md",
@@ -274,11 +280,7 @@
     "Geschichte/Untitled.canvas",
     "Geschichte/Verfassung 1791.md",
     "Geschichte/Wilhelm II.md",
-    "Geschichte/Wartburg-fest und seine Folgen.md",
-    "Excalidraw/Chemab.md",
-    "Chemie/Unorganische Chemie.md",
     "Excalidraw/files/Pasted Image 20240613074239_831.png",
-    "DVT/Netzwerktechnik.md",
     "Chemie/files/Pasted image 20240604102918.png",
     "Geschichte/files/Pasted image 20240523085342.png",
     "Geschichte/files/Pasted image 20240522112826.png",
