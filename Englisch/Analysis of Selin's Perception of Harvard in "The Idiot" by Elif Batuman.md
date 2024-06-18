@@ -31,14 +31,18 @@ Overall, Selin's portrayal in this passage suggests a profound disappointment ra
 13. assault
 14. domnestic
 15. sterotypes
-# Comment on the Claim: "Although there may be some minor disadvantages, the benefits of globalization for humankind as a whole outweigh them by far"
 
-Globalization brings significant benefits. It boosts economic growth and build Trade world-wide, lifting millions out of poverty and improving living standards worldwide. Technological advancements, driven by global collaboration, improve healthcare, communication, and transportation, enhancing quality of life. Cultural exchange fosters greater understanding and appreciation of diverse cultures, promoting global cooperation and peace.
+Elements of a speech:
+Introduction:
+-  opening
+- contains a "hook" (attention-getter), like jokes
+- facts like anecdotes (short personal stories)
+- offers a preview of the speaker main idea
 
-Moreover, globalization provides consumers access to a wider variety of goods and services at lower prices. It enables countries to specialize in producing goods where they have an advantage, leading to more efficient resource allocation and increased productivity. The integration of global markets spurs competition, driving innovation and technological progress.
+Body:
+- contains the main ideads, supported by stats, facts or anecdotes 
+- a variety of rethorical choices
 
-However, globalization also has drawbacks. Economic inequality widens, with wealth concentrated in a few hands, while many workers face job insecurity and declining wages. The relocation of industries to low-wage countries causes significant job losses in developed nations, leading to social and economic dislocation. Additionally, cultural homogenization threatens local traditions and identities, causing social tensions.
 
-Environmental degradation is another critical issue, as globalized industries often exploit natural resources unsustainably, contributing to climate change and loss of biodiversity. The interconnectedness of global markets means economic crises can quickly spread across borders, affecting nations worldwide.
-
-In conclusion, while the benefits of globalization are significant, its negative impacts—economic inequality, job insecurity, cultural erosion, and environmental harm—must be addressed. Ensuring that the benefits of globalization are more equitably distributed and mitigating its downsides is essential for it to truly benefit humankind as a whole.
+First step of analysis
+Identify the purpose
