@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Erörtern.md",
+                "file": "Englisch/Backlash globalization outline.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Erörtern.md",
+                "file": "Englisch/Backlash globalization outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Erörtern.md",
+                "file": "Englisch/Backlash globalization outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Erörtern.md"
+                "file": "Englisch/Backlash globalization outline.md"
               }
             }
           },
@@ -256,6 +256,10 @@
   },
   "active": "d05234dfcf1018f9",
   "lastOpenFiles": [
+    "Englisch/Summary.md",
+    "Englisch/Backlash globalization outline.md",
+    "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
+    "Deutsch/Erörtern.md",
     "Physik/Magnets.md",
     "Excalidraw/Mathestuff.md",
     "Mathe/Stochhastik.md",
@@ -264,14 +268,12 @@
     "Excalidraw/Chemab.md",
     "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
     "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
-    "Englisch/Summary.md",
     "Englisch/Charakterisierung.md",
     "Englisch/Mediationsss.md",
     "Englisch/Klausurstuff.md",
     "Englisch/Comment.md",
     "Englisch/Analysis of Selin's Perception of Harvard in \"The Idiot\" by Elif Batuman.md",
     "Englisch/Adolescence.md",
-    "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
     "Englisch/Obama.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
@@ -282,8 +284,6 @@
     "Geschichte/Noten.md",
     "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
     "Geschichte/Untitled.canvas",
-    "Geschichte/Verfassung 1791.md",
-    "Geschichte/Wilhelm II.md",
     "Excalidraw/files/Pasted Image 20240613074239_831.png",
     "Chemie/files/Pasted image 20240604102918.png",
     "Geschichte/files/Pasted image 20240523085342.png",
