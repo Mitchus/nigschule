@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Deutsch/Erörtern.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Deutsch/Erörtern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Deutsch/Erörtern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Magnets.md"
+                "file": "Deutsch/Erörtern.md"
               }
             }
           },
@@ -256,6 +256,7 @@
   },
   "active": "d05234dfcf1018f9",
   "lastOpenFiles": [
+    "Physik/Magnets.md",
     "Excalidraw/Mathestuff.md",
     "Mathe/Stochhastik.md",
     "Geschichte/files/Pasted image 20240523085416.png",
