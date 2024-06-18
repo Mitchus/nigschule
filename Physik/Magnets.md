@@ -83,4 +83,4 @@ ges: J
 
 $n=\frac{B*l}{M_{o}*I}$
 $n=\frac{1.5*10⁻¹ \frac{Vs}{m²}*20*10⁻²m}{1.26 \frac{Vs}{Am} * 10⁻ * 6A* }$
-n= 397
+n= 397yy
