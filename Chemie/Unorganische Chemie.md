@@ -492,6 +492,8 @@ $4x² -28x+48=x²+1.55x$
 $2x² -29.55x+48 = 0$
 $0=x²-9.85x+16$
 2.051739 / 2.06
+ammoniaksynthese
+$N_{2(g)}+3H_{2(g) \ce{  }$
 
 verschiebt nach links
 
