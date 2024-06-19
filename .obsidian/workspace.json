@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Geschichte.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -255,6 +255,7 @@
   },
   "active": "d05234dfcf1018f9",
   "lastOpenFiles": [
+    "Geschichte/Geschichte.md",
     "Englisch/Obama.md",
     "Englisch/Outline of \"Globalization is under attack\" by John Rennie Short.md",
     "Englisch/Privacy.md",
@@ -281,7 +282,6 @@
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Sozialkunde/Rat der EU.md",
-    "Geschichte/Geschichte.md",
     "Geschichte/Untitled.canvas",
     "Excalidraw/files/Pasted Image 20240613074239_831.png",
     "Chemie/files/Pasted image 20240604102918.png",
