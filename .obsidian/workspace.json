@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Obama.md",
+                "file": "Geschichte/Geschichte.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Obama.md",
+                "file": "Geschichte/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Obama.md",
+                "file": "Geschichte/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Obama.md"
+                "file": "Geschichte/Geschichte.md"
               }
             }
           },
@@ -255,6 +255,7 @@
   },
   "active": "d05234dfcf1018f9",
   "lastOpenFiles": [
+    "Englisch/Obama.md",
     "Englisch/Outline of \"Globalization is under attack\" by John Rennie Short.md",
     "Englisch/Privacy.md",
     "Englisch/Untitled.md",
@@ -268,7 +269,6 @@
     "Englisch/Klausurstuff.md",
     "Englisch/Mediationsss.md",
     "Englisch/Noten.md",
-    "Englisch/Obama.md",
     "Deutsch/Erörtern.md",
     "Physik/Magnets.md",
     "Excalidraw/Mathestuff.md",

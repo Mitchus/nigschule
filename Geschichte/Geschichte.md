@@ -745,8 +745,23 @@ Verbot und Vernichtung der politischen Parteien, enge Verschränkung von Partei 
 Angst und Einschüchterung, Feinbilder -> Sündenbockmechanismus
 politische und physische Gewalt: Terror und Unterdrückung nach innen und Aggression nach außen
 
-Entwicklung der NSDAP 1919- 1933
+Entwicklung der NSDAP 1919- 1933 3 Phasen eig
 1.Phase 1919-1923 Gründung der NSDAP von durch die Folgen des Ersten Weltkrieges unzufriedenen Leuten (Soldaten, Arbeiter Mittelstand)
 Ziel: Macherlangung auf gewaltsame Wege, keine Beteiligung an Wahlen
 starker Mitgliederzuwachs durch die wirtschaftlich und politisch Instabile  Verhältnisse
 1923 (Marsch auf die Feldherrnhallte) Putschversuch in München scheitert
+
+jan 1933: Hitler wird Reichskanzler
+feb 1933: Reichstagsbrand Notverordnung
+März 33: Reichstagswahl, NSDAP gewinnt, Ermächtigungsgesetz
+
+
+Führerprinzip:
+- Unterordnung unter den jeweiligen Führer
+- pyramidenförmiger Aufbau von Staat und Gesellschaft; Aufbau von oben nach unten - Gehorsam Unterordnung
+- Grundsatz: "Autorität jedes Führers nach unten und Verantwortung nach oben"
+
+Totalitätsanspruch:
+- Umfassung der gesamten Gesellschaft
+- Bildung von Verbänden und Vereinigungen für alle Lebensbereiche (Sport, Beruf, Technik..)
+
