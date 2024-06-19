@@ -464,3 +464,11 @@ KC = 4
 13.8g        9.6g                               36.06g          0.6               10.8
 
 ![[Chemab]]
+
+$\ce{ CH_{3}COOH = 3mol}$
+$\ce{ C_{2}H_{5}OH = 4mol}$
+Ester = $\ce{ 0mol }$
+$H_{2}O = \ce{ 1,55mol }$
+$K_{C}=4$
+CH3COOC2H5 + H2O
+$\ce{ CH_{3}COOH + C_{2}H_{5}OH =  CH_{}COOC2H5 + H2O}$
