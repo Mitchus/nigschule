@@ -1,3 +1,6 @@
+The speech delivered by President Barack Obama on September 20, 2016, is concerned with the progress made during his presidency and the contemporary global challenges.
+
+
 1. Metaphor
 
 - Example: "the growing threat of climate change could define the contours of this century more dramatically than any other."
