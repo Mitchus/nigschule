@@ -493,7 +493,7 @@ $2x² -29.55x+48 = 0$
 $0=x²-9.85x+16$
 2.051739 / 2.06
 ammoniaksynthese
-$N_{2(g)}+3H_{2(g) \ce{  }$
+$N_{2(g)}+3H_{2(g)} = 2NH_{3(g)}$
 
 verschiebt nach links
 
