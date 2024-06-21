@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "f7fb556ac3e6140a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Chemab.md"
+              }
+            }
+          },
+          {
             "id": "f19e28eef778e7ce",
             "type": "leaf",
             "state": {
@@ -272,9 +282,9 @@
   },
   "active": "1e94b6dc1eea3b57",
   "lastOpenFiles": [
-    "Chemie/files/Pasted image 20240619142121.png",
     "Excalidraw/Chemab.md",
     "Chemie/Unorganische Chemie.md",
+    "Chemie/files/Pasted image 20240619142121.png",
     "Chemie/Van-der-Waals-Kräfte.md",
     "Chemie/Volumenarbeit und Wärmemenge.md",
     "Chemie/Substitution.md",
@@ -308,7 +318,6 @@
     "Geschichte/files/Pasted image 20240522112752.png",
     "DVT/files/Pasted image 20240521095704.png",
     "DVT/files/Pasted image 20240517114058.png",
-    "DVT/files/Pasted image 20240517113630.png",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
     "Englisch/Timeline.canvas",
