@@ -1,48 +1,94 @@
-The speech delivered by President Barack Obama on September 20, 2016, is concerned with the progress made during his presidency and the present global challenges.
+The speech delivered by President Barack Obama through the Untied Nations on September 20, 2016,  is concerned with the progress made during his presidency and the present global challenges. 
+The speech delivered by President Barack Obama through the Untied Nations on September 20, 2016. The occasion was his final address to the UN General Assembly as President. The target audience included international delegates and global leaders, focusing on the progress made during his presidency and the ongoing global challenges.
 
 
-1. Metaphor
+1. # Analysis of Rhetorical Devices
 
-- Example: "the growing threat of climate change could define the contours of this century more dramatically than any other."
-- Supposed to show that climate change will have a big and important effect on this century.
+## Introduction
+The speech provided is a rich example of political rhetoric, using various rhetorical devices to persuade and inspire the audience. Here, we will analyze several rhetorical devices, including anaphora, metaphor, and others, that are employed to enhance the impact of the speech.
 
-2. Hyperbole
+## Analysis
 
-- Example: "Our generation may not even live to see the full realization of what we do here."
-- Supposed to show that what we do now will have effects far into the future and that it is very important.
+### Anaphora
+Anaphora is the repetition of a word or phrase at the beginning of successive clauses. This device is used to create a rhythm and emphasize key points.
 
-3. Antithesis
+**Examples:**
+1. **"We coordinated our response... We’ve taken away... We opened relations..."**
+   - Repetition of "We" highlights collective action and achievements.
 
-- Example: "We have proved that strong economic growth and a safer environment no longer have to conflict with one another; they can work in concert with one another."
-- Supposed to show that economy and environment are not enemies but can work together, changing how people usually think about this topic.
+2. **"This is important work. It has made a real difference... And it could not have happened..."**
+   - Repetition of "It has" and "And it" emphasizes the positive outcomes of their efforts.
 
-4. Anaphora
+### Metaphor
+A metaphor is a figure of speech that describes an object or action in a way that isn’t literally true but helps explain an idea or make a comparison.
 
-- Example: "Here in Paris, let's secure an agreement... Here in Paris, let's agree to a strong system... Here in Paris, let's reaffirm our commitment..."
-- Supposed to make it more important and make people focus on what they need to do now.
+**Examples:**
+1. **"From the depths of the greatest financial crisis"**
+   - The "depths" metaphor suggests a profound and challenging situation.
 
-5. Ethos
+2. **"the ravages of climate change"**
+   - "Ravages" implies destructive effects, likening climate change to an aggressive force.
 
-- Example: "Over the last seven years, we've made ambitious investments in clean energy, and ambitious reductions in our carbon emissions."
-- Supposed to show that USA is serious about climate change, so other people should believe him and do the same.
+### Parallelism
+Parallelism involves using similar structures in two or more clauses to create a sense of rhythm and balance.
 
-6. Emotional Appeal
+**Examples:**
+1. **"helping people feed themselves, care for the sick, power communities across Africa, and promote models of development"**
+   - The use of parallel structure in listing actions creates a rhythm and highlights the broad scope of assistance.
 
-- Example: "And it was a preview of one possible future - a glimpse of our children's fate if the climate keeps changing faster than our efforts to address it. Submerged countries. Abandoned cities. Fields that no longer grow."
-- Supposed to make people feel worried and scared for the future, making them understand that climate change is a very serious problem.
+2. **"to press forward with a better model of cooperation and integration. Or we can retreat into a world sharply divided"**
+   - The parallel structure in contrasting choices underscores the critical decision at hand.
 
-7. Rhetorical Question
+### Antithesis
+Antithesis is the juxtaposition of contrasting ideas in balanced phrases or clauses.
 
-- Example: "Can we imagine a more worthy reward than that?"
-- Supposed to make people think and feel that saving the future for children is very important.
+**Examples:**
+1. **"We can choose to press forward... Or we can retreat into a world sharply divided"**
+   - The contrast between moving forward and retreating underscores the stakes of the decision.
 
-8. Allusion
+2. **"Despite enormous progress... our societies are filled with uncertainty, and unease, and strife"**
+   - The juxtaposition of progress with uncertainty and strife highlights the paradox of modern times.
 
-- Example: "For I believe, in the words of Dr. Martin Luther King, Jr., that there is such a thing as being too late."
-- Supposed to use his respect and emotional power to show that we need to act quickly on climate change.
+### Enumeration
+Enumeration is the listing of details or a process of mentioning words or phrases step by step.
 
+**Examples:**
+1. **"We’ve taken away terrorist safe havens, strengthened the nonproliferation regime, resolved the Iranian nuclear issue through diplomacy"**
+   - Listing achievements provides a comprehensive view of their efforts.
 
-10. Repetition
+2. **"helping people feed themselves, care for the sick, power communities across Africa"**
+   - Enumerating actions underscores the breadth of their humanitarian efforts.
 
-- Example: "If we act here, if we act now, if we place our own short-term interests behind the air that our young people will breathe..."
-- Supposed to make people feel that we all need to do something now and work together to fix the problem.
+### Pathos
+Pathos appeals to the audience's emotions, aiming to evoke feelings that align with the speaker’s message.
+
+**Examples:**
+1. **"Refugees flow across borders in flight from brutal conflict"**
+   - Evokes empathy for the plight of refugees.
+
+2. **"children have enough to eat; mothers don’t die in childbirth"**
+   - Touches on basic human needs and familial bonds to appeal to emotions.
+
+### Ethos
+Ethos establishes the speaker’s credibility and authority.
+
+**Examples:**
+1. **"Our assistance is helping people feed themselves, care for the sick, power communities across Africa"**
+   - Demonstrates their active involvement and success in global humanitarian efforts.
+
+2. **"We have made international institutions like the World Bank and the International Monetary Fund more representative"**
+   - Cites specific, credible actions to enhance the speaker’s authority.
+
+### Logos
+Logos appeals to logic and reason, using facts and logical arguments.
+
+**Examples:**
+1. **"the number of people living in extreme poverty has been cut from nearly 40 percent of humanity to under 10 percent"**
+   - Uses statistical evidence to demonstrate the success of global economic integration.
+
+2. **"the number of democracies around the world has nearly doubled in the last 25 years"**
+   - Provides factual data to support the claim of increased global freedom and democracy.
+
+## Conclusion
+The speech utilizes a variety of rhetorical devices to effectively communicate its message, persuade the audience, and evoke an emotional response. By analyzing these devices, we gain a deeper understanding of how rhetoric can shape perceptions and inspire action.
+
