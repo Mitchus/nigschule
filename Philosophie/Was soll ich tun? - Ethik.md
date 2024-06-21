@@ -161,3 +161,49 @@ Immanuel Kant
 Gedanken ohne Anschauschauung sind leer, Anschuungen, ohne Begriffe sind blind.
 Kritik Kant an der bisherigen Diskusion der erkenntnistheoretischen Positionen des Rationalismus und des Empirismus
 transzendental ist die Erkenntnis für Kant, da das Erkenntnisvermögen als Struktur der Welt zu verstehen ist.
+
+# Erkenntnis bei Immanuel Kant
+
+## Zwei Hauptquellen der Erkenntnis
+
+1. **Rezeptivität (Empfänglichkeit der Eindrücke)**:
+   - Passives Empfangen von Sinneseindrücken
+   - Ermöglicht Vorstellungen durch die Sinne
+
+2. **Spontaneität des Erkenntnisvermögens**:
+   - Aktives Erkennen und Verarbeiten von Vorstellungen
+   - Bildung von Begriffen durch Denken
+
+## Wichtige Punkte
+
+- **Anschauungen (Vorstellungen)** und **Begriffe** sind beide notwendig.
+  - Ohne Begriffe keine Erkenntnis aus Anschauungen
+  - Ohne Anschauungen keine Anwendung von Begriffen
+
+- **Empirische Erkenntnis**:
+  - Beruht auf tatsächlichen Sinneseindrücken und Erfahrungen
+
+- **Reine Anschauung**:
+  - Form des Sehens ohne Inhalt
+
+- **Reine Begriffe**:
+  - Form des Denkens ohne Anschauung
+
+## Zusammenspiel von Sinnlichkeit und Verstand
+
+- **Sinnlichkeit**:
+  - Aufnahme von Eindrücken durch die Sinne
+
+- **Verstand**:
+  - Verarbeitung und Strukturierung der Eindrücke
+
+- **Wichtig**: Beide sind notwendig für Erkenntnis.
+  - Sinnlichkeit ohne Verstand ist leer.
+  - Verstand ohne Sinnlichkeit ist blind.
+
+## Fazit
+
+- Erkenntnis entsteht durch die Kombination von Sinneseindrücken und deren Verarbeitung durch das Denken.
+- Beide Komponenten müssen zusammenwirken, damit Wissen entsteht.
+
+

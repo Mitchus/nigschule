@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Englisch/Obama.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Englisch/Obama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Englisch/Obama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Englisch/Obama.md"
               }
             }
           },
@@ -282,8 +282,10 @@
   },
   "active": "1e94b6dc1eea3b57",
   "lastOpenFiles": [
-    "Excalidraw/Chemab.md",
+    "Englisch/Charakterisierung.md",
+    "Philosophie/Was soll ich tun? - Ethik.md",
     "Chemie/Unorganische Chemie.md",
+    "Excalidraw/Chemab.md",
     "Chemie/files/Pasted image 20240619142121.png",
     "Chemie/Van-der-Waals-Kräfte.md",
     "Chemie/Volumenarbeit und Wärmemenge.md",
@@ -300,7 +302,6 @@
     "Englisch/Untitled.md",
     "Englisch/Summary.md",
     "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
-    "Englisch/Charakterisierung.md",
     "Englisch/Adolescence.md",
     "Englisch/Analysis of Selin's Perception of Harvard in \"The Idiot\" by Elif Batuman.md",
     "Englisch/Comment.md",

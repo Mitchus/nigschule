@@ -1,4 +1,4 @@
-The speech delivered by President Barack Obama on September 20, 2016, is concerned with the progress made during his presidency and the contemporary global challenges.
+The speech delivered by President Barack Obama on September 20, 2016, is concerned with the progress made during his presidency and the present global challenges.
 
 
 1. Metaphor
