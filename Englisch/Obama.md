@@ -8,7 +8,8 @@ The speech delivered by President Barack Obama through the Untied Nations on Sep
 The speech provided is a rich example of political rhetoric, using various rhetorical devices to persuade and inspire the audience. Here, we will analyze several rhetorical devices, including anaphora, metaphor, and others, that are employed to enhance the impact of the speech.
 
 ## Analysis
-
+smth.: 
+I want to guest to YOU today
 ### Anaphora
 Anaphora is the repetition of a word or phrase at the beginning of successive clauses. This device is used to create a rhythm and emphasize key points.
 
