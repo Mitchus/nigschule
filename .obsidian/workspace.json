@@ -37,9 +37,12 @@
             "id": "19df1b7ec0564f50",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Chemie/Unorganische Chemie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -186,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -292,8 +295,8 @@
   },
   "active": "19df1b7ec0564f50",
   "lastOpenFiles": [
-    "Mathe/Stochhastik.md",
     "Excalidraw/Kombinatorik.md",
+    "Mathe/Stochhastik.md",
     "Englisch/Obama.md",
     "Englisch/Charakterisierung.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
