@@ -24,6 +24,19 @@
             "id": "1e94b6dc1eea3b57",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe/Stochhastik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19df1b7ec0564f50",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Kombinatorik.md"
@@ -107,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,9 +290,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1e94b6dc1eea3b57",
+  "active": "19df1b7ec0564f50",
   "lastOpenFiles": [
     "Mathe/Stochhastik.md",
+    "Excalidraw/Kombinatorik.md",
     "Englisch/Obama.md",
     "Englisch/Charakterisierung.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
@@ -305,7 +319,6 @@
     "Englisch/Comment.md",
     "Englisch/How to analyse the atmosphere.md",
     "Englisch/Klausurstuff.md",
-    "Englisch/Mediationsss.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Untitled.canvas",
     "Excalidraw/files/Pasted Image 20240613074239_831.png",
