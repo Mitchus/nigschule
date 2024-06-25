@@ -1,6 +1,6 @@
 ## Introduction
 1. 
-- Interpret the Book
+- war reports and TV shows
   
 2. 
 - 3 important elements:
