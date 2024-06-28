@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Philosophie/Was soll ich tun? - Ethik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Philosophie/Was soll ich tun? - Ethik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Philosophie/Was soll ich tun? - Ethik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Hunger Games.md"
+                "file": "Philosophie/Was soll ich tun? - Ethik.md"
               }
             }
           },
@@ -295,8 +295,8 @@
   },
   "active": "19df1b7ec0564f50",
   "lastOpenFiles": [
-    "Englisch/Obama.md",
     "Englisch/Hunger Games.md",
+    "Englisch/Obama.md",
     "Englisch/Outline of \"Globalization is under attack\" by John Rennie Short.md",
     "Chemie/Unorganische Chemie.md",
     "Excalidraw/Kombinatorik.md",
