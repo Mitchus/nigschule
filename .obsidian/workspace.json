@@ -47,6 +47,16 @@
             }
           },
           {
+            "id": "540b8af6952a584b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "f7fb556ac3e6140a",
             "type": "leaf",
             "state": {
@@ -123,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,7 +303,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "19df1b7ec0564f50",
+  "active": "540b8af6952a584b",
   "lastOpenFiles": [
     "Englisch/Hunger Games.md",
     "Englisch/Obama.md",
