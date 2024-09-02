@@ -60,6 +60,16 @@
             }
           },
           {
+            "id": "6d22223c15643054",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/NS Außenpolitik 1933-36.md"
+              }
+            }
+          },
+          {
             "id": "f7fb556ac3e6140a",
             "type": "leaf",
             "state": {
@@ -136,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
+                "file": "Excalidraw/NS Außenpolitik 1933-36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
+                "file": "Excalidraw/NS Außenpolitik 1933-36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md"
+                "file": "Excalidraw/NS Außenpolitik 1933-36.md"
               }
             }
           },
@@ -306,8 +316,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "540b8af6952a584b",
+  "active": "6d22223c15643054",
   "lastOpenFiles": [
+    "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
+    "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
+    "Excalidraw/NS Außenpolitik 1933-36.md",
     "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
     "13./Deutsch/Romantische Ironie.md",
     "13./Deutsch",
@@ -334,9 +347,6 @@
     "Englisch/Privacy.md",
     "Englisch/Untitled.md",
     "Englisch/Summary.md",
-    "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
-    "Englisch/Adolescence.md",
-    "Englisch/Analysis of Selin's Perception of Harvard in \"The Idiot\" by Elif Batuman.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Untitled.canvas",
     "Excalidraw/files/Pasted Image 20240613074239_831.png",
