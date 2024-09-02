@@ -80,26 +80,6 @@
             }
           },
           {
-            "id": "f19e28eef778e7ce",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Chemab.md"
-              }
-            }
-          },
-          {
-            "id": "d60999cbf0274301",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Chemab.md"
-              }
-            }
-          },
-          {
             "id": "e81e16f60b5073f5",
             "type": "leaf",
             "state": {
@@ -149,14 +129,27 @@
             "id": "1e848829be70b56f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Chemie/Unorganische Chemie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ab2be713d3edf13",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Chemab.md"
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -185,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gesetz",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -328,6 +321,9 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
+    "Excalidraw/Chemab.md",
+    "Chemie/Unorganische Chemie.md",
+    "Chemie/Organische Chemie.md",
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
@@ -338,12 +334,10 @@
     "Englisch/Hunger Games.md",
     "Englisch/Obama.md",
     "Englisch/Outline of \"Globalization is under attack\" by John Rennie Short.md",
-    "Chemie/Unorganische Chemie.md",
     "Excalidraw/Kombinatorik.md",
     "Mathe/Stochhastik.md",
     "Englisch/Charakterisierung.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
-    "Excalidraw/Chemab.md",
     "Chemie/files/Pasted image 20240619142121.png",
     "Chemie/Van-der-Waals-Kräfte.md",
     "Chemie/Volumenarbeit und Wärmemenge.md",
@@ -366,7 +360,6 @@
     "Geschichte/files/Pasted image 20240522112823.png",
     "Geschichte/files/Pasted image 20240522112752.png",
     "DVT/files/Pasted image 20240521095704.png",
-    "DVT/files/Pasted image 20240517114058.png",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
     "Englisch/Timeline.canvas",
