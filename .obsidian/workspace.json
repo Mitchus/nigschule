@@ -50,9 +50,12 @@
             "id": "540b8af6952a584b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "13./Deutsch/Romantische Ironie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -199,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Was soll ich tun? - Ethik.md",
+                "file": "13./Deutsch/Romantische Ironie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Was soll ich tun? - Ethik.md",
+                "file": "13./Deutsch/Romantische Ironie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Was soll ich tun? - Ethik.md"
+                "file": "13./Deutsch/Romantische Ironie.md"
               }
             }
           },
@@ -305,6 +308,9 @@
   },
   "active": "540b8af6952a584b",
   "lastOpenFiles": [
+    "13./Deutsch/Romantische Ironie.md",
+    "13./Deutsch",
+    "13.",
     "Englisch/Hunger Games.md",
     "Englisch/Obama.md",
     "Englisch/Outline of \"Globalization is under attack\" by John Rennie Short.md",
@@ -331,7 +337,6 @@
     "Englisch/Adolescence.md",
     "Englisch/Analysis of Selin's Perception of Harvard in \"The Idiot\" by Elif Batuman.md",
     "Englisch/Comment.md",
-    "Englisch/How to analyse the atmosphere.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Untitled.canvas",
     "Excalidraw/files/Pasted Image 20240613074239_831.png",
@@ -353,8 +358,6 @@
     "Wirtschaft/Markt und Preis.zip",
     "Chemie/files",
     "Geschichte/files",
-    "Mathe/files",
-    "Untitled 1.canvas",
-    "Excalidraw/files"
+    "Untitled 1.canvas"
   ]
 }
