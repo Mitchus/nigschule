@@ -65,7 +65,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/NS Außenpolitik 1933-36.md"
+                "file": "Geschichte/NS Außenpolitik 1933-36.md"
               }
             }
           },
@@ -144,9 +144,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e848829be70b56f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -212,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/NS Außenpolitik 1933-36.md",
+                "file": "Geschichte/NS Außenpolitik 1933-36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/NS Außenpolitik 1933-36.md",
+                "file": "Geschichte/NS Außenpolitik 1933-36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/NS Außenpolitik 1933-36.md"
+                "file": "Geschichte/NS Außenpolitik 1933-36.md"
               }
             }
           },
@@ -316,11 +326,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6d22223c15643054",
+  "active": "1e848829be70b56f",
   "lastOpenFiles": [
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
-    "Excalidraw/NS Außenpolitik 1933-36.md",
+    "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
     "13./Deutsch/Romantische Ironie.md",
     "13./Deutsch",
