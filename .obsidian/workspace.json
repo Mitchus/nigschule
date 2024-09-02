@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Physik/Magnets.md"
               }
             }
           },
@@ -321,8 +321,14 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
-    "Excalidraw/Chemab.md",
+    "Physik/Leifi E Lehre.md",
+    "Physik/Stoßvorgänge.md",
+    "Physik/Mechanische Wellen.md",
+    "Physik/Mechanische Energie.md",
+    "Physik/Mechanische Arbeit.md",
+    "Physik/Energie.md",
     "Chemie/Unorganische Chemie.md",
+    "Excalidraw/Chemab.md",
     "Chemie/Organische Chemie.md",
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
@@ -345,12 +351,6 @@
     "Chemie/Alkane.md",
     "Chemie/Alkane als Lösungsmittel.md",
     "Chemie/Drawing 2024-01-09 10.29.15.excalidraw.md",
-    "Chemie/Eliminierung.md",
-    "Chemie/Klausurvorbereitung.md",
-    "Geschichte/Geschichte.md",
-    "Englisch/Privacy.md",
-    "Englisch/Untitled.md",
-    "Englisch/Summary.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Untitled.canvas",
     "Excalidraw/files/Pasted Image 20240613074239_831.png",
