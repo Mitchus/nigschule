@@ -21,5 +21,15 @@ neu erschaffen
 	- Träume als Zugang zum Unbewussten und zur metaphysischen Welt
 * Belebtheit, Anthropomorphisierung der Natur
 	* Natur als lebendig und beseelt dargestellt.
-	- Anthropomorphisierte
--
+	- Anthropomorphisierte  Natur tritt in Verbindung mit den Figuren.
+
+Skizzieren sie in Ansätzen den Handlungsverlauf eines Märchens, das die Vorgaben von H. u R. beachtet.
+
+Ausgangssituation:
+Uralter Mann hat nen schönen Bart.
+Krise:
+Er schläft auf einer Schildkröte ein.
+Sein Bart wächst im Traum immer weiter. 
+Er wacht auf und sucht den Anfang/das Ende von seinem Bart. 
+Erkenntnis:
+Der Bart ist im Kreis gewachsen und endet bei der Schildkröte, wo er seine Suche begonnen hat.
