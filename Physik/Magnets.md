@@ -107,14 +107,20 @@ Formel: $B = \mu_0 \cdot n \cdot I$
 
 Umstellen der Formel nach $I$:
 
-$I = \frac{B}{\mu_0 \cdot n}$
+$I = \frac{B*l}{\mu_0 \cdot n}$
 
 Einsetzen der Werte:
 
-$I = \frac{1 \times 10^{-4} \, \text{T}}{4\pi \times 10^{-7} \, \text{T m/A} \cdot 6000 \, \text{Windungen/m}}$
+$I = \frac{1 \times 10^{-4} \, \text{T} \times 0.5m}{1.26*10⁻⁴ \frac{V_{s}}{Am} * 3000}$
 
 Berechnung:
 
-$I \approx 0{,}0133 \, \text{A}$
+$I \approx  \, \text{A}$
 
-Antwort: Die erforderliche Stromstärke beträgt etwa $0{,}0133 \, \text{A}$ oder $13{,}3 \, \text{mA}$.
+0.000132275
+Ein gerader Draht von 5dm Länge wird von einem Strom der Stärke 6A durchflossen. Er befindet sich in einem Magnetfeld der Stärke 7* 10⁻⁵ T Berechnen sie den Betrag der wirkenden Kraft!
+F=0.21mN
+0.00021N
+![[Pasted image 20240903095606.png]]
+Geben sie Betrag und Richtung der magnetischen Flußdichte des Feldes an, dass das Gewicht eines Elektrons einer wagerecht nach Westen gerichtete Geschwindigkeit von 2cm/s kompensiert! 
+![[Pasted image 20240903095958.png]]
