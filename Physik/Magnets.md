@@ -85,3 +85,36 @@ $n=\frac{B*l}{M_{o}*I}$
 $n=\frac{1.5*10⁻¹ \frac{Vs}{m²}*20*10⁻²m}{1.26 \frac{Vs}{Am} * 10⁻ * 6A* }$
 n= 397yy
 
+Kraft auf einen Leiter, Kraft auf eine Ladung und irgendeine 3. Formel
+Die Feldstärke des homogenen Magnetfeldes im inneren einer Stromführenden Spule von 50cm Länge und 3000 Windungen soll den Wert 1* 10⁻⁴ Tesla erhalten welche Stromstärke isst erforderlich.
+
+Gegeben:
+l = 0,5m
+N=3000
+B= 1* 10⁻⁴ T
+$μ0​=4π×10−7T m/A$ magnetische Feldkonstante
+
+
+gesucht: I in Ampere
+1. Windungsdichte $n = \frac{N}{l}=\frac{3000}{0.5m} = 6000$ Windungen/m
+2. Umstellen der Formel nach III:
+
+Gesucht: $I$ in Ampere
+
+1. Windungsdichte $n = \frac{N}{l} = \frac{3000}{0.5 \, \text{m}} = 6000 \, \text{Windungen/m}$
+
+Formel: $B = \mu_0 \cdot n \cdot I$
+
+Umstellen der Formel nach $I$:
+
+$I = \frac{B}{\mu_0 \cdot n}$
+
+Einsetzen der Werte:
+
+$I = \frac{1 \times 10^{-4} \, \text{T}}{4\pi \times 10^{-7} \, \text{T m/A} \cdot 6000 \, \text{Windungen/m}}$
+
+Berechnung:
+
+$I \approx 0{,}0133 \, \text{A}$
+
+Antwort: Die erforderliche Stromstärke beträgt etwa $0{,}0133 \, \text{A}$ oder $13{,}3 \, \text{mA}$.
