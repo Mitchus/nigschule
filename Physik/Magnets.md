@@ -86,7 +86,7 @@ $n=\frac{1.5*10⁻¹ \frac{Vs}{m²}*20*10⁻²m}{1.26 \frac{Vs}{Am} * 10⁻ * 6A
 n= 397yy
 
 Kraft auf einen Leiter, Kraft auf eine Ladung und irgendeine 3. Formel
-Die Feldstärke des homogenen Magnetfeldes im inneren einer Stromführenden Spule von 50cm Länge und 3000 Windungen soll den Wert 1* 10⁻⁴ Tesla erhalten welche Stromstärke isst erforderlich.
+Die Feldstärke des homogenen Magnetfeldes im inneren einer Stromführenden Spule von 50cm Länge und 3000 Windungen soll den Wert 1* 10⁻⁴ Tesla erhalten welche Stromstärke ist erforderlich.
 
 Gegeben:
 l = 0,5m
@@ -122,5 +122,9 @@ Ein gerader Draht von 5dm Länge wird von einem Strom der Stärke 6A durchflosse
 F=0.21mN
 0.00021N
 ![[Pasted image 20240903095606.png]]
-Geben sie Betrag und Richtung der magnetischen Flußdichte des Feldes an, dass das Gewicht eines Elektrons einer wagerecht nach Westen gerichtete Geschwindigkeit von 2cm/s kompensiert! 
+Geben sie Betrag und Richtung der magnetischen Flußdichte des Feldes an, dass das Gewicht eines Elektrons einer Wagerecht nach Westen gerichtete Geschwindigkeit von 2cm/s kompensiert! 
 ![[Pasted image 20240903095958.png]]
+Ein Proton bewegt sich in einem Magnetfeld, das nach unten gerichtet ist mit einer Geschwindigkeit von 7.5 * 10⁶m/s, Richtung Westen.
+Geben sie Betrag und Richtung der wirkenden Kraft an! (B=40T)
+F= 4.8*10⁻¹¹ 
+![[Pasted image 20240903100645.png]]
