@@ -1,4 +1,4 @@
-# Arten der Erörterung
+ö# Arten der Erörterung
 ## Lineare Erörterung
 
 #### Aufbau

@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Englisch/Summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "outline",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Englisch/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Englisch/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Magnets.md"
+                "file": "Englisch/Summary.md"
               }
             }
           },
@@ -319,8 +320,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1e848829be70b56f",
+  "active": "420cc5a24a211e96",
   "lastOpenFiles": [
+    "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
+    "Englisch/Noten.md",
+    "Englisch/Obama.md",
+    "Englisch/Outline of \"Globalization is under attack\" by John Rennie Short.md",
+    "Englisch/Summary.md",
+    "Englisch/Comment.md",
+    "Englisch/Klausurstuff.md",
+    "Deutsch/Erörtern.md",
+    "Englisch/Hunger Games.md",
+    "Physik/Magnets.md",
     "Physik/files/Pasted image 20240903100645.png",
     "Physik/files/Pasted image 20240903095958.png",
     "Physik/files/Pasted image 20240903095606.png",
@@ -341,25 +352,15 @@
     "13./Deutsch/Romantische Ironie.md",
     "13./Deutsch",
     "13.",
-    "Englisch/Hunger Games.md",
-    "Englisch/Obama.md",
-    "Englisch/Outline of \"Globalization is under attack\" by John Rennie Short.md",
     "Excalidraw/Kombinatorik.md",
     "Mathe/Stochhastik.md",
     "Englisch/Charakterisierung.md",
-    "Philosophie/Was soll ich tun? - Ethik.md",
     "Chemie/files/Pasted image 20240619142121.png",
-    "Chemie/Van-der-Waals-Kräfte.md",
-    "Chemie/Volumenarbeit und Wärmemenge.md",
-    "Chemie/Substitution.md",
-    "Chemie/Alkane.md",
-    "Chemie/Alkane als Lösungsmittel.md",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Untitled.canvas",
     "Excalidraw/files/Pasted Image 20240613074239_831.png",
     "Chemie/files/Pasted image 20240604102918.png",
     "Geschichte/files/Pasted image 20240523085342.png",
-    "Geschichte/files/Pasted image 20240522112826.png",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
     "Englisch/Timeline.canvas",
