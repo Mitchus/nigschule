@@ -129,12 +129,9 @@
             "id": "1e848829be70b56f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Englisch/Summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Geschichte/NS Außenpolitik 1933-36.md"
               }
             }
           },
@@ -178,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "outline",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,8 +192,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Summary.md",
+                "file": "Geschichte/NS Außenpolitik 1933-36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Summary.md",
+                "file": "Geschichte/NS Außenpolitik 1933-36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Summary.md"
+                "file": "Geschichte/NS Außenpolitik 1933-36.md"
               }
             }
           },
@@ -320,13 +316,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "420cc5a24a211e96",
+  "active": "1e848829be70b56f",
   "lastOpenFiles": [
+    "Geschichte/Untitled.md",
+    "Englisch/Summary.md",
     "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
     "Englisch/Noten.md",
     "Englisch/Obama.md",
     "Englisch/Outline of \"Globalization is under attack\" by John Rennie Short.md",
-    "Englisch/Summary.md",
     "Englisch/Comment.md",
     "Englisch/Klausurstuff.md",
     "Deutsch/Erörtern.md",
@@ -354,7 +351,6 @@
     "13.",
     "Excalidraw/Kombinatorik.md",
     "Mathe/Stochhastik.md",
-    "Englisch/Charakterisierung.md",
     "Chemie/files/Pasted image 20240619142121.png",
     "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Untitled.canvas",
