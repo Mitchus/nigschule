@@ -89,38 +89,22 @@ Characters, behaviour and interaction
 
 - **Primrose (Prim) Everdeen**:
     
-    - Prims interaction with her Sister shows that she is emotionally charged and sentimental p. 29 ll. 24-26
+    - Prims interaction with her Sister shows that she is emotionally charged and sentimental p. 29 ll. 24-26 and p.33 ll. 11-15
     - Very unlucky pp 28. ll. 11-16
     - Prim is lovable, innocent p.30 l. 14
 - **Haymitch**
 	- drunk without self control, maybe taunting the capitol on live TV pp. 30-31
 	- depressing to see that the only alive Winner is such a wreck
 - **Peeta**
-	- Scared p. 32 l
-
-
-
-
-
-
-
-
-
-
-
-
-- **Peeta Mellark**:
-    
-    - **Behavior**: Peeta remains **quiet** and **tense** but with a **nostalgic** undertone, as Katniss remembers how he once helped her. His **friendly** demeanor contrasts with the **hostile** environment of the Reaping.
-    - **Interaction**: There is a **chilly** distance between Katniss and Peeta, mixed with an uncomfortable feeling as Katniss recalls his past kindness, making the moment both **tense** and **uncertain**.
+	- Tense and scared p. 32 l.1 
+	- friendly enough to save Katniss from starving p. 36 ll. 5-11 
+- **Mother**
+	- traumatized and very sad after Husbands death p. 32 ll. 24-32
 - **Effie Trinket**:
     
-    - **Behavior**: Effie is overly **cheerful** and **light-hearted** in a situation that is **hostile** and **chilly** for the participants. Her **excited** attitude is inappropriate in the **scary** and **tense** atmosphere.
-    - **Interaction**: Effie’s enthusiasm feels out of place, making the people of District 12 uncomfortable with her **welcoming** manner, which is disturbingly **dynamic** given the **depressing** situation.
-- **Haymitch Abernathy**:
-    
-    - **Behavior**: Drunk and dismissive, Haymitch’s behavior is **hectic** and **uncomfortable**, hinting at the **depressing** reality of surviving the Games. His attitude is **hostile**, adding tension to the already **chilly** atmosphere.
-    - **Interaction**: Though he doesn’t interact much in this chapter, his presence adds a **scary** and **tense** element to the situation, as he embodies the bleak future awaiting the tributes.
+    - Effie is overly **cheerful** and **light-hearted** in a situation that is **hostile** and **chilly** for the participants. p. 29
+    - Her **excited** attitude is inappropriate in the **scary** and **tense** atmosphere.
+    - Effie’s enthusiasm feels out of place, making the people of District 12 uncomfortable with her **welcoming** manner, which is disturbingly **dynamic** given the **depressing** situation. 
 
 Setting/circumstances (place, time, weather, objects, situation...)
 - **Place**: District 12’s town square is **chilly** and **hostile**, with its rundown appearance adding to the **depressing** and **tense** atmosphere of the Reaping. The square feels **cold** and unwelcoming, a stark contrast to the **idyllic** or **nostalgic** feeling Katniss might associate with her memories of home.
