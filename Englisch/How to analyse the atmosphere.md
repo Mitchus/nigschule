@@ -76,3 +76,85 @@ Selin's use of parallelism in detailing her efforts to apply to three literature
 Lastly, Selin's understatement during the interview, expressed as "I pretended to have to think it over 'No,' I said finally," (63-64) minimizes her discomfort and unease. This understated response intensifies the reader's empathy, hinting at the deeper distress Selin might have experienced, despite her attempt to downplay it.
 
 Overall, Selin's portrayal in this passage suggests a profound disappointment rather than delight with her initiation at the university. Her feelings of misfit, discomfort, and uncertainty create a sense of unease within the reader, prompting reflections on the challenges of adaptation faced by individuals entering new academic environments. Through Selin's perspective, Batuman vividly captures the complexities of navigating the unfamiliar terrain of Harvard, leaving readers pondering the intricate facets of academic assimilation and personal identity within a collegiate setting.
+
+
+Hunger Games Chapter 2
+Characters, behaviour and interaction
+- **Katniss Everdeen**:
+    - Shocked, numb, paralized (cf. p. 28, ll. 1-16)
+    - volunteers for prim (p. 28, l. 32)
+    - tells Prim roughly to let her go (cf. p. 29, ll. 27-31)
+    - cares for her family as an 11 year old child cf. pp. 32
+    - remembers 
+- **Primrose (Prim) Everdeen**:
+    
+    - **Behavior**: Prim is innocent. Her fear is **alarming**, as she embodies vulnerability in this **cold** situation.
+    - **Interaction**: Her interaction with Katniss, clinging to her, makes the scene **emotionally charged** and deeply **sentimental**, heightening the reader’s sense of loss and protectiveness.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **Peeta Mellark**:
+    
+    - **Behavior**: Peeta remains **quiet** and **tense** but with a **nostalgic** undertone, as Katniss remembers how he once helped her. His **friendly** demeanor contrasts with the **hostile** environment of the Reaping.
+    - **Interaction**: There is a **chilly** distance between Katniss and Peeta, mixed with an uncomfortable feeling as Katniss recalls his past kindness, making the moment both **tense** and **uncertain**.
+- **Effie Trinket**:
+    
+    - **Behavior**: Effie is overly **cheerful** and **light-hearted** in a situation that is **hostile** and **chilly** for the participants. Her **excited** attitude is inappropriate in the **scary** and **tense** atmosphere.
+    - **Interaction**: Effie’s enthusiasm feels out of place, making the people of District 12 uncomfortable with her **welcoming** manner, which is disturbingly **dynamic** given the **depressing** situation.
+- **Haymitch Abernathy**:
+    
+    - **Behavior**: Drunk and dismissive, Haymitch’s behavior is **hectic** and **uncomfortable**, hinting at the **depressing** reality of surviving the Games. His attitude is **hostile**, adding tension to the already **chilly** atmosphere.
+    - **Interaction**: Though he doesn’t interact much in this chapter, his presence adds a **scary** and **tense** element to the situation, as he embodies the bleak future awaiting the tributes.
+
+Setting/circumstances (place, time, weather, objects, situation...)
+- **Place**: District 12’s town square is **chilly** and **hostile**, with its rundown appearance adding to the **depressing** and **tense** atmosphere of the Reaping. The square feels **cold** and unwelcoming, a stark contrast to the **idyllic** or **nostalgic** feeling Katniss might associate with her memories of home.
+    
+- **Time**: The Reaping day is a **tense**, **scary**, and **hectic** occasion, marked by **hostile** circumstances as children are forced into a fight to the death. The time of the event feels **cold** and devoid of any **hopeful** or **light-hearted** sentiment.
+    
+- **Weather**: Although not specifically described, the general mood is **chilly**, adding to the **tense** and **uncomfortable** atmosphere. The weather might symbolically represent the **cold** and **hostile** nature of the Capitol’s control.
+    
+- **Objects**: The glass ball from which the names are drawn feels **alarming** and **cold**, symbolizing the **hostile** and **depressing** fate that awaits the chosen tributes. The formality of the objects contrasts with the **warm** human emotions of fear and love.
+    
+- **Situation**: The Reaping is a **tense**, **chilly**, and **alarming** event. The community gathers in an atmosphere filled with **fear** and **dread**, as the lives of two children will be destroyed in a **hostile** and **scary** system. It’s an event that should be **welcoming** and **friendly** for a community, but it’s instead deeply **uncomfortable** and **cold**.
+
+How does the author affect the readers feeling?
+Suzanne Collins creates a deeply **tense** and **uncomfortable** emotional experience for the reader by juxtaposing the **cheerful** and **excited** Capitol representatives like Effie with the **scary**, **chilly** reality of the Reaping. The act of Katniss volunteering for her sister fills the reader with a mix of **sentimental** love and **depressing** dread. The **nostalgic** moments when Katniss recalls her past interactions with Peeta add complexity, making the future feel even more **tense** and uncertain.
+
+How do all these factors contribute to the atmosphere?
+
+- The **cold**, **hostile** setting of District 12’s town square creates a sense of **fear** and **tension**.
+- The **alarming** and **chilly** nature of the Reaping contrasts with the **cheerful**, **light-hearted** Capitol representatives, making the event even more **uncomfortable** and **scary** for the tributes and their families.
+- Katniss’ **sentimental** bond with her sister and her **tense** thoughts about Peeta give the chapter an emotionally charged, yet **depressing** atmosphere.
+
+
+hopeful
+light hearted
+idyllic
+warm
+excited
+welcoming
+nostlgic
+friendly
+cheerful
+dynamic
+sentimental
+depressing
+scary
+cold
+tense
+hectic
+uncomfortable
+chilly
+hostile
+alarming
