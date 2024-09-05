@@ -85,13 +85,18 @@ Characters, behaviour and interaction
     - volunteers for prim (p. 28, l. 32)
     - tells Prim roughly to let her go (cf. p. 29, ll. 27-31)
     - cares for her family as an 11 year old child cf. pp. 32
-    - remembers 
+    - remembers the time she got to know Peeta (cf. pp. 32-37)
+
 - **Primrose (Prim) Everdeen**:
     
-    - **Behavior**: Prim is innocent. Her fear is **alarming**, as she embodies vulnerability in this **cold** situation.
-    - **Interaction**: Her interaction with Katniss, clinging to her, makes the scene **emotionally charged** and deeply **sentimental**, heightening the reader’s sense of loss and protectiveness.
-
-
+    - Prims interaction with her Sister shows that she is emotionally charged and sentimental p. 29 ll. 24-26
+    - Very unlucky pp 28. ll. 11-16
+    - Prim is lovable, innocent p.30 l. 14
+- **Haymitch**
+	- drunk without self control, maybe taunting the capitol on live TV pp. 30-31
+	- depressing to see that the only alive Winner is such a wreck
+- **Peeta**
+	- Scared p. 32 l
 
 
 
