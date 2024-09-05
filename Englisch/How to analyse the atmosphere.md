@@ -102,7 +102,7 @@ Characters, behaviour and interaction
 	- traumatized and very sad after Husbands death p. 32 ll. 24-32
 - **Effie Trinket**:
     
-    - Effie is overly **cheerful** and **light-hearted** in a situation that is **hostile** and **chilly** for the participants. p. 29
+    - Effie is overly **cheerful** and **light-hearted** in a situation that is **hostile** and **chilly** for the participants. p. 29 ll. 11-14
     - Her **excited** attitude is inappropriate in the **scary** and **tense** atmosphere.
     - Effie’s enthusiasm feels out of place, making the people of District 12 uncomfortable with her **welcoming** manner, which is disturbingly **dynamic** given the **depressing** situation. 
 
