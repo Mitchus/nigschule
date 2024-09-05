@@ -129,9 +129,12 @@
             "id": "1e848829be70b56f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Englisch/Hunger Games.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -212,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Englisch/Hunger Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Englisch/Hunger Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Englisch/Hunger Games.md"
               }
             }
           },
@@ -318,6 +321,7 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
+    "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
     "Geschichte/Untitled.md",
     "Englisch/Summary.md",
@@ -345,7 +349,6 @@
     "Chemie/Organische Chemie.md",
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
-    "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/Auswirkung der französischen Julirevolution 1830 in Deutschland.md",
     "13./Deutsch/Romantische Ironie.md",
     "13./Deutsch",
@@ -356,7 +359,6 @@
     "Geschichte/Untitled.canvas",
     "Excalidraw/files/Pasted Image 20240613074239_831.png",
     "Chemie/files/Pasted image 20240604102918.png",
-    "Geschichte/files/Pasted image 20240523085342.png",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
     "Englisch/Timeline.canvas",

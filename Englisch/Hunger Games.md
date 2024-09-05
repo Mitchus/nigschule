@@ -8,4 +8,3 @@
 	- poor fight to death
 	- fights should be cruel and popular for the rich
 
-v
