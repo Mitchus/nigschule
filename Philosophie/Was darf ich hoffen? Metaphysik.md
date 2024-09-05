@@ -12,3 +12,4 @@ Neben der Physik: Freiheit, Gerechtigkeit, Sinn des Leben
 
 Geschichtsphilosophie ein Aspekt der Metaphysik
 Vergangenheit (Wohin, Was tun, Auswikrungen)
+,
