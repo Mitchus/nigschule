@@ -87,6 +87,8 @@ Ah, verstanden. Hier sind die ausgefüllten Lücken basierend auf dem Schaubild:
 
 Damit werden alle Lücken im Schaubild ausgefüllt. ^aRdrcgiD
 
+Eroberungen ^bxhs5Lk9
+
 
 # Embedded files
 7494559de8632ed5313793ec3cebb9abb6c24699: [[Pasted Image 20240902115110_336.jpg]]
@@ -1016,6 +1018,43 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Ah, verstanden. Hier sind die ausgefüllten Lücken basierend auf dem Schaubild:\n\n**Maßnahmen**\n- Staatliches Arbeitsbeschaffungsprogramm: **Autobahnen**, Flugplätze, Kasernen\n- Einführung der allgemeinen **Wehrpflicht**: 2 Jahre\n- **Arbeitsdienst**: 6 Monate\n- Aufrüstung\n- Finanzierung durch Staatsschulden: **Kreditaufnahme**\n- **Lohn**- und **Preis**stop\n- Produktionssteigerungen in der Landwirtschaft: **\"Schlacht um die Erzeugung\"**\n- Verstärkte Gewinnung von **heimischen** Rohstoffen\n\n**Folgen**\n- Gesunkene Arbeits**losigkeit**\n- Disziplin\n- Militärische Stärke\n- Hohe Staatsschulden, **steigende** Inflation\n- Geringer Lebensstandard\n- Verstärkte landwirtschaftliche Eigenversorgung u. Nutzung von Rohstoffen\n\n**Absichten**\n- Gehorsame Soldaten\n- Einsatz der Rüstungsgüter\n- Verhinderung des Staatsbankrotts durch **Eroberungen**\n- Opferbereitschaft der Bevölkerung\n\n**Weg in den Krieg**\n\nDamit werden alle Lücken im Schaubild ausgefüllt.",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "bxhs5Lk9",
+			"type": "text",
+			"x": 1769.5581448669868,
+			"y": 237.43648825333904,
+			"width": 113.85987854003906,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1534385462,
+			"version": 2,
+			"versionNonce": 1208910826,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1725526298979,
+			"link": null,
+			"locked": false,
+			"text": "Eroberungen",
+			"rawText": "Eroberungen",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Eroberungen",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1033,10 +1072,10 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1690.310604045764,
-		"scrollY": 540.2492513595923,
+		"scrollX": -1326.1493669477898,
+		"scrollY": 169.07413692800012,
 		"zoom": {
-			"value": 0.65
+			"value": 1.2877507808473159
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
