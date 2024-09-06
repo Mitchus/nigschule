@@ -765,3 +765,5 @@ Totalitätsanspruch:
 - Umfassung der gesamten Gesellschaft
 - Bildung von Verbänden und Vereinigungen für alle Lebensbereiche (Sport, Beruf, Technik..)
 
+![[NS Außenpolitik 1933-36]]
+![[Pasted image 20240906101634.png]]

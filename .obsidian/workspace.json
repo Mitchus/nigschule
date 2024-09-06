@@ -129,9 +129,12 @@
             "id": "1e848829be70b56f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Geschichte/Geschichte.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -212,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Geschichte/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Geschichte/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Geschichte/Geschichte.md"
               }
             }
           },
@@ -318,6 +321,9 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
+    "Geschichte/files/Pasted image 20240906101634.png",
+    "Geschichte/Kampf um die Republik.md",
+    "Geschichte/NS Außenpolitik 1933-36.md",
     "Excalidraw/Kombinatorik.md",
     "Mathe/Stochhastik.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
@@ -325,7 +331,6 @@
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Englisch/How to analyse the atmosphere.md",
     "Englisch/Hunger Games.md",
-    "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
     "Geschichte/Untitled.md",
     "Englisch/Summary.md",
@@ -347,8 +352,6 @@
     "Physik/Mechanische Energie.md",
     "Physik/Mechanische Arbeit.md",
     "Physik/Energie.md",
-    "Chemie/Unorganische Chemie.md",
-    "Excalidraw/Chemab.md",
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "13./Deutsch",
     "13.",
