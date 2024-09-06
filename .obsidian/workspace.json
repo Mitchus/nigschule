@@ -131,7 +131,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Geschichte/NS Außenpolitik 1933-36.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Geschichte/NS Außenpolitik 1933-36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md",
+                "file": "Geschichte/NS Außenpolitik 1933-36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Kombinatorik.md"
+                "file": "Geschichte/NS Außenpolitik 1933-36.md"
               }
             }
           },
@@ -318,6 +318,7 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
+    "Excalidraw/Kombinatorik.md",
     "Mathe/Stochhastik.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
@@ -348,7 +349,6 @@
     "Physik/Energie.md",
     "Chemie/Unorganische Chemie.md",
     "Excalidraw/Chemab.md",
-    "Chemie/Organische Chemie.md",
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "13./Deutsch",
     "13.",
