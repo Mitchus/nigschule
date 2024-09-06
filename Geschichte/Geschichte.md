@@ -767,3 +767,4 @@ Totalitätsanspruch:
 
 ![[NS Außenpolitik 1933-36]]
 ![[Pasted image 20240906101634.png]]
+![[2024_09_06 10_28 Office Lens.pdf]]
