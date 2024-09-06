@@ -768,3 +768,22 @@ Totalitätsanspruch:
 ![[NS Außenpolitik 1933-36]]
 ![[Pasted image 20240906101634.png]]
 ![[2024_09_06 10_28 Office Lens.pdf]]
+
+Ns Ideologie und Folgen
+
+Rassenlehre 
+Die "arische Rasse", zu der alle germanischen Völker zählen, ist den anderen Rassen überlegen.
+Die Rassen sind nicht gleich
+Das nordische Volk ist die Herren und Kriegerrasse
+Die minderwertigste Rasse ist die jüdische, die Juden sind der Volksfeind Nr.1
+Ein Volk muss, wenn es nicht "zersetzt" werden will, sein "Blut rein halten" von fremden Einflüssen verbot von rassischen Mischen
+Innerhalb der Arier ist der "nordische Mensch" der höchste entwickelte Menschentyp
+-> Judenverfolgung Versklavung der Völker Osteuropa
+
+Führerprinzip
+Absoluter Gehorsam gegenüber den Vorgesetzten
+Der Führer bleibt von Kritik ausgeschlossen
+Keine Wahl, vielmehr werden alle Inhaber von Positionen von "oben nach unten" eingesetzt
+Die Verantwortlichkeit besteht nur "nach oben", nicht nach "unten"
+unbedingte Autorität nach "unten" und absolute Verantwortung nach "oben"
+Ablehnung von Demokratie und Parlamentarismus
