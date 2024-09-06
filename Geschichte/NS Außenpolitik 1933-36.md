@@ -55,15 +55,15 @@ Straßen ^nzqbqaSO
 
 Wehrpflicht ^fytzVnZh
 
-Dienstpflicht ^SLhoiLLj
+Reichsarbeitsdienst ^SLhoiLLj
 
 Eroberungen ^bxhs5Lk9
 
-    Kredit aufnahme ^9bBWlZkg
+Mefo       Wechsel ^9bBWlZkg
 
 Lohn                Preis ^XQlHdqPy
 
-Schlacht um die Erzeugung ^SFevJChI
+Erzeugerschlacht ^SFevJChI
 
 heimischen ^xwi4Jqud
 
@@ -929,8 +929,8 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 		},
 		{
 			"type": "text",
-			"version": 16,
-			"versionNonce": 1341349098,
+			"version": 35,
+			"versionNonce": 2040077169,
 			"isDeleted": false,
 			"id": "SLhoiLLj",
 			"fillStyle": "hachure",
@@ -943,24 +943,24 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"y": 26.649787101946117,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 122.85986328125,
+			"width": 187.4397735595703,
 			"height": 25,
 			"seed": 414444214,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1725519493493,
+			"updated": 1725609489027,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Dienstpflicht",
-			"rawText": "Dienstpflicht",
+			"text": "Reichsarbeitsdienst",
+			"rawText": "Reichsarbeitsdienst",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Dienstpflicht",
+			"originalText": "Reichsarbeitsdienst",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
@@ -1006,7 +1006,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"type": "text",
 			"x": 945.6401922988409,
 			"y": 231.13826306453927,
-			"width": 199.43975830078125,
+			"width": 189.89976501464844,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -1020,22 +1020,22 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1608847359,
-			"version": 38,
-			"versionNonce": 2010288991,
+			"version": 62,
+			"versionNonce": 1178725375,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1725607665906,
+			"updated": 1725609552051,
 			"link": null,
 			"locked": false,
-			"text": "    Kredit aufnahme",
-			"rawText": "    Kredit aufnahme",
+			"text": "Mefo       Wechsel",
+			"rawText": "Mefo       Wechsel",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "    Kredit aufnahme",
+			"originalText": "Mefo       Wechsel",
 			"lineHeight": 1.25
 		},
 		{
@@ -1080,7 +1080,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"type": "text",
 			"x": 837.9591547409714,
 			"y": 462.01370799793585,
-			"width": 259.1796875,
+			"width": 165.9798126220703,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -1094,22 +1094,22 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 354430943,
-			"version": 26,
-			"versionNonce": 516383857,
+			"version": 42,
+			"versionNonce": 1893012191,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1725607707767,
+			"updated": 1725609732015,
 			"link": null,
 			"locked": false,
-			"text": "Schlacht um die Erzeugung",
-			"rawText": "Schlacht um die Erzeugung",
+			"text": "Erzeugerschlacht",
+			"rawText": "Erzeugerschlacht",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "Schlacht um die Erzeugung",
+			"originalText": "Erzeugerschlacht",
 			"lineHeight": 1.25
 		},
 		{
@@ -1276,10 +1276,10 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -257.07578613257834,
-		"scrollY": 633.3902438335904,
+		"scrollX": -704.9550743122834,
+		"scrollY": -139.05444746223642,
 		"zoom": {
-			"value": 0.6434510021765422
+			"value": 1.368340268714067
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
