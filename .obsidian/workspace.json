@@ -129,12 +129,9 @@
             "id": "1e848829be70b56f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Kombinatorik.md"
               }
             }
           },
@@ -215,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md",
+                "file": "Excalidraw/Kombinatorik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md"
+                "file": "Excalidraw/Kombinatorik.md"
               }
             }
           },
@@ -321,8 +318,9 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
-    "Philosophie/Was soll ich tun? - Ethik.md",
+    "Mathe/Stochhastik.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
+    "Philosophie/Was soll ich tun? - Ethik.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Englisch/How to analyse the atmosphere.md",
     "Englisch/Hunger Games.md",
@@ -352,7 +350,6 @@
     "Excalidraw/Chemab.md",
     "Chemie/Organische Chemie.md",
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
-    "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
     "13./Deutsch",
     "13.",
     "Chemie/files/Pasted image 20240619142121.png",
