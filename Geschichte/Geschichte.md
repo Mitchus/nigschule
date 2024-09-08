@@ -787,3 +787,13 @@ Keine Wahl, vielmehr werden alle Inhaber von Positionen von "oben nach unten" ei
 Die Verantwortlichkeit besteht nur "nach oben", nicht nach "unten"
 unbedingte Autorität nach "unten" und absolute Verantwortung nach "oben"
 Ablehnung von Demokratie und Parlamentarismus
+
+Lebensraumprinzip
+Angliederung von Gebieten außerhalb der deutschen Reichsgrenze, die überwiegend von Menschen deutscher Abstammung besiedelt sind
+Die Deutschen haben ein Anrecht auf größeren Lebensraum
+Ausweitung des deutschen Lebensraumes im Osten
+Rückgewinnung im Osten
+Rückgewinnung im Versailler Vertrag geforderten Gebietsabtretungen
+
+bis 1934
+Verfassung
