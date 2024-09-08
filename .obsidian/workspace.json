@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Physik/Magnets 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Physik/Magnets 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Physik/Magnets 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Geschichte.md"
+                "file": "Physik/Magnets 1.md"
               }
             }
           },
@@ -321,6 +321,9 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
+    "Physik/Magnets.md",
+    "Physik/Magnets 1.md",
+    "Geschichte/Geschichte.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/Kampf um die Republik.md",
@@ -342,7 +345,6 @@
     "Englisch/Comment.md",
     "Englisch/Klausurstuff.md",
     "Deutsch/Erörtern.md",
-    "Physik/Magnets.md",
     "Physik/files/Pasted image 20240903100645.png",
     "Physik/files/Pasted image 20240903095958.png",
     "Physik/files/Pasted image 20240903095606.png",
@@ -352,7 +354,6 @@
     "Physik/Mechanische Wellen.md",
     "Physik/Mechanische Energie.md",
     "Physik/Mechanische Arbeit.md",
-    "Physik/Energie.md",
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "13./Deutsch",
     "13.",
@@ -370,7 +371,6 @@
     "Physik/files",
     "Wirtschaft/Markt und Preis.zip",
     "Chemie/files",
-    "Geschichte/files",
     "Untitled 1.canvas"
   ]
 }
