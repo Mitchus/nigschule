@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Mathe/Stochhastik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Mathe/Stochhastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Mathe/Stochhastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Mathe/Stochhastik.md"
               }
             }
           },
@@ -321,10 +321,17 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
+    "Mathe/Mathe Klausur Themen.md",
+    "Mathe/LaTeX Cheat Sheet.md",
+    "Mathe/Deutsch GPT-Gedicht.md",
+    "Mathe/Differenzialrechnung.md",
+    "Mathe/FDP Wahlprogramm.md",
+    "Mathe/Untitled.md",
+    "Mathe/Mathe Aufgaben.md",
+    "Mathe/Stochhastik.md",
+    "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Englisch/Hunger Games.md",
-    "Mathe/Stochhastik.md",
-    "Mathe/Mathe Aufgaben.md",
     "Physik/Magnets 1.md",
     "Physik/Magnets.md",
     "Geschichte/Geschichte.md",
@@ -343,17 +350,10 @@
     "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
     "Englisch/Noten.md",
     "Englisch/Obama.md",
-    "Englisch/Outline of \"Globalization is under attack\" by John Rennie Short.md",
-    "Englisch/Comment.md",
-    "Englisch/Klausurstuff.md",
-    "Deutsch/Erörtern.md",
     "Physik/files/Pasted image 20240903100645.png",
     "Physik/files/Pasted image 20240903095958.png",
     "Physik/files/Pasted image 20240903095606.png",
     "Physik/files/Pasted image 20240903095519.png",
-    "Physik/Leifi E Lehre.md",
-    "Physik/Stoßvorgänge.md",
-    "Physik/Mechanische Wellen.md",
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "13./Deutsch",
     "13.",
