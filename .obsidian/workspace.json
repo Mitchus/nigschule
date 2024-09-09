@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Physik/Magnets 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Physik/Magnets 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Physik/Magnets 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Geschichte.md"
+                "file": "Physik/Magnets 1.md"
               }
             }
           },
@@ -321,6 +321,9 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
+    "Physik/Magnets.md",
+    "Physik/Magnets 1.md",
+    "Geschichte/Geschichte.md",
     "Geschichte/Timeline.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
     "Mathe/Stochhastik.md",
@@ -334,9 +337,6 @@
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Englisch/Hunger Games.md",
-    "Physik/Magnets 1.md",
-    "Physik/Magnets.md",
-    "Geschichte/Geschichte.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/Kampf um die Republik.md",

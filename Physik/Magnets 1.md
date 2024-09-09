@@ -1,7 +1,7 @@
 Abstand der Feldlinien ist ein Maß für die Stärke des Feldes
 
 Die Magnetische Flußdichte 
-erfässt die Stärle eines magnetischen Felds
+erfässt die Stärke eines magnetischen Felds
 i = Stromstärke
 l = länge des Leiters
 F~i
@@ -19,7 +19,7 @@ linke Hand
 Lorenzkraft
 $F=B* \frac{Q}{t}*l$
 $F_{L}=B* Q*v=$ Lorenzkraft
-Kraft auf eine Ladung !, die sich der Geschwindigkeit v in einem Magnetfeld der Stärke B bewegt.
+Kraft auf eine Ladung Q, die sich der Geschwindigkeit v in einem Magnetfeld der Stärke B bewegt.
 
 
 In einer Luftgefüllten Spule, 
