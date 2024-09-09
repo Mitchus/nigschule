@@ -647,5 +647,78 @@ Säure-Base Gleichgewichte
 	1. Def:
 	2. Formulieren Sie die Stufenweise Protolyse der Kohlensäure (H_2CO_3)
 4. Ampholyt
-5. Def:
-6. Erklär
+	1. Def:
+	2. Erklären Sie anhand der nachstehenden Reaktionsgleichung, warum Wasser ein Ampholyt ist!
+	3. HCl + H2O -> H3O⁺ + Cl⁻
+	4. NH3 + H2O -> NH_4⁺ + OH⁻
+5. Neutralisation
+	1. Gibt man gleiche Volumina von Salzsäure und von Natronlauge zusammen (beide Lösungen sind gleich konzentriert), so erhält man eine Neutrale Lösung
+	2. Erklären sie den Begriff neutrale Lösung! Gehen Sie dabei auch auf den pH - Wert ein!
+	3. Ergänzen Sie das allgemeine Reaktionschema!
+	4. saure Lösung + alkalische Lösung ->
+	5. Stellen sie die beschriebene Reaktionsgleichung in Ionenschreibweise auf und erklären Sie daran die Neutralisation!
+	6. Stellen Sie die Reaktionsgleichung für folgende Neutralisationsreaktionen auf und geben Sie den Namen des jeweils entstehenden Salzen an!
+		1. Salzsäure reagiert mit Kalilauge
+		2. Salpetersäure reagiert mit Natronlauge
+		3. Schwefelsäure reagiert mit Kalilauge (2 Salze können entstehen)
+		4. Essigsäure reagiert mit Natronlauge
+
+### 1. Definition von Arrhenius
+1. **Säuren:** Stoffe, die in wässriger Lösung H⁺-Ionen abgeben.
+2. **HCl:** Dissoziiert in H⁺ und Cl⁻.
+3. **Saurer Charakter der Lösung:** Durch die Erhöhung der H⁺-Ionen-Konzentration.
+4. **Basen:** Stoffe, die in wässriger Lösung OH⁻-Ionen abgeben.
+5. **NaOH:** Dissoziiert in Na⁺ und OH⁻.
+6. **Basischer Charakter der Lösung:** Durch die Erhöhung der OH⁻-Ionen-Konzentration.
+
+### 2. Definition Brönsted
+1. **Säuren:** Protonendonatoren.
+2. **Basen:** Protonenakzeptoren.
+3. **Korrespondierende Säure/Base-Paare:** Ein Säure/Base-Paar unterscheidet sich nur um ein Proton (z.B. HCl/Cl⁻, NH₄⁺/NH₃).
+4. **Säure- und Basenreaktion:** Protonenübertragungsreaktion.
+5. **Reaktion:** NH₃ + HCl → NH₄Cl.
+6. **Säurereaktion:** HCl → Cl⁻ + H⁺.
+7. **Basenreaktion:** NH₃ + H⁺ → NH₄⁺.
+
+### 3. Protolyse
+1. **Definition:** Protonenübertragungsreaktion (Säure-Basen-Reaktion).
+2. **Stufenweise Protolyse der Kohlensäure (H₂CO₃):**
+   - Erste Stufe: H₂CO₃ ⇌ HCO₃⁻ + H⁺
+   - Zweite Stufe: HCO₃⁻ ⇌ CO₃²⁻ + H⁺
+
+### 4. Ampholyt
+1. **Definition:** Ein Stoff, der sowohl als Säure als auch als Base reagieren kann.
+- **Erklärung:** Wasser kann sowohl H⁺ abgeben (als Säure) als auch H⁺ aufnehmen (als Base).
+   - **Reaktion mit HCl:** HCl + H₂O → H₃O⁺ + Cl⁻
+   - **Reaktion mit NH₃:** NH₃ + H₂O → NH₄⁺ + OH⁻
+### 5. Neutralisation
+
+1. **Neutrale Lösung:** Wenn man gleiche Volumina von Salzsäure (HCl) und Natronlauge (NaOH), beide gleich konzentriert, mischt, entsteht eine neutrale Lösung.
+
+2. **Erklärung - Neutrale Lösung:**  
+   - Eine Lösung ist neutral, wenn der pH-Wert genau 7 beträgt. In einer neutralen Lösung ist die Konzentration der H⁺-Ionen (Oxonium-Ionen) und OH⁻-Ionen (Hydroxid-Ionen) gleich, was bei der Reaktion einer Säure mit einer Base der Fall ist.
+
+3. **Allgemeines Reaktionsschema:**  
+   - **Saure Lösung** + **alkalische Lösung** → **Wasser** + **Salz**
+
+4. **Reaktionsgleichung in Ionenschreibweise:**  
+   - H⁺ + OH⁻ → H₂O  
+   - **Erklärung der Neutralisation:** Bei der Neutralisation reagieren H⁺-Ionen (aus der Säure) mit OH⁻-Ionen (aus der Base) zu Wasser, wodurch die saure und basische Wirkung aufgehoben wird.
+
+5. **Reaktionsgleichungen für Neutralisationsreaktionen:**
+
+   1. **Salzsäure (HCl) + Kalilauge (KOH):**
+      - **Gleichung:** HCl + KOH → KCl + H₂O
+      - **Entstehendes Salz:** Kaliumchlorid (KCl)
+
+   2. **Salpetersäure (HNO₃) + Natronlauge (NaOH):**
+      - **Gleichung:** HNO₃ + NaOH → NaNO₃ + H₂O
+      - **Entstehendes Salz:** Natriumnitrat (NaNO₃)
+
+   3. **Schwefelsäure (H₂SO₄) + Kalilauge (KOH) (2 Salze möglich):**
+      - **Gleichung:** H₂SO₄ + 2 KOH → K₂SO₄ + 2 H₂O (Kaliumsulfat)
+      - **Gleichung:** H₂SO₄ + KOH → KHSO₄ + H₂O (Kaliumhydrogensulfat)
+
+   4. **Essigsäure (CH₃COOH) + Natronlauge (NaOH):**
+      - **Gleichung:** CH₃COOH + NaOH → CH₃COONa + H₂O
+      - **Entstehendes Salz:** Natriumacetat (CH₃COONa)
