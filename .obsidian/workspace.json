@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Geschichte/Geschichte.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Geschichte/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Geschichte/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Stochhastik.md"
+                "file": "Geschichte/Geschichte.md"
               }
             }
           },
@@ -321,6 +321,9 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
+    "Geschichte/Timeline.md",
+    "Geschichte/NS Außenpolitik 1933-36.md",
+    "Mathe/Stochhastik.md",
     "Mathe/Mathe Klausur Themen.md",
     "Mathe/LaTeX Cheat Sheet.md",
     "Mathe/Deutsch GPT-Gedicht.md",
@@ -328,7 +331,6 @@
     "Mathe/FDP Wahlprogramm.md",
     "Mathe/Untitled.md",
     "Mathe/Mathe Aufgaben.md",
-    "Mathe/Stochhastik.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Englisch/Hunger Games.md",
@@ -338,7 +340,6 @@
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/Kampf um die Republik.md",
-    "Geschichte/NS Außenpolitik 1933-36.md",
     "Excalidraw/Kombinatorik.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
@@ -349,7 +350,6 @@
     "Englisch/Summary.md",
     "Englisch/Unveiling Globalization A Look at Our Interconnected World.md",
     "Englisch/Noten.md",
-    "Englisch/Obama.md",
     "Physik/files/Pasted image 20240903100645.png",
     "Physik/files/Pasted image 20240903095958.png",
     "Physik/files/Pasted image 20240903095606.png",

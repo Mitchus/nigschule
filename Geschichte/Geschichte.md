@@ -797,3 +797,17 @@ Rückgewinnung im Versailler Vertrag geforderten Gebietsabtretungen
 
 bis 1934
 Verfassung
+
+Bilanz 2. Weltkrieg
+55-60mio Tote
+6mio Juden und 500k Zigeuner
+
+50mio Menschen aus Heimat vertrieben
+16.6 mio Deutsche entsiedelt in Etappen
+1944 aus Siebenbürgen (Rumänien) Ungarn und Jugoslawien zur Zwangsarbeit in UdSSR
+Sommer 1945 ungeregelte Vertreibungswelle östlich der Oder-Neiße Linie
+
+
+## Die Geschichte des geteilten Deutschlands von 1945-1989
+### Zielvorstellungen der Siegermächte für eine neue Weltordnung
+Pearl Harbor 1941 USA eintritt in den Krieg, beginn de
