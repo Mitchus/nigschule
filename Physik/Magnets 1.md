@@ -47,6 +47,8 @@ In einem Homogenen Magnetfeld, der Flussdichte 0.2Tesla befindet sich senkrecht 
 	Die Magnetische Flussdichte nimmt linear in 3ms auf 0 ab
 	Welcher Strom fließt während dieses Vorgangs durch die Leiterschleife
 
+1. Induktionsgesetz
+	1. 
 Kraft auf einen Leiter, Kraft auf eine Ladung und irgendeine 3. Formel
 Die Feldstärke des homogenen Magnetfeldes im inneren einer Stromführenden Spule von 50cm Länge und 3000 Windungen soll den Wert 1* 10⁻⁴ Tesla erhalten welche Stromstärke ist erforderlich.
 

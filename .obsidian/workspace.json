@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnets 1.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Magnets 1.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Magnets 1.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Magnets 1.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -321,20 +321,22 @@
   },
   "active": "1e848829be70b56f",
   "lastOpenFiles": [
-    "Physik/Magnets.md",
+    "Chemie/Organische Chemie.md",
+    "Englisch/Hunger Games.md",
+    "Mathe/Stochhastik.md",
+    "Mathe/Mathe Aufgaben.md",
     "Physik/Magnets 1.md",
+    "Physik/Magnets.md",
     "Geschichte/Geschichte.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/Kampf um die Republik.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
     "Excalidraw/Kombinatorik.md",
-    "Mathe/Stochhastik.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Englisch/How to analyse the atmosphere.md",
-    "Englisch/Hunger Games.md",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
     "Geschichte/Untitled.md",
     "Englisch/Summary.md",
@@ -352,8 +354,6 @@
     "Physik/Leifi E Lehre.md",
     "Physik/Stoßvorgänge.md",
     "Physik/Mechanische Wellen.md",
-    "Physik/Mechanische Energie.md",
-    "Physik/Mechanische Arbeit.md",
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "13./Deutsch",
     "13.",

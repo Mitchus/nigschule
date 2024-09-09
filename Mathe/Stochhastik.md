@@ -82,3 +82,6 @@ e)wahr
 f)wahr
 g)falsch: verschiedene Wahrscheinlichkeiten
 h) wahr
+
+6.
+0.019290123
