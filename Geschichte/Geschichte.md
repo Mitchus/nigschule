@@ -810,4 +810,16 @@ Sommer 1945 ungeregelte Vertreibungswelle östlich der Oder-Neiße Linie
 
 ## Die Geschichte des geteilten Deutschlands von 1945-1989
 ### Zielvorstellungen der Siegermächte für eine neue Weltordnung
-Pearl Harbor 1941 USA eintritt in den Krieg, beginn de
+Pearl Harbor 1941 USA eintritt in den Krieg, beginn der Anti-Hitler Koalition
+
+Atlantik-Charta / GB - USA 14.08.41 <- Tafelanschrieb
+Auf dem britischen Schlachtschiff "Prince of Wales" (im Nordatlantik) veröffentlichten der amerikanische Präsident (Roosevelt) und der GB Premierminister (Churchill) eine Grundsatzerklärung über eine künftige Friedensordnung
+
+Forderungen:
+- Verzicht auf Annexion und Gewalt
+- Anerkennung des Selbstbestimmungsrechts der Völker
+- freien und gleichen Zugang zu den Rohstoffen der Erde
+- Aufbau eines kollektiven Sicherheitssystem
+- Entmilitarisierung der Achsenmächte
+Diese Prinzipien und Ziele gingen 1945 in die Charta der UN ein
+- vier Freiheiten: von Not+Furcht, Meinungs und Glaubensfreiheit
