@@ -497,86 +497,80 @@ $N_{2(g)}+3H_{2(g)} = 2NH_{3(g)}$
 
 verschiebt nach links
 
+
 ## Aufgabe 1:
 
 Gegeben:
-- Volumen der Lösung: \( V = 400 \, \text{ml} = 0{,}4 \, \text{l} \)
-- Konzentration der Lösung: \( c = 0{,}2 \, \text{mol/l} \)
-- Molares Masse von NaOH: \( M_{\text{NaOH}} = 40 \, \text{g/mol} \)
+- Volumen der Lösung: V = 400 ml = 0,4 l
+- Konzentration der Lösung: c = 0,2 mol/l
+- Molares Masse von NaOH: M(NaOH) = 40 g/mol
 
 Gesucht: Masse von NaOH in Gramm.
 
 ### Berechnung:
 
-Die Stoffmenge \( n \) von Natriumhydroxid (NaOH) ist gegeben durch:
-\[
-n = c \cdot V = 0{,}2 \, \text{mol/l} \cdot 0{,}4 \, \text{l} = 0{,}08 \, \text{mol}
-\]
+Die Stoffmenge n von Natriumhydroxid (NaOH) ist gegeben durch:
 
-Die Masse \( m \) ist dann:
-\[
-m = n \cdot M = 0{,}08 \, \text{mol} \cdot 40 \, \text{g/mol} = 3{,}2 \, \text{g}
-\]
+n = c * V = 0,2 mol/l * 0,4 l = 0,08 mol
+
+Die Masse m ist dann:
+
+m = n * M = 0,08 mol * 40 g/mol = 3,2 g
 
 ### Antwort:
-Man muss **3,2 g** Natriumhydroxid in 400 ml Wasser lösen.
+Man muss 3,2 g Natriumhydroxid in 400 ml Wasser lösen.
 
 ---
 
 ## Aufgabe 2:
 
 Gegeben:
-- Masse des NaCl: \( m = 8{,}5 \, \text{g} \)
-- Volumen der Lösung: \( V = 800 \, \text{ml} = 0{,}8 \, \text{l} \)
-- Molares Masse von NaCl: \( M_{\text{NaCl}} = 58{,}44 \, \text{g/mol} \)
+- Masse des NaCl: m = 8,5 g
+- Volumen der Lösung: V = 800 ml = 0,8 l
+- Molares Masse von NaCl: M(NaCl) = 58,44 g/mol
 
-Gesucht: Konzentration \( c \) der Lösung.
+Gesucht: Konzentration c der Lösung.
 
 ### Berechnung:
 
-Die Stoffmenge \( n \) von NaCl ist:
-\[
-n = \frac{m}{M} = \frac{8{,}5 \, \text{g}}{58{,}44 \, \text{g/mol}} = 0{,}145 \, \text{mol}
-\]
+Die Stoffmenge n von NaCl ist:
 
-Die Konzentration \( c \) ist:
-\[
-c = \frac{n}{V} = \frac{0{,}145 \, \text{mol}}{0{,}8 \, \text{l}} = 0{,}18125 \, \text{mol/l}
-\]
+n = m / M = 8,5 g / 58,44 g/mol = 0,145 mol
+
+Die Konzentration c ist:
+
+c = n / V = 0,145 mol / 0,8 l = 0,18125 mol/l
 
 ### Antwort:
-Die Konzentration der Lösung beträgt **0,181 mol/l**.
+Die Konzentration der Lösung beträgt 0,181 mol/l.
 
 ---
 
 ## Aufgabe 3:
 
 Gegeben:
-- Masse von NaOH: \( m = 50 \, \text{g} \)
-- Konzentration der Lösung: \( c = 2 \, \text{mol/l} \)
-- Molares Masse von NaOH: \( M_{\text{NaOH}} = 40 \, \text{g/mol} \)
+- Masse von NaOH: m = 50 g
+- Konzentration der Lösung: c = 2 mol/l
+- Molares Masse von NaOH: M(NaOH) = 40 g/mol
 
-Gesucht: Volumen der Lösung \( V \) in ml.
+Gesucht: Volumen der Lösung V in ml.
 
 ### Berechnung:
 
-Die Stoffmenge \( n \) von NaOH ist:
-\[
-n = \frac{m}{M} = \frac{50 \, \text{g}}{40 \, \text{g/mol}} = 1{,}25 \, \text{mol}
-\]
+Die Stoffmenge n von NaOH ist:
 
-Das Volumen \( V \) ist dann:
-\[
-V = \frac{n}{c} = \frac{1{,}25 \, \text{mol}}{2 \, \text{mol/l}} = 0{,}625 \, \text{l}
-\]
+n = m / M = 50 g / 40 g/mol = 1,25 mol
+
+Das Volumen V ist dann:
+
+V = n / c = 1,25 mol / 2 mol/l = 0,625 l
 
 Umrechnen in ml:
-\[
-V = 0{,}625 \, \text{l} = 625 \, \text{ml}
-\]
+
+V = 0,625 l = 625 ml
 
 ### Antwort:
-Das Volumen der Lösung beträgt **625 ml**.
+Das Volumen der Lösung beträgt 625 ml.
 
 ---
 
@@ -589,50 +583,45 @@ Gesucht: Konzentration in mol/l und Vergleich mit der gewünschten Konzentration
 
 ### Berechnung:
 
-Die Masse von Schwefelsäure in 100 g Lösung ist 10 g. Die molare Masse von Schwefelsäure \( M_{\text{H}_2\text{SO}_4} = 98 \, \text{g/mol} \).
+Die Masse von Schwefelsäure in 100 g Lösung ist 10 g. Die molare Masse von Schwefelsäure M(H2SO4) = 98 g/mol.
 
-Die Stoffmenge \( n \) von Schwefelsäure in 10 g ist:
-\[
-n = \frac{m}{M} = \frac{10 \, \text{g}}{98 \, \text{g/mol}} = 0{,}102 \, \text{mol}
-\]
+Die Stoffmenge n von Schwefelsäure in 10 g ist:
 
-Da die Dichte von verdünnter Schwefelsäure etwa \( 1 \, \text{g/ml} \) beträgt, beträgt das Volumen der Lösung etwa 100 ml = 0,1 l.
+n = m / M = 10 g / 98 g/mol = 0,102 mol
 
-Die Konzentration \( c \) ist:
-\[
-c = \frac{n}{V} = \frac{0{,}102 \, \text{mol}}{0{,}1 \, \text{l}} = 1{,}02 \, \text{mol/l}
-\]
+Da die Dichte von verdünnter Schwefelsäure etwa 1 g/ml beträgt, beträgt das Volumen der Lösung etwa 100 ml = 0,1 l.
+
+Die Konzentration c ist:
+
+c = n / V = 0,102 mol / 0,1 l = 1,02 mol/l
 
 ### Antwort:
-Ja, die 10%-ige Schwefelsäure kann verwendet werden, da ihre Konzentration **1,02 mol/l** beträgt, was der gewünschten Konzentration von **1 mol/l** sehr nahe kommt.
+Ja, die 10%-ige Schwefelsäure kann verwendet werden, da ihre Konzentration 1,02 mol/l beträgt, was der gewünschten Konzentration von 1 mol/l sehr nahe kommt.
 
 ---
 
 ## Aufgabe 5:
 
 Gegeben:
-- Volumen von Chlorwasserstoffgas: \( V_{\text{HCl}} = 150 \, \text{ml} = 0{,}15 \, \text{l} \)
-- Volumen des Wassers: \( V_{\text{Wasser}} = 400 \, \text{ml} = 0{,}4 \, \text{l} \)
-- Molares Volumen eines Gases bei Standardbedingungen: \( V_m = 22{,}4 \, \text{l/mol} \)
+- Volumen von Chlorwasserstoffgas: V(HCl) = 150 ml = 0,15 l
+- Volumen des Wassers: V(Wasser) = 400 ml = 0,4 l
+- Molares Volumen eines Gases bei Standardbedingungen: Vm = 22,4 l/mol
 
-Gesucht: Konzentration der Salzsäure \( c \).
+Gesucht: Konzentration der Salzsäure c.
 
 ### Berechnung:
 
-Die Stoffmenge \( n \) von HCl ist:
-\[
-n = \frac{V_{\text{HCl}}}{V_m} = \frac{0{,}15 \, \text{l}}{22{,}4 \, \text{l/mol}} = 0{,}0067 \, \text{mol}
-\]
+Die Stoffmenge n von HCl ist:
+
+n = V(HCl) / Vm = 0,15 l / 22,4 l/mol = 0,0067 mol
 
 Das Gesamtvolumen der Lösung ist:
-\[
-V_{\text{Lösung}} = 0{,}4 \, \text{l} + 0{,}15 \, \text{l} = 0{,}55 \, \text{l}
-\]
 
-Die Konzentration \( c \) der entstandenen Salzsäure ist:
-\[
-c = \frac{n}{V_{\text{Lösung}}} = \frac{0{,}0067 \, \text{mol}}{0{,}55 \, \text{l}} = 0{,}0122 \, \text{mol/l}
-\]
+V(Lösung) = 0,4 l + 0,15 l = 0,55 l
+
+Die Konzentration c der entstandenen Salzsäure ist:
+
+c = n / V(Lösung) = 0,0067 mol / 0,55 l = 0,0122 mol/l
 
 ### Antwort:
-Die Konzentration der entstandenen Salzsäure beträgt **0,0122 mol/l**.
+Die Konzentration der entstandenen Salzsäure beträgt 0,0122 mol/l.
