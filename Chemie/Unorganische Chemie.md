@@ -625,3 +625,27 @@ c = n / V(Lösung) = 0,0067 mol / 0,55 l = 0,0122 mol/l
 
 ### Antwort:
 Die Konzentration der entstandenen Salzsäure beträgt 0,0122 mol/l.
+
+
+Säure-Base Gleichgewichte
+1. Definition von Arrhenius
+	1. Säuren:
+	2. HCL ->
+	3. Woran erkennt man den sauren Charakter der Lösung?
+	4. Basen:
+	5. NaOH ->
+	6. Woran erkennt man den sauren Charakter der Lösung?
+2. Definition Brönsted
+	1. Säuren:
+	2. Basen:
+	3. Kennzeichnen Sie in dieser Chemischen Reaktion die korrespondierenden Säure/Base Paare!
+	4. Formulieren Sie die Säure- und Basenreaktion!
+	5. NH_3 + HCL -> NH_4Cl
+	6. Säurereaktion         ->
+	7. Basenreaktion        ->
+3. Protolyse
+	1. Def:
+	2. Formulieren Sie die Stufenweise Protolyse der Kohlensäure (H_2CO_3)
+4. Ampholyt
+5. Def:
+6. Erklär

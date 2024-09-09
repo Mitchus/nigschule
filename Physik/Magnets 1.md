@@ -37,7 +37,7 @@ Leiter des elektrischen Stromes können Veränderliche Magnetfelder erzeugen (18
 Leiter (Spule), Strommessgerät, Dauermagnet, Elektromagnet
 
 Induktionsgesetz
-Je größer die Änderung des Magnetfeldes ist (bei gleicher Zeitdauer der Änderung), desto größer auch die Induktionsspannung ist
+Je größer die Änderung des Magnetfeldes ist (bei gleicher Zeitdauer der Änderung), desto größer ist auch die Induktionsspannung 
 
 Ändert sich das ein Spuledurchsetzende Magnetfeld, so wird in der Spule eine Spannung induziert 
 hängt von der Richtung der Änderung der Stärke des Magnetfeldes ab
