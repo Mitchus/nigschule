@@ -823,3 +823,9 @@ Forderungen:
 - Entmilitarisierung der Achsenmächte
 Diese Prinzipien und Ziele gingen 1945 in die Charta der UN ein
 - vier Freiheiten: von Not+Furcht, Meinungs und Glaubensfreiheit
+
+Konferenz von Casablanca / GB u. USA 14.-26. Jan. 1943 (Marokko)
+Formuliertes Ziel:
+Strebt die Vernichtung der Kriegsmacht und Ideologie der Deutschen an
+Beweis für Stalin, dass die Westmächte keinen Sonderfrieden sondern mit den Sowjets die Achsenmächte bis zur entgültigen Niederwerfung bekämpfen würden.
+Erklärung Roosevelts bedeutete für die Kriegsgegner, dass sie sich nicht auf bestimmte Punkte der Atlantikcharta berufen konnten. Die Ergebnisse von Casablanca und die Kapitulation in Stalingrad veranlassten die Nationalsozialistische Propaganda zur Ausrufung des "totalen Krieges" Auch für den Wiederstand in Deutschland wurde die Hoffnung zerstört, mit einem erfolgreichen Putsch gegen Hitler, günstigere Friedensbedingungen für Deutschland zu erreichen.
