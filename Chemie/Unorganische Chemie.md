@@ -664,10 +664,10 @@ Säure-Base Gleichgewichte
 		4. Essigsäure reagiert mit Natronlauge
 
 ### 1. Definition von Arrhenius
-1. **Säuren:** Stoffe, die in wässriger Lösung H⁺-Ionen abgeben.
+1. **Säuren:** Stoffe, die in wässriger Lösung H⁺-Ionen abgeben. + SäurerestIonen
 2. **HCl:** Dissoziiert in H⁺ und Cl⁻.
 3. **Saurer Charakter der Lösung:** Durch die Erhöhung der H⁺-Ionen-Konzentration.
-4. **Basen:** Stoffe, die in wässriger Lösung OH⁻-Ionen abgeben.
+4. **Basen:** Stoffe, die in wässriger Lösung OH⁻-Ionen abgeben. + Baserestionen
 5. **NaOH:** Dissoziiert in Na⁺ und OH⁻.
 6. **Basischer Charakter der Lösung:** Durch die Erhöhung der OH⁻-Ionen-Konzentration.
 
