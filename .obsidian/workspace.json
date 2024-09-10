@@ -152,6 +152,16 @@
             }
           },
           {
+            "id": "0125d1674abe4c7c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "2ab2be713d3edf13",
             "type": "leaf",
             "state": {
@@ -162,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -228,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md"
               }
             }
           },
@@ -332,13 +342,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1faca2ef020f7ca8",
+  "active": "0125d1674abe4c7c",
   "lastOpenFiles": [
+    "Chemie/Unorganische Chemie.md",
+    "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
     "Chemie/Organische Chemie.md",
     "Chemie/Alkane.md",
     "Chemie/Alkane als Lösungsmittel.md",
     "Chemie/Addition.md",
-    "Chemie/Unorganische Chemie.md",
     "Chemie/Chemie Michel Nowacki.md",
     "Physik/Magnets 1.md",
     "Physik/Magnets.md",
@@ -361,7 +372,6 @@
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
-    "Englisch/How to analyse the atmosphere.md",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
     "Physik/files/Pasted image 20240903100645.png",
     "Physik/files/Pasted image 20240903095958.png",
