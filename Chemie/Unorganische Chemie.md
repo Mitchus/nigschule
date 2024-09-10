@@ -722,3 +722,19 @@ Säure-Base Gleichgewichte
    4. **Essigsäure (CH₃COOH) + Natronlauge (NaOH):**
       - **Gleichung:** CH₃COOH + NaOH → CH₃COONa + H₂O
       - **Entstehendes Salz:** Natriumacetat (CH₃COONa)
+  - 
+  - 
+  
+  Die Autoprotolyse des Wassers
+$\ce{ H_{2}O + H_{2}O -> H_{3}O+ + OH- }$
+B2        S1            S2           B1
+
+Protonenabgabe (Säurereaktion): $\ce{ H_{2}O->OH- + H+  }$
+Protonenaufnahme (Bsereaktion): $\ce{ H_{2}O + H+ -> H_{3}O+ }$
+$K_{C} = \frac{\ce{ C_{OH⁻} * C_{H_{3}O⁺} }}{\ce{ C_{H_{2}O} }}=3,26*10⁻¹⁸$
+$3,26*10⁻¹⁸ * 55,6 \frac{mol}{l} = \ce{ C_{OH⁻} * C_{H_{3}O⁺} }$
+$1*10⁻¹⁴ \frac{mol²}{l²} = \ce{ C_{OH⁻} * C_{H_{3}O⁺} }$
+
+Ionenprodukt des Wassers
+$K_{W} = 10⁻¹⁴ \frac{mol²}{l²
+Wurzel ziehen
