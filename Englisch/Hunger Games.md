@@ -40,6 +40,9 @@ Dark days failed rebellion
 #### **Setting:**
 
 - **The Justice Building, District 12** – Where Katniss says her goodbyes to her family and friends before being taken to the Capitol.
+- Summer, Glorious day with blue sky and soft breeze p. 19 
+- reaping at the square, which is normally pretty nice p.24 l.5
+- first encounter with peeta was on a rainy day p 34 
 - **The Train** – Katniss and Peeta board a high-speed train that will take them to the Capitol. The luxury and food on the train stand in sharp contrast to the poverty of District 12.
 
 #### **Plot:**
