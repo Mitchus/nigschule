@@ -62,3 +62,9 @@ How does the author affect the readers feelings
 P. 28, ll1-10
 p. 34 -36 Katniss looks back and shows the reader how hard it was to survive and provide her mother and sister 
 p. 29 24-28 Katniss gets harsh to prim trying to hold back tears and look strong
+
+Analysation 
+text type, name, author, what happens, smth. about the assignment
+In chapter 2 of the novel "The Hunger Games" by Suzanne Collins, published in 2013 in Stuttgart, the author describes the "Reaping" in District 12 She uses several rhetorical strategies to create a special atmosphere that is conveyed to the reader in a professional way.
+
+Right from the beginning the reader can easily understand Katnisses despair as Suzanne Collins compares the prot
