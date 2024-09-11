@@ -57,3 +57,8 @@ Katniss then boards the train with Peeta, and they both begin their journey towa
 2. **Katniss’s Relationships** – The chapter deepens the emotional complexity of Katniss’s relationships. Her protective nature toward Prim is emphasized, and the bonds she shares with Gale and Peeta are highlighted.
 3. **Contrast Between the Capitol and District 12** – The luxury of the train and its food underscore the severe inequality between the Capitol and the impoverished districts.
 4. **Gale’s Advice** – Gale’s advice about using her hunting skills plants the idea of how Katniss can potentially survive the Hunger Games, focusing on her practical abilities.
+
+How does the author affect the readers feelings
+P. 28, ll1-10
+p. 34 -36 Katniss looks back and shows the reader how hard it was to survive and provide her mother and sister 
+p. 29 24-28 Katniss gets harsh to prim trying to hold back tears and look strong
