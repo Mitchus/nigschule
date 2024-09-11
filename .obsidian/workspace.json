@@ -155,9 +155,12 @@
             "id": "0125d1674abe4c7c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md"
+                "file": "Englisch/Hunger Games.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -238,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
+                "file": "Englisch/Hunger Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
+                "file": "Englisch/Hunger Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md"
+                "file": "Englisch/Hunger Games.md"
               }
             }
           },
@@ -344,8 +347,8 @@
   },
   "active": "0125d1674abe4c7c",
   "lastOpenFiles": [
-    "Chemie/Unorganische Chemie.md",
     "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
+    "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Chemie/Alkane.md",
     "Chemie/Alkane als Lösungsmittel.md",
