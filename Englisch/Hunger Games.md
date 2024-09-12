@@ -69,3 +69,7 @@ In chapter 2 of the novel "The Hunger Games" by Suzanne Collins, published in 20
 
 what she does, Evidence, lines 
 Right from the beginning the reader can easily understand Katnisses despair as Suzanne Collins compares the protagonists emotion when her sisters name is called to aa moment in Katniss´s past when she fell from a tree, then lying in the ground unable to breathe (cf. p28 ll. 1-5)
+
+
+In a nutshell, the atmosphere in Chapter 2 of *The Hunger Games* is a 
+mix of intense emotions, like shock, fear, and sacrifice. The fear of the unknown and the brutality of the Games hangs over the characters, but Katniss’s selfless act of volunteering for her sister introduces a poignant moment of courage and defiance. This chapter sets the tone for the emotional depth of the story, illustrating both the oppressive nature of the Capitol’s control and the unbreakable bonds of family and love that drive Katniss forward.
