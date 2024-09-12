@@ -8,150 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98438ab55de041fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Deutsch GPT-Gedicht.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e94b6dc1eea3b57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Stochhastik.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19df1b7ec0564f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/Was soll ich tun? - Ethik.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "540b8af6952a584b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Berufung der Generalstände und Bildung deer Nationalversammlung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d22223c15643054",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
-              }
-            }
-          },
-          {
-            "id": "f7fb556ac3e6140a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Chemab.md"
-              }
-            }
-          },
-          {
-            "id": "e81e16f60b5073f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d05234dfcf1018f9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Chemab.md"
-              }
-            }
-          },
-          {
-            "id": "7bbecabbfaf0af17",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Geschichte/files/Pasted image 20240523085416.png"
-              }
-            }
-          },
-          {
-            "id": "a6fc5e22bf962fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Stochhastik.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e848829be70b56f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemie/Unorganische Chemie.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1faca2ef020f7ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemie/Unorganische Chemie.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0125d1674abe4c7c",
             "type": "leaf",
             "state": {
@@ -165,17 +21,20 @@
             }
           },
           {
-            "id": "2ab2be713d3edf13",
+            "id": "a9ccc0395228f007",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Chemab.md"
+                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Hunger Games.md"
+                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md"
               }
             }
           },
@@ -345,17 +204,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0125d1674abe4c7c",
+  "active": "a9ccc0395228f007",
   "lastOpenFiles": [
-    "Englisch/Charakterisierung.md",
-    "Philosophie/Was soll ich tun? - Ethik.md",
+    "Englisch/Hunger Games.md",
+    "Englisch/How to analyse the atmosphere.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
+    "Philosophie/Was soll ich tun? - Ethik.md",
+    "Englisch/Charakterisierung.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Englisch/Obama.md",
     "Geschichte/Geschichte.md",
     "Geschichte/Verfassung 1791.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
-    "Englisch/Hunger Games.md",
     "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
@@ -372,7 +232,6 @@
     "Mathe/Deutsch GPT-Gedicht.md",
     "Mathe/Differenzialrechnung.md",
     "Mathe/FDP Wahlprogramm.md",
-    "Mathe/Untitled.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",

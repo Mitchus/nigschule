@@ -26,7 +26,77 @@ Economic struggles
 History 
 Panem rose out of the ashes of NA 
 Dark days failed rebellion
+Hunger Games Chapter 2
+Characters, behaviour and interaction
+- **Katniss Everdeen**:
+    - Shocked, numb, paralized (cf. p. 28, ll. 1-16)
+    - volunteers for prim (p. 28, l. 32)
+    - tells Prim roughly to let her go (cf. p. 29, ll. 27-31)
+    - cares for her family as an 11 year old child cf. pp. 32
+    - remembers the time she got to know Peeta (cf. pp. 32-37)
 
+- **Primrose (Prim) Everdeen**:
+    
+    - Prims interaction with her Sister shows that she is emotionally charged and sentimental p. 29 ll. 24-26 and p.33 ll. 11-15
+    - Very unlucky pp 28. ll. 11-16
+    - Prim is lovable, innocent p.30 l. 14
+- **Haymitch**
+	- drunk without self control, maybe taunting the capitol on live TV pp. 30-31
+	- depressing to see that the only alive Winner is such a wreck
+- **Peeta**
+	- Tense and scared p. 32 l.1 
+	- friendly enough to save Katniss from starving p. 36 ll. 5-11 
+- **Mother**
+	- traumatized and very sad after Husbands death p. 32 ll. 24-32
+- **Effie Trinket**:
+    
+    - Effie is overly **cheerful** and **light-hearted** in a situation that is **hostile** and **chilly** for the participants. p. 29 ll. 11-14
+    - Her **excited** attitude is inappropriate in the **scary** and **tense** atmosphere.
+    - Effie’s enthusiasm feels out of place, making the people of District 12 uncomfortable with her **welcoming** manner, which is disturbingly **dynamic** given the **depressing** situation. 
+
+Setting/circumstances (place, time, weather, objects, situation...)
+- **Place**: District 12’s town square is **chilly** and **hostile**, with its rundown appearance adding to the **depressing** and **tense** atmosphere of the Reaping. The square feels **cold** and unwelcoming, a stark contrast to the **idyllic** or **nostalgic** feeling Katniss might associate with her memories of home.
+    
+- **Time**: The Reaping day is a **tense**, **scary**, and **hectic** occasion, marked by **hostile** circumstances as children are forced into a fight to the death. The time of the event feels **cold** and devoid of any **hopeful** or **light-hearted** sentiment.
+    
+- **Weather**: Although not specifically described, the general mood is **chilly**, adding to the **tense** and **uncomfortable** atmosphere. The weather might symbolically represent the **cold** and **hostile** nature of the Capitol’s control.
+    
+- **Objects**: The glass ball from which the names are drawn feels **alarming** and **cold**, symbolizing the **hostile** and **depressing** fate that awaits the chosen tributes. The formality of the objects contrasts with the **warm** human emotions of fear and love.
+    
+- **Situation**: The Reaping is a **tense**, **chilly**, and **alarming** event. The community gathers in an atmosphere filled with **fear** and **dread**, as the lives of two children will be destroyed in a **hostile** and **scary** system. It’s an event that should be **welcoming** and **friendly** for a community, but it’s instead deeply **uncomfortable** and **cold**.
+
+How does the author affect the readers feeling?
+Suzanne Collins creates a deeply **tense** and **uncomfortable** emotional experience for the reader by juxtaposing the **cheerful** and **excited** Capitol representatives like Effie with the **scary**, **chilly** reality of the Reaping. The act of Katniss volunteering for her sister fills the reader with a mix of **sentimental** love and **depressing** dread. The **nostalgic** moments when Katniss recalls her past interactions with Peeta add complexity, making the future feel even more **tense** and uncertain.
+
+How do all these factors contribute to the atmosphere?
+
+- The **cold**, **hostile** setting of District 12’s town square creates a sense of **fear** and **tension**.
+- The **alarming** and **chilly** nature of the Reaping contrasts with the **cheerful**, **light-hearted** Capitol representatives, making the event even more **uncomfortable** and **scary** for the tributes and their families.
+- Katniss’ **sentimental** bond with her sister and her **tense** thoughts about Peeta give the chapter an emotionally charged, yet **depressing** atmosphere.
+
+
+hopeful
+light hearted
+idyllic
+warm
+excited
+welcoming
+nostlgic
+friendly
+cheerful
+dynamic
+sentimental
+depressing
+scary
+cold
+tense
+hectic
+uncomfortable
+chilly
+hostile
+alarming
+
+Chapter 3
 #### **Characters:**
 
 1. **Katniss Everdeen** – The protagonist, preparing to leave District 12 for the Hunger Games. Her thoughts and emotions are central in this chapter.
@@ -71,5 +141,6 @@ what she does, Evidence, lines
 Right from the beginning the reader can easily understand Katnisses despair as Suzanne Collins compares the protagonists emotion when her sisters name is called to aa moment in Katniss´s past when she fell from a tree, then lying in the ground unable to breathe (cf. p28 ll. 1-5)
 
 
-In a nutshell, the atmosphere in Chapter 2 of *The Hunger Games* is a 
-mix of intense emotions, like shock, fear, and sacrifice. The fear of the unknown and the brutality of the Games hangs over the characters, but Katniss’s selfless act of volunteering for her sister introduces a poignant moment of courage and defiance. This chapter sets the tone for the emotional depth of the story, illustrating both the oppressive nature of the Capitol’s control and the unbreakable bonds of family and love that drive Katniss forward.
+
+In a nutshell, the atmosphere in Chapter 2 of The Hunger Games is a 
+mix of intense emotions, like shock, fear, and sacrifice. Displayed with various  The fear of the unknown and the brutality of the Games hangs over the characters, but Katniss’s volunteering for her sister introduces a moment of courage. 
