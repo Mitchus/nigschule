@@ -88,3 +88,31 @@ Trotz dieser Argumente gibt es auch gute Gründe zu versuchen, sich um maximale 
 - **Methodische Reflexion**: Historiker sollten sich ihrer eigenen Subjektivität und der Kontextabhängigkeit ihrer Arbeit bewusst sein und diese offenlegen, um die Transparenz und Nachvollziehbarkeit ihrer Darstellung zu erhöhen.
 
 Insgesamt ist Hegels These, dass Geschichte nicht vollkommen unparteiisch sein kann, realistisch und erkennt die komplexen Einflüsse an, die die Geschichtsschreibung prägen. Es bleibt jedoch die Aufgabe der Geschichtswissenschaft, kontinuierlich nach größtmöglicher Objektivität und methodischer Reflexion zu streben, um ein umfassendes und differenziertes Bild der Vergangenheit zu präsentieren.
+
+### Einleitung
+
+In seinem Essay „Von den Schwierigkeiten der Geschichte“ thematisiert Georg Friedrich Wilhelm Hegel die unvermeidliche Verflechtung von Geschichte und subjektiven Vorstellungen. Der Text stammt aus Hegels „Gesammelte Werke“ und befasst sich mit den Herausforderungen und Aufgaben, denen sich Historiker gegenübersehen. Hegels Hauptaussage ist, dass eine vollkommen unparteiische Geschichtsschreibung unmöglich ist, da die Vorstellung des Gegenstands die Auswahl und Darstellung der historischen Ereignisse maßgeblich beeinflusst.
+
+### Hauptteil
+
+Hegel beginnt mit der Anerkennung einer allgemein geforderten Unparteilichkeit in der Geschichtsschreibung. Er stellt fest, dass Geschichte Tatsachen ohne Parteilichkeit und ohne spezifische Interessen erzählen sollen. Diese Forderung sei jedoch ein Gemeinplatz und würde in der Praxis nicht weit führen. Hegel folgert, dass die Beschreibung eines historischen Gegenstandes notwendigerweise von der Vorstellung abhängt, die man sich von diesem Gegenstand macht (Hegel meint).
+
+Beschreibung der Geschichte abhängig von der Vorstellung
+
+Weiter argumentiert Hegel, dass diese Vorstellung bestimmt, was für den Historiker wichtig und zweckmäßig erscheint. Dazu gehöre eine Auswahl der zu erzählenden Begebenheiten. Diese Auswahl sei jedoch nicht objektiv, da sie von der jeweiligen Vorstellung geprägt ist (Hegel erklärt).
+
+Die Vorstellung bestimmt was wichtig ist, deswegen ist er biased bei der Auswahl der zu erzählenden Begebenheiten.
+
+Hegel führt das Beispiel der politischen Geschichte eines Landes an, um zu verdeutlichen, wie unterschiedlich die Erwartungen sein können. Ein Leser könnte in einer politischen Geschichte eines Landes nicht das finden, was er sucht, wenn seine Vorstellung von einem Staat abweicht (Hegel verdeutlicht).
+
+Außerdem had die pol. Geschichte eines Landes Einfluss auf die Leser. 
+
+Noch problematischer sei dies bei der Geschichte der Philosophie, da hier die Vorstellungen von ihrem Gegenstand deutlich stärker divergieren. Hegel argumentiert, dass es Darstellungen der Philosophiegeschichte geben könne, in denen man alles erwartet, nur nicht das, was man gemeinhin für Philosophie hält (Hegel führt aus).
+
+Im Gegensatz dazu seien bei anderen Wissenschaften oder Künsten, wie Mathematik oder Malerei, die Vorstellungen von ihrem Gegenstand in ihren Hauptbestimmungen meist feststehend. Die Wissenschaft der Philosophie habe jedoch den Unterschied, oder auch den Nachteil, dass über ihren Begriff und ihre Zielsetzung die verschiedensten Ansichten bestünden (Hegel stellt fest).
+
+Abschließend bemerkt Hegel, dass diese Schwankungen in der Vorstellung des Gegenstandes die Geschichte selbst zu einem schwankenden Feld machen. Geschichte könne nur Bestand haben, wenn sie eine bestimmte Vorstellung voraussetzt. Dadurch werde sie jedoch leicht dem Vorwurf der Einseitigkeit ausgesetzt (Hegel schließt).
+
+### Schluss
+
+Hegel argumentiert in seinem Essay „Von den Schwierigkeiten der Geschichte“, dass eine objektive und unparteiische Geschichtsschreibung unmöglich sei, da sie notwendigerweise von der Vorstellung des Historikers über den zu beschreibenden Gegenstand beeinflusst wird. Dieser Einfluss führt nicht nur zu einer bestimmten Auswahl und Gewichtung der erzählten Begebenheiten, sondern setzt die Geschichtsschreibung auch dem Vorwurf der Einseitigkeit aus. Hegels Kernthese unterstreicht die komplexe und subjektive Natur der Geschichtsschreibung und die Herausforderungen, die sich daraus ergeben.

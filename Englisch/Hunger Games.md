@@ -143,4 +143,4 @@ Right from the beginning the reader can easily understand Katnisses despair as S
 
 
 In a nutshell, the atmosphere in Chapter 2 of The Hunger Games is a 
-mix of intense emotions, like shock, fear, and sacrifice. Displayed with various  The fear of the unknown and the brutality of the Games hangs over the characters, but Katniss’s volunteering for her sister introduces a moment of courage. 
+mix of intense emotions, like shock, fear, and sacrifice. The fear of the unknown and the brutality of the Games hangs over the characters, but Katniss’s volunteering for her sister introduces a moment of courage. 
