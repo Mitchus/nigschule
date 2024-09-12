@@ -67,4 +67,5 @@ Analysation
 text type, name, author, what happens, smth. about the assignment
 In chapter 2 of the novel "The Hunger Games" by Suzanne Collins, published in 2013 in Stuttgart, the author describes the "Reaping" in District 12 She uses several rhetorical strategies to create a special atmosphere that is conveyed to the reader in a professional way.
 
-Right from the beginning the reader can easily understand Katnisses despair as Suzanne Collins compares the prot
+what she does, Evidence, lines 
+Right from the beginning the reader can easily understand Katnisses despair as Suzanne Collins compares the protagonists emotion when her sisters name is called to aa moment in Katniss´s past when she fell from a tree, then lying in the ground unable to breathe (cf. p28 ll. 1-5)
