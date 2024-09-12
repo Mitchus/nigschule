@@ -144,3 +144,9 @@ Right from the beginning the reader can easily understand Katnisses despair as S
 
 In a nutshell, the atmosphere in Chapter 2 of The Hunger Games is a 
 mix of intense emotions, like shock, fear, and sacrifice. The fear of the unknown and the brutality of the Games hangs over the characters, but Katniss’s volunteering for her sister introduces a moment of courage. 
+
+1. Alles würde Perfekt sein, wenn dies wirklich ein Urlaub wäre.
+2. Wir könnten es machen.
+3. Ich würde es vlt, wenn ich nicht hier leben würde.
+
+

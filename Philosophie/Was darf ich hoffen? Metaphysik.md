@@ -105,11 +105,15 @@ Die Vorstellung bestimmt was wichtig ist, deswegen ist er biased bei der Auswahl
 
 Hegel führt das Beispiel der politischen Geschichte eines Landes an, um zu verdeutlichen, wie unterschiedlich die Erwartungen sein können. Ein Leser könnte in einer politischen Geschichte eines Landes nicht das finden, was er sucht, wenn seine Vorstellung von einem Staat abweicht (Hegel verdeutlicht).
 
-Außerdem had die pol. Geschichte eines Landes Einfluss auf die Leser. 
+Außerdem had die pol. Geschichte eines Landes Einfluss auf die Leser.  (Nationalstolz and shit)
 
 Noch problematischer sei dies bei der Geschichte der Philosophie, da hier die Vorstellungen von ihrem Gegenstand deutlich stärker divergieren. Hegel argumentiert, dass es Darstellungen der Philosophiegeschichte geben könne, in denen man alles erwartet, nur nicht das, was man gemeinhin für Philosophie hält (Hegel führt aus).
 
+Die Philosophie weicht noch stärker vom Gesch. Gegenstand ab.
+
 Im Gegensatz dazu seien bei anderen Wissenschaften oder Künsten, wie Mathematik oder Malerei, die Vorstellungen von ihrem Gegenstand in ihren Hauptbestimmungen meist feststehend. Die Wissenschaft der Philosophie habe jedoch den Unterschied, oder auch den Nachteil, dass über ihren Begriff und ihre Zielsetzung die verschiedensten Ansichten bestünden (Hegel stellt fest).
+
+
 
 Abschließend bemerkt Hegel, dass diese Schwankungen in der Vorstellung des Gegenstandes die Geschichte selbst zu einem schwankenden Feld machen. Geschichte könne nur Bestand haben, wenn sie eine bestimmte Vorstellung voraussetzt. Dadurch werde sie jedoch leicht dem Vorwurf der Einseitigkeit ausgesetzt (Hegel schließt).
 
