@@ -14,7 +14,21 @@ Geschichtsphilosophie ein Aspekt der Metaphysik
 Vergangenheit (Wohin, Was tun, Auswikrungen)
 ,
 
+wie verläuft geschichte:
+Zyklisch
 
+teleologische Geschichtsphilosophie:
+zyklisch linear
+linear
+Stufenweise
+
+Perspektiven
+Sich Selbst, der Menschheit
+Beim Verlauf von Gesch. ergibt sich ein perspektivisches Problem vom geschichtlichen Gegenstand:
+- ontogenetische Perspektive
+	- Rückschau auf mein Leben und Blick auf meine persönliche Zukunft
+- phylogenetische Perspektive
+- Betrachtung der Menschheitsgeschichte und schließen auf Zukünftiges 
 ### Aufgabe 1: Fasst die Kerngedanken des Textes als Thesen zusammen.
 
 1. **Unparteilichkeit und Interesse in der Geschichtsschreibung**:
