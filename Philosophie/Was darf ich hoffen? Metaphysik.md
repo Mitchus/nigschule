@@ -28,7 +28,7 @@ Beim Verlauf von Gesch. ergibt sich ein perspektivisches Problem vom geschichtli
 - ontogenetische Perspektive
 	- Rückschau auf mein Leben und Blick auf meine persönliche Zukunft
 - phylogenetische Perspektive
-- Betrachtung der Menschheitsgeschichte und schließen auf Zukünftiges 
+	- Betrachtung der Menschheitsgeschichte und schließen auf Zukünftiges 
 ### Aufgabe 1: Fasst die Kerngedanken des Textes als Thesen zusammen.
 
 1. **Unparteilichkeit und Interesse in der Geschichtsschreibung**:
@@ -105,7 +105,7 @@ Insgesamt ist Hegels These, dass Geschichte nicht vollkommen unparteiisch sein k
 
 ### Einleitung
 
-In seinem Essay „Von den Schwierigkeiten der Geschichte“ thematisiert Georg Friedrich Wilhelm Hegel die unvermeidliche Verflechtung von Geschichte und subjektiven Vorstellungen. Der Text stammt aus Hegels „Gesammelte Werke“ und befasst sich mit den Herausforderungen und Aufgaben, denen sich Historiker gegenübersehen. Hegels Hauptaussage ist, dass eine vollkommen unparteiische Geschichtsschreibung unmöglich ist, da die Vorstellung des Gegenstands die Auswahl und Darstellung der historischen Ereignisse maßgeblich beeinflusst.
+In seinem Essay „Von den Schwierigkeiten der Geschichte“ thematisiert Georg Friedrich Wilhelm Hegel die unvermeidliche Verflechtung von Geschichte und subjektiven Vorstellungen. Hegels Hauptaussage ist, dass eine vollkommen unparteiische Geschichtsschreibung unmöglich ist, da die Vorstellung des Gegenstands die Auswahl und Darstellung der historischen Ereignisse maßgeblich beeinflusst.
 
 ### Hauptteil
 
