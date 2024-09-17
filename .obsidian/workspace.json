@@ -24,9 +24,12 @@
             "id": "a9ccc0395228f007",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Geschichte/Geschichte.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Geschichte/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Geschichte/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Geschichte/Geschichte.md"
               }
             }
           },
@@ -203,6 +206,9 @@
   },
   "active": "a9ccc0395228f007",
   "lastOpenFiles": [
+    "Geschichte/Kampf um die Republik.md",
+    "Geschichte/Geschichte.md",
+    "Geschichte/NS Außenpolitik 1933-36.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
     "Englisch/Hunger Games.md",
     "Englisch/How to analyse the atmosphere.md",
@@ -210,9 +216,7 @@
     "Englisch/Charakterisierung.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Englisch/Obama.md",
-    "Geschichte/Geschichte.md",
     "Geschichte/Verfassung 1791.md",
-    "Geschichte/NS Außenpolitik 1933-36.md",
     "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
@@ -228,7 +232,6 @@
     "Mathe/LaTeX Cheat Sheet.md",
     "Mathe/Deutsch GPT-Gedicht.md",
     "Mathe/Differenzialrechnung.md",
-    "Mathe/FDP Wahlprogramm.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
