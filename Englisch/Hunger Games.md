@@ -170,6 +170,7 @@ mix of intense emotions, like shock, fear, and sacrifice. The fear of the unknow
 - **Weather**: Not specified, but the Capitol atmosphere is bright and welcoming.
 - **Objects**: Katniss’ flame-themed costume, a central symbol of empowerment.
 - **Situation**: Tribute parade; first public appearance to impress sponsors.
+- Remakecenter
 
 #### **How the Author Affects the Reader’s Feelings**:
 - Builds tension and excitement through Katniss’ nervousness and Cinna’s supportive nature.
