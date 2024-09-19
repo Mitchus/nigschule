@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Deutsch/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Deutsch/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Deutsch/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Geschichte.md"
+                "file": "Deutsch/Untitled.md"
               }
             }
           },
@@ -206,8 +206,15 @@
   },
   "active": "a9ccc0395228f007",
   "lastOpenFiles": [
-    "Geschichte/Kampf um die Republik.md",
+    "Deutsch/Spielablauf.md",
+    "Deutsch/Sachtextanalyse.md",
+    "Deutsch/Interpretation.md",
+    "Deutsch/Faust.md",
+    "Deutsch/Erörtern.md",
+    "Deutsch/Barock.md",
+    "Deutsch/Untitled.md",
     "Geschichte/Geschichte.md",
+    "Geschichte/Kampf um die Republik.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
     "Englisch/Hunger Games.md",
@@ -225,13 +232,6 @@
     "Chemie/Addition.md",
     "Chemie/Chemie Michel Nowacki.md",
     "Physik/Magnets 1.md",
-    "Physik/Magnets.md",
-    "Geschichte/Timeline.md",
-    "Mathe/Stochhastik.md",
-    "Mathe/Mathe Klausur Themen.md",
-    "Mathe/LaTeX Cheat Sheet.md",
-    "Mathe/Deutsch GPT-Gedicht.md",
-    "Mathe/Differenzialrechnung.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
