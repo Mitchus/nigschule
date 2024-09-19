@@ -192,4 +192,6 @@ mix of intense emotions, like shock, fear, and sacrifice. The fear of the unknow
    - District 11 Agriculture
 
 
----
+p 68 holding hands
+ll. 15 uses him for stabilization, he too p. 69ll. 5
+joking together p 70. and p. 67
