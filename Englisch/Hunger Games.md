@@ -148,3 +148,47 @@ mix of intense emotions, like shock, fear, and sacrifice. The fear of the unknow
 3. Ich würde es vlt, wenn ich nicht hier leben würde.
 
 
+### **Chapter 5 Overview (Key Points in Bullet Form)**
+
+#### **Characters, Behavior, and Interaction:**
+- **Katniss Everdeen**:
+  - Nervous, self-conscious, becomes empowered through Cinna’s support.
+  - Trusts Cinna, appreciates his calm and friendly demeanor.
+- **Cinna**:
+  - Empathetic, supportive, and calm.
+  - Creates the "Girl on Fire" look, forming a bond with Katniss.
+- **Peeta Mellark**:
+  - Friendly, light-hearted, supportive.
+  - Holds hands with Katniss during the parade, projecting unity.
+- **Effie Trinket**:
+  - Excited, focused on Capitol appearances, oblivious to the tension.
+  - Creates a hectic but cheerful atmosphere.
+
+#### **Setting/Circumstances**:
+- **Place**: Capitol, extravagant and artificial.
+- **Time**: Pre-Hunger Games preparation, before the tribute parade.
+- **Weather**: Not specified, but the Capitol atmosphere is bright and welcoming.
+- **Objects**: Katniss’ flame-themed costume, a central symbol of empowerment.
+- **Situation**: Tribute parade; first public appearance to impress sponsors.
+
+#### **How the Author Affects the Reader’s Feelings**:
+- Builds tension and excitement through Katniss’ nervousness and Cinna’s supportive nature.
+- Creates a sense of hope with the "Girl on Fire" imagery, while underlying fear remains.
+- Contrasts warm support with the cold reality of the Capitol's control.
+
+#### **Atmosphere**:
+- Mix of excitement and dread.
+- Tense and unsettling beneath the surface, despite the Capitol’s outward cheerfulness.
+
+### **Information About the Districts Given in Chapter 5:**
+
+- Each district has its own unique industry, which is reflected in the costumes of the tributes during the parade. For example:
+   - District 12 (Katniss and Peeta) is represented by **coal**, hence the flame-themed costumes designed to represent fire.
+   - District 1 Luxury Goods for the capitol
+      - Snow white Horses 
+   - District 3 Factories
+   - District 4 Fishing
+   - District 11 Agriculture
+
+
+---
