@@ -836,7 +836,10 @@ Der deutsche Wiederstand
 1. Wie ist die Situation im Sommer 1945 Berlin?
 	1. Zerstört
 2. Wer sind die Besatzungsmächte?
-	1. Amerikaner Udssr Franzosen
+	1. Amerikaner GB Franzosen
 3. Welche Partei wird als erste Zugelassen?
+	1. KPD 
 4. Welches Interesse (Pläne) verfolgten die Udssr und USA
+	1. Udssr: Wiederaufbau des eigenen Landes
+	2. USA: Ernährung der Bevölkerung
 5. Worum ging es bei der Konferenz der großen 3? (Potsdamer Konferenz)
