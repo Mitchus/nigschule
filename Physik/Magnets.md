@@ -128,3 +128,5 @@ Ein Proton bewegt sich in einem Magnetfeld, das nach unten gerichtet ist mit ein
 Geben sie Betrag und Richtung der wirkenden Kraft an! (B=40T)
 F= 4.8*10⁻¹¹ 
 ![[Pasted image 20240903100645.png]]
+
+ist stets so gerichtet, dass er der Ursache seiner Entstehung entgegenwirkt

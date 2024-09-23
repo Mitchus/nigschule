@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Physik/Magnets.md"
               }
             }
           },
@@ -216,6 +216,10 @@
   },
   "active": "a9ccc0395228f007",
   "lastOpenFiles": [
+    "Physik/Magnets 1.md",
+    "Physik/Magnets.md",
+    "Physik/E-Lehre.md",
+    "Chemie/Unorganische Chemie.md",
     "Geschichte/Geschichte.md",
     "Geschichte/Der deutsche Wiederstand.md",
     "13./Deutsch/Romantische Ironie.md",
@@ -238,10 +242,6 @@
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Englisch/Obama.md",
     "Geschichte/Verfassung 1791.md",
-    "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
-    "Chemie/Unorganische Chemie.md",
-    "Chemie/Organische Chemie.md",
-    "Chemie/Alkane.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
