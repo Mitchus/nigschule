@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Der deutsche Wiederstand.md",
+                "file": "Geschichte/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Der deutsche Wiederstand.md",
+                "file": "Geschichte/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Der deutsche Wiederstand.md"
+                "file": "Geschichte/Geschichte.md"
               }
             }
           },
@@ -214,10 +214,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c91b96f3a3447a02",
+  "active": "a9ccc0395228f007",
   "lastOpenFiles": [
-    "Geschichte/Geschichte.md",
     "Geschichte/Der deutsche Wiederstand.md",
+    "Geschichte/Geschichte.md",
     "13./Deutsch/Romantische Ironie.md",
     "Deutsch/Barock.md",
     "Deutsch/Erörtern.md",

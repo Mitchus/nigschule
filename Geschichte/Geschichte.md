@@ -832,3 +832,11 @@ Erklärung Roosevelts bedeutete für die Kriegsgegner, dass sie sich nicht auf b
 
 
 Der deutsche Wiederstand
+![[Der deutsche Wiederstand]]
+1. Wie ist die Situation im Sommer 1945 Berlin?
+	1. Zerstört
+2. Wer sind die Besatzungsmächte?
+	1. Amerikaner Udssr Franzosen
+3. Welche Partei wird als erste Zugelassen?
+4. Welches Interesse (Pläne) verfolgten die Udssr und USA
+5. Worum ging es bei der Konferenz der großen 3? (Potsdamer Konferenz)
