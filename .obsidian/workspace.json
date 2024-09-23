@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Mathe/Stochhastik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Mathe/Stochhastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Mathe/Stochhastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Hunger Games.md"
+                "file": "Mathe/Stochhastik.md"
               }
             }
           },
@@ -206,6 +206,8 @@
   },
   "active": "a9ccc0395228f007",
   "lastOpenFiles": [
+    "Mathe/Mathe Aufgaben.md",
+    "Englisch/Hunger Games.md",
     "Deutsch/Untitled.md",
     "Deutsch/Spielablauf.md",
     "Deutsch/Sachtextanalyse.md",
@@ -217,7 +219,6 @@
     "Geschichte/Kampf um die Republik.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
-    "Englisch/Hunger Games.md",
     "Englisch/How to analyse the atmosphere.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Englisch/Charakterisierung.md",
@@ -231,7 +232,6 @@
     "Chemie/Alkane als Lösungsmittel.md",
     "Chemie/Addition.md",
     "Chemie/Chemie Michel Nowacki.md",
-    "Physik/Magnets 1.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
