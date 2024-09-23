@@ -33,3 +33,29 @@ Sein Bart wächst im Traum immer weiter.
 Er wacht auf und sucht den Anfang/das Ende von seinem Bart. 
 Erkenntnis:
 Der Bart ist im Kreis gewachsen und endet bei der Schildkröte, wo er seine Suche begonnen hat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
