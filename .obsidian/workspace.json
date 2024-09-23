@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Geschichte.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -216,8 +216,8 @@
   },
   "active": "a9ccc0395228f007",
   "lastOpenFiles": [
-    "Geschichte/Der deutsche Wiederstand.md",
     "Geschichte/Geschichte.md",
+    "Geschichte/Der deutsche Wiederstand.md",
     "13./Deutsch/Romantische Ironie.md",
     "Deutsch/Barock.md",
     "Deutsch/Erörtern.md",

@@ -738,3 +738,7 @@ $1*10⁻¹⁴ \frac{mol²}{l²} = \ce{ C_{OH⁻} * C_{H_{3}O⁺} }$
 Ionenprodukt des Wassers
 $K_{W} = 10⁻¹⁴ \frac{mol²}{l²
 Wurzel ziehen
+
+Erläutern sie a, bsp Brönsted der 1. Protolysestufe der Schwefelsäure die Säure-Base Theorie nach Brönsted
+Bereche die pH- Werte für die Protolyse:
+Schwefelsä
