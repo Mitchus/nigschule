@@ -741,4 +741,49 @@ Wurzel ziehen
 
 Erläutern sie a, bsp Brönsted der 1. Protolysestufe der Schwefelsäure die Säure-Base Theorie nach Brönsted
 Bereche die pH- Werte für die Protolyse:
-Schwefelsä
+Schwefelsäure
+Sulfat-Ionen
+wenn die Konzentration jeweils 0,03mol/l beträgt
+
+Schreiben Sie folgende chemische Reaktionen auf
+Schwefelwasserstoff reagiert mit Wasser
+Ammoniak reagiert mit Wasser
+Berechne jeweils die pH-Werte wenn die Konzentration jeweils 0.05 mol/l beträgt
+
+Berechne den pH-Wert einer Wasserprobe von 50ml bei 25°C die eine Stoffmenge an OH- Ionen von 3 * 10⁻⁷ enthält
+In einer Natriumcarbonat - Lösung beträgt die Konzentration an Hydroxid-Ionen 6 * 10⁻³mol/l. Berechnen sie den pH-Wert der Lösung.
+Die Untersuchung von 10ml Magensaft ergab einen Anteil reiner Salzsäure von 0.0365g.  Berechnen sie den pH-Wert des Magensaftes.
+
+### 1. pH-Wert der Schwefelsäure (H₂SO₄ = 0,03 mol/L)
+- H₃O⁺ = 2 × 0,03 mol/L = 0,06 mol/L  
+- pH = -log(0,06) ≈ 1,22
+
+### 2. pH-Wert der Sulfat-Ionen (SO₄²⁻ = 0,03 mol/L)
+- Sulfat ist eine sehr schwache Base.  
+- pH ≈ 7
+
+### 3. Schwefelwasserstoff reagiert mit Wasser
+- H₂S + H₂O ↔ HS⁻ + H₃O⁺
+
+### 4. Ammoniak reagiert mit Wasser
+- NH₃ + H₂O ↔ NH₄⁺ + OH⁻
+
+### 5. pH-Wert für Schwefelwasserstoff (H₂S = 0,05 mol/L)
+- pH ≈ (pKa + log C) / 2 = (7 + log(0,05)) / 2 ≈ 3,71
+
+### 6. pH-Wert für Ammoniak (NH₃ = 0,05 mol/L)
+- pOH ≈ ( -log(1,8 × 10⁻⁵) - log(0,05)) / 2 ≈ 2,47  
+- pH = 14 - pOH ≈ 11,53
+
+### 7. pH-Wert der Wasserprobe (OH⁻ = 3 × 10⁻⁷ mol/L)
+- pOH = -log(3 × 10⁻⁷) ≈ 6,52  
+- pH = 14 - pOH ≈ 7,48
+
+### 8. pH-Wert der Natriumcarbonat-Lösung (OH⁻ = 6 × 10⁻³ mol/L)
+- pOH = -log(6 × 10⁻³) ≈ 2,22  
+- pH = 14 - pOH ≈ 11,78
+
+### 9. pH-Wert des Magensaftes (0,0365 g HCl in 10 ml)
+- n(HCl) = 0,0365 g / 36,46 g/mol = 1 × 10⁻³ mol  
+- HCl = 1 × 10⁻³ mol / 0,01 L = 0,1 mol/L  
+- pH = -log(0,1) = 1
