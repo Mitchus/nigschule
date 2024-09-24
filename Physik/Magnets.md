@@ -130,3 +130,11 @@ F= 4.8*10⁻¹¹
 ![[Pasted image 20240903100645.png]]
 
 ist stets so gerichtet, dass er der Ursache seiner Entstehung entgegenwirkt
+Die Erregerspule eines magnetischen Feldes besitzt bei einer Länge von 48cm 16000 Wendungen
+
+Bestimme die magnetische Feldstärke im inneren der Spule wenn max Stromstärke 100mA
+
+Im inneren der Feldspule befindet sich koaxial eine kürzere Induktionsspule mit 2000 Wendungen und Querschnittsfläche von 28cm² Welche Spannung wird in der Induktionsspule induziert, wenn die Stromstärke in der Feldspule beim Einschalten in 1sek von 0 auf 100mA ansteigt 5 sek konstant bleibt und in 0.5 sek auf null zurück geht
+
+a B=4.2mT
+b -23.5mV / 47mv
