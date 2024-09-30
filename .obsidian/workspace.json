@@ -40,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -210,10 +211,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0125d1674abe4c7c",
+  "active": "a9ccc0395228f007",
   "lastOpenFiles": [
-    "Chemie/Unorganische Chemie.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
+    "Chemie/Unorganische Chemie.md",
     "Geschichte/Geschichte.md",
     "Englisch/Hunger Games.md",
     "lu6014jsl7.tmp",
