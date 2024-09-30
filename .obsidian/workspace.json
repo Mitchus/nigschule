@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Physik/Magnets.md"
               }
             }
           },
@@ -213,15 +213,15 @@
   },
   "active": "a9ccc0395228f007",
   "lastOpenFiles": [
-    "Geschichte/NS Außenpolitik 1933-36.md",
+    "Physik/Magnets 1.md",
     "Chemie/Unorganische Chemie.md",
+    "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/Geschichte.md",
     "Englisch/Hunger Games.md",
     "lu6014jsl7.tmp",
     "Noten.ods",
     "lu6014jshx.tmp",
     "Physik/Magnets.md",
-    "Physik/Magnets 1.md",
     "Physik/E-Lehre.md",
     "Geschichte/Der deutsche Wiederstand.md",
     "13./Deutsch/Romantische Ironie.md",

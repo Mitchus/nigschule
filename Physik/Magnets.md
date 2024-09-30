@@ -138,3 +138,10 @@ Im inneren der Feldspule befindet sich koaxial eine kürzere Induktionsspule mit
 
 a B=4.2mT
 b -23.5mV / 47mv
+
+
+
+U = 300V
+ges: V
+     Ek
+v = sqrt(2* Q * U*
