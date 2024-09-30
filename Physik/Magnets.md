@@ -144,4 +144,9 @@ b -23.5mV / 47mv
 U = 300V
 ges: V
      Ek
-v = sqrt(2* Q * U*
+v = sqrt(2* Q * U /(ma))
+Q = Elementarladung
+m = Masse Elektron
+
+v* ma =  U
+/2 Q
