@@ -787,6 +787,15 @@ Die Untersuchung von 10ml Magensaft ergab einen Anteil reiner Salzsäure von 0.0
 - n(HCl) = 0,0365 g / 36,46 g/mol = 1 × 10⁻³ mol  
 - HCl = 1 × 10⁻³ mol / 0,01 L = 0,1 mol/L  
 - pH = -log(0,1) = 1
-                  ph      CH3O+  Dissoziationsgrad
-Salzsäure 0,1mol/l       1       
-Essigsäure 0,1mol/l     2.9      
+- 
+- 
+Säure und Basenkonstanten
+				 ph      CH3O+  Dissoziationsgrad
+Salzsäure 0,1mol/l       1       0.1mol/l 100%
+Essigsäure 0,1mol/l     2.9    0.0013mol/l 1%
+
+Säurekonstante: Ks =  $\frac{C_{\ce{ H_{3}O+ }} * C_{A}}{C_{HA}}$ 
+Basekonstante: Kb =  $\frac{C_{\ce{ HB+ }} * C_{OH⁻}}{C_{B}}$
+
+7.41 *10-3 
+1.
