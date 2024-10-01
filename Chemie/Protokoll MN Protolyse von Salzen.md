@@ -9,35 +9,25 @@
     - Korrespondierendes Säure-Base-Paar: Ein Säure-Base-Paar, das sich nur durch ein Proton unterscheidet. Die Säure gibt ein Proton ab, die Base nimmt es auf.
     - Protolyse: Eine chemische Reaktion, bei der Protonen von einer Säure auf eine Base übertragen werden.
 2. **Säure-Base-Tabelle**:
-3. 
-4. 
 
-|Säure|Base|
-|---|---|
-
-| HCl | Cl⁻ |
-| --- | --- |
-
-| H₂PO₄⁻ | $\ce{ HPO_{4}²⁻ }$ |
-| ------ | ------------------ |
-
-| H₂O | OH⁻ |
-| --- | --- |
-
-| $NH_{4}⁻$            | $NH_{3}$              |
-| -------------------- | --------------------- |
-| $\ce{ H_{3}PO_{4} }$ | $\ce{ H_{2}PO_{4}- }$ |
-| $H_{2}CO_{3}⁻$       | HCO₃⁻                 |
-|                      |                       |
+| Säure     | Base      |
+|-----------|-----------|
+| HCl       | Cl⁻       |
+| H₂PO₄⁻    | HPO₄²⁻    |
+| H₂O       | OH⁻       |
+| NH₄⁺      | NH₃       |
+| H₃PO₄     | H₂PO₄⁻    |
+| H₂CO₃     | HCO₃⁻     |
 
 
-1. **Ampholyte**: Ein Ampholyt kann sowohl als Säure als auch als Base reagieren. Beispiele:
+3. **Ampholyte**: Ein Ampholyt kann sowohl als Säure als auch als Base reagieren. Beispiele:
     
-    | Ampholyt | Reagiert als Säure | Reagiert als Base |     |
-    | -------- | ------------------ | ----------------- | --- |
-    |          |                   |                   |     |
+| Ampholyt       | Reagiert als Säure      | Reagiert als Base   |
+|----------------|-------------------------|---------------------|
+| H₂PO₄⁻ H₂O     | H₂SO₄ HS⁻ HNO₃         | CO₃²⁻ PO₄³⁻         |
+
     
-7. **Chemische Reaktionsgleichungen**:
+4. **Chemische Reaktionsgleichungen**:
     
     - HCO₃⁻ + H₂O ⇌ CO₃²⁻ + H₃O⁺
     - H₂PO₄⁻ + H₂O ⇌ HPO₄²⁻ + H₃O⁺
@@ -48,20 +38,21 @@
 
 1. **Versuch 1 (Natriumchlorid)**:
     
-    - **Durchführung**: Eine Spatelspitze Natriumchlorid wurde in 5 ml Wasser gelöst. Zwei Tropfen Universalindikator wurden hinzugegeben und der pH-Wert bestimmt.
+    - **Durchführung**: Eine Spatelspitze Natriumchlorid wurde in 5 ml Wasser gelöst. Zwei Tropfen Universalindikator wurden hinzugegeben, das Reagenzglas wurde geschlossen und Geschüttelt. Der pH-Wert wird anhand der Farbe abgelesen.
     - **Beobachtung**: Die Lösung zeigt eine grüne Farbe, was einem pH-Wert von 7 entspricht. Dies zeigt, dass die Lösung neutral ist.
 2. **Versuch 2**:
     
     - **Durchführung**: Wiederholen Sie den Versuch mit den folgenden Salzen.
-    
-    |Salz|pH-Wert|Farbe|
-    |---|---|---|
-    |Ammoniumnitrat|6|Rot|
-    |Kaliumiodid|8|Grün|
-    |Natriumcarbonat|13|Dunkelblau|
-    |Eisen (III)-chlorid|1|Dunkelrot|
-    |Natriumsulfit|9|Türkis|
-    
+ 
+| Salz                    | pH-Wert | Farbe        |
+|------------------------|---------|--------------|
+| Ammoniumnitrat         | 6       | Rot          |
+| Kaliumiodid            | 8       | Grün         |
+| Natriumcarbonat        | 13      | Dunkelblau   |
+| Eisen (III)-chlorid    | 1       | Dunkelrot    |
+| Natriumsulfit          | 9       | Türkis       |
+
+
 
 ---
 
@@ -69,7 +60,7 @@
 
 1. **Protolysegleichungen**:
     
-    - **Eisen(III)-chlorid**: FeCl₃ + 7 H₂O → [Fe(OH)(H₂O)₅]²⁺ + 2 Cl⁻
+    - **Eisen(III)-chlorid**: FeCl₃ + 7 H₂O → {Fe(OH)(H₂O)₅²⁺} + 2 Cl⁻
 2. **Säurestärke (Ks- und Kb-Werte)**:
     
     Tabelle der beobachteten Ionen und deren Säurestärke:
