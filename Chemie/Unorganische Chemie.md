@@ -802,12 +802,19 @@ H2PO4-
 HPO4 2-
 7.58 * 10-8
 2,08 * 10-2
-
+H2S
 1.2 * 10-7
-8.32* 10-8
+--8.32* 10-8
 
 1.26 * 10-2
 1.58 * 10-7
 
 1.2 * 10-2
 8.32 * 10-13
+
+Ammoniumnitrat 6 Rot
+Kaliumiodid 8 Grün
+Natrium Carbonat 13 dunkel blau
+Eisen (III)-chlorid 1 dunkel rot
+Natriumsulfit 9 Türkis
+Natriumchlorid 7
