@@ -150,3 +150,7 @@ m = Masse Elektron
 
 v* ma =  U
 /2 Q
+
+geg:Ekin = 220eV  wie A * s * V
+ges: v in km/s
+v=8800km/s
