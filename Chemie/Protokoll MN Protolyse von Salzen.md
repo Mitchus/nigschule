@@ -36,11 +36,12 @@
 
 ### Durchführung und Beobachtung
 
-1. **Versuch 1 (Natriumchlorid)**:
+1. Versuch 1 (Natriumchlorid):
     
-    - **Durchführung**: Eine Spatelspitze Natriumchlorid wurde in 5 ml Wasser gelöst. Zwei Tropfen Universalindikator wurden hinzugegeben, das Reagenzglas wurde geschlossen und Geschüttelt. Der pH-Wert wird anhand der Farbe abgelesen.
+    - Durchführung: Eine Spatelspitze Natriumchlorid wurde in 5 ml Wasser gelöst. Zwei Tropfen Universalindikator wurden hinzugegeben, das Reagenzglas wurde geschlossen und Geschüttelt. Der pH-Wert wird anhand der Farbe abgelesen.
     - **Beobachtung**: Die Lösung zeigt eine grüne Farbe, was einem pH-Wert von 7 entspricht. Dies zeigt, dass die Lösung neutral ist.
-2. **Versuch 2**:
+
+2. Versuch 2:
     
     - **Durchführung**: Wiederholen Sie den Versuch mit den folgenden Salzen.
  
