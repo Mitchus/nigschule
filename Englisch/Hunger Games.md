@@ -196,3 +196,29 @@ p 68 holding hands
 ll. 15 uses him for stabilization, he too p. 69ll. 5
 joking together p 70. and p. 67
 
+Here’s the information in a bullet-point format:
+
+---
+
+### **1. "The Reaping: Katniss Volunteers for Prim"**
+
+- **Description**:  
+  - Katniss volunteers to take her sister Prim’s place as tribute during the Reaping in District 12.
+- **Reason for Selection**:  
+  - Defines Katniss's protective instincts and sets the stage for her heroic journey.
+
+
+### **2. "Peeta's Confession of Love: A Strategy or the Truth?"**
+
+- **Description**:  
+  - Peeta confesses his love for Katniss during a televised interview with Caesar Flickerman.
+- **Reason for Selection**:  
+  - Introduces the complex dynamic between Katniss and Peeta, and the manipulation of public perception.
+
+
+### **3. "Training Days: Katniss Shows Her Skills"**
+
+- **Description**:  
+  - Katniss impresses the Gamemakers with her archery, shooting an arrow to catch their attention.
+- **Reason for Selection**:  
+  - Highlights Katniss’s defiance and foreshadows her role as a symbol of rebellion.
