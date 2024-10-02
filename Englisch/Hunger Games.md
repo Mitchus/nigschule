@@ -222,3 +222,5 @@ Here’s the information in a bullet-point format:
   - Katniss impresses the Gamemakers with her archery, shooting an arrow to catch their attention.
 - **Reason for Selection**:  
   - Highlights Katniss’s defiance and foreshadows her role as a symbol of rebellion.
+
+

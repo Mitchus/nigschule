@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "240029ab026cd15b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-02 11.52.35.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "c91b96f3a3447a02",
             "type": "leaf",
             "state": {
@@ -54,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Excalidraw/Drawing 2024-10-02 11.52.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Excalidraw/Drawing 2024-10-02 11.52.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Hunger Games.md"
+                "file": "Excalidraw/Drawing 2024-10-02 11.52.35.excalidraw.md"
               }
             }
           },
@@ -225,15 +234,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a165c2edad1ce6da",
+  "active": "f746d0263c447e52",
   "lastOpenFiles": [
+    "Englisch/Hunger Games.md",
+    "Excalidraw/Drawing 2024-10-02 11.52.35.excalidraw.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Chemie/Unorganische Chemie.md",
     "Physik/Magnets.md",
     "Physik/Magnets 1.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/Geschichte.md",
-    "Englisch/Hunger Games.md",
     "lu6014jsl7.tmp",
     "Noten.ods",
     "lu6014jshx.tmp",
@@ -255,7 +265,6 @@
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Englisch/Charakterisierung.md",
     "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
-    "Englisch/Obama.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
