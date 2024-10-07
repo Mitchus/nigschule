@@ -156,3 +156,11 @@ ges: v in km/s
 v=8800km/s
 
 
+Q=3.2*10¹⁹C
+r=9*10⁻²m
+d=2mm=0.002m
+p=950 kg/m³
+ges: U
+Lsg.: Q=p*4/3*pi*r³*g*d  / u
+U =p*4/3*pi*r³*g*d  / Q
+U=177.86V
