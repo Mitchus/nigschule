@@ -36,7 +36,41 @@ Der Bart ist im Kreis gewachsen und endet bei der Schildkröte, wo er seine Such
 
 
 
+### Charakterisierung Bothos durch den Erzähler und eigenes Handeln:
 
+- **Adlige Herkunft**:
+  - Botho stammt aus einer preußischen Adelsfamilie.
+  - Er kennt die Erwartungen seiner Gesellschaftsschicht und fühlt sich den traditionellen Pflichten verpflichtet.
+  
+- **Rational und diszipliniert**:
+  - Botho handelt oft nach Vernunft, obwohl er emotionale Wünsche hat.
+  - **Textbeispiel**: „Botho fühlte sich nicht in der Lage, das Spiel fortzusetzen, das doch nur in Enttäuschung enden konnte.“
+
+- **Gefühlswelt vs. Pflichtgefühl**:
+  - Er liebt Lene, ist sich aber der Aussichtslosigkeit ihrer Beziehung bewusst.
+  - **Textbeispiel**: „Er wußte, daß er sie liebte, und doch, wie konnte das je gut ausgehen? Er war ein von Rienäcker, sie war...“
+
+- **Geselligkeit und Charme**:
+  - Er wird als charmant und kultiviert beschrieben, gut integriert in die adeligen Gesellschaftskreise.
+  - **Textbeispiel**: „In Gesellschaft war er leicht, fast heiter; er wußte, sich anzupassen, zu scherzen, ohne je den guten Ton zu verlieren.“
+
+### Position zum Thema Konversation (v.a. in Adelskreisen):
+
+- **Leichte und oberflächliche Gespräche**:
+  - Konversationen im Adel sind oft oberflächlich und von Höflichkeit geprägt.
+  - **Textbeispiel**: „Das Gespräch drehte sich um alles und nichts, ein immerwährendes Geplänkel, höflich, aber ohne Substanz.“
+
+- **Kritische Haltung zu oberflächlichen Gesprächen**:
+  - Botho erkennt, dass diese Art der Unterhaltung mehr dem gesellschaftlichen Schein dient als einem echten Austausch.
+  - **Textbeispiel**: „Er lächelte, sprach, scherzte, aber innerlich sehnte er sich nach einem Gespräch, das nicht nur aus Floskeln bestand.“
+
+- **Gesellschaftliche Erwartungen an Konversation**:
+  - Für den Adel ist die Konversation eine Form der sozialen Beziehungspflege; der Inhalt ist zweitrangig.
+  - **Textbeispiel**: „Es war das Spiel der Etikette, das sie alle spielten, und auch er machte mit, obwohl er es verachtete.“
+
+### Fazit:
+- Botho ist in der adligen Gesellschaft fest verankert, obwohl er ihre Oberflächlichkeit und formellen Gepflogenheiten kritisch sieht.
+- Er schätzt ehrliche Gespräche mit Lene, die eine Abwechslung zu den leeren Konversationen im Adel darstellen.
 
 
 
