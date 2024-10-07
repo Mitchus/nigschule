@@ -847,3 +847,6 @@ Ursachen des Auseinanderbrechenens der Anti-Hitler-Koalition
 Unterschiedliche politische, gesellschaftiche, wirtschaftliche Systeme und Wertevorstellungen
 Westen: demokratisch und liberale Marktwirtschaft
 Udssr: Versuchte den Aufbau des Sozialismus/Kommunismus gegen die kapitalistisch-imperialistischen Einflüsse abzusperren
+
+Geben sie die wesentlichen Inhate der Potsdamer Vereinbarung wieder
+	Notieren sie sich die de pol. ansichten der Siegermächte Weil eine eig. geplante gemeinsame verwaltung des nicht möglich war
