@@ -843,3 +843,7 @@ Der deutsche Wiederstand
 	1. Udssr: Wiederaufbau des eigenen Landes
 	2. USA: Ernährung der Bevölkerung
 5. Worum ging es bei der Konferenz der großen 3? (Potsdamer Konferenz)
+Ursachen des Auseinanderbrechenens der Anti-Hitler-Koalition
+Unterschiedliche politische, gesellschaftiche, wirtschaftliche Systeme und Wertevorstellungen
+Westen: demokratisch und liberale Marktwirtschaft
+Udssr: Versuchte den Aufbau des Sozialismus/Kommunismus gegen die kapitalistisch-imperialistischen Einflüsse abzusperren
