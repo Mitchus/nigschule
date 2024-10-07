@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13./Deutsch/Romantische Ironie.md",
+                "file": "Geschichte/NS Außenpolitik 1933-36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13./Deutsch/Romantische Ironie.md",
+                "file": "Geschichte/NS Außenpolitik 1933-36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13./Deutsch/Romantische Ironie.md"
+                "file": "Geschichte/NS Außenpolitik 1933-36.md"
               }
             }
           },
@@ -237,8 +236,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "240029ab026cd15b",
+  "active": "0125d1674abe4c7c",
   "lastOpenFiles": [
+    "13./Deutsch/Romantische Ironie.md",
     "Deutsch/Interpretation.md",
     "Excalidraw/Drawing 2024-10-02 11.52.35.excalidraw.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
@@ -253,7 +253,6 @@
     "lu6014jshx.tmp",
     "Physik/E-Lehre.md",
     "Geschichte/Der deutsche Wiederstand.md",
-    "13./Deutsch/Romantische Ironie.md",
     "Deutsch/Barock.md",
     "Deutsch/Erörtern.md",
     "Deutsch/Faust.md",
