@@ -48,7 +48,7 @@
 | Salz                | pH-Wert | Farbe      |              |
 | ------------------- | ------- | ---------- | ------------ |
 | Ammoniumnitrat      | 6       | Rot        | Säure        |
-| Kaliumiodid         | 8       | Grün       | basisch      |
+| Kaliumiodid         | 7       | Grün       | neutral      |
 | Natrium Karbonat    | 13      | Dunkelblau | sehr basisch |
 | Eisen (III)-chlorid | 1       | Dunkelrot  | sehr sauer   |
 | Natriumsulfit       | 9       | Türkis     | basisch      |
@@ -61,15 +61,18 @@
 ### Auswertung
 
 1. Protolysegleichungen:
-    - NH₄NO₃ + H₂O -> 
-    - KI + H₂O ->
-    - Na₂CO₃ + H₂O ->
-    - FeCl₃ + 7 H₂O -> {Fe(OH)(H₂O)₅²⁺} + 2 Cl⁻
-    - Na₂SO₃ + H₂O ->
+    - NH₄NO₃ + H₂O → NH₃ + H₃O⁺ + NO₃⁻
+    - KI → K⁺ + I⁻ 
+    - Na₂CO₃ + H₂O → 2 Na⁺ + HCO₃⁻ + OH⁻
+    - FeCl₃ + 7 H₂O -> {Fe(OH)(H₂O)₅²⁺} + 2 Cl⁻ + 2 H⁺
+    - Na₂SO₃ + H₂O → 2 Na⁺ + HSO₃⁻ + OH⁻
       
 2. Säurestärke (Ks- und Kb-Werte:
     
     Tabelle der beobachteten Ionen und deren Säurestärke
+    
+    | Ion | Fe³⁺ | $\ce{ NH_{4}+ }$ | Na⁺ | K⁺  | Cl⁻ | NO
+    | --- | ---- | ---------------- | --- | --- | --- |
     
     Stärke der Säuren:
      
