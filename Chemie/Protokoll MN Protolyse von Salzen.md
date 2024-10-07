@@ -39,19 +39,20 @@
 1. Versuch 1 (Natriumchlorid):
     
     - Durchführung: Eine Spatelspitze Natriumchlorid wurde in 5 ml Wasser gelöst. Zwei Tropfen Universalindikator wurden hinzugegeben, das Reagenzglas wurde geschlossen und Geschüttelt. Der pH-Wert wird anhand der Farbe abgelesen.
-    - **Beobachtung**: Die Lösung zeigt eine grüne Farbe, was einem pH-Wert von 7 entspricht. Dies zeigt, dass die Lösung neutral ist.
+    - Beobachtung: Die Lösung färbt sich zu einer grüne Farbe, was einem pH-Wert von 7 entspricht. Dies zeigt, dass die Lösung neutral ist.
 
 2. Versuch 2:
     
     - Durchführung: Wiederholen Sie den Versuch mit den folgenden Salzen.
  
-| Salz                | pH-Wert | Farbe      |
-| ------------------- | ------- | ---------- |
-| Ammoniumnitrat      | 6       | Rot        |
-| Kaliumiodid         | 8       | Grün       |
-| Natriumcarbonat     | 13      | Dunkelblau |
-| Eisen (III)-chlorid | 1       | Dunkelrot  |
-| Natriumsulfit       | 9       | Türkis     |
+| Salz                | pH-Wert | Farbe      |              |
+| ------------------- | ------- | ---------- | ------------ |
+| Ammoniumnitrat      | 6       | Rot        | Säure        |
+| Kaliumiodid         | 8       | Grün       | basisch      |
+| Natrium Karbonat    | 13      | Dunkelblau | sehr basisch |
+| Eisen (III)-chlorid | 1       | Dunkelrot  | sehr sauer   |
+| Natriumsulfit       | 9       | Türkis     | basisch      |
+| Natrium Chlorid     | 7       |            | Neutral      |
 
 
 
@@ -60,11 +61,11 @@
 ### Auswertung
 
 1. Protolysegleichungen:
-    - NH₄NO₃
-    - KI
-    - Na₂CO₃
-    - FeCl₃ + 7 H₂O → {Fe(OH)(H₂O)₅²⁺} + 2 Cl⁻
-    - Na₂SO₃
+    - NH₄NO₃ + H₂O -> 
+    - KI + H₂O ->
+    - Na₂CO₃ + H₂O ->
+    - FeCl₃ + 7 H₂O -> {Fe(OH)(H₂O)₅²⁺} + 2 Cl⁻
+    - Na₂SO₃ + H₂O ->
       
 2. Säurestärke (Ks- und Kb-Werte:
     
