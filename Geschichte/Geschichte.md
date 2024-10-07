@@ -850,3 +850,5 @@ Udssr: Versuchte den Aufbau des Sozialismus/Kommunismus gegen die kapitalistisch
 
 Geben sie die wesentlichen Inhate der Potsdamer Vereinbarung wieder
 	Notieren sie sich die de pol. ansichten der Siegermächte Weil eine eig. geplante gemeinsame verwaltung des nicht möglich war
+
+Terriotoriale Gebiete
