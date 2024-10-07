@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Chemie/Protokoll MN Protolyse von Salzen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Chemie/Protokoll MN Protolyse von Salzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Chemie/Protokoll MN Protolyse von Salzen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Chemie/Protokoll MN Protolyse von Salzen.md"
               }
             }
           },
@@ -225,11 +225,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f746d0263c447e52",
+  "active": "a9ccc0395228f007",
   "lastOpenFiles": [
-    "13./Deutsch/Romantische Ironie.md",
+    "Chemie/Chemie Michel Nowacki.md",
     "Chemie/Unorganische Chemie.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
+    "13./Deutsch/Romantische Ironie.md",
     "Deutsch/Interpretation.md",
     "Excalidraw/Drawing 2024-10-02 11.52.35.excalidraw.md",
     "Englisch/Hunger Games.md",
@@ -255,7 +256,6 @@
     "Englisch/How to analyse the atmosphere.md",
     "Philosophie/Was soll ich tun? - Ethik.md",
     "Englisch/Charakterisierung.md",
-    "Philosophie/Aristoteles' Konzept des Glücklichen Lebens.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
