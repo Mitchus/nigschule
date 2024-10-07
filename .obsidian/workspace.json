@@ -31,25 +31,12 @@
             }
           },
           {
-            "id": "9f85f9118d053657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Englisch/Hunger Games.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "240029ab026cd15b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13./Deutsch/Romantische Ironie.md",
+                "file": "Geschichte/Geschichte.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4b2ccee3af498c2b",
@@ -132,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Geschichte/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md",
+                "file": "Geschichte/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
+                "file": "Geschichte/Geschichte.md"
               }
             }
           },
@@ -236,15 +225,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0125d1674abe4c7c",
+  "active": "f746d0263c447e52",
   "lastOpenFiles": [
     "13./Deutsch/Romantische Ironie.md",
+    "Chemie/Unorganische Chemie.md",
+    "Geschichte/NS Außenpolitik 1933-36.md",
     "Deutsch/Interpretation.md",
     "Excalidraw/Drawing 2024-10-02 11.52.35.excalidraw.md",
-    "Geschichte/NS Außenpolitik 1933-36.md",
     "Englisch/Hunger Games.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
-    "Chemie/Unorganische Chemie.md",
     "Physik/Magnets.md",
     "Physik/Magnets 1.md",
     "Geschichte/Geschichte.md",

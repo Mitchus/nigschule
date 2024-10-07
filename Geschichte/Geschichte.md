@@ -836,7 +836,7 @@ Der deutsche Wiederstand
 1. Wie ist die Situation im Sommer 1945 Berlin?
 	1. Zerstört
 2. Wer sind die Besatzungsmächte?
-	1. Amerikaner GB Franzosen
+	1. Amerikaner GB Franzosen Udssr
 3. Welche Partei wird als erste Zugelassen?
 	1. KPD 
 4. Welches Interesse (Pläne) verfolgten die Udssr und USA
