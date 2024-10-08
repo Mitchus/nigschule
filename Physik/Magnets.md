@@ -164,3 +164,6 @@ ges: U
 Lsg.: Q=p*4/3*pi*r³*g*d  / u
 U =p*4/3*pi*r³*g*d  / Q
 U=177.86V
+
+kg*m²/s² /As = Ws/As =Vas/
+As
