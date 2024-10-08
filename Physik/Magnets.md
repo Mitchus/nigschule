@@ -167,3 +167,6 @@ U=177.86V
 
 kg*m²/s² /As = Ws/As =Vas/
 As
+
+In einem bestimmten Gebiet des inerstellaren Raumes gibt es freie Elektronen mit der kinetischen Energie 10⁻³eV, die sich auf die Kreisbahnen vom Radius 2,5*10⁴m bewegen. Wie groß ist die magnetische Flußdichte, die die bahn verursacht?
+https://chatgpt.com/c/6704e069-c4cc-8013-8119-9925acf0e049
