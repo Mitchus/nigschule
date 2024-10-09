@@ -819,6 +819,18 @@ Eisen (III)-chlorid 1 dunkel rot
 Natriumsulfit 9 Türkis
 Natriumchlorid 7
 
-Neutralisationstritation- ein chemisches Verfahren
+### Neutralisationstitration- ein chemisches Verfahren
+Tritationsformel
+Grundlage der Neutralisation
 
 $H_{3}O+ +OH- \to H_{2}O + H_{2}O$
+$\ce{ n(H_{3}O+) = n(OH⁻)}$
+$c(\ce{ H_{3}O+ })*V(\ce{ H_{3}O+ })=c(\ce{ OH- })*V(\ce{ OH- })$
+
+Beispiel
+$\ce{ HCl + NaOH -> naCl + H_{2}O }$
+$n(\ce{ HCl })=n(\ce{ NaOH })$
+$c(\ce{ HCl })*V(\ce{ HCl })=c(\ce{ NaOH })*V(\ce{ NaOH })$
+Titration:
+Ein Quantitatives Verfahren zur Bestimmung deer Konzentration eines Stoffes in einer Lösung
+Die Stoffmenge an zugegebener Maßlösung entspricht exakt der Stoffmenge der unbekannten Lösung.
