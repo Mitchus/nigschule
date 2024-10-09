@@ -34,9 +34,12 @@
             "id": "240029ab026cd15b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Hunger Games.md"
+                "file": "Chemie/Protokoll MN Protolyse von Salzen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -101,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4b2ccee3af498c2b",
@@ -117,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Hunger Games.md",
+                "file": "Chemie/Protokoll MN Protolyse von Salzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Hunger Games.md",
+                "file": "Chemie/Protokoll MN Protolyse von Salzen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Hunger Games.md"
+                "file": "Chemie/Protokoll MN Protolyse von Salzen.md"
               }
             }
           },
@@ -221,10 +225,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "240029ab026cd15b",
+  "active": "f746d0263c447e52",
   "lastOpenFiles": [
-    "Englisch/Hunger Games.md",
     "Excalidraw/Hunger Games.md",
+    "Englisch/Hunger Games.md",
     "Excalidraw/Hunger Games.png",
     "Geschichte/Der deutsche Wiederstand.md",
     "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",

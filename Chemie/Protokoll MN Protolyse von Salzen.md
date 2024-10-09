@@ -2,13 +2,13 @@
 
 ### Vorüberlegung
 
-1. Definition der Begriffe:
-    
-    - Brønsted-Säure: Ein Teilchen, das Protonen (H⁺-Ionen) abgeben kann.
-    - Brønsted-Base: Ein Teilchen, das Protonen (H⁺-Ionen) aufnehmen kann.
-    - Korrespondierendes Säure-Base-Paar: Ein Säure-Base-Paar, das sich nur durch ein Proton unterscheidet. Die Säure gibt ein Proton ab, die Base nimmt es auf.
-    - Protolyse: Eine chemische Reaktion, bei der Protonen von einer Säure auf eine Base übertragen werden.
-2. Säure-Base-Tabelle:
+#### Definition der Begriffe:
+
+- Brønsted-Säure: Ein Teilchen, das Protonen (H⁺-Ionen) abgeben kann.
+- Brønsted-Base: Ein Teilchen, das Protonen (H⁺-Ionen) aufnehmen kann.
+- Korrespondierendes Säure-Base-Paar: Ein Säure-Base-Paar, das sich nur durch ein Proton unterscheidet. Die Säure gibt ein Proton ab, die Base nimmt es auf.
+- Protolyse: Eine chemische Reaktion, bei der Protonen von einer Säure auf eine Base übertragen werden.
+1. Säure-Base-Tabelle:
 
 | Säure     | Base      |
 |-----------|-----------|
