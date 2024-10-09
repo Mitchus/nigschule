@@ -8,7 +8,8 @@
 - Brønsted-Base: Ein Teilchen, das Protonen (H⁺-Ionen) aufnehmen kann.
 - Korrespondierendes Säure-Base-Paar: Ein Säure-Base-Paar, das sich nur durch ein Proton unterscheidet. Die Säure gibt ein Proton ab, die Base nimmt es auf.
 - Protolyse: Eine chemische Reaktion, bei der Protonen von einer Säure auf eine Base übertragen werden.
-1. Säure-Base-Tabelle:
+
+#### Säure-Base-Tabelle:
 
 | Säure     | Base      |
 |-----------|-----------|
@@ -20,30 +21,33 @@
 | H₂CO₃     | HCO₃⁻     |
 
 
-3. Ampholyte: Ein Ampholyt kann sowohl als Säure als auch als Base reagieren. Beispiele:
+#### Ampholyt:
+Ein Ampholyt kann sowohl als Säure als auch als Base reagieren. Beispiele:
     
-| Ampholyt       | Reagiert als Säure      | Reagiert als Base   |
-|----------------|-------------------------|---------------------|
-| H₂PO₄⁻ H₂O     | H₂SO₄ HS⁻ HNO₃         | CO₃²⁻ PO₄³⁻         |
+| Ampholyt   | Reagiert als Säure | Reagiert als Base |
+| ---------- | ------------------ | ----------------- |
+| H₂PO₄⁻ H₂O | H₂SO₄ HS⁻ HNO₃     | CO₃²⁻ PO₄³⁻       |
 
     
-4. Chemische Reaktionsgleichungen:
-    
-    - HCO₃⁻ + H₂O ⇌ CO₃²⁻ + H₃O⁺
-    - H₂PO₄⁻ + H₂O ⇌ HPO₄²⁻ + H₃O⁺
+#### Chemische Reaktionsgleichungen:
+
+
+- HCO₃⁻ + H₂O ⇌ CO₃²⁻ + H₃O⁺
+- H₂PO₄⁻ + H₂O ⇌ HPO₄²⁻ + H₃O⁺
 
 ---
 
 ### Durchführung und Beobachtung
 
-1. Versuch 1 (Natriumchlorid):
-    
-    - Durchführung: Eine Spatelspitze Natriumchlorid wurde in 5 ml Wasser gelöst. Zwei Tropfen Universalindikator wurden hinzugegeben, das Reagenzglas wurde geschlossen und Geschüttelt. Der pH-Wert wird anhand der Farbe abgelesen.
-    - Beobachtung: Die Lösung färbt sich zu einer grüne Farbe, was einem pH-Wert von 7 entspricht. Dies zeigt, dass die Lösung neutral ist.
+#### Versuch 1 (Natriumchlorid):
 
-2. Versuch 2:
-    
-    - Durchführung: Wiederholen Sie den Versuch mit den folgenden Salzen.
+- Durchführung: Eine Spatelspitze Natriumchlorid wurde in 5 ml Wasser gelöst. Zwei Tropfen Universalindikator wurden hinzugegeben, das Reagenzglas wurde geschlossen und Geschüttelt. Der pH-Wert wird anhand der Farbe abgelesen.
+
+- Beobachtung: Die Lösung färbt sich zu einer grüne Farbe, was einem pH-Wert von 7 entspricht. Dies zeigt, dass die Lösung neutral ist.
+
+#### Versuch 2:
+
+- Durchführung: Wiederholen Sie den Versuch mit den folgenden Salzen.
  
 | Salz                | pH-Wert | Farbe      |              |
 | ------------------- | ------- | ---------- | ------------ |
@@ -52,7 +56,7 @@
 | Natrium Karbonat    | 13      | Dunkelblau | sehr basisch |
 | Eisen (III)-chlorid | 1       | Dunkelrot  | sehr sauer   |
 | Natriumsulfit       | 9       | Türkis     | basisch      |
-| Natrium Chlorid     | 7       |            | Neutral      |
+| Natrium Chlorid     | 7       | Grün       | Neutral      |
 
 
 
@@ -60,19 +64,19 @@
 
 ### Auswertung
 
-1. Protolysegleichungen:
-    - NH₄NO₃ + H₂O → NH₃ + H₃O⁺ + NO₃⁻
-    - KI → K⁺ + I⁻ 
-    - Na₂CO₃ + H₂O → 2 Na⁺ + HCO₃⁻ + OH⁻
-    - FeCl₃ + 7 H₂O -> {Fe(OH)(H₂O)₅²⁺} + 2 Cl⁻ + 2 H⁺
-    - Na₂SO₃ + H₂O → 2 Na⁺ + HSO₃⁻ + OH⁻
-      
-2. Säurestärke (Ks- und Kb-Werte:
+#### Protolysegleichungen:
+- NH₄NO₃ + H₂O → NH₃ + H₃O⁺ + NO₃⁻
+- Na₂CO₃ + H₂O → 2 Na⁺ + HCO₃⁻ + OH⁻
+- FeCl₃ + 7 H₂O -> {Fe(OH)(H₂O)₅²⁺} + 2 Cl⁻ + 2 H⁺
+- Na₂SO₃ + H₂O → 2 Na⁺ + HSO₃⁻ + OH⁻
+- KI + H₂O→ K⁺ + I⁻ + H₂O 
+
+1. Säurestärke (Ks- und Kb-Werte:
     
     Tabelle der beobachteten Ionen und deren Säurestärke
     
-    | Ion | Fe³⁺ | $\ce{ NH_{4}+ }$ | Na⁺ | K⁺  | Cl⁻ | NO
-    | --- | ---- | ---------------- | --- | --- | --- |
+    | Ion | Fe³⁺ | $\ce{ NH_{4}+ }$ | Na⁺ | K⁺  | Cl⁻ | $\ce{ NO_{3}- }$ | $\ce{ SO }$
+    | --- | ---- | ---------------- | --- | --- | --- | ---------------- |
     
     Stärke der Säuren:
      
