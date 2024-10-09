@@ -818,3 +818,7 @@ Natrium Carbonat 13 dunkel blau
 Eisen (III)-chlorid 1 dunkel rot
 Natriumsulfit 9 Türkis
 Natriumchlorid 7
+
+Neutralisationstritation- ein chemisches Verfahren
+
+$H_{3}O+ +OH- \to H_{2}O + H_{2}O$

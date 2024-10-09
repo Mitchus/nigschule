@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4b2ccee3af498c2b",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Protokoll MN Protolyse von Salzen.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Protokoll MN Protolyse von Salzen.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Protokoll MN Protolyse von Salzen.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -225,10 +224,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "240029ab026cd15b",
+  "active": "a9ccc0395228f007",
   "lastOpenFiles": [
-    "Excalidraw/Hunger Games.md",
     "Englisch/Hunger Games.md",
+    "Chemie/Protokoll MN Protolyse von Salzen.md",
+    "Excalidraw/Hunger Games.md",
     "Excalidraw/Hunger Games.png",
     "Geschichte/Der deutsche Wiederstand.md",
     "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
@@ -236,7 +236,6 @@
     "DVT/IP-Adressierung und Subnetting.md",
     "Physik/Magnets.md",
     "Physik/Magnets 1.md",
-    "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Chemie Michel Nowacki.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
