@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "DVT/IP-Adressierung und Subnetting.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ip adress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "DVT/IP-Adressierung und Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "DVT/IP-Adressierung und Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Magnets.md"
+                "file": "DVT/IP-Adressierung und Subnetting.md"
               }
             }
           },
@@ -226,6 +227,7 @@
   },
   "active": "a9ccc0395228f007",
   "lastOpenFiles": [
+    "Physik/Magnets.md",
     "Physik/Magnets 1.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Chemie/Unorganische Chemie.md",
@@ -235,7 +237,6 @@
     "Deutsch/Interpretation.md",
     "Excalidraw/Drawing 2024-10-02 11.52.35.excalidraw.md",
     "Englisch/Hunger Games.md",
-    "Physik/Magnets.md",
     "Geschichte/Geschichte.md",
     "lu6014jsl7.tmp",
     "Noten.ods",
