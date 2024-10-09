@@ -75,8 +75,10 @@ Ein Ampholyt kann sowohl als Säure als auch als Base reagieren. Beispiele:
     
     Tabelle der beobachteten Ionen und deren Säurestärke
     
-    | Ion | Fe³⁺ | $\ce{ NH_{4}+ }$ | Na⁺ | K⁺  | Cl⁻ | $\ce{ NO_{3}- }$ | $\ce{ SO }$
-    | --- | ---- | ---------------- | --- | --- | --- | ---------------- |
+    | Ion         | Fe³⁺     | $\ce{ NH_{4}+ }$ | Na⁺        | K⁺        | Cl⁻   | $\ce{ NO_{3}- }$ | $\ce{ SO_{3}²⁻ }$ | $CO_{3}²⁻$ | I⁻  |
+    | ----------- | -------- | ---------------- | ---------- | --------- | ----- | ---------------- | ----------------- | ---------- | --- |
+    | Ks in mol/l | 1.5*10⁻³ | 6.62*10⁻¹⁰       | 2.75*10⁻¹⁵ | 7.9*10⁻¹⁶ |       |                  |                   |            |     |
+    | Kb in mol/l |          |                  |            |           | 10⁻²¹ | 4.79*10¹⁶        | 1.58 * 10⁻⁷       | 2.5 * 10⁻⁴ | 3.2 * 10²⁴    |
     
     Stärke der Säuren:
      
@@ -86,3 +88,11 @@ Ein Ampholyt kann sowohl als Säure als auch als Base reagieren. Beispiele:
     - **Schwach**: Ks 10⁻⁵ bis 10⁻⁷
     - **Sehr schwach**: Ks 10⁻⁸ bis 10⁻¹⁴
     - **Äußerst schwach**: Ks < 10⁻¹⁴
+
+Sauer
+Ammoniumnitrat
+Eisen(III)-Chlorid
+**Neutral**
+Kaliumiodid
+Natriumchlorid
+**Alkalisch**

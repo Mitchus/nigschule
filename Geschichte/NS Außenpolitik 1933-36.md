@@ -119,8 +119,8 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 		},
 		{
 			"type": "text",
-			"version": 8,
-			"versionNonce": 1949431510,
+			"version": 9,
+			"versionNonce": 331488972,
 			"isDeleted": false,
 			"id": "I17XdJiT",
 			"fillStyle": "hachure",
@@ -140,7 +140,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076685,
+			"updated": 1728470625648,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -152,12 +152,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Paktabschluss\n mit Polen",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 41
 		},
 		{
 			"type": "text",
-			"version": 14,
-			"versionNonce": 422447498,
+			"version": 15,
+			"versionNonce": 403506164,
 			"isDeleted": false,
 			"id": "NZvDFpo4",
 			"fillStyle": "hachure",
@@ -177,7 +177,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625649,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -189,12 +189,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Wehrpflicht",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 17,
-			"versionNonce": 1605938198,
+			"version": 18,
+			"versionNonce": 2116838732,
 			"isDeleted": false,
 			"id": "AGdpx6TC",
 			"fillStyle": "hachure",
@@ -214,7 +214,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625650,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -226,12 +226,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Olympischensp.",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 13,
-			"versionNonce": 378030154,
+			"version": 14,
+			"versionNonce": 355493236,
 			"isDeleted": false,
 			"id": "CjNM1KjE",
 			"fillStyle": "hachure",
@@ -251,7 +251,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625651,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -263,12 +263,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Völkerbund",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 32,
-			"versionNonce": 725006678,
+			"version": 33,
+			"versionNonce": 1619647436,
 			"isDeleted": false,
 			"id": "CcBSZbPw",
 			"fillStyle": "hachure",
@@ -288,7 +288,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625652,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -300,12 +300,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "wiedereinf.\nWehrpflicht",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 41
 		},
 		{
 			"type": "text",
-			"version": 21,
-			"versionNonce": 1403825930,
+			"version": 22,
+			"versionNonce": 711694068,
 			"isDeleted": false,
 			"id": "CcB1fzkx",
 			"fillStyle": "hachure",
@@ -325,7 +325,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625653,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -337,12 +337,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Rheinlandes",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 9,
-			"versionNonce": 234954390,
+			"version": 10,
+			"versionNonce": 888439372,
 			"isDeleted": false,
 			"id": "ETz92S4R",
 			"fillStyle": "hachure",
@@ -362,7 +362,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625654,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -374,12 +374,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Condor",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 622214602,
+			"version": 7,
+			"versionNonce": 608475252,
 			"isDeleted": false,
 			"id": "UI34fRTw",
 			"fillStyle": "hachure",
@@ -399,7 +399,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625655,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -411,12 +411,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Rom",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 13,
-			"versionNonce": 214752214,
+			"version": 14,
+			"versionNonce": 575035596,
 			"isDeleted": false,
 			"id": "mE4gWYBt",
 			"fillStyle": "hachure",
@@ -436,7 +436,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625656,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -448,12 +448,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "österreich",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 4,
-			"versionNonce": 400553098,
+			"version": 5,
+			"versionNonce": 1317104116,
 			"isDeleted": false,
 			"id": "ihFRnuYM",
 			"fillStyle": "hachure",
@@ -473,7 +473,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625657,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -485,12 +485,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Österreichs",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 31,
-			"versionNonce": 1303310614,
+			"version": 32,
+			"versionNonce": 1679384396,
 			"isDeleted": false,
 			"id": "39d7o3MU",
 			"fillStyle": "hachure",
@@ -510,7 +510,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625657,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -522,12 +522,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Sudetengebiet",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 4,
-			"versionNonce": 1573180234,
+			"version": 5,
+			"versionNonce": 203950964,
 			"isDeleted": false,
 			"id": "e2LMT0e5",
 			"fillStyle": "hachure",
@@ -547,7 +547,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625658,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -559,12 +559,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Tschechei",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 5,
-			"versionNonce": 1813798486,
+			"version": 6,
+			"versionNonce": 851940812,
 			"isDeleted": false,
 			"id": "qV3Cqkk2",
 			"fillStyle": "hachure",
@@ -584,7 +584,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625659,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -596,12 +596,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Böhmen und \nMähren",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 41
 		},
 		{
 			"type": "text",
-			"version": 10,
-			"versionNonce": 958388746,
+			"version": 11,
+			"versionNonce": 1870560500,
 			"isDeleted": false,
 			"id": "GBMuQSSj",
 			"fillStyle": "hachure",
@@ -621,7 +621,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076686,
+			"updated": 1728470625660,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -633,12 +633,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Flotten",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 21,
-			"versionNonce": 1290412950,
+			"version": 22,
+			"versionNonce": 728431692,
 			"isDeleted": false,
 			"id": "HzDZTTsk",
 			"fillStyle": "hachure",
@@ -658,7 +658,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625661,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -670,12 +670,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Nichtangriffs\npakt",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 41
 		},
 		{
 			"type": "text",
-			"version": 21,
-			"versionNonce": 1760299210,
+			"version": 22,
+			"versionNonce": 1376435828,
 			"isDeleted": false,
 			"id": "StyIAF4H",
 			"fillStyle": "hachure",
@@ -695,7 +695,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625662,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -707,12 +707,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Hitler Stalin",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 11,
-			"versionNonce": 1917665494,
+			"version": 12,
+			"versionNonce": 937267916,
 			"isDeleted": false,
 			"id": "yIffGdZU",
 			"fillStyle": "hachure",
@@ -732,7 +732,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625663,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -744,12 +744,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Geheimen",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 50,
-			"versionNonce": 348413834,
+			"version": 51,
+			"versionNonce": 1821560820,
 			"isDeleted": false,
 			"id": "uRDIjtNv",
 			"fillStyle": "hachure",
@@ -769,7 +769,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625664,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -781,12 +781,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Abrüstungs\nkonvention",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 41
 		},
 		{
 			"type": "text",
-			"version": 36,
-			"versionNonce": 1339733526,
+			"version": 37,
+			"versionNonce": 1991858508,
 			"isDeleted": false,
 			"id": "FQ181P1b",
 			"fillStyle": "hachure",
@@ -806,7 +806,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625665,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -818,7 +818,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Österreich",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "image",
@@ -855,8 +855,8 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 		},
 		{
 			"type": "text",
-			"version": 9,
-			"versionNonce": 512197462,
+			"version": 10,
+			"versionNonce": 1864151412,
 			"isDeleted": false,
 			"id": "nzqbqaSO",
 			"fillStyle": "hachure",
@@ -876,7 +876,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625666,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -888,12 +888,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Straßen",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 13,
-			"versionNonce": 304448778,
+			"version": 14,
+			"versionNonce": 592990156,
 			"isDeleted": false,
 			"id": "fytzVnZh",
 			"fillStyle": "hachure",
@@ -913,7 +913,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625667,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -925,12 +925,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Wehrpflicht",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 36,
-			"versionNonce": 816359574,
+			"version": 37,
+			"versionNonce": 418276084,
 			"isDeleted": false,
 			"id": "SLhoiLLj",
 			"fillStyle": "hachure",
@@ -950,7 +950,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625667,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -962,12 +962,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Reichsarbeitsdienst",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 3,
-			"versionNonce": 168055754,
+			"version": 4,
+			"versionNonce": 2111075916,
 			"isDeleted": false,
 			"id": "bxhs5Lk9",
 			"fillStyle": "hachure",
@@ -987,7 +987,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625668,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -999,12 +999,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Eroberungen",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 63,
-			"versionNonce": 1173562838,
+			"version": 64,
+			"versionNonce": 1351476340,
 			"isDeleted": false,
 			"id": "9bBWlZkg",
 			"fillStyle": "hachure",
@@ -1024,7 +1024,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625669,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1036,12 +1036,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Mefo       Wechsel",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 27,
-			"versionNonce": 580602506,
+			"version": 28,
+			"versionNonce": 856149196,
 			"isDeleted": false,
 			"id": "XQlHdqPy",
 			"fillStyle": "hachure",
@@ -1061,7 +1061,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625670,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1073,12 +1073,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Lohn                Preis",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 43,
-			"versionNonce": 1601960726,
+			"version": 44,
+			"versionNonce": 1002518004,
 			"isDeleted": false,
 			"id": "SFevJChI",
 			"fillStyle": "hachure",
@@ -1098,7 +1098,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625671,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1110,12 +1110,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "Erzeugerschlacht",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 12,
-			"versionNonce": 1655007562,
+			"version": 13,
+			"versionNonce": 1150047052,
 			"isDeleted": false,
 			"id": "xwi4Jqud",
 			"fillStyle": "hachure",
@@ -1135,7 +1135,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625672,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1147,12 +1147,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "heimischen",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 11,
-			"versionNonce": 330836054,
+			"version": 12,
+			"versionNonce": 1468946292,
 			"isDeleted": false,
 			"id": "ngDen6ds",
 			"fillStyle": "hachure",
@@ -1172,7 +1172,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625673,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1184,12 +1184,12 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "losigkeit",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		},
 		{
 			"type": "text",
-			"version": 11,
-			"versionNonce": 1098756106,
+			"version": 12,
+			"versionNonce": 1891371468,
 			"isDeleted": false,
 			"id": "GIJBKTe7",
 			"fillStyle": "hachure",
@@ -1209,7 +1209,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1727678076687,
+			"updated": 1728470625673,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1221,7 +1221,7 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 			"containerId": null,
 			"originalText": "steigende",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 16
 		}
 	],
 	"appState": {
@@ -1239,10 +1239,10 @@ aa4db717b8b676fdaf6a196dc9bf5da1f44e0859: [[Pasted Image 20240905085513_062.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 542.9134944522924,
-		"scrollY": -143.51450482014414,
+		"scrollX": 774.2508012456893,
+		"scrollY": 705.2735182377976,
 		"zoom": {
-			"value": 1.1454193773585837
+			"value": 0.4
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
