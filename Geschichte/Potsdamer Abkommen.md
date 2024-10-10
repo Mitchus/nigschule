@@ -29,6 +29,10 @@ Nazis entlassen ^XPe5GCxa
 
 Entwaffnen, keine Vernichtung der Deutschen, nur deren Kriegsgeist ^uYrwXua2
 
+Die D's ^ztqZkRW8
+
+der pol. Weitblick ^xkLYtjV9
+
 
 # Embedded files
 510df286bf7d792168178954d864f06c8bdc2f95: [[Pasted Image 20241010083937_131.png]]
@@ -443,6 +447,80 @@ Entwaffnen, keine Vernichtung der Deutschen, nur deren Kriegsgeist ^uYrwXua2
 			"containerId": null,
 			"originalText": "Entwaffnen, keine Vernichtung der Deutschen, nur deren Kriegsgeist",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "ztqZkRW8",
+			"type": "text",
+			"x": -365.36516349656665,
+			"y": 340.2226942132321,
+			"width": 72.69992065429688,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 919033036,
+			"version": 8,
+			"versionNonce": 107948148,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728543564579,
+			"link": null,
+			"locked": false,
+			"text": "Die D's",
+			"rawText": "Die D's",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 16,
+			"containerId": null,
+			"originalText": "Die D's",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "xkLYtjV9",
+			"type": "text",
+			"x": -362.3722048216637,
+			"y": 412.8020358818744,
+			"width": 163.7198028564453,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 820943732,
+			"version": 23,
+			"versionNonce": 1554326732,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728543613765,
+			"link": null,
+			"locked": false,
+			"text": "der pol. Weitblick",
+			"rawText": "der pol. Weitblick",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 16,
+			"containerId": null,
+			"originalText": "der pol. Weitblick",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -461,7 +539,7 @@ Entwaffnen, keine Vernichtung der Deutschen, nur deren Kriegsgeist ^uYrwXua2
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 488.3572192888632,
-		"scrollY": 167.25984782712317,
+		"scrollY": 112.63828358994394,
 		"zoom": {
 			"value": 1.4640278661668522
 		},
