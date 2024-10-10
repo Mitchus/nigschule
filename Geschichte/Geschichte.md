@@ -854,3 +854,5 @@ Geben sie die wesentlichen Inhate der Potsdamer Vereinbarung wieder
 Terriotoriale Gebiete
 Autonome Verwaltung der Besatzungszonen
 Weichenstellung für die Teilung Deutschlands
+
+[[]]

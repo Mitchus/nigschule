@@ -21,12 +21,24 @@
             "id": "a9ccc0395228f007",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Geschichte/Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "908fe63d1f4787cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Geschichte/Potsdamer Abkommen.md"
               }
             }
           },
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Geschichte/Potsdamer Abkommen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Geschichte/Potsdamer Abkommen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Geschichte/Potsdamer Abkommen.md"
               }
             }
           },
@@ -224,16 +236,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a9ccc0395228f007",
+  "active": "908fe63d1f4787cc",
   "lastOpenFiles": [
-    "Chemie/Protokoll MN Protolyse von Salzen.md",
+    "Geschichte/files/Pasted Image 20241010083937_131.png",
+    "Geschichte/Untitled 1.canvas",
+    "Geschichte/Potsdamer Abkommen.md",
+    "Geschichte/files/Pasted image 20241010083905.png",
+    "Geschichte/Geschichte.md",
     "Chemie/Unorganische Chemie.md",
+    "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Englisch/Hunger Games.md",
     "Excalidraw/Hunger Games.md",
     "Excalidraw/Hunger Games.png",
     "Geschichte/Der deutsche Wiederstand.md",
     "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
-    "Geschichte/Geschichte.md",
     "DVT/IP-Adressierung und Subnetting.md",
     "Physik/Magnets.md",
     "Physik/Magnets 1.md",
@@ -254,7 +270,6 @@
     "Mathe/Mathe Aufgaben.md",
     "Deutsch/Untitled.md",
     "Geschichte/Kampf um die Republik.md",
-    "Philosophie/Was darf ich hoffen? Metaphysik.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
@@ -266,7 +281,6 @@
     "13./Deutsch",
     "13.",
     "Chemie/files/Pasted image 20240619142121.png",
-    "Geschichte/files/Pasted image 20240523085416.png",
     "Geschichte/Untitled.canvas",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
