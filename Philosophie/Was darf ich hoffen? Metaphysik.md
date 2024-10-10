@@ -134,3 +134,12 @@ Abschließend bemerkt Hegel, dass diese Schwankungen in der Vorstellung des Gege
 ### Schluss
 
 Hegel argumentiert in seinem Essay „Von den Schwierigkeiten der Geschichte“, dass eine objektive und unparteiische Geschichtsschreibung unmöglich sei, da sie notwendigerweise von der Vorstellung des Historikers über den zu beschreibenden Gegenstand beeinflusst wird. Dieser Einfluss führt nicht nur zu einer bestimmten Auswahl und Gewichtung der erzählten Begebenheiten, sondern setzt die Geschichtsschreibung auch dem Vorwurf der Einseitigkeit aus. Hegels Kernthese unterstreicht die komplexe und subjektive Natur der Geschichtsschreibung und die Herausforderungen, die sich daraus ergeben.
+
+
+Wie gelangt man nach Hegel von einer Stufe auf die nächste?
+Durch das dialektische Prinzip, welches den Prozesscharakter des Werdens des menschlichen Lebens entspricht so wie es auch in der Natur und in Geschichte erfolgen
+Dialektik
+3 Grundgesetze
+Gesetz des Übergangs von Quantität zu Qualität
+Gesetz der Einheit der Gegensätze
+Gesetz der Negation der Negation

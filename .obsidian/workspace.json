@@ -36,9 +36,12 @@
             "id": "908fe63d1f4787cc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Geschichte/Potsdamer Abkommen.md"
+                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -132,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Potsdamer Abkommen.md",
+                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Potsdamer Abkommen.md",
+                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Potsdamer Abkommen.md"
+                "file": "Philosophie/Was darf ich hoffen? Metaphysik.md"
               }
             }
           },
@@ -238,9 +241,9 @@
   },
   "active": "908fe63d1f4787cc",
   "lastOpenFiles": [
+    "Geschichte/Potsdamer Abkommen.md",
     "Geschichte/files/Pasted Image 20241010083937_131.png",
     "Geschichte/Untitled 1.canvas",
-    "Geschichte/Potsdamer Abkommen.md",
     "Geschichte/files/Pasted image 20241010083905.png",
     "Geschichte/Geschichte.md",
     "Chemie/Unorganische Chemie.md",
@@ -280,7 +283,6 @@
     "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "13./Deutsch",
     "13.",
-    "Chemie/files/Pasted image 20240619142121.png",
     "Geschichte/Untitled.canvas",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
