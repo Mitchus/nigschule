@@ -1,10 +1,18 @@
 - **Ordnungsfunktion**  
+  - nicht rückwirkende Verschärfung
+  - Klare Funktionsweise von Verfahren im Rechtssystem
+  - muss inhaltlich bestimmbar, voraussehbar, erzwingbar sein
   - Straßenverkehrsordnung (StVO) regelt den Straßenverkehr, um Unfälle zu vermeiden und den Verkehr flüssig zu gestalten.
 
 - **Schutzfunktion**  
+  - 
   - Verbot der Handynutzung am Steuer schützt vor Unfällen; Mietrecht schützt Mieter vor unrechtmäßiger Kündigung.
 
 - **Friedensfunktion (Konfliktlösungsfunktion)**  
+  - kein Faustrecht
+  - klare Struktur der Gerichtsbarkeit
+  - Staatliches Gewaltenmonopol
+  - "friedliche Lösungen"
   - Gerichtsverfahren zur friedlichen Lösung von Streitigkeiten, anstatt Konflikte gewaltsam auszutragen.
 
 - **Rechtssicherheit**  
