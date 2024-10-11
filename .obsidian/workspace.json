@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Sozialkunde/Rechtsfunktionen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Sozialkunde/Rechtsfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Stochhastik.md",
+                "file": "Sozialkunde/Rechtsfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Stochhastik.md"
+                "file": "Sozialkunde/Rechtsfunktionen.md"
               }
             }
           },
@@ -241,8 +241,10 @@
   },
   "active": "908fe63d1f4787cc",
   "lastOpenFiles": [
-    "Excalidraw/Kombinatorik.md",
+    "Sozialkunde/phi.md",
+    "Sozialkunde/Rechtsfunktionen.md",
     "Mathe/Stochhastik.md",
+    "Excalidraw/Kombinatorik.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
     "Geschichte/Potsdamer Abkommen.md",
     "Geschichte/files/Pasted Image 20241010083937_131.png",
@@ -272,8 +274,6 @@
     "Deutsch/Faust.md",
     "Deutsch/Sachtextanalyse.md",
     "Deutsch/Spielablauf.md",
-    "Mathe/Mathe Aufgaben.md",
-    "Deutsch/Untitled.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
