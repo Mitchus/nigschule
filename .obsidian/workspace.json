@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Rechtsfunktionen.md",
+                "file": "Mathe/Analytische Geometrie und Vektorrechnung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sozialkunde/Rechtsfunktionen.md",
+                "file": "Mathe/Analytische Geometrie und Vektorrechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sozialkunde/Rechtsfunktionen.md",
+                "file": "Mathe/Analytische Geometrie und Vektorrechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sozialkunde/Rechtsfunktionen.md"
+                "file": "Mathe/Analytische Geometrie und Vektorrechnung.md"
               }
             }
           },
@@ -241,8 +241,10 @@
   },
   "active": "908fe63d1f4787cc",
   "lastOpenFiles": [
-    "Sozialkunde/phi.md",
+    "Mathe/Mathe Aufgaben.md",
+    "Mathe/Analytische Geometrie und Vektorrechnung.md",
     "Sozialkunde/Rechtsfunktionen.md",
+    "Sozialkunde/phi.md",
     "Mathe/Stochhastik.md",
     "Excalidraw/Kombinatorik.md",
     "Philosophie/Was darf ich hoffen? Metaphysik.md",
@@ -272,8 +274,6 @@
     "Deutsch/Barock.md",
     "Deutsch/Erörtern.md",
     "Deutsch/Faust.md",
-    "Deutsch/Sachtextanalyse.md",
-    "Deutsch/Spielablauf.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
