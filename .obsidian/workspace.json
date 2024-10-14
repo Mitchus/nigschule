@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Physik/Magnets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md"
+                "file": "Physik/Magnets.md"
               }
             }
           },
@@ -255,6 +255,7 @@
   },
   "active": "04e4ff3aa74f0330",
   "lastOpenFiles": [
+    "Chemie/Unorganische Chemie.md",
     "Chemie/files/Pasted image 20241014134110.png",
     "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
     "Excalidraw/files/Pasted Image 20241014122238_851.png",
@@ -271,7 +272,6 @@
     "Geschichte/files/Pasted Image 20241010083937_131.png",
     "Geschichte/Untitled 1.canvas",
     "Geschichte/files/Pasted image 20241010083905.png",
-    "Chemie/Unorganische Chemie.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Englisch/Hunger Games.md",
     "Excalidraw/Hunger Games.md",
@@ -295,7 +295,6 @@
     "Physik/files/Pasted image 20240903100645.png",
     "Physik/files/Pasted image 20240903095958.png",
     "Physik/files/Pasted image 20240903095606.png",
-    "Physik/files/Pasted image 20240903095519.png",
     "13./Deutsch",
     "13.",
     "Geschichte/Untitled.canvas",
