@@ -865,3 +865,12 @@ De soll als Pufferzone gegenüber der Westlichen Einflusssphäre
 
 Fassen sie den Wesentlichen Inhalt der Truman Doktrin zsm 1-2 Sätze
 Was sah die Udssr als Grundlage ihrer Außen und Sicherheitspolitik an? (Shdanow)
+
+Finanzielles und wirt. Hilfsangebot an alle Staaten, die dem Kommunismus trotzen
+Containment Politik
+
+Marshallplan
+Inhalt
+finanzielle u wirt. Hilfsangebot an europä. Staaten
+Ziele
+gesunde 
