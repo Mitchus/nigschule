@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Analytische Geometrie und Vektorrechnung.md",
+                "file": "Deutsch/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Analytische Geometrie und Vektorrechnung.md",
+                "file": "Deutsch/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Analytische Geometrie und Vektorrechnung.md",
+                "file": "Deutsch/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Analytische Geometrie und Vektorrechnung.md"
+                "file": "Deutsch/Untitled.md"
               }
             }
           },
@@ -241,8 +241,8 @@
   },
   "active": "908fe63d1f4787cc",
   "lastOpenFiles": [
-    "Mathe/Mathe Aufgaben.md",
     "Mathe/Analytische Geometrie und Vektorrechnung.md",
+    "Mathe/Mathe Aufgaben.md",
     "Sozialkunde/Rechtsfunktionen.md",
     "Sozialkunde/phi.md",
     "Mathe/Stochhastik.md",
