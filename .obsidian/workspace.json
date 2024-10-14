@@ -49,9 +49,12 @@
             "id": "04e4ff3aa74f0330",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md"
+                "file": "Chemie/Unorganische Chemie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -146,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md"
+                "file": "Chemie/Unorganische Chemie.md"
               }
             }
           },
@@ -252,9 +255,9 @@
   },
   "active": "04e4ff3aa74f0330",
   "lastOpenFiles": [
+    "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
     "Excalidraw/files/Pasted Image 20241014122238_851.png",
     "Geschichte/Geschichte.md",
-    "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
     "Deutsch/Untitled.md",
     "Mathe/Analytische Geometrie und Vektorrechnung.md",
     "Mathe/Mathe Aufgaben.md",
@@ -292,7 +295,6 @@
     "Physik/files/Pasted image 20240903095958.png",
     "Physik/files/Pasted image 20240903095606.png",
     "Physik/files/Pasted image 20240903095519.png",
-    "Excalidraw/files/Pasted Image 20240902115110_336.jpg",
     "13./Deutsch",
     "13.",
     "Geschichte/Untitled.canvas",
