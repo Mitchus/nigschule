@@ -46,6 +46,16 @@
             }
           },
           {
+            "id": "04e4ff3aa74f0330",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md"
+              }
+            }
+          },
+          {
             "id": "240029ab026cd15b",
             "type": "leaf",
             "state": {
@@ -69,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Geschichte.md"
+                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md"
               }
             }
           },
@@ -239,8 +249,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "908fe63d1f4787cc",
+  "active": "04e4ff3aa74f0330",
   "lastOpenFiles": [
+    "Excalidraw/files/Pasted Image 20241014122238_851.png",
+    "Geschichte/Geschichte.md",
+    "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
     "Deutsch/Untitled.md",
     "Mathe/Analytische Geometrie und Vektorrechnung.md",
     "Mathe/Mathe Aufgaben.md",
@@ -253,7 +266,6 @@
     "Geschichte/files/Pasted Image 20241010083937_131.png",
     "Geschichte/Untitled 1.canvas",
     "Geschichte/files/Pasted image 20241010083905.png",
-    "Geschichte/Geschichte.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Englisch/Hunger Games.md",
@@ -272,8 +284,6 @@
     "Noten.ods",
     "lu6014jshx.tmp",
     "Physik/E-Lehre.md",
-    "Deutsch/Barock.md",
-    "Deutsch/Erörtern.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
