@@ -170,3 +170,22 @@ As
 
 In einem bestimmten Gebiet des inerstellaren Raumes gibt es freie Elektronen mit der kinetischen Energie 10⁻³eV, die sich auf die Kreisbahnen vom Radius 2,5*10⁴m bewegen. Wie groß ist die magnetische Flußdichte, die die bahn verursacht?
 https://chatgpt.com/c/6704e069-c4cc-8013-8119-9925acf0e049
+
+Ein Proton bewegt sich in einem homogenen Magnetfeld der Flußdichte B = 2Vs/m² mit einer Geschwindigkeit v = 7.5 * 10⁻³m/s senkrecht den Feldlinien. Berechnen Sie den Radius seiner Kreisbahn.
+FL​=FZ​
+
+Die Lorentzkraft FLF_LFL​, die auf ein geladenes Teilchen (Proton) wirkt, wenn es sich in einem Magnetfeld bewegt, lautet:
+
+FL=q⋅v⋅BF_L = q \cdot v \cdot BFL​=q⋅v⋅B
+
+Die Zentripetalkraft FZF_ZFZ​, die das Proton auf seiner Kreisbahn hält, lautet:
+
+FZ=m⋅v2rF_Z = \frac{m \cdot v^2}{r}FZ​=rm⋅v2​
+
+Da die Lorentzkraft die Zentripetalkraft bereitstellt, können wir die beiden Gleichungen gleichsetzen:
+
+q⋅v⋅B=m⋅v2rq \cdot v \cdot B = \frac{m \cdot v^2}{r}q⋅v⋅B=rm⋅v2​
+
+Nach dem Radius rrr umgestellt:
+
+r=m⋅vq⋅Br = \frac{m \cdot v}{q \cdot B}r=q⋅Bm⋅v​
