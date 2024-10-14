@@ -834,4 +834,8 @@ $c(\ce{ HCl })*V(\ce{ HCl })=c(\ce{ NaOH })*V(\ce{ NaOH })$
 Titration:
 Ein Quantitatives Verfahren zur Bestimmung deer Konzentration eines Stoffes in einer Lösung
 Die Stoffmenge an zugegebener Maßlösung entspricht exakt der Stoffmenge der unbekannten Lösung.
- 
+
+Titrationskurve
+![[Pasted image 20241014134110.png]]
+Wendepunkt = Äquivalenzpunkt
+n(OH-) = n(H3O+)
