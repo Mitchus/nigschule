@@ -873,4 +873,16 @@ Marshallplan
 Inhalt
 finanzielle u wirt. Hilfsangebot an europä. Staaten
 Ziele
-gesunde 
+gesunde Wirtschaftliche Verhältnisse schaffen
+Kommunismus nahrboden entziehen und eindämmen
+Bedingungen
+Eintreten für Frieden und Freiheit und demokratische Verfassung
+Annahme durch westliche Staaten und die Westzonen
+Ablehnung durch die sowjetischem Einfluss stehenden Staaten:
+Folge:
+- unterschiedliche Entwicklung in West u. Ost
+- Zweiteilung Europas wird verfestigt
+- Anbindung der Westzone an die USA
+- Spaltung De wird vertieft
+
+Zusammenschluss der Westeuropäischen Staaten um eine gemeinsame Front gegen den Kommunismus bilden zu können 
