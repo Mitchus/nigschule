@@ -855,4 +855,13 @@ Terriotoriale Gebiete
 Autonome Verwaltung der Besatzungszonen
 Weichenstellung für die Teilung Deutschlands
 
-[[]]
+## Kurs Wechsel in der Amerikanischen Deutschlandpolitik
+Die Sowjetisierung von Ost und Mitteleuropas veranlasst die USA zu einem Kurswechsel in der De Politik
+USA: Wirtschaftliche Stabilisierung / Aufbau De
+Deutschland als Prellbock gegen die Kräfte des Totalitarismus
+
+UDSSR: Wirtschaftliche Niederhaltung und pol. Neutralität De's 
+De soll als Pufferzone gegenüber der Westlichen Einflusssphäre 
+
+Fassen sie den Wesentlichen Inhalt der Truman Doktrin zsm 1-2 Sätze
+Was sah die Udssr als Grundlage ihrer Außen und Sicherheitspolitik an? (Shdanow)
