@@ -224,3 +224,8 @@ Here’s the information in a bullet-point format:
   - Highlights Katniss’s defiance and foreshadows her role as a symbol of rebellion.
 
 
+p 121 ll1-6 confused
+p 122 ll 11-25 angry
+p126-127 nervous
+p131 l 22 terror
+132 ll 1-17 exciting

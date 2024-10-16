@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Englisch/Hunger Games.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Englisch/Hunger Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Englisch/Hunger Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Magnets.md"
+                "file": "Englisch/Hunger Games.md"
               }
             }
           },
@@ -255,6 +255,8 @@
   },
   "active": "04e4ff3aa74f0330",
   "lastOpenFiles": [
+    "Excalidraw/Hunger Games.md",
+    "Physik/Magnets.md",
     "Physik/files/Pasted image 20241014142955.png",
     "Chemie/Unorganische Chemie.md",
     "Chemie/files/Pasted image 20241014134110.png",
@@ -275,12 +277,10 @@
     "Geschichte/files/Pasted image 20241010083905.png",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Englisch/Hunger Games.md",
-    "Excalidraw/Hunger Games.md",
     "Excalidraw/Hunger Games.png",
     "Geschichte/Der deutsche Wiederstand.md",
     "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
     "DVT/IP-Adressierung und Subnetting.md",
-    "Physik/Magnets.md",
     "Physik/Magnets 1.md",
     "Chemie/Chemie Michel Nowacki.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
@@ -295,7 +295,6 @@
     "Geschichte/files/Pasted Image 20240905085513_062.png",
     "Physik/files/Pasted image 20240903100645.png",
     "Physik/files/Pasted image 20240903095958.png",
-    "Physik/files/Pasted image 20240903095606.png",
     "13./Deutsch",
     "13.",
     "Geschichte/Untitled.canvas",
