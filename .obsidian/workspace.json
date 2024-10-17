@@ -72,6 +72,16 @@
             }
           },
           {
+            "id": "e2dd9827bea94e33",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Entwicklung der Industrie in der SBZ.md"
+              }
+            }
+          },
+          {
             "id": "c91b96f3a3447a02",
             "type": "leaf",
             "state": {
@@ -148,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
+                "file": "Excalidraw/Entwicklung der Industrie in der SBZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
+                "file": "Excalidraw/Entwicklung der Industrie in der SBZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md"
+                "file": "Excalidraw/Entwicklung der Industrie in der SBZ.md"
               }
             }
           },
@@ -252,9 +262,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c91b96f3a3447a02",
+  "active": "e2dd9827bea94e33",
   "lastOpenFiles": [
     "Geschichte/Geschichte.md",
+    "Excalidraw/Entwicklung der Industrie in der SBZ.md",
     "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
     "Geschichte/Der deutsche Wiederstand.md",
     "Geschichte/NS Außenpolitik 1933-36.md",

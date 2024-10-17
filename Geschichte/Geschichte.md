@@ -886,3 +886,9 @@ Folge:
 - Spaltung De wird vertieft
 
 Zusammenschluss der Westeuropäischen Staaten um eine gemeinsame Front gegen den Kommunismus bilden zu können 
+
+
+![[Die unterschiedliche Besatzungspolitik 45-49]]
+![[Potsdamer Abkommen]]
+
+![[]]
