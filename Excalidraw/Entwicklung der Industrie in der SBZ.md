@@ -33,6 +33,23 @@ Ausbeutung und Unterdrückung ^6NfQXOLu
 
 Sowjetische Besatzungspolitik ^WW9dPglV
 
+rigide Demontagepraxis:
+ bis zu 60% in den einzelnen 
+Industriezweigen ^hcDZp6y3
+
+Überwachung der
+ Bevölkerung durch
+ Beauftragte der
+ Partei ^MBggCx4Q
+
+Verschleppung von
+ Fachkräften in die
+ UdSSR ^Vcc9pfOF
+
+verschlimmert Not und Elend in der SBZ und
+ führt zu einer gespannten und durch Angst geprägten
+ Atmosphäre in der SBZ ^M8gMC4Zh
+
 %%
 # Drawing
 ```json
@@ -1081,11 +1098,24 @@ Sowjetische Besatzungspolitik ^WW9dPglV
 			"frameId": null,
 			"roundness": null,
 			"seed": 1001296726,
-			"version": 32,
-			"versionNonce": 1543906890,
+			"version": 35,
+			"versionNonce": 1985292758,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1729148159117,
+			"boundElements": [
+				{
+					"id": "JmyklWF-UlGeuQu5BmGns",
+					"type": "arrow"
+				},
+				{
+					"id": "P5Kq5nfaq12vmobEdmpFN",
+					"type": "arrow"
+				},
+				{
+					"id": "BmIpg5zMDXnbxg2gceMlu",
+					"type": "arrow"
+				}
+			],
+			"updated": 1729148370414,
 			"link": null,
 			"locked": false,
 			"text": "Sowjetische Besatzungspolitik",
@@ -1098,6 +1128,469 @@ Sowjetische Besatzungspolitik ^WW9dPglV
 			"containerId": null,
 			"originalText": "Sowjetische Besatzungspolitik",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "hcDZp6y3",
+			"type": "text",
+			"x": -547.0378664960999,
+			"y": 888.5343222731583,
+			"width": 290.83966064453125,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1865718730,
+			"version": 107,
+			"versionNonce": 1351753994,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "JmyklWF-UlGeuQu5BmGns",
+					"type": "arrow"
+				},
+				{
+					"id": "Eq6o_XDIyY9yZxISFcWTp",
+					"type": "arrow"
+				}
+			],
+			"updated": 1729148381778,
+			"link": null,
+			"locked": false,
+			"text": "rigide Demontagepraxis:\n bis zu 60% in den einzelnen \nIndustriezweigen",
+			"rawText": "rigide Demontagepraxis:\n bis zu 60% in den einzelnen \nIndustriezweigen",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 66,
+			"containerId": null,
+			"originalText": "rigide Demontagepraxis:\n bis zu 60% in den einzelnen \nIndustriezweigen",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "MBggCx4Q",
+			"type": "text",
+			"x": -180.06380643750617,
+			"y": 885.2480063551895,
+			"width": 183.53981018066406,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1393162198,
+			"version": 97,
+			"versionNonce": 1834608650,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "P5Kq5nfaq12vmobEdmpFN",
+					"type": "arrow"
+				}
+			],
+			"updated": 1729148363553,
+			"link": null,
+			"locked": false,
+			"text": "Überwachung der\n Bevölkerung durch\n Beauftragte der\n Partei",
+			"rawText": "Überwachung der\n Bevölkerung durch\n Beauftragte der\n Partei",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 91,
+			"containerId": null,
+			"originalText": "Überwachung der\n Bevölkerung durch\n Beauftragte der\n Partei",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Vcc9pfOF",
+			"type": "text",
+			"x": 100.37009248827508,
+			"y": 884.1525473708145,
+			"width": 188.13978576660156,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1287062282,
+			"version": 101,
+			"versionNonce": 28279050,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "BmIpg5zMDXnbxg2gceMlu",
+					"type": "arrow"
+				},
+				{
+					"id": "KHU0JzToQfIzWhbEaK4Ak",
+					"type": "arrow"
+				}
+			],
+			"updated": 1729148389711,
+			"link": null,
+			"locked": false,
+			"text": "Verschleppung von\n Fachkräften in die\n UdSSR",
+			"rawText": "Verschleppung von\n Fachkräften in die\n UdSSR",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 66,
+			"containerId": null,
+			"originalText": "Verschleppung von\n Fachkräften in die\n UdSSR",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "M8gMC4Zh",
+			"type": "text",
+			"x": -297.22372761854325,
+			"y": 1058.3283896559708,
+			"width": 466.9276213763496,
+			"height": 65.58900521734645,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 191218070,
+			"version": 415,
+			"versionNonce": 2094417546,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "Eq6o_XDIyY9yZxISFcWTp",
+					"type": "arrow"
+				},
+				{
+					"id": "KHU0JzToQfIzWhbEaK4Ak",
+					"type": "arrow"
+				}
+			],
+			"updated": 1729148389711,
+			"link": null,
+			"locked": false,
+			"text": "verschlimmert Not und Elend in der SBZ und\n führt zu einer gespannten und durch Angst geprägten\n Atmosphäre in der SBZ",
+			"rawText": "verschlimmert Not und Elend in der SBZ und\n führt zu einer gespannten und durch Angst geprägten\n Atmosphäre in der SBZ",
+			"fontSize": 17.49040139129239,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 57.999999999999986,
+			"containerId": null,
+			"originalText": "verschlimmert Not und Elend in der SBZ und\n führt zu einer gespannten und durch Angst geprägten\n Atmosphäre in der SBZ",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "JmyklWF-UlGeuQu5BmGns",
+			"type": "arrow",
+			"x": -180.06374540234992,
+			"y": 826.0939536208145,
+			"width": 166.5076904296875,
+			"height": 52.58135986328125,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1714772694,
+			"version": 54,
+			"versionNonce": 168248214,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729148359720,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-166.5076904296875,
+					52.58135986328125
+				]
+			],
+			"lastCommittedPoint": [
+				-166.5076904296875,
+				52.58135986328125
+			],
+			"startBinding": {
+				"elementId": "WW9dPglV",
+				"focus": 0.2518872886525913,
+				"gap": 8.95880126953125
+			},
+			"endBinding": {
+				"elementId": "hcDZp6y3",
+				"focus": -0.35932803839762645,
+				"gap": 9.8590087890625
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "P5Kq5nfaq12vmobEdmpFN",
+			"type": "arrow",
+			"x": -91.33272733594367,
+			"y": 828.2848410719864,
+			"width": 2.19091796875,
+			"height": 47.104156494140625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1321623766,
+			"version": 41,
+			"versionNonce": 1297823562,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1729148366299,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.19091796875,
+					47.104156494140625
+				]
+			],
+			"lastCommittedPoint": [
+				2.19091796875,
+				47.104156494140625
+			],
+			"startBinding": {
+				"elementId": "WW9dPglV",
+				"focus": 0.18427407210988406,
+				"gap": 11.149688720703125
+			},
+			"endBinding": {
+				"elementId": "MBggCx4Q",
+				"focus": 0.02057766720365928,
+				"gap": 9.8590087890625
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "BmIpg5zMDXnbxg2gceMlu",
+			"type": "arrow",
+			"x": 62.02963838671258,
+			"y": 823.9030661696427,
+			"width": 98.590087890625,
+			"height": 47.1041259765625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 691629258,
+			"version": 41,
+			"versionNonce": 130905046,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1729148371186,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					98.590087890625,
+					47.1041259765625
+				]
+			],
+			"lastCommittedPoint": [
+				98.590087890625,
+				47.1041259765625
+			],
+			"startBinding": {
+				"elementId": "WW9dPglV",
+				"focus": -0.50943539968162,
+				"gap": 6.767913818359375
+			},
+			"endBinding": {
+				"elementId": "Vcc9pfOF",
+				"focus": 0.41830328635657943,
+				"gap": 13.145355224609375
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Eq6o_XDIyY9yZxISFcWTp",
+			"type": "arrow",
+			"x": -559.0877932539124,
+			"y": 923.5885825270645,
+			"width": 369.1650085449219,
+			"height": 173.080322265625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1641477718,
+			"version": 119,
+			"versionNonce": 2140523606,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729148381782,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-119.40353393554688,
+					155.55322265625
+				],
+				[
+					249.761474609375,
+					173.080322265625
+				]
+			],
+			"lastCommittedPoint": [
+				249.761474609375,
+				173.080322265625
+			],
+			"startBinding": {
+				"elementId": "hcDZp6y3",
+				"focus": 0.9147101509893474,
+				"gap": 12.0499267578125
+			},
+			"endBinding": {
+				"elementId": "M8gMC4Zh",
+				"focus": -0.3921011348744579,
+				"gap": 12.102591025994172
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "KHU0JzToQfIzWhbEaK4Ak",
+			"type": "arrow",
+			"x": 303.0275631914001,
+			"y": 906.0614218825333,
+			"width": 287.0067138671875,
+			"height": 188.41656494140625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1258672534,
+			"version": 126,
+			"versionNonce": 1187146838,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729148389715,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					167.6031494140625,
+					132.54888916015625
+				],
+				[
+					-119.403564453125,
+					188.41656494140625
+				]
+			],
+			"lastCommittedPoint": [
+				-119.403564453125,
+				188.41656494140625
+			],
+			"startBinding": {
+				"elementId": "Vcc9pfOF",
+				"focus": -0.9068094584876754,
+				"gap": 14.517684936523438
+			},
+			"endBinding": {
+				"elementId": "M8gMC4Zh",
+				"focus": 0.6583605641427317,
+				"gap": 13.92010498046875
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "o6ddMfDs",
@@ -1133,6 +1626,80 @@ Sowjetische Besatzungspolitik ^WW9dPglV
 			"verticalAlign": "top",
 			"baseline": 16,
 			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "xoIr3icX",
+			"type": "text",
+			"x": -95.23726072217414,
+			"y": 839.3369193190567,
+			"width": 9.999984741210938,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 79955990,
+			"version": 4,
+			"versionNonce": 810139146,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1729148366303,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 16,
+			"containerId": "P5Kq5nfaq12vmobEdmpFN",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "7vBxDy20",
+			"type": "text",
+			"x": 106.32468996141961,
+			"y": 834.9551291579239,
+			"width": 9.999984741210938,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 769061258,
+			"version": 3,
+			"versionNonce": 1289521430,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1729148371191,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 16,
+			"containerId": "BmIpg5zMDXnbxg2gceMlu",
 			"originalText": "",
 			"lineHeight": 1.25
 		}
