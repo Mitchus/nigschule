@@ -75,9 +75,12 @@
             "id": "e2dd9827bea94e33",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Entwicklung der Industrie in der SBZ.md"
+                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -158,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Entwicklung der Industrie in der SBZ.md",
+                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Entwicklung der Industrie in der SBZ.md",
+                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Entwicklung der Industrie in der SBZ.md"
+                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md"
               }
             }
           },
@@ -264,8 +267,9 @@
   },
   "active": "e2dd9827bea94e33",
   "lastOpenFiles": [
-    "Geschichte/Geschichte.md",
+    "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
     "Excalidraw/Entwicklung der Industrie in der SBZ.md",
+    "Geschichte/Geschichte.md",
     "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
     "Geschichte/Der deutsche Wiederstand.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
@@ -299,7 +303,6 @@
     "lu6014jsl7.tmp",
     "Noten.ods",
     "lu6014jshx.tmp",
-    "Physik/E-Lehre.md",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
     "Geschichte/files/Pasted Image 20240905085513_062.png",
