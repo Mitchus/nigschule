@@ -177,3 +177,16 @@ für
 - Das Rechnungswesen ermöglicht die Kalkulation von Preisen, basierend auf Kosten für Produktion.
 - Es liefert Daten für unternehmerische Entscheidungen, z.B. zur Absatzförderung.
 - Das Rechnungswesen dient als Informationsquelle für Gläubiger, Steuererklärungen und Streitfälle mit Behörden oder Geschäftspartnern.
+
+Die **Prozesspolitik** beschreibt die Art, wie politische Entscheidungen getroffen werden. 
+- Geld und Währungspolitik
+- Siskalpolitik
+- Kurzfristig permanent ergriffen
+
+Ordnungspoltik
+Wirtschaftliches Handeln wird festgelegt
+langfristig
+
+Strukturpol. 
+- erforschung des Standorts etc 
+- mittelfristig
