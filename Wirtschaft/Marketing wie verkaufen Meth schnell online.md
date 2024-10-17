@@ -180,13 +180,15 @@ für
 
 Die **Prozesspolitik** beschreibt die Art, wie politische Entscheidungen getroffen werden. 
 - Geld und Währungspolitik
-- Siskalpolitik
+- Fiskalpolitik
 - Kurzfristig permanent ergriffen
-
+- makroökonomisch
 Ordnungspoltik
 Wirtschaftliches Handeln wird festgelegt
 langfristig
+mikroökonomisch
 
 Strukturpol. 
 - erforschung des Standorts etc 
 - mittelfristig
+- mesoökonomisch
