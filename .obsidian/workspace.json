@@ -33,19 +33,6 @@
             }
           },
           {
-            "id": "908fe63d1f4787cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Geschichte.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "04e4ff3aa74f0330",
             "type": "leaf",
             "state": {
@@ -72,17 +59,30 @@
             }
           },
           {
+            "id": "908fe63d1f4787cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Geschichte.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c91b96f3a3447a02",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Geschichte/Der deutsche Wiederstand.md"
+                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 233.5110321044922
   },
   "right": {
     "id": "4b2ccee3af498c2b",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Hunger Games.md"
+                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md"
               }
             }
           },
@@ -253,16 +252,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "04e4ff3aa74f0330",
+  "active": "c91b96f3a3447a02",
   "lastOpenFiles": [
+    "Geschichte/Geschichte.md",
+    "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
+    "Geschichte/Der deutsche Wiederstand.md",
+    "Geschichte/NS Außenpolitik 1933-36.md",
+    "Englisch/Hunger Games.md",
     "Excalidraw/Hunger Games.md",
     "Physik/Magnets.md",
     "Physik/files/Pasted image 20241014142955.png",
     "Chemie/Unorganische Chemie.md",
     "Chemie/files/Pasted image 20241014134110.png",
-    "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md",
     "Excalidraw/files/Pasted Image 20241014122238_851.png",
-    "Geschichte/Geschichte.md",
     "Deutsch/Untitled.md",
     "Mathe/Analytische Geometrie und Vektorrechnung.md",
     "Mathe/Mathe Aufgaben.md",
@@ -276,14 +278,11 @@
     "Geschichte/Untitled 1.canvas",
     "Geschichte/files/Pasted image 20241010083905.png",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
-    "Englisch/Hunger Games.md",
     "Excalidraw/Hunger Games.png",
-    "Geschichte/Der deutsche Wiederstand.md",
     "Excalidraw/Drawing 2024-09-10 19.58.32.excalidraw.md",
     "DVT/IP-Adressierung und Subnetting.md",
     "Physik/Magnets 1.md",
     "Chemie/Chemie Michel Nowacki.md",
-    "Geschichte/NS Außenpolitik 1933-36.md",
     "13./Deutsch/Romantische Ironie.md",
     "Deutsch/Interpretation.md",
     "lu6014jsl7.tmp",
