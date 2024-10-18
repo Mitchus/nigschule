@@ -102,13 +102,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Untitled.md",
+                "file": "Mathe/Vektorshit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Vektorshit"
             }
           },
           {
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Untitled.md",
+                "file": "Mathe/Vektorshit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Vektorshit"
             }
           },
           {
@@ -215,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Untitled.md",
+                "file": "Mathe/Vektorshit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Vektorshit"
             }
           },
           {
@@ -242,10 +242,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Untitled.md"
+                "file": "Mathe/Vektorshit.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Vektorshit"
             }
           },
           {
