@@ -28,3 +28,5 @@
 
 - **Legitimationsfunktion**  
   - Beispiel: Wahlen und Gesetze basieren auf demokratischen Prozessen und legitimieren die Ausübung staatlicher Gewalt, indem sie die Zustimmung der Bevölkerung erhalten.
+
+![[Pasted image 20241018095812.png]]
