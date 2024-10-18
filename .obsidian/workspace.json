@@ -14,7 +14,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Geschichte/NS Außenpolitik 1933-36.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "NS Außenpolitik 1933-36"
             }
           },
           {
@@ -29,7 +31,9 @@
                   "y": 0,
                   "zoom": 0
                 }
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           },
           {
@@ -42,7 +46,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Hunger Games"
             }
           },
           {
@@ -55,7 +61,9 @@
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Protokoll MN Protolyse von Salzen"
             }
           },
           {
@@ -68,7 +76,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Geschichte"
             }
           },
           {
@@ -81,7 +91,24 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Marketing wie verkaufen Meth schnell online"
+            }
+          },
+          {
+            "id": "e34f8cc29e7a4b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -91,11 +118,13 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "Die unterschiedliche Besatzungspolitik 45-49"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -115,7 +144,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -130,7 +161,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -138,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -161,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
+                "file": "Mathe/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +204,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -178,10 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
+                "file": "Mathe/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -192,7 +231,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -201,8 +242,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md"
-              }
+                "file": "Mathe/Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -214,7 +257,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -222,7 +267,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -230,7 +277,9 @@
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
-              "state": {}
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           },
           {
@@ -238,7 +287,9 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -265,8 +316,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e2dd9827bea94e33",
+  "active": "e34f8cc29e7a4b5c",
   "lastOpenFiles": [
+    "13./Deutsch/Romantische Ironie.md",
     "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
     "Excalidraw/Entwicklung der Industrie in der SBZ.md",
     "Geschichte/Geschichte.md",
@@ -298,7 +350,6 @@
     "DVT/IP-Adressierung und Subnetting.md",
     "Physik/Magnets 1.md",
     "Chemie/Chemie Michel Nowacki.md",
-    "13./Deutsch/Romantische Ironie.md",
     "Deutsch/Interpretation.md",
     "lu6014jsl7.tmp",
     "Noten.ods",

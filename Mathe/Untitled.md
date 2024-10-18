@@ -1,0 +1,1 @@
+Unter einem Vektor verstehen wir die Menge aller Pfeile, die gleich lang sind, parallel zu einander liegen und den gleichen Richtungssinn haben. Ein einzelner Pfeil aus dieser Menge heißt Repräsentant dieses Vektors.
