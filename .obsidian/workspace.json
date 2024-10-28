@@ -115,12 +115,15 @@
             "id": "423488e3e3415aaf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md"
+                "file": "Chemie/Neutralisation Protokoll MN.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-28 12.10.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "Neutralisation Protokoll MN"
             }
           },
           {
@@ -342,9 +345,10 @@
   },
   "active": "423488e3e3415aaf",
   "lastOpenFiles": [
+    "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md",
+    "Chemie/Neutralisation Protokoll MN.md",
     "Geschichte/files/Pasted Image 20241028121021_848.png",
     "Geschichte/Geschichte.md",
-    "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md",
     "Geschichte/Bodenreform.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/Potsdamer Abkommen.md",
@@ -384,7 +388,6 @@
     "lu6014jshx.tmp",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Geschichte/files/Pasted image 20240906101634.png",
-    "Geschichte/files/Pasted Image 20240905085513_062.png",
     "13./Deutsch",
     "13.",
     "Chemie/Zusammenfassung_chem_Energie.pdf",
