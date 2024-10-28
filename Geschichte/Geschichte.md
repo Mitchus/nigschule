@@ -891,3 +891,5 @@ Zusammenschluss der Westeuropäischen Staaten um eine gemeinsame Front gegen den
 ![[Die unterschiedliche Besatzungspolitik 45-49]]
 ![[Potsdamer Abkommen]]
 
+![[Bodenreform]]
+

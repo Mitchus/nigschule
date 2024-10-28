@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -328,10 +328,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "85214af36e02a0b2",
+  "active": "e34f8cc29e7a4b5c",
   "lastOpenFiles": [
-    "Geschichte/Geschichte.md",
     "Geschichte/Bodenreform.md",
+    "Geschichte/Geschichte.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/Potsdamer Abkommen.md",
     "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
