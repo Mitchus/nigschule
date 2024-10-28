@@ -12,25 +12,33 @@ Klasse: FG23
 2. Qualitative Untersuchungen bestimmen ob eine Substanz Vorhanden ist ohne ihre Menge anzugeben. 
    Quantitative Untersuchungen hingegen bestimmen die genaue Menge einer Substanz.
 
-3. Der Indikator zeigt den Umschlagpunkt bzw. den Äquivalenzpunkt der Titration an, indem er die Farbe verändert. Drei Beispiele für Indikatoren und deren Umschlagbereiche sind:
+3. Der Indikator zeigt den Umschlagpunkt bzw. den Äquivalenzpunkt der Titration an, indem er die Farbe verändert. 
    - Phenolphthalein: pH 8,0 - 9.8 (farblos zu pink/rot)
    - Methylorange: pH 3,1 - 4,4 (rot zu gelb)
    - Bromthymolblau: pH 6,2 - 7,6 (gelb zu blau)
 
-4. Eine Maßlösung hat eine bekannter Konzentration. Sie wird in der Titration als Standardlösung verwendet, um die Menge einer Substanz in einer Probe zu bestimmen.
+4. Eine Maßlösung hat eine bekannter Konzentration. Sie wird in der Titration als Standardlösung verwendet, um die Menge einer Substanz in eDrei Beispiele für Indikatoren und deren Umschlagbereiche sind:iner Probe zu bestimmen.
 
 5. Der Äquivalenzpunkt ist der Punkt, an dem die Menge der zugegebenen Maßlösung gerade ausreicht, um die zu bestimmende Substanzmenge vollständig zu neutralisieren. Das Verhältnis von Säure zu Base ist dabei chemisch äquivalent.
 
 6. Rechnung
 
-
 Gegeben:
-V = 0.250l
-M1 = 0,1mol/l
-M2 = 1mol/l
+V = 0.25l
+c1 = 0,1mol/l
+c2 = 1mol/l
 
-Gesucht: 
+Gesucht:
 m von NaOH
 M = 40mol/g
 
-n=
+Lösung:
+$m = c * V * M$
+$m = 0.1 \frac{mol}{l} * 0.25l * 40 \frac{mol}{g}$
+$m=1g$
+
+$m = c * V * M$
+$m = 1 \frac{mol}{l} * 0.25l * 40 \frac{mol}{g}$
+$m=10g$
+
+
