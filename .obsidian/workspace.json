@@ -112,6 +112,18 @@
             }
           },
           {
+            "id": "423488e3e3415aaf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-28 12.10.05.excalidraw"
+            }
+          },
+          {
             "id": "85214af36e02a0b2",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -328,10 +340,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e34f8cc29e7a4b5c",
+  "active": "423488e3e3415aaf",
   "lastOpenFiles": [
-    "Geschichte/Bodenreform.md",
+    "Geschichte/files/Pasted Image 20241028121021_848.png",
     "Geschichte/Geschichte.md",
+    "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md",
+    "Geschichte/Bodenreform.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/Potsdamer Abkommen.md",
     "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
@@ -362,8 +376,6 @@
     "Mathe/Mathe Aufgaben.md",
     "Sozialkunde/phi.md",
     "Mathe/Stochhastik.md",
-    "Excalidraw/Kombinatorik.md",
-    "Philosophie/Was darf ich hoffen? Metaphysik.md",
     "Geschichte/files/Pasted Image 20241010083937_131.png",
     "Geschichte/files/Pasted image 20241010083905.png",
     "Excalidraw/Hunger Games.png",
