@@ -33,3 +33,4 @@ $m=1g$
  $m = c * V * M$ 
  $m = 1 \frac{mol}{l} * 0.25l * 40 \frac{mol}{g}$ 
  $m=10g$
+
