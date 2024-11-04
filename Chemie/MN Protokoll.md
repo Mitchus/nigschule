@@ -40,15 +40,17 @@ $m=1g$
  $m = 1 \frac{mol}{l} * 0.25l * 40 \frac{mol}{g}$ 
  $m=10g$
 
+## Auswertung
+
 1. 
 ![[Pasted image 20241104112141.png]]
-1. Michel 10.7ml
+2. Michel 10.7ml
     Stefan 10.3ml
     Lasse 10ml
     
-2. fehlerhaftes abfüllen von Chemikalien
+3. fehlerhaftes abfüllen von Chemikalien
    schlechte Vermischung der titrierten Lösung
-3. 
+4.  
    Gegeben:
    $V(\ce{ HCl }) = 0.01033l$
    $C(\ce{ HCl })=0.1 \frac{mol}{l}$
@@ -69,6 +71,8 @@ m= 0.04132
 
 5. 
 
-
 ![[Pasted image 20241104113531.png]]
+X = V in ml
+Y = Ph Wert
+![[Chart Title.png]]
 
