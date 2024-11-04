@@ -26,7 +26,13 @@ Klasse: FG23
 
 6. Rechnung
 
-Gegeben: V = 0.25l c1 = 0,1mol/l c2 = 1mol/l Gesucht:** m von NaOH M = 40mol/g Lösung: 
+Gegeben: 
+V = 0.25l 
+c1 = 0,1mol/l 
+c2 = 1mol/l 
+M = 40mol/g
+Gesucht: m von NaOH  
+Lösung: 
 $m = c * V * M$ 
 $m = 0.1 \frac{mol}{l} * 0.25l * 40 \frac{mol}{g}$ 
 $m=1g$
@@ -40,4 +46,29 @@ $m=1g$
     Stefan 10.3ml
     Lasse 10ml
     
+2. fehlerhaftes abfüllen von Chemikalien
+   schlechte Vermischung der titrierten Lösung
 3. 
+   Gegeben:
+   $V(\ce{ HCl }) = 0.01033l$
+   $C(\ce{ HCl })=0.1 \frac{mol}{l}$
+   $V(\ce{ NaOH })=0.1l$
+   Gesucht:
+   $C(\ce{ NaOH })$
+   $n$
+   $m$
+   Lösung:
+   $C(\ce{ NaOH })= \frac{\ce{ C(HCl) * V(HCl) }}{\ce{ V(NaOH) }}$
+n = c * V
+n = 0.01033 mol/l * 0.1l
+n = 0.001033 mol
+
+m = n * m
+m= 0.001033 mol * 40 g/mol
+m= 0.04132
+
+5. 
+
+
+![[Pasted image 20241104113531.png]]
+
