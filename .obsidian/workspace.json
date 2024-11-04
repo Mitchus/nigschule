@@ -117,13 +117,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geschichte"
+              "title": "Unorganische Chemie"
             }
           },
           {
@@ -345,6 +345,7 @@
   },
   "active": "423488e3e3415aaf",
   "lastOpenFiles": [
+    "Geschichte/Geschichte.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Chemie/MN Protokoll.md",
     "Chemie/files/Chart Title.png",
@@ -363,7 +364,6 @@
     "Chemie/Neutralisation Protokoll MN.md",
     "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md",
     "Geschichte/files/Pasted Image 20241028121021_848.png",
-    "Geschichte/Geschichte.md",
     "Geschichte/Bodenreform.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
     "Geschichte/Potsdamer Abkommen.md",
