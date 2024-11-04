@@ -34,4 +34,10 @@ $m=1g$
  $m = 1 \frac{mol}{l} * 0.25l * 40 \frac{mol}{g}$ 
  $m=10g$
 
-1.
+1. 
+![[Pasted image 20241104112141.png]]
+1. Michel 10.7ml
+    Stefan 10.3ml
+    Lasse 10ml
+    
+3. 
