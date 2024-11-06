@@ -173,4 +173,10 @@ Fe2O3
 
 
 Zn + H2SO4 -> Zn SO4 +H2
+0      +1 +6 -2      +2 +6-2 0
 Cu + 4HNO3 -> Cu(NO3)2 + 2NO2 + H2O
+Oxid    Rm            
+
+H2SO4 + 2NaCl -> Na2 SO4 + 2HCl
+
+
