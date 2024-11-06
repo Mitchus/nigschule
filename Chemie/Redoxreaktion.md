@@ -111,7 +111,7 @@ Fe2O3
     - O: −2 (Gesamtsumme 0)
 - **MnO₄⁻**:
     - Mn: +7
-    - O: −2 (Gesamtsumme −1-1−1)
+    - O: −2 (+Gesamtsumme −1-1−1)
 - **H₂O**:
     - H: +1
     - O: −2 (Gesamtsumme 0)
@@ -170,3 +170,7 @@ Fe2O3
 - **Fe₂O₃**:
     - Fe: +3
     - O: −2 (Gesamtsumme 0)
+
+
+Zn + H2SO4 -> Zn SO4 +H2
+Cu + 4HNO3 -> Cu(NO3)2 + 2NO2 + H2O
