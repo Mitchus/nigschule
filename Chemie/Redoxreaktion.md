@@ -94,3 +94,79 @@ Cr2O3
 K2CrO4
 FeSO4
 Fe2O3
+
+- **Fe**: 0 (Elementarzustand)
+- **H₂**: 0 (Elementarzustand)
+- **HCl**:
+    - H: +1
+    - Cl: −1
+- **H₃O⁺**:
+    - H: +1
+    - O: −2 (Gesamtsumme +1)
+- **PbO₂**:
+    - Pb: +4
+    - O: −2 (Gesamtsumme 0)
+- **ZnO**:
+    - Zn: +2
+    - O: −2 (Gesamtsumme 0)
+- **MnO₄⁻**:
+    - Mn: +7
+    - O: −2 (Gesamtsumme −1-1−1)
+- **H₂O**:
+    - H: +1
+    - O: −2 (Gesamtsumme 0)
+- **AlCl₃**:
+    - Al: +3
+    - Cl: −1 (Gesamtsumme 0)
+- **Cu²⁺**: +2 (Kation mit festgelegter Ladung)
+- **N³⁻**: −3 (Anion mit festgelegter Ladung)
+- **SO₄²⁻**:
+    - S: +6
+    - O: −2 (Gesamtsumme −2)
+- **NH₄⁺**:
+    - N: −3
+    - H: +1 (Gesamtsumme +1)
+- **Cu₂O**:
+    - Cu: +1
+    - O: −2 (Gesamtsumme 0)
+- **CuO**:
+    - Cu: +2
+    - O: −2 (Gesamtsumme 0)
+- **CH₃COOH** (Essigsäure):
+    - C im CH₃: −3
+    - C im COOH: +3
+    - H im CH₃ und COOH: +1
+    - O im COOH: −2 (Gesamtsumme 0)
+- **HNO₃**:
+    - H: +1
+    - N: +5
+    - O: −2 (Gesamtsumme 0)
+- **Cu(NO₃)₂**:
+    - Cu: +2
+    - N im NO₃: +5
+    - O im NO₃: −2 (Gesamtsumme 0)
+- **MnCO₃**:
+    - Mn: +2
+    - C im CO₃: +4
+    - O im CO₃: −2 (Gesamtsumme 0)
+- **MnO₂**:
+    - Mn: +4
+    - O: −2 (Gesamtsumme 0)
+- **KMnO₄**:
+    - K: +1
+    - Mn: +7
+    - O: −2 (Gesamtsumme 0)
+- **Cr₂O₃**:
+    - Cr: +3
+    - O: −2 (Gesamtsumme 0)
+- **K₂CrO₄**:
+    - K: +1
+    - Cr: +6
+    - O: −2 (Gesamtsumme 0)
+- **FeSO₄**:
+    - Fe: +2
+    - S: +6
+    - O: −2 (Gesamtsumme 0)
+- **Fe₂O₃**:
+    - Fe: +3
+    - O: −2 (Gesamtsumme 0)
