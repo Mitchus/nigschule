@@ -66,3 +66,31 @@ $$
     
     - Substanz, die Elektronen aufnimmt (wirkt als Oxidationsmittel).
     - Beispiel: Kupferionen (Cu²⁺) sind die Elektronenakzeptoren.
+
+
+Bestimme Oxidationszahlen:
+Fe
+H2
+HCl
+H3O+
+PbO2
+ZnO
+MnO4⁻
+H2O
+AlCl3
+Cu²⁺ 
+N³⁻
+SO4²⁻
+NH4⁺
+Cu2O
+CuO
+CH3-COOH
+HNO3
+Cu(NO3)2
+MnCO3
+MnO2
+KMnO4
+Cr2O3
+K2CrO4
+FeSO4
+Fe2O3
