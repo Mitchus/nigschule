@@ -839,4 +839,3 @@ Titrationskurve
 ![[Pasted image 20241014134110.png]]
 Wendepunkt = Äquivalenzpunkt
 n(OH-) = n(H3O+)
-

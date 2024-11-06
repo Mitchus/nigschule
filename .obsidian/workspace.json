@@ -4,154 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "59ab0448ac8326f6",
+        "id": "6ce57bda35fe9eed",
         "type": "tabs",
         "children": [
           {
-            "id": "0125d1674abe4c7c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Geschichte/NS Außenpolitik 1933-36.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "NS Außenpolitik 1933-36"
-            }
-          },
-          {
-            "id": "a9ccc0395228f007",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Geschichte/Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "04e4ff3aa74f0330",
+            "id": "4d4dc97830c5269f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hunger Games"
-            }
-          },
-          {
-            "id": "240029ab026cd15b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemie/Protokoll MN Protolyse von Salzen.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protokoll MN Protolyse von Salzen"
-            }
-          },
-          {
-            "id": "908fe63d1f4787cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Geschichte.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geschichte"
-            }
-          },
-          {
-            "id": "e2dd9827bea94e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marketing wie verkaufen Meth schnell online"
-            }
-          },
-          {
-            "id": "e34f8cc29e7a4b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Geschichte.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geschichte"
-            }
-          },
-          {
-            "id": "423488e3e3415aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemie/Redoxreaktion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redoxreaktion"
-            }
-          },
-          {
-            "id": "85214af36e02a0b2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Geschichte/Bodenreform.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Bodenreform"
-            }
-          },
-          {
-            "id": "c91b96f3a3447a02",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Die unterschiedliche Besatzungspolitik 45-49.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Die unterschiedliche Besatzungspolitik 45-49"
+              "title": "Unorganische Chemie"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,8 +214,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "423488e3e3415aaf",
+  "active": "4d4dc97830c5269f",
   "lastOpenFiles": [
+    "Chemie/Organische Chemie.md",
+    "Chemie/Redoxreaktion.md",
     "Chemie/Unorganische Chemie.md",
     "Geschichte/Geschichte.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
@@ -378,8 +251,6 @@
     "Sozialkunde/files/Pasted image 20241018095748.png",
     "Sozialkunde/files",
     "Sozialkunde/Völkerrecht.md",
-    "13./Deutsch/Romantische Ironie.md",
-    "Excalidraw/Entwicklung der Industrie in der SBZ.md",
     "Physik/files/Pasted image 20241014142955.png",
     "Chemie/files/Pasted image 20241014134110.png",
     "Excalidraw/files/Pasted Image 20241014122238_851.png",
