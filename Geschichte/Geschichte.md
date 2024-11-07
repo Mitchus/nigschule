@@ -916,4 +916,21 @@ Zusammenschluss der Westeuropäischen Staaten um eine gemeinsame Front gegen den
 - Anspruch auf den Status eines gleichberechtigten, souveränen und unabhängigen Staates
 
 
+Daten zum Ost-West-Konflikt
+8.5. 1945
+Ende des Zweiten Weltkrieges in Europa
 
+17.7. -2.8. 1945
+Konferenz von Potsdam
+- getrennte politische Verwaltung Deutschlands
+- Westverschiebung Polens
+
+1945-48
+Ausdehnung der sowjietischen Einflusses auf die osteuropäischen Staaten durch die Bildung kommunistischer Regierungen. Der Amerikanische Präsident Truman stellt dem das Konzept der Eindämmungspolitik (Containment) entgegen.
+
+5.6. 1947
+Marshall-Plan für Westeuropa
+18.6. 1948- 12.5.49
+Berlin Blockade
+4.4.1949
+Gründung der Nato
