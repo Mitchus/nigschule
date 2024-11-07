@@ -2,7 +2,7 @@ Michel Nowacki
 30.10.2024
 #### 1. **Definition und Hauptaufgaben**
 
-- **IWF**: Der Internationale Währungsfonds ist eine internationale Organisation, die 1944 gegründet wurde, um die globale Finanzstabilität zu fördern und Ländern in wirtschaftlichen Schwierigkeiten Unterstützung zu bieten.
+- **IWF**: Der Internationale Währungsfonds ist eine internationale Organisation, die 1944  gegründet wurde, um die globale Finanzstabilität zu fördern und Ländern in wirtschaftlichen Schwierigkeiten Unterstützung zu bieten.
 - **Hauptaufgaben**:
     - **Finanzielle Hilfe**: Kredite für Länder in Zahlungsschwierigkeiten.
     - **Überwachung**: Beobachtung der globalen Wirtschaftslage und Beratung von Mitgliedstaaten.
