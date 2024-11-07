@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Wirtschaft/IWF HANDOUT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geschichte"
+              "title": "IWF HANDOUT"
             }
           }
         ],
@@ -232,10 +232,10 @@
   },
   "active": "576adccd1a570ccf",
   "lastOpenFiles": [
+    "Geschichte/Geschichte.md",
     "Geschichte/Potsdamer Abkommen.md",
     "Chemie/Redoxreaktion.md",
     "Geschichte/Bodenreform.md",
-    "Geschichte/Geschichte.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
