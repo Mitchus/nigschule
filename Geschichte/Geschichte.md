@@ -894,3 +894,26 @@ Zusammenschluss der Westeuropäischen Staaten um eine gemeinsame Front gegen den
 ![[Bodenreform]]
 
 
+#### Das staatliche Verhältnis zwischen BRD und der DDR 
+
+**BRD** 
+- Das Deutsche Reich ist nicht untergegangen
+- Die Brd besteht als Kernstaat fort
+- Die Regierung der BRD ist die einzig demokratisch legitimierte Regierung in Deutschland
+- Sie ist befugt, für alle Deutschen zu sprechen
+- (Alleinvertretungsanspruch der BRD)
+
+- Keine Anerkennung der DDR und Verhinderung einer solchen durch Dritte
+- Hallsteindoktrin
+- Kein Verkehr auf staatlicher Ebene
+
+
+**DDR**
+- Das Deutsche Reich ist untergegangen
+- Es sind zwei Staaten neu entstanden, die gleichwertig sind.
+
+- Forderung nach völkerrechtlicher Anerkennung
+- Anspruch auf den Status eines gleichberechtigten, souveränen und unabhängigen Staates
+
+
+

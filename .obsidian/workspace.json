@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Redoxreaktion"
             }
+          },
+          {
+            "id": "576adccd1a570ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Geschichte.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geschichte"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,12 +230,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f746d0263c447e52",
+  "active": "576adccd1a570ccf",
   "lastOpenFiles": [
+    "Geschichte/Potsdamer Abkommen.md",
+    "Chemie/Redoxreaktion.md",
+    "Geschichte/Bodenreform.md",
+    "Geschichte/Geschichte.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
-    "Chemie/Redoxreaktion.md",
-    "Geschichte/Geschichte.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Chemie/MN Protokoll.md",
     "Chemie/files/Chart Title.png",
@@ -238,9 +256,7 @@
     "Chemie/Neutralisation Protokoll MN.md",
     "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md",
     "Geschichte/files/Pasted Image 20241028121021_848.png",
-    "Geschichte/Bodenreform.md",
     "Geschichte/NS Außenpolitik 1933-36.md",
-    "Geschichte/Potsdamer Abkommen.md",
     "Geschichte/Preußischer Verfassungskonflikt (1861-66).md",
     "Geschichte/Untitled.canvas",
     "Geschichte/Untitled 1.canvas",
