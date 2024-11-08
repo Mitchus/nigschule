@@ -17,7 +17,7 @@
   - Regelung von Interessenkonflikten
   - Gerichtsverfahren zur friedlichen Lösung von Streitigkeiten, anstatt Konflikte gewaltsam auszutragen.
 
-- **Rechtssicherheit**  
+- **Rechtssicherheit**  g
   - nicht rückwirkende Verschärfung
   - Klare Funktionsweise von Verfahren im Rechtssystem
   - muss inhaltlich bestimmbar, voraussehbar, erzwingbar sein
