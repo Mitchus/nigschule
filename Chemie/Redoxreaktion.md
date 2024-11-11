@@ -183,6 +183,12 @@ H2SO4 + 2NaCl -> Na2 SO4 + 2HCl
 
 2FeCl3 + Cu -> 2FeCl2 + CuCl2
 
-4Al + 3 O2 -> 2Al2O3
+Oxidation: Cu → Cu²⁺ + 2e⁻  
+Reduktion: Fe³⁺ + e⁻ → Fe²⁺  
+Redox-Paare: Cu / Cu²⁺, Fe³⁺ / Fe²⁺
 
-Stelle Elektronengleichung auf und bilde redox paare
+4Al + 3 O2 -> 2Al2O3
+ 
+Oxidation: Al → Al³⁺ + 3e⁻  
+Reduktion: O₂ + 4e⁻ → 2O²⁻  
+Redox-Paare: Al / Al³⁺, O₂ / O²⁻
