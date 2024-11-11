@@ -940,3 +940,6 @@ Konflikte zwischen Staaten und Bündnissystemen
 Zweiter Weltkrieg und sein Ende 1945
 Teilung Europas - Konfrontation und Einbeziehung der beiden Teile Deutschlands in den Ost-West-Konflikt (Blockbildung)
 ![[IDKKKKKKKKKK]]
+
+1. Ost-West Konflikt und Kalter-krieg erläutern. Mehr als ein Satz
+2. 
