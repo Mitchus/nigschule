@@ -934,3 +934,9 @@ Marshall-Plan für Westeuropa
 Berlin Blockade
 4.4.1949
 Gründung der Nato
+
+Konflikte zwischen Staaten und Bündnissystemen
+
+Zweiter Weltkrieg und sein Ende 1945
+Teilung Europas - Konfrontation und Einbeziehung der beiden Teile Deutschlands in den Ost-West-Konflikt (Blockbildung)
+![[IDKKKKKKKKKK]]

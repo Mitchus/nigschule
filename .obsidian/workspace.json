@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Rechtsfunktionen.md",
+                "file": "Geschichte/Geschichte.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rechtsfunktionen"
+              "title": "Geschichte"
             }
           },
           {
@@ -35,6 +35,18 @@
               },
               "icon": "lucide-file",
               "title": "Vektorshit"
+            }
+          },
+          {
+            "id": "e19d81996e2c2863",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Geschichte/IDKKKKKKKKKK.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "IDKKKKKKKKKK"
             }
           }
         ]
@@ -231,13 +243,14 @@
   },
   "active": "4d4dc97830c5269f",
   "lastOpenFiles": [
-    "Chemie/Redoxreaktion.md",
+    "Geschichte/IDKKKKKKKKKK.md",
     "Mathe/Vektorshit.md",
-    "Sozialkunde/Rechtsfunktionen.md",
-    "Wirtschaft/IWF HANDOUT.md",
     "Geschichte/Geschichte.md",
-    "Geschichte/Potsdamer Abkommen.md",
     "Geschichte/Bodenreform.md",
+    "Sozialkunde/Rechtsfunktionen.md",
+    "Chemie/Redoxreaktion.md",
+    "Wirtschaft/IWF HANDOUT.md",
+    "Geschichte/Potsdamer Abkommen.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Organische Chemie.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
@@ -265,7 +278,6 @@
     "Sozialkunde/files/Pasted image 20241018095812.png",
     "Sozialkunde/files/Pasted image 20241018095748.png",
     "Sozialkunde/files",
-    "Sozialkunde/Völkerrecht.md",
     "Physik/files/Pasted image 20241014142955.png",
     "Chemie/files/Pasted image 20241014134110.png",
     "Excalidraw/files/Pasted Image 20241014122238_851.png",
