@@ -987,16 +987,13 @@ Teilung Europas - Konfrontation und Einbeziehung der beiden Teile Deutschlands i
 ### 3. Der Wettlauf ins All
 
 - **Bedeutung des „Sputnik-Schocks“ (1957)**:
-    
     - Erster künstlicher Satellit der Sowjetunion schockierte die USA.
     - Führte zur Gründung der NASA und zum massiven Ausbau der amerikanischen Raumfahrtprogramme.
 - **Meilensteine des Wettstreits**:
-    
     - **1959**: Erste unbemannte Mondmissionen der Sowjetunion (Lunik-Programm).
     - **1961**: Juri Gagarin (Sowjetunion) als erster Mensch im All, Erfolg der UdSSR.
     - **1969**: Mondlandung der USA mit Apollo 11, Neil Armstrong und „Ein großer Schritt für die Menschheit“ – symbolischer Sieg der USA.
 - **Strategic Defense Initiative (SDI)**:
-    
     - Geplantes Verteidigungssystem der USA unter Ronald Reagan.
     - Sollte feindliche Raketen abfangen, verschärfte das Wettrüsten und verunsicherte die Sowjetunion.
 
