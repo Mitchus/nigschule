@@ -180,3 +180,9 @@ Oxid    Rm            Rm                   Om
 H2SO4 + 2NaCl -> Na2 SO4 + 2HCl
 
 
+
+2FeCl3 + Cu -> 2FeCl2 + CuCl2
+
+4Al + 3 O2 -> 2Al2O3
+
+Stelle Elektronengleichung auf und bilde redox paare

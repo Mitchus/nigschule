@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Geschichte.md",
+                "file": "Chemie/Redoxreaktion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geschichte"
+              "title": "Redoxreaktion"
             }
           },
           {
@@ -243,9 +243,9 @@
   },
   "active": "4d4dc97830c5269f",
   "lastOpenFiles": [
+    "Geschichte/Geschichte.md",
     "Geschichte/IDKKKKKKKKKK.md",
     "Mathe/Vektorshit.md",
-    "Geschichte/Geschichte.md",
     "Geschichte/Bodenreform.md",
     "Sozialkunde/Rechtsfunktionen.md",
     "Chemie/Redoxreaktion.md",
