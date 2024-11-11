@@ -940,6 +940,79 @@ Konflikte zwischen Staaten und Bündnissystemen
 Zweiter Weltkrieg und sein Ende 1945
 Teilung Europas - Konfrontation und Einbeziehung der beiden Teile Deutschlands in den Ost-West-Konflikt (Blockbildung)
 ![[IDKKKKKKKKKK]]
+1. Erläutern Sie den Ost-West-Konflikt und den Kalten Krieg umfassend in mehr als einem Satz.
+2. Stellen Sie anhand ausgewählter Beispiele dar, welche bedeutende Rolle der Sport im Kalten Krieg spielte (z.B. Olympiaboykott, Medaillenjagd, Doping).
+3. Berichten Sie, wie ernst die beiden Supermächte den Wettstreit um die Eroberung des Weltalls nahmen (Sputnik-Schock, SDI, bemannte und unbemannte Missionen, Wettlauf zum Mond etc.).
+4. Zeigen Sie anhand einiger Beispiele, wie der Kalte Krieg zum Thema zahlloser Bücher und Filme wurde und wie in diesem Bereich oft mit Übertreibungen und Klischees gearbeitet wurde.
 
-1. Ost-West Konflikt und Kalter-krieg erläutern. Mehr als ein Satz
-2. 
+
+### Ost-West-Konflikt und Kalter Krieg
+
+- **Definition und Ursprung**:
+    
+    - Nach dem Zweiten Weltkrieg bildeten sich zwei Supermächte heraus – die USA und die Sowjetunion.
+    - Es entstand ein ideologischer Konflikt zwischen westlicher Demokratie und Marktwirtschaft (Kapitalismus) vs. kommunistischem Sozialismus.
+- **Konfliktphasen**:
+    
+    - Teilung Deutschlands, Berliner Blockade (1948-1949), Koreakrieg (1950-1953).
+    - Kubakrise (1962), Hochphase der Konfrontation: Gefahr eines Atomkriegs.
+    - Entspannungsphase in den 1970er Jahren mit Verträgen wie SALT (Strategic Arms Limitation Talks).
+- **Mittel und Taktiken**:
+    
+    - Propaganda, Wirtschaftssanktionen, Stellvertreterkriege (z.B. Vietnamkrieg, Afghanistan).
+    - Aufrüstung (NATO und Warschauer Pakt).
+    - Einflussnahme in anderen Ländern zur Durchsetzung der eigenen Ideologien.
+
+---
+
+### 2. Die Rolle des Sports im Kalten Krieg
+
+- **Olympische Spiele als Bühne**:
+    
+    - Die Olympischen Spiele wurden von beiden Blöcken genutzt, um ideologische Überlegenheit zu demonstrieren.
+    - **Olympiaboykott**:
+        - 1980: Die USA und westliche Verbündete boykottierten die Olympischen Spiele in Moskau als Reaktion auf die sowjetische Invasion in Afghanistan.
+        - 1984: Die Sowjetunion und ihre Verbündeten boykottierten die Spiele in Los Angeles.
+- **Medaillenjagd**:
+    
+    - Der Erfolg bei Olympischen Spielen wurde zum Symbol für die Überlegenheit des politischen Systems.
+    - Beide Seiten förderten den Leistungssport stark und investierten in Athletenförderung.
+- **Doping**:
+    
+    - Insbesondere im Ostblock wurde das Doping systematisch eingesetzt, um Spitzenleistungen zu sichern.
+    - Beispiele: DDR-Sportförderung und gezielte Dopingprogramme für internationale Erfolge.
+
+---
+
+### 3. Der Wettlauf ins All
+
+- **Bedeutung des „Sputnik-Schocks“ (1957)**:
+    
+    - Erster künstlicher Satellit der Sowjetunion schockierte die USA.
+    - Führte zur Gründung der NASA und zum massiven Ausbau der amerikanischen Raumfahrtprogramme.
+- **Meilensteine des Wettstreits**:
+    
+    - **1959**: Erste unbemannte Mondmissionen der Sowjetunion (Lunik-Programm).
+    - **1961**: Juri Gagarin (Sowjetunion) als erster Mensch im All, Erfolg der UdSSR.
+    - **1969**: Mondlandung der USA mit Apollo 11, Neil Armstrong und „Ein großer Schritt für die Menschheit“ – symbolischer Sieg der USA.
+- **Strategic Defense Initiative (SDI)**:
+    
+    - Geplantes Verteidigungssystem der USA unter Ronald Reagan.
+    - Sollte feindliche Raketen abfangen, verschärfte das Wettrüsten und verunsicherte die Sowjetunion.
+
+---
+
+### 4. Kalter Krieg in Büchern und Filmen
+
+- **Bedeutung als Themengebiet**:
+    
+    - Viele Werke verarbeiteten die Bedrohung des Atomkriegs, die Spionagetätigkeit und den politischen Konflikt.
+    - Autoren und Filmemacher griffen oft auf Übertreibungen und Klischees zurück, um die Spannung und Bedrohung darzustellen.
+- **Beispiele und Klischees**:
+    
+    - **Bücher**:
+        - „1984“ von George Orwell: Dystopische Darstellung einer totalitären Gesellschaft, inspiriert vom Überwachungsstaat.
+        - John le Carré-Romane (z.B. „Der Spion, der aus der Kälte kam“): Spionagethriller, beleuchtet die psychologischen Aspekte des Kalten Krieges.
+    - **Filme**:
+        - „Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb“ (1964): Satire über die nukleare Abschreckung und die Gefahr des Atomkriegs.
+        - James Bond-Filme: Verkörpern oft den Konflikt zwischen dem Westen und dem Ostblock, mit übertriebenen Darstellungen von Spionen und Bösewichten.
