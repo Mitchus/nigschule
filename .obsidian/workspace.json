@@ -26,12 +26,15 @@
             "id": "6f7deafd08f07295",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-13 13.27.29.excalidraw.md"
+                "file": "Chemie/Redoxreaktion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-13 13.27.29.excalidraw"
+              "icon": "lucide-file",
+              "title": "Redoxreaktion"
             }
           },
           {
@@ -256,8 +259,8 @@
   },
   "active": "6f7deafd08f07295",
   "lastOpenFiles": [
-    "Chemie/Redoxreaktion.md",
     "Excalidraw/Drawing 2024-11-13 13.27.29.excalidraw.md",
+    "Chemie/Redoxreaktion.md",
     "Physik/Magnets.md",
     "Physik/E-Lehre.md",
     "Physik/Aufgaben Seite 1.md",
