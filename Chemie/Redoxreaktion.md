@@ -192,3 +192,13 @@ Redox-Paare: Cu / Cu²⁺, Fe³⁺ / Fe²⁺
 Oxidation: Al → Al³⁺ + 3e⁻  
 Reduktion: O₂ + 4e⁻ → 2O²⁻  
 Redox-Paare: Al / Al³⁺, O₂ / O²⁻
+
+Kohlenstoff + Kupfer(II)Oxid -> CO2 + Cu
+C + 2CuO -> CO2 + 2Cu
+
+               +2     -2   4 -2
+Rm: C
+Om: CuO
+Oxidation: C (0) → CO₂ (+4)
+Reduktion: Cu²⁺ (+2) → Cu (0)
+

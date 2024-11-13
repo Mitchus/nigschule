@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnets.md",
+                "file": "Chemie/Redoxreaktion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnets"
+              "title": "Redoxreaktion"
+            }
+          },
+          {
+            "id": "6f7deafd08f07295",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-13 13.27.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-13 13.27.29.excalidraw"
             }
           },
           {
@@ -49,7 +61,8 @@
               "title": "IDKKKKKKKKKK"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,16 +254,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4d4dc97830c5269f",
+  "active": "6f7deafd08f07295",
   "lastOpenFiles": [
+    "Chemie/Redoxreaktion.md",
+    "Excalidraw/Drawing 2024-11-13 13.27.29.excalidraw.md",
+    "Physik/Magnets.md",
     "Physik/E-Lehre.md",
     "Physik/Aufgaben Seite 1.md",
     "Physik/Der Energieerhaltungssatz der Mechanik.md",
-    "Physik/Magnets.md",
     "Physik/Mechanische Energie.md",
     "Physik/Stoßvorgänge.md",
     "Physik/Mechanische Wellen.md",
-    "Chemie/Redoxreaktion.md",
     "Geschichte/Geschichte.md",
     "Geschichte/IDKKKKKKKKKK.md",
     "Mathe/Vektorshit.md",
@@ -271,7 +285,6 @@
     "Chemie/Eliminierung.md",
     "sport.md",
     "Notizen.md",
-    "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
     "Geschichte/files/Pasted Image 20241028121021_848.png",
     "Geschichte/Untitled.canvas",
     "Geschichte/Untitled 1.canvas",
