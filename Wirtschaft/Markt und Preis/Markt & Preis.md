@@ -62,3 +62,5 @@ Lenkungsfunktionen
 - Preis = Lenker der Produktion
 Erziehungsfunktion
 - Preis erzielt Anbieter für Kostensenkung Nachfrager zum Preisvergleich
+
+![[Wirtschaft/Markt und Preis/files/TRUMPSHIT]]

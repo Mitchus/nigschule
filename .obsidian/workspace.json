@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "ef1e79f8bca43d52",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Wirtschaft/Drawing 2024-11-15 09.49.42.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-15 09.49.42.excalidraw"
+            }
+          },
+          {
             "id": "576adccd1a570ccf",
             "type": "leaf",
             "state": {
@@ -65,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,8 +269,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6f7deafd08f07295",
+  "active": "ef1e79f8bca43d52",
   "lastOpenFiles": [
+    "Wirtschaft/Markt und Preis/Markt & Preis.md",
+    "Wirtschaft/Drawing 2024-11-15 09.49.42.excalidraw.md",
+    "Wirtschaft/Markt und Preis/files/TRUMPSHIT",
+    "Wirtschaft/Markt und Preis/files",
     "Mathe/Vektorshit.md",
     "Wirtschaft/IWF HANDOUT.md",
     "Chemie/Redoxreaktion.md",
@@ -286,8 +302,6 @@
     "Chemie/Chemie Michel Nowacki.md",
     "Chemie/Drawing 2024-01-09 10.29.15.excalidraw.md",
     "Chemie/Eliminierung.md",
-    "sport.md",
-    "Notizen.md",
     "Geschichte/files/Pasted Image 20241028121021_848.png",
     "Geschichte/Untitled.canvas",
     "Geschichte/Untitled 1.canvas",
@@ -307,9 +321,7 @@
     "Chemie/Zusammenfassung_chem_Energie.pdf",
     "Chemie/Untitled.canvas",
     "Englisch/Timeline.canvas",
-    "DVT/files",
     "Physik/Energie.canvas",
-    "Philosophie/files",
     "Untitled 1.canvas"
   ]
 }
