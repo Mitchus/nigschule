@@ -41,12 +41,15 @@
             "id": "ef1e79f8bca43d52",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Wirtschaft/Drawing 2024-11-15 09.49.42.excalidraw.md"
+                "file": "Sozialkunde/Rechtsfunktionen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-15 09.49.42.excalidraw"
+              "icon": "lucide-file",
+              "title": "Rechtsfunktionen"
             }
           },
           {
@@ -271,8 +274,8 @@
   },
   "active": "ef1e79f8bca43d52",
   "lastOpenFiles": [
-    "Wirtschaft/Markt und Preis/Markt & Preis.md",
     "Wirtschaft/Drawing 2024-11-15 09.49.42.excalidraw.md",
+    "Wirtschaft/Markt und Preis/Markt & Preis.md",
     "Wirtschaft/Markt und Preis/files/TRUMPSHIT",
     "Wirtschaft/Markt und Preis/files",
     "Mathe/Vektorshit.md",

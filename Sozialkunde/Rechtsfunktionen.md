@@ -67,3 +67,15 @@ Positives Recht vs Rechtspositivismus vs Naturrecht
 - **Positives Recht** ist das tatsächlich in Kraft befindliche Recht.
 - **Rechtspositivismus** ist eine Theorie, die besagt, dass nur das positive Recht zählt.
 - **Naturrecht** steht für ein höheres, oft moralisch fundiertes Recht, das über dem positiven Recht steht und universell gilt.
+
+
+Grundrechte
+dienen der freiheitlichen demokratischen Grundordnung
+Art 1-20 grundsätzlich die wichtigsten daher auch ganz vorne
+
+Freiraum des Einzelnen gegenüber des Staates zu sichern
+politische Mitbestimmung sichern
+Schutz des Einzelnen gegen Willkür des Staates
+Schutz von Minderheiten
+
+GG binden die Staatesgewalt als unmittelbar geltendes Recht
