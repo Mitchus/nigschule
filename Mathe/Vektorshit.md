@@ -16,4 +16,33 @@ Unter einem Vektor verstehen wir die Menge aller Pfeile, die gleich lang sind, p
 		 3
 		
 	Z = -2 3 1   
+OA=1,3)
+OB=(4,1)
+OC=(5,6)
+AB= OB-OA
 
+c)
+-4
+-2
+1
+
+-2
+-4
+-10
+
+-6
+-6
+-9
+
+d)
+1
+1
+1
+
+1
+1
+1
+
+2
+2
+2
