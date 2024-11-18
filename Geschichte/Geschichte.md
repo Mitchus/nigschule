@@ -1013,3 +1013,9 @@ Teilung Europas - Konfrontation und Einbeziehung der beiden Teile Deutschlands i
     - **Filme**:
         - „Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb“ (1964): Satire über die nukleare Abschreckung und die Gefahr des Atomkriegs.
         - James Bond-Filme: Verkörpern oft den Konflikt zwischen dem Westen und dem Ostblock, mit übertriebenen Darstellungen von Spionen und Bösewichten.
+Die Politik Adenauers
+Der spätere Bundeskanzler Konrad Adenauer hatte im Herbst 1945 in einem Brief erstmals seine Lagebeurteilung und das Konzept der sich daraus ergebenden deutschen Politik zusammengefasst.
+
+Analysieren sie die Lage nach dem Zweiten Weltkrieg (Weltpolitische Lage)
+
+Welchen Außen und Deutschlandpolitischen Kurs hätten sie als Bundeskanzler eingeschlagen.
