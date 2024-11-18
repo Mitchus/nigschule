@@ -201,4 +201,3 @@ Rm: C
 Om: CuO
 Oxidation: C (0) → CO₂ (+4)
 Reduktion: Cu²⁺ (+2) → Cu (0)
-
