@@ -845,7 +845,7 @@ n(OH-) = n(H3O+)
  #### 1. Definition Brönsted
 1. **Säuren:** Protonendonatoren.
 2. **Basen:** Protonenakzeptoren.
-3. **Korrespondierende Säure/Base-Paare:** Ein Säure/Base-Paar unterscheidet sich nur um ein Proton (z.B. HCl/Cl⁻, NH₄⁺/NH₃).
+3. **Korrespondierende Säure/Base-Paare:** Ein Säure/Base-Paar unterscheidet sich nur um ein Proton (z.B. HCl/Cl⁻, NH₄⁺/NH₃, H2​S/HS−).
 4. **Säure- und Basenreaktion:** Protonenübertragungsreaktion.
 5. **Reaktion:** NH₃ + HCl → NH₄Cl.
 6. **Säurereaktion:** HCl → Cl⁻ + H⁺.
