@@ -872,3 +872,60 @@ b)
 pOH = 2.22
 pH = 11,8
 
+**Aufgabe 5**  
+Schwefelwasserstoffmoleküle reagieren gegenüber Wasser als Säure, Acetationen (CH3COO-) als Base. Formulieren Sie jeweils die Protolyse sowie die Säure-Base-Paare.
+
+Schwefelwasserstoff als Säure:  
+H2S + H2O ↔ HS- + H3O+  
+Säure 1: H2S → Base 1: HS-  
+Säure 2: H3O+ → Base 2: H2O
+
+Acetation als Base:  
+CH3COO- + H2O ↔ CH3COOH + OH-  
+Säure 1: H2O → Base 1: OH-  
+Säure 2: CH3COOH → Base 2: CH3COO-
+
+---
+
+**Aufgabe 6**  
+Hydrogencarbonat-Ionen sind Ampholyte. Formulieren Sie die Reaktionsgleichungen für ihre Wirkung als Brönsted-Säure und -Base.
+
+Als Säure:  
+HCO3- + H2O ↔ CO32- + H3O+
+
+Als Base:  
+HCO3- + H2O ↔ H2CO3 + OH-
+
+---
+
+**Aufgabe 7**  
+Bei einer Neutralisationstitration werden 20 ml einer bekannten HCl (c = 0,5 mol/l) mit 25 ml einer unbekannten KOH zur Reaktion gebracht.
+
+a) Wesen der Neutralisationstitration:  
+Neutralisationstitration ist ein quantitatives Verfahren zur Bestimmung der Stoffmengenkonzentration einer Base oder Säure, indem die äquivalente Menge einer bekannten Lösung zugegeben wird.
+
+b) Konzentration der KOH-Lösung:  
+n(HCl) = c * V = 0,5 * 0,02 = 0,01 mol  
+n(HCl) = n(KOH) (Äquivalenzpunkt)  
+c(KOH) = n/V = 0,01 / 0,025 = 0,4 mol/l
+
+Antwort: c(KOH) = 0,4 mol/l
+
+c) Masse von KOH in 2 Liter Lösung:  
+m = n * M = c * V * M = 0,4 * 2 * 56 = 44,8 g
+
+Antwort: 44,8 g KOH sind enthalten.
+
+Aufgabe 9
+
+a)  
+Ammoniumnitrat: Lösung ist schwach sauer, da NH4+ eine schwache Säure ist.  
+Natriumhydrogencarbonat: Lösung ist schwach basisch, da HCO3- überwiegend als Base reagiert.
+
+b)  
+Ammoniumnitrat: NH4+ + H2O ↔ NH3 + H3O+  
+Natriumhydrogencarbonat: HCO3- + H2O ↔ H2CO3 + OH-
+
+c)  
+Ks von NH4+ = 5,6 * 10^-10: Schwache Säure → Lösung sauer.  
+Ks von HCO3- = 4,3 * 10^-7, Kb = 2,3 * 10^-8: Basische Wirkung überwiegt → Lösung basisch.
