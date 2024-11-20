@@ -851,3 +851,24 @@ n(OH-) = n(H3O+)
 6. **Säurereaktion:** HCl → Cl⁻ + H⁺.
 7. **Basenreaktion:** NH₃ + H⁺ → NH₄⁺.
 2.
+M= 40g/mol
+m = 0,06
+
+n=m/M = 0.06g / 40g/mol = 0.0015mol
+V = 0l5l 
+c = n/V = 0.0015/0.5 = 0.003 mol/l
+3.
+
+Stoffmenge 
+n=c⋅V=2,5⋅0,5=1,25 mol
+n = c * V = 2,5 * 0,5 = 1,25 
+Molare Masse M(CH3COOH)=60 g/mol
+M(CH(COOH)) = 60 g/mol
+M(CH3​COOH)=60g/mol m= n⋅M = 1,25⋅60 = 75 g
+
+4.
+**Antwort:** pH≈1,1 sauer
+b)
+pOH = 2.22
+pH = 11,8
+
