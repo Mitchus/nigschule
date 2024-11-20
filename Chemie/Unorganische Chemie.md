@@ -541,8 +541,6 @@ Die Konzentration c ist:
 
 c = n / V = 0,145 mol / 0,8 l = 0,18125 mol/l
 
-### Antwort:
-Die Konzentration der Lösung beträgt 0,181 mol/l.
 
 ---
 
