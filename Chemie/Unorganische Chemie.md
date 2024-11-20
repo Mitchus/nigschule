@@ -839,3 +839,15 @@ Titrationskurve
 ![[Pasted image 20241014134110.png]]
 Wendepunkt = Äquivalenzpunkt
 n(OH-) = n(H3O+)
+
+
+## Klausur Übung
+ #### 1. Definition Brönsted
+1. **Säuren:** Protonendonatoren.
+2. **Basen:** Protonenakzeptoren.
+3. **Korrespondierende Säure/Base-Paare:** Ein Säure/Base-Paar unterscheidet sich nur um ein Proton (z.B. HCl/Cl⁻, NH₄⁺/NH₃).
+4. **Säure- und Basenreaktion:** Protonenübertragungsreaktion.
+5. **Reaktion:** NH₃ + HCl → NH₄Cl.
+6. **Säurereaktion:** HCl → Cl⁻ + H⁺.
+7. **Basenreaktion:** NH₃ + H⁺ → NH₄⁺.
+2.
