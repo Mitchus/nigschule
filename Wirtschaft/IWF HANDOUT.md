@@ -1,9 +1,8 @@
 Michel Nowacki
 30.10.2024
 #### 1. **Definition und Hauptaufgaben**
-
-    - **Überwachung**: Beobachtung der globalen Wirtschaftslage und Beratung von Mitgliedstaaten.
-    - **Technische Unterstützung**: Beratung bei Steuerpolitik, Geldpolitik, und Bankensystemen.
+   - **Überwachung**: Beobachtung der globalen Wirtschaftslage und Beratung von Mitgliedstaaten.
+   - **Technische Unterstützung**: Beratung bei Steuerpolitik, Geldpolitik, und Bankensystemen.
 
 #### 2. **Struktur und Finanzierung**
 
