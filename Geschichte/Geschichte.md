@@ -1019,3 +1019,6 @@ Der spätere Bundeskanzler Konrad Adenauer hatte im Herbst 1945 in einem Brief e
 Analysieren sie die Lage nach dem Zweiten Weltkrieg (Weltpolitische Lage)
 
 Welchen Außen und Deutschlandpolitischen Kurs hätten sie als Bundeskanzler eingeschlagen.
+
+Der spätere Bundeskanzler Konrad Adenauer hatte im Herbst 1945 in einem Brief erstmals seine Lageburteilund und das Konzept der sich daraus ergebenden deutschen Politik zusammengefasst.
+Analyse:
