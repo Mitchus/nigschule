@@ -4,6 +4,8 @@ Michel Nowacki
    - **Überwachung**: Beobachtung der globalen Wirtschaftslage und Beratung von Mitgliedstaaten.
    - **Technische Unterstützung**: Beratung bei Steuerpolitik, Geldpolitik, und Bankensystemen.
 
+Der **Internationale Währungsfonds (IWF)** ist eine internationale Organisation, die 1944 gegründet wurde und heute 190 Mitgliedsländer umfasst. Ihr Hauptziel ist die Förderung der internationalen Währungszusammenarbeit, der Sicherstellung der Finanzstabilität und der Unterstützung des weltweiten Wirtschaftswachstums. Der IWF spielt eine zentrale Rolle in der globalen Wirtschaftspolitik, indem er seinen Mitgliedsländern finanzielle Hilfe gewährt, wenn diese in wirtschaftliche Schwierigkeiten geraten, und Beratung zu wirtschaftlichen und monetären Fragen bietet.
+
 #### 2. **Struktur und Finanzierung**
 
 - Der IWF hat **190 Mitgliedstaaten**. Seine Mittel stammen aus Beiträgen der Mitgliedsländer, die sogenannte Quoten zahlen – der Beitrag richtet sich nach der Wirtschaftskraft.
