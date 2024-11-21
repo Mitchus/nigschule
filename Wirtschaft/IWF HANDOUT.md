@@ -31,3 +31,9 @@ Der **Internationale Währungsfonds (IWF)** ist eine internationale Organisation
 
 
 _Wie könnte der IWF angesichts des Klimawandels seine Rolle im Bereich der Wirtschaftspolitik anpassen, um nachhaltige Entwicklung zu fördern?_
+
+> "ich habe aids"
+~Heinrich Wille 21.11.2024
+
+
+
