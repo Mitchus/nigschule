@@ -1022,3 +1022,12 @@ Welchen Außen und Deutschlandpolitischen Kurs hätten sie als Bundeskanzler ein
 
 Der spätere Bundeskanzler Konrad Adenauer hatte im Herbst 1945 in einem Brief erstmals seine Lageburteilund und das Konzept der sich daraus ergebenden deutschen Politik zusammengefasst.
 Analyse:
+Ziele Adenauers 
+Freiheit durch Westintegration
+Frieden
+nationale  Einheit durch Wiedervereinigung mit des Westens
+
+Strategie:
+Einheit und Geschlossenheit der freien Welt
+
+Bewertung: Womp womp
