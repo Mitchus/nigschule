@@ -38,3 +38,7 @@ a = (3,4,5) |b| = $\sqrt{ 50 }$
 a= -5 1 3
 25 1 9
 $\sqrt{ 35 }$
+
+
+Das Skalarprodukt von Vektoren
+
