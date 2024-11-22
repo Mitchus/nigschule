@@ -42,3 +42,5 @@ $\sqrt{ 35 }$
 
 Das Skalarprodukt von Vektoren
 
+Sind $\overrightarrow(a)$ und $\overrightarrow(b)$ zwei beliebige Vektoren des Raumes, so heißt die reelle Zahl das Skalarprodukt der Vektoren.
+$\overrightarrow(a)$ ° $\overrightarrow(b)$ = $|\overrightarrow(a)|$ * $|\overrightarrow(b)|$ * cos a
