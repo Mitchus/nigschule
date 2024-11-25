@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "6965fbce8b271c8c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Geschichte/Drawing 2024-11-25 12.36.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-25 12.36.33.excalidraw"
+            }
+          },
+          {
             "id": "e37d494baabff620",
             "type": "leaf",
             "state": {
@@ -95,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -287,14 +299,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ef1e79f8bca43d52",
+  "active": "6965fbce8b271c8c",
   "lastOpenFiles": [
+    "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md",
+    "Geschichte/Drawing 2024-11-25 12.36.33.excalidraw.md",
+    "Geschichte/files/Pasted Image 20241125123645_414.png",
+    "Geschichte/Geschichte.md",
     "Mathe/Vektorshit.md",
     "Mathe/Stochhastik.md",
     "Mathe/Analytische Geometrie und Vektorrechnung.md",
     "Wirtschaft/IWF HANDOUT.md",
     "Chemie/Redoxreaktion.md",
-    "Geschichte/Geschichte.md",
     "Geschichte/IDKKKKKKKKKK.md",
     "Chemie/Unorganische Chemie.md",
     "Sozialkunde/Rechtsfunktionen.md",
@@ -318,8 +333,6 @@
     "Chemie/files/Chart Title.png",
     "Chemie/files/Pasted image 20241104113531.png",
     "Chemie/files/Pasted image 20241104112141.png",
-    "Chemie/Protokoll Kalorimetrische Bestimmung von Reaktionsenthalpien.md",
-    "Chemie/Chemie Michel Nowacki.md",
     "Geschichte/files/Pasted Image 20241028121021_848.png",
     "Geschichte/Untitled.canvas",
     "Geschichte/Untitled 1.canvas",
@@ -329,7 +342,6 @@
     "Physik/files/Pasted image 20241014142955.png",
     "Chemie/files/Pasted image 20241014134110.png",
     "Excalidraw/files/Pasted Image 20241014122238_851.png",
-    "Geschichte/files/Pasted Image 20241010083937_131.png",
     "lu6014jsl7.tmp",
     "Noten.ods",
     "lu6014jshx.tmp",
