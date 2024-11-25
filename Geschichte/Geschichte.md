@@ -1031,3 +1031,14 @@ Strategie:
 Einheit und Geschlossenheit der freien Welt
 
 Bewertung: Womp womp
+
+1.Stellen sie die Angebote und Forderungen Stalins in Tabellenform zusammen
+2.Nehmen sie eine Bewertung der Stalinnote vor, beachten sie dabei, dass der Westen Stalins Angebote kategorisch ablehnte.
+
+| Angebote                                                                                                                        | Forderrungen                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| - Deutschland wird wiedervereinigt und ein einheitlicher Staat entsteht.                                                        | - Deutschland muss ein demokratischer, antifaschistischer und friedlicher Staat sein. |
+| - Alle Besatzungstruppen werden spätestens ein Jahr nach Inkrafttreten des Friedensvertrages abgezogen.                         |                                                                                       |
+| - Allen Deutschen werden demokratische Rechte wie Rede-, Presse-, Religionsfreiheit sowie Gleichheit vor dem Gesetz garantiert. |                                                                                       |
+| - Deutschland wird keine Handels- und Seebeschränkungen auferlegt und erhält Zugang zu den Weltmärkten.                         |                                                                                       |
+|                                                                                                                                 |                                                                                       |
