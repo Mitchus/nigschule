@@ -173,3 +173,5 @@ https://chatgpt.com/c/6704e069-c4cc-8013-8119-9925acf0e049
 
 Ein Proton bewegt sich in einem homogenen Magnetfeld der Flußdichte B = 2Vs/m² mit einer Geschwindigkeit v = 7.5 * 10⁻³m/s senkrecht den Feldlinien. Berechnen Sie den Radius seiner Kreisbahn.
 ![[Pasted image 20241014142955.png]]
+
+
