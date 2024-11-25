@@ -930,6 +930,5 @@ Ks von HCO3- = 4,3 * 10^-7, Kb = 2,3 * 10^-8: Basische Wirkung überwiegt → L�
 
 
 
-NH4Cl + H2O -> NH3 + Cl- + H3O+ 
-NaHCO3 + H2O -> Na+ + H2CO3 + OH- 
-NaCl + H2O -> Na+ + Cl- + H2O
+
+
