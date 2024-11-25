@@ -1062,3 +1062,29 @@ Die neue Ost und Deutschlandpolitik Politik und der Grundlagenvertrag
 
 Was wollte die Bundesregierung unter Willi Brand mit dem Grundlagenvertrag 1972 erreichen?
 Aus welchen Grund klagte die Opposition gegen diesen Grundlagenvertrag und wie begründete das Bundesverfassungsgericht sein Urteil.
+
+### Grundlagenvertrag 1972: Ziele der Bundesregierung und Reaktionen der Opposition
+
+#### Ziele der Bundesregierung unter Willy Brandt:
+
+1. **Normalisierung der Beziehungen**: Ziel war eine politische Annäherung zwischen der Bundesrepublik Deutschland (BRD) und der Deutschen Demokratischen Republik (DDR), um Spannungen im geteilten Deutschland abzubauen.
+2. **Wahrung der deutschen Einheit**: Der Vertrag war Teil der Ostpolitik, die darauf abzielte, langfristig die Grundlage für eine Wiedervereinigung zu schaffen, ohne die Spaltung weiter zu zementieren.
+3. **Praktische Zusammenarbeit**: Förderung von Kooperationen in den Bereichen Wirtschaft, Kultur und menschliche Kontakte (z. B. Erleichterungen bei Reisen und Besuchen).
+4. **Völkerrechtliche Anerkennung**: De-facto-Anerkennung der DDR als eigenständigen Staat, ohne die Bundesrepublik als Alleinvertreter für Deutschland aufzugeben („Zwei-Staaten-Realität“ akzeptieren).
+5. **Entspannungspolitik**: Der Vertrag war Teil der Entspannungspolitik im Kalten Krieg, um die Beziehungen zu den Ostblockstaaten insgesamt zu verbessern.
+
+---
+
+#### Gründe der Opposition für die Klage:
+
+1. **Gefahr der Aufgabe des Wiedervereinigungsziels**: Die Opposition (v.a. CDU/CSU) sah im Grundlagenvertrag eine faktische Anerkennung der DDR als Ausland, was die Wiedervereinigung erschweren könnte.
+2. **Zweifel an der Souveränität**: Kritiker befürchteten, dass der Vertrag die DDR als souveränen Staat anerkennen würde und damit die alleinige völkerrechtliche Verantwortung der BRD für ganz Deutschland aufgäbe.
+3. **Verfassungsbedenken**: Die Opposition sah in der Anerkennung der DDR einen Widerspruch zum Grundgesetz, das die Wiedervereinigung als Ziel vorsieht.
+
+---
+
+#### Begründung des Bundesverfassungsgerichts:
+
+1. **Keine völkerrechtliche Anerkennung**: Das Bundesverfassungsgericht urteilte, dass der Grundlagenvertrag keine völkerrechtliche Anerkennung der DDR darstellt, sondern lediglich praktische Regelungen für die Beziehungen zwischen den beiden Staaten schafft.
+2. **Fortbestand des Wiedervereinigungsziels**: Der Vertrag widerspricht nicht der Präambel des Grundgesetzes, die die Wiedervereinigung Deutschlands als Ziel festlegt. Die Bundesrepublik behält ihre Rechtsauffassung bei, dass Deutschland als Ganzes fortbesteht.
+3. **Erfüllung des Grundgesetzes**: Der Vertrag war konform mit der Verantwortung der Bundesrepublik, für die Einheit Deutschlands einzutreten, und wurde als pragmatische Maßnahme zur Gestaltung der innerdeutschen Beziehungen bewertet.
