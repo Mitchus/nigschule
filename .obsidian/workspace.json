@@ -56,12 +56,15 @@
             "id": "6965fbce8b271c8c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Geschichte/Drawing 2024-11-25 12.36.33.excalidraw.md"
+                "file": "Chemie/Unorganische Chemie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-25 12.36.33.excalidraw"
+              "icon": "lucide-file",
+              "title": "Unorganische Chemie"
             }
           },
           {
@@ -301,8 +304,8 @@
   },
   "active": "6965fbce8b271c8c",
   "lastOpenFiles": [
-    "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md",
     "Geschichte/Drawing 2024-11-25 12.36.33.excalidraw.md",
+    "Geschichte/Drawing 2024-10-28 12.10.05.excalidraw.md",
     "Geschichte/files/Pasted Image 20241125123645_414.png",
     "Geschichte/Geschichte.md",
     "Mathe/Vektorshit.md",

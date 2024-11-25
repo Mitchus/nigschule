@@ -927,3 +927,9 @@ Natriumhydrogencarbonat: HCO3- + H2O ↔ H2CO3 + OH-
 c)  
 Ks von NH4+ = 5,6 * 10^-10: Schwache Säure → Lösung sauer.  
 Ks von HCO3- = 4,3 * 10^-7, Kb = 2,3 * 10^-8: Basische Wirkung überwiegt → Lösung basisch.
+
+
+
+NH4Cl + H2O -> NH3 + Cl- + H3O+ 
+NaHCO3 + H2O -> Na+ + H2CO3 + OH- 
+NaCl + H2O -> Na+ + Cl- + H2O
