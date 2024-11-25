@@ -932,3 +932,4 @@ Ks von HCO3- = 4,3 * 10^-7, Kb = 2,3 * 10^-8: Basische Wirkung überwiegt → L�
 
 
 
+ 3
