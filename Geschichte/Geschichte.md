@@ -1056,3 +1056,9 @@ Bewertung: Womp womp
 3. **Gefahr für die Westintegration**: Eine Neutralität Deutschlands hätte die Gründung der Europäischen Gemeinschaft für Kohle und Stahl (EGKS) und die Zusammenarbeit mit westlichen Ländern untergraben.
 4. **Zeitpunkt und geopolitische Spannungen**: Zu diesem Zeitpunkt waren die Fronten im Kalten Krieg bereits stark verhärtet. Der Westen lehnte jegliche Vereinbarung ab, die als Schwächung der eigenen Position im Ost-West-Konflikt interpretiert werden konnte.
 Die Stalin-Note bot theoretisch eine Chance für die Wiedervereinigung Deutschlands, wurde aber von westlicher Seite als unrealistisch und potenziell gefährlich abgelehnt. Stattdessen priorisierte der Westen die Einbindung Westdeutschlands in die NATO und die europäische Integration. In der Retrospektive bleibt unklar, ob die Sowjetunion die Wiedervereinigung wirklich gewollt hätte, oder ob es sich um ein strategisches Angebot handelte, um den Westen in eine schwierige Position zu bringen.
+
+
+Die neue Ost und Deutschlandpolitik Politik und der Grundlagenvertrag
+
+Was wollte die Bundesregierung unter Willi Brand mit dem Grundlagenvertrag 1972 erreichen?
+Aus welchen Grund klagte die Opposition gegen diesen Grundlagenvertrag und wie begründete das Bundesverfassungsgericht sein Urteil.
