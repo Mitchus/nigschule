@@ -453,3 +453,70 @@ Raising her hand in a three-finger gesture, Katniss defies the Capitol’s contr
 *Thoughts:*
 
 “They took her, but can’t take everything. Rue deserves to be remembered, to be loved. They won’t defeat us. Not anymore.”
+
+
+**Chapter 10: "A Shocking Confession"**
+
+*Evidence:* Peeta confesses his love for Katniss during the pre-Games interviews.
+
+*Analysis:* This confession is a strategic move to present them as star-crossed lovers to the audience, adding intrigue and potentially garnering more sponsor support. It complicates their relationship as Katniss questions the authenticity of Peeta's feelings and the implications for her own strategy.
+
+---
+
+**Chapter 11: "Into the Arena"**
+
+*Evidence:* Katniss is unsure of Peeta’s intentions after he joins forces with the Career tributes.
+
+*Analysis:* Katniss feels betrayed but also puzzled, recognizing it might be a tactical move to protect her. This adds layers to their relationship, as Katniss must discern the truth of Peeta's loyalty.
+
+---
+
+**Chapter 12: "Survival and Deception"**
+
+*Evidence:* Katniss reflects on Peeta’s actions and their agreement to help each other win.
+
+*Analysis:* There's tension between understanding and mistrust. Katniss is trying to navigate her survival instincts with the idea of partnership. It sets up a foundation of complex, distrustful reliance.
+
+---
+
+**Chapter 13: "Fire and Strategy"**
+
+*Evidence:* Katniss sincerely thanks Peeta during an interview, despite uncertainty about his loyalties.
+
+*Analysis:* Despite her unsteadiness towards Peeta, this gratitude stems from recognizing the survival advantage offered by the "star-crossed lovers" narrative. It shows an evolving dynamic where strategy overrides pure emotion.
+
+---
+
+**Chapter 14: "On the Edge"**
+
+*Evidence:* Peeta's warning saves Katniss from the Careers and imminent danger.
+
+*Analysis:* This action demonstrates Peeta’s loyalty and concern for Katniss, disarming some of her skepticism. It indicates genuine care, but Katniss still grapples with his motives and her trust issues.
+
+---
+
+**Chapter 15: "Alliance and Healing"**
+
+*Evidence:* Katniss finds and helps heal Peeta’s severe injuries.
+
+*Analysis:* This chapter marks a turning point as Katniss decides to aid Peeta, showcasing genuine care and an alliance born of necessity and emerging personal connection, blurring survival strategies with personal feelings.
+
+---
+
+**Chapter 16: "Shared Vulnerabilities"**
+
+*Evidence:* Peeta and Katniss share stories and talk during their time in the cave.
+
+*Analysis:* This sharing of personal stories allows deeper emotional connections to form, showing that, besides the façade, there are genuine moments of vulnerability and mutual understanding. It marks a growth in their companionship.
+
+---
+
+**Chapter 17: "Strategic Bonds"**
+
+*Evidence:* Peeta expresses selflessness, prioritizing Katniss's survival over his own.
+
+*Analysis:* His willingness to sacrifice himself for Katniss presents a contrast to the competition's inherent selfishness. It compels Katniss to reckon more deeply with her feelings, blurring the line between strategy and sentiment.
+
+---
+
+These chapters collectively evolve Peeta and Katniss's relationship from one blurred by strategic necessity to a more personal, yet still complex and tentative, understanding as they fight for survival in the Games.
