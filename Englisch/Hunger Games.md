@@ -232,228 +232,6 @@ p131 l 22 terror
 
 
 
-The Hunger Games Part 2 Assignments
-
-
-
-Chapter 12:
-The author effectively communicates Katniss’s feelings of betrayal, anger, and confusion after she discovers that Peeta is working with the Careers through her internal thoughts and reactions. Here’s a breakdown of how these emotions are conveyed:
-	1.	Betrayal and anger:
-Katniss is shocked and feels deeply betrayed that Peeta, her District partner, has allied with the Careers, a group traditionally hostile to tributes like her. She describes him as a “lapdog” for the Careers and imagines the reaction back home, thinking, “No one from District 12 would think of doing such a thing!” This shows her disbelief and indignation at Peeta’s apparent betrayal of their shared district identity.
-Additionally, she feels personal anger, calling him out as deceitful: “Obviously, the noble boy on the rooftop was playing just one more game with me. But this will be his last.” The shift in her perception of Peeta from someone she could trust to someone playing a “game” reveals her growing animosity.
-	2.	Confusion and doubt:
-Katniss struggles to understand Peeta’s motivations. She questions if he is truly against her or still pretending to care for her: “Is he saving that information because he knows it’s all that keeps him alive? Is he still pretending to love me for the audience? What is going on in his head?” These rhetorical questions highlight her uncertainty and inner turmoil, as she’s unable to reconcile his current actions with the person she thought he was.
-	3.	Resolve and strategy:
-Despite her emotional response, Katniss remains focused on her survival and begins strategizing how to handle the situation. For example, she decides to “act on top of things” for the cameras, giving them a “knowing smile” to maintain her image. This shows her determination to rise above the emotional betrayal and stay ahead of the game.
-
-By using Katniss’s internal monologue and sharp commentary, the author vividly portrays her feelings of betrayal, mixed with a drive to understand and outmaneuver the situation. These insights immerse the reader in her emotional state, making the conflict with Peeta even more compelling.
-
-Chapter 14/15
-What Are Tracker Jackers and Their Impact?
-
-Tracker jackers are genetically engineered wasps created by the Capitol to be used as weapons. They are known for their aggressive behavior and their venomous stings, which can cause severe pain, vivid hallucinations, and in some cases, death. The venom has a mind-altering effect, often making the victim relive their worst fears. Multiple stings can be fatal, and tracker jackers are particularly dangerous because they will relentlessly pursue anyone who disturbs their nest.
-
-How Does Katniss’s Attitude Toward Her Strategy Change?
-
-In Chapters 14 and 15, Katniss becomes more proactive and begins to embrace a more aggressive and strategic approach to the Games. Initially, her strategy focuses on survival and avoidance, but after encountering the tracker jackers and using them as a weapon against the Careers, she realizes the importance of taking calculated risks and leveraging her environment.
-	1.	Taking initiative and embracing risk:
-Katniss decides to drop a tracker jacker nest on the Careers, showing her willingness to go on the offensive. This marks a shift from her earlier cautious approach. She reasons, “The Careers have no idea I’m here, and if I could just nudge the nest…” This decision demonstrates her growing confidence in using her surroundings to her advantage.
-	2.	Adapting and thinking strategically:
-After the tracker jacker attack disperses the Careers, Katniss seizes the opportunity to secure a bow and arrows from Glimmer’s body, a move that significantly boosts her chances of survival. Her determination to arm herself reflects her shift in focus from mere survival to actively increasing her odds of winning. She says, “This is the first time I feel a sense of power since the Games began.”
-	3.	Acknowledging the cost of action:
-While Katniss gains from her bold move, she also suffers from tracker jacker stings, experiencing intense hallucinations and physical pain. This shows that she is willing to endure personal sacrifice to take control of the situation. The balance between risk and reward becomes a central aspect of her strategy.
-
-In summary, Katniss’s attitude shifts from passive survival to active participation in the Games. She becomes more willing to take risks and exploit her surroundings, realizing that victory requires more than just endurance—it demands cunning and bold action.
-
-
-Chapter 15
-In this scene, the author uses vivid descriptions and a mix of sensory details to convey a tense and immersive atmosphere. The atmosphere shifts between moments of calm, survival, and suspense, which keeps the reader engaged and on edge. Here’s how the author achieves this:
-
-1. Use of Sensory Details to Establish a Mood of Recovery
-
-The author provides rich sensory details to depict Katniss’s actions and surroundings as she recuperates. The soothing imagery of water, sunlight, and nature contrasts with the tension of her situation, creating a brief but deceptive sense of peace.
-	•	“I strip down to my underclothes and wade into the mild current. I’m filthy from head to toe, I try splashing myself but eventually just lay down in the water.”
-This imagery creates a temporary calm, allowing the reader to feel Katniss’s physical and emotional relief.
-
-2. Action Descriptions to Maintain a Survivalist Tone
-
-The author describes Katniss’s movements and actions methodically, emphasizing her focus on survival. Details about her hunting, purifying water, and cooking show her resourcefulness while subtly reminding the reader of the life-or-death stakes.
-	•	“Within a few minutes, I spot a rabbit and make my first kill with the bow and arrow.”
-This functional description reminds us of the ever-present danger and the necessity of staying alert.
-
-3. The Sudden Introduction of Suspense
-
-The peaceful rhythm of the scene is interrupted when Katniss hears the twig snap. This auditory detail breaks the tranquility, sharply shifting the atmosphere to one of tension and anticipation.
-	•	“I’ve just placed the first lot over the coals when I hear the twig snap.”
-The sudden noise disrupts the calm, creating a foreboding tone as Katniss’s survival instincts kick in. The reader is left wondering who or what might be approaching.
-
-4. Contrasts Between Calm and Danger
-
-The author uses contrasts to heighten the tension. While Katniss takes time to recover and care for herself, the reminder of danger—through her cautious movements and the snap of a twig—lurks in the background. This balance mirrors Katniss’s constant oscillation between moments of relative safety and the threat of immediate peril.
-
-In sum, the author conveys atmosphere through detailed sensory imagery, a focus on survivalist actions, and the sudden disruption of calm with suspenseful cues, effectively drawing the reader into the tense and unpredictable world of the Games.
-
-
-Chapter 18:
-
-Two Words to Reflect Personal Thoughts and Feelings About Rue’s Death:
-
-	1.	Heartbreaking: Rue’s death is profoundly emotional, as her innocence and kindness make her loss deeply tragic. Her final moments with Katniss emphasize her vulnerability and the cruel nature of the Games.
-	2.	Injustice: Rue’s death highlights the unfairness of the Capitol’s control and the brutal way they manipulate young lives for entertainment. Her death feels unjust, given her gentle and pure nature.
-
-How Is Rue’s Death Depicted?
-
-Rue’s death is depicted with vivid and poignant detail, emphasizing the emotional connection between her and Katniss. As Rue lies dying, Katniss comforts her, holds her hand, and sings her a lullaby, creating a scene filled with tenderness amidst the brutality. Katniss describes Rue’s voice fading as she sings, and her physical description—such as Rue’s chest ceasing to rise—makes the loss feel real and visceral.
-
-Evidence:
-	•	“I press my hand on hers to steady it. ‘Don’t go.’ The light in Rue’s eyes has gone out. All I can do is hold her until the cannon fires.”
-
-Why Is Rue’s Death Described in Detail?
-
-Rue’s death is described in detail to emphasize the human cost of the Games and the Capitol’s cruelty. It personalizes the tragedy of the Games, showing that these are real children, not just competitors in a spectacle. The author illustrates the emotional toll of the Games on both the tributes and the audience, as well as Katniss’s growing awareness of the need for change.
-
-How Does This Scene Change Katniss’s Thinking?
-
-Rue’s death becomes a turning point for Katniss, solidifying her resolve to resist the Capitol. She recognizes the Games as not just a fight for survival but as a symbol of the Capitol’s oppression. Katniss begins to see herself as part of something larger, driven by the need to honor Rue and fight against injustice.
-
-Evidence:
-	•	“I decorate her body with flowers. They’ll have to show it. Everyone will see it.”
-	•	“I want to do something, right here, right now, to shame them, to make them accountable.”
-
-Katniss’s Thoughts in the Moment She Displays the Three-Finger Symbol
-
-Katniss raises the three-finger salute as a powerful act of defiance and solidarity with Rue and her district. In this moment, she feels grief, anger, and a desire for justice, while also sending a message of resistance and hope to Rue’s family and everyone watching.
-
-Thought Bubble:
-“They took her from us, but they cannot take everything. Rue deserves more than this—she deserves to be remembered, to be loved. You will not break us. Not anymore.”
-
-
-Certainly! Here is a simplified version of your assignment, incorporating some changes to the emotions and perspectives:
-
----
-
-**Chapter 12:**
-
-The author shows Katniss’s feelings of betrayal, anger, and confusion about Peeta joining the Careers through her thoughts and reactions. Here’s how these feelings are expressed:
-
-1. **Betrayal and Anger:**
-
-Katniss is stunned and feels let down when Peeta, who is from her district, teams up with the Careers. She calls him a “lapdog” and imagines how people back home would react: “Nobody from District 12 would ever do that!” This shows her shock and frustration at Peeta's unexpected choice.
-
-She’s also angry at him personally, believing he tricked her: “The nice boy on the rooftop was just playing another game. But it’ll be his last.” This change in how she sees Peeta demonstrates her rising anger.
-
-2. **Confusion and Doubt:**
-
-Katniss is puzzled by Peeta’s intentions, wondering if he is really against her or if he’s still pretending for the audience: “Is he keeping quiet to stay alive? Is he acting like he loves me for the viewers? What is he thinking?” These questions show her uncertainty and inner conflict, as she tries to understand his actions.
-
-3. **Focus and Planning:**
-
-Despite being upset, Katniss stays focused on survival and thinks about her next moves. She decides to “act like she’s in control” for the cameras, giving them a “confident smile.” This reflects her determination to handle the situation and stay competitive.
-
-Through Katniss’s thoughts and sharp remarks, the author clearly shows her mixed feelings of betrayal along with the need to figure out what to do next. These moments make her conflict with Peeta even more interesting to read.
-
----
-
-**Chapter 14/15:**
-
-*What Are Tracker Jackers and Their Effect?*
-
-Tracker jackers are specially made wasps by the Capitol used for combat. They are known for being very aggressive and have poisonous stings that can cause terrible pain, frightening visions, and sometimes even death. The poison can affect the mind, often making the person relive their worst fears. Multiple stings can be deadly, and tracker jackers are dangerous because they will keep going after anyone who disturbs them.
-
-*How Does Katniss’s Approach Change?*
-
-In Chapters 14 and 15, Katniss becomes more active and takes a strategic role in the Games. At first, she is focused on survival but after using the tracker jackers as a weapon, she learns about taking risks and using her surroundings to her advantage.
-
-1. **Taking Action and Risk:**
-
-Katniss chooses to drop a tracker jacker nest on the Careers, showing she’s ready to attack. This is a change from her earlier careful approach. She thinks, “The Careers don’t know I’m here, and if I can just move the nest…” This shows her growing confidence in using her environment.
-
-2. **Thinking Strategically:**
-
-After the Careers are scattered by tracker jackers, Katniss grabs a bow and arrows from Glimmer, which greatly helps her chances. Her choice to get weapons shows she’s starting to think beyond just surviving. She says, “For the first time, I feel powerful since the Games started.”
-
-3. **Understanding the Costs:**
-
-While her bold action gives her an advantage, Katniss also suffers from painful stings and hallucinations. This shows she’s willing to endure pain to gain control. The balance between risk and reward is key to her strategy.
-
-Overall, Katniss changes from just trying to survive to actively taking part in the Games. She becomes more willing to take chances, understanding that winning requires clever and brave moves.
-
----
-
-**Chapter 15:**
-
-The author uses detailed descriptions and sensory details to create a tense atmosphere. The mood moves between calm and tense moments, keeping the reader engaged. Here’s how it’s done:
-
-1. **Sensory Details for a Calm Mood:**
-
-The author uses sensory details to show Katniss in a moment of peace while she recovers. The calm images of water and nature contrast with her dangerous situation, offering a quick sense of relief.
-
-- “I strip to my underclothes and sink into the gentle flow. Covered in dirt, I splash myself, eventually laying down in the stream.”
-
-This creates a short calmness, helping the reader feel Katniss’s relief.
-
-2. **Action Details for Survival:**
-
-The author describes Katniss’s actions in detail, highlighting her survival skills. Her hunting and preparing food show her resourcefulness and remind the reader of the danger around her.
-
-- “Within minutes, I spot a rabbit and make my first kill with the bow.”
-
-This straightforward detail keeps awareness of the ever-present danger.
-
-3. **Sudden Suspense:**
-
-The calm is broken by a snapped twig, a sound that instantly creates tension and suspense.
-
-- “Just as I lay the first pieces over the coals, I hear a twig break.”
-
-This noise breaks the peace, creating tension as Katniss’s instincts kick in, making the reader wonder who or what is coming.
-
-4. **Balancing Calm and Danger:**
-
-The author contrasts peace with lurking danger. While Katniss cares for herself, the threat is always there—captured by her cautious moves and twig snapping, showing her constant shifting between safety and danger.
-
-In summary, the author builds atmosphere with sensory imagery, focus on survival actions, and sudden suspense shifts, pulling the reader into the Games’ tense world.
-
----
-
-**Chapter 18:**
-
-**Two Words to Describe Rue’s Death:**
-
-1. **Saddening:** Rue’s death is emotionally impactful. Her innocence and kindness make her loss particularly tragic.
-
-2. **Unjust:** Rue’s death highlights the Capitol’s unfair grip on their lives. Her passing feels undeserved given her gentle nature.
-
-**How is Rue’s Death Shown?**
-
-Rue’s death is described in detail, focusing on the emotional bond with Katniss. As Rue dies, Katniss comforts her, holds her hand, and sings, adding tenderness to the harshness of the Games. Katniss speaks of Rue’s voice fading and her still chest, making the loss feel real.
-
-*Evidence*:
-
-“I steady her hand. ‘Don’t go.’ Rue’s light has dimmed. I can only hold her until the cannon sounds.”
-
-**Why So Detailed?**
-
-Describing Rue’s death in depth emphasizes the human impact of the Games and the Capitol’s cruelty. It's meant to show the emotional weight on both tributes and viewers, along with Katniss’s growing desire for change.
-
-**Impact on Katniss’s Thinking:**
-
-Rue’s death is a turning point, sparking Katniss’s determination to fight back against the Capitol. She sees the Games as more than just survival—she sees them as part of the broader fight against injustice.
-
-*Evidence*:
-
-“I cover her with flowers. They’ll have to show it. Everyone must see.”
-
-“I need to act, right now, to hold them accountable.”
-
-*Katniss’s Thoughts and Three-Finger Symbol:*
-
-Raising her hand in a three-finger gesture, Katniss defies the Capitol’s control and shows unity with Rue. She feels grief and anger, sending a message of hope to Rue’s family and everyone watching.
-
-*Thoughts:*
-
-“They took her, but can’t take everything. Rue deserves to be remembered, to be loved. They won’t defeat us. Not anymore.”
-
 
 **Chapter 10: "A Shocking Confession"**
 
@@ -520,3 +298,28 @@ Raising her hand in a three-finger gesture, Katniss defies the Capitol’s contr
 ---
 
 These chapters collectively evolve Peeta and Katniss's relationship from one blurred by strategic necessity to a more personal, yet still complex and tentative, understanding as they fight for survival in the Games.
+
+### Chapter 18
+**Personal Thoughts:**
+
+Two words that reflect my personal thoughts on Rue's death are "heartbreaking" and "revolutionary."
+
+The choice of "heartbreaking" stems from the deep emotional impact Rue's death has on both Katniss and the readers. Rue is depicted as an innocent and gentle character, and her death underscores the severity and brutality of the Games. The detail with which Collins describes Rue's final moments, including Katniss singing to comfort her and using flowers to honor her, highlights the tragedy of a young life cut short. The sense of loss is palpable, and Katniss's grief emphasizes the innocence lost within the arena.
+
+The word "revolutionary" is chosen to reflect the significant change Rue's death instigates in Katniss's mindset. This scene is pivotal because it sparks a realization and ignites a desire within Katniss to defy the Capitol's authority. Before, Katniss's focus was primarily on survival, but Rue's death transforms her intentions toward resistance and defiance, as illustrated when she decorates Rue's body with flowers to communicate a message of respect and humanity to the Capitol viewers.
+
+**Depiction of Rue's Death:**
+
+Rue's death in this scene is portrayed with vivid detail that heightens the emotional gravity. As Katniss frees Rue from the net and sees the spear embedded "up to the shaft" in Rue's stomach, it becomes evident that the wound is fatal. Katniss takes Rue's hand, offering comfort in the last moments. Rue's request for Katniss to sing and Katniss's subsequent lullaby add a haunting yet tender element to her passing. The author depicts Rue's death as a poignant moment of innocence silenced by the cruelty of the Games, emphasizing the senseless loss through Katniss's tender gestures and the respectful depiction of this tragic event.
+
+**Reason for Detailed Description:**
+
+The detailed depiction of Rue's death illustrates the human cost of the Capitol's oppressive regime. Suzanne Collins uses this moment to highlight the stark injustice and brutality inherent in the Games. By showing the personal impact of Rue's death on Katniss, the author underscores the wrongness of exploiting children for entertainment. This scene serves to evoke empathy in readers, drawing attention to the profoundly unfair nature of the situation and setting the stage for Katniss's burgeoning defiance against oppressive authority. The emotional depth also enhances the reader's connection to both Katniss and Rue, highlighting the tragedy of Rue's brief yet impactful life.
+
+**Change in Katniss's Perspective:**
+
+Rue's death significantly transforms Katniss's thoughts about the Games and the Capitol. Prior to Rue's death, Katniss is primarily focused on survival. However, witnessing Rue's demise forces Katniss to confront the broader implications of the Games. The text states, "Rue’s death has forced me to confront my own fury against the cruelty, the injustice they inflict upon us." This realization pushes Katniss to think beyond her immediate survival and consider the symbolic power of resistance. Katniss begins to understand Peeta's desire to show the Capitol that they do not own him, and she becomes determined to act in ways that symbolize defiance.
+
+**Katniss's Thoughts on the Three-Finger Symbol:**
+
+At the moment Katniss shows the three-finger salute, she is thinking of showing respect and solidarity for Rue and her district. By using this gesture, Katniss aims to honor Rue's memory and demonstrate a form of silent protest to the Capitol, symbolizing unity and defiance.
