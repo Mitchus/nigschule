@@ -2,35 +2,52 @@
 ### Chapters 10-17
 **Chapter 10: "A Shocking Confession"**
 
-*Evidence:* Peeta confesses his love for Katniss during the pre-Games interviews.
+After the anthem, when tributes are heading back to the Training Center and into the elevators, Katniss takes the opportunity to confront Peeta:
 
-*Analysis:* This confession is a strategic move to present them as star-crossed lovers to the audience, adding intrigue and potentially garnering more sponsor support. It complicates their relationship as Katniss questions the authenticity of Peeta's feelings and the implications for her own strategy.
+- "I make sure to veer into a car that does not contain Peeta. The crowd slows our entourages of stylists and mentors and chaperones, so we have only each other for company. No one speaks. My elevator stops to deposit four tributes before I am alone and then find the doors opening on the twelfth floor. Peeta has only just stepped from his car when I slam my palms into his chest. He loses his balance and crashes into an ugly urn filled with fake flowers. The urn tips and shatters into hundreds of tiny pieces. Peeta lands in the shards, and blood immediately flows from his hands."
 
----
+Katniss's aggression toward Peeta stems from her feeling blindsided by his public declaration of love:
+
+- "‘What was that for?’ he says, aghast.
+
+‘You had no right! No right to go saying those things about me!’ I shout at him."
+
+An altercation follows between Katniss and Peeta, where she accuses him of making her look weak:
+
+- "'This was your idea, wasn’t it? Turning me into some kind of fool in front of the entire country?’ I answer."
+
+Here, Katniss's immediate reaction is rooted in anger and a sense of betrayal, as she perceives Peeta's actions as undermining her strategy and making her appear weak.
+These interactions highlight Katniss's struggle with navigating the realities of the Games' strategies and the complexity of her relationship with Peeta.
 
 **Chapter 11: "Into the Arena"**
 
-*Evidence:* Katniss is unsure of Peeta’s intentions after he joins forces with the Career tributes.
+**Evidence:** 
+In the midst of the chaos of the Cornucopia, Katniss experiences confusion when she notices Peeta looking at her and possibly shaking his head, but the sun hampers her ability to be sure: "When suddenly I notice Peeta, he’s about five tributes to my right, quite a fair distance, still I can tell he’s looking at me and I think he might be shaking his head."
 
-*Analysis:* Katniss feels betrayed but also puzzled, recognizing it might be a tactical move to protect her. This adds layers to their relationship, as Katniss must discern the truth of Peeta's loyalty.
+**Analysis:** 
+This moment underscores Katniss's uncertainty about Peeta's intentions. She is left questioning whether he is trying to signal her to avoid danger or if there's another motive behind his actions. This incident lays the groundwork for Katniss's feelings of betrayal and skepticism that emerge later when Peeta allies himself with the Career tributes. Her uncertainty about his actions complicates their relationship, as she must navigate the dual layers of trust and strategy, unsure of where his true loyalties lie. This ambiguity adds depth to their dynamic within the Games, forcing Katniss to ponder Peeta’s motivations while maintaining her own survival plan.
 
 ---
 
 **Chapter 12: "Survival and Deception"**
 
-*Evidence:* Katniss reflects on Peeta’s actions and their agreement to help each other win.
+**Evidence:** 
+In Chapter 12 of "The Hunger Games," Katniss grapples with the revelation that Peeta has teamed up with the Career tributes. As she observes, "Not only is Peeta with the Careers, he’s helping them find me. The simpleminded girl who has to be taken seriously because of her eleven. Because she can use a bow and arrow. Which Peeta knows better than anyone."
 
-*Analysis:* There's tension between understanding and mistrust. Katniss is trying to navigate her survival instincts with the idea of partnership. It sets up a foundation of complex, distrustful reliance.
+**Analysis:** 
+This knowledge profoundly impacts Katniss, filling her with a mix of betrayal and suspicion. Her initial reaction reflects a deep mistrust: "Obviously, the noble boy on the rooftop was playing just one more game with me. But this will be his last. I will eagerly watch the night skies for signs of his death, if I don’t kill him first myself." Despite this immediate sense of betrayal, there is an underlying complexity as she considers Peeta's motives. She questions, "Is he still pretending to love me for the audience? What is going on in his head?" This uncertainty sets up a foundation of complex, distrustful reliance, where Katniss must navigate her instincts for survival while considering the implications of Peeta's actions on their pre-existing agreement and nuanced partnership.
 
 ---
 
 **Chapter 13: "Fire and Strategy"**
 
-*Evidence:* Katniss sincerely thanks Peeta during an interview, despite uncertainty about his loyalties.
+**Evidence:** 
+Although there isn't a direct interaction between Katniss and Peeta in Chapter 13 where she thanks him during an interview, we witness Katniss's strategic thinking in the face of the Capitol's manipulation. This chapter focuses on the intense trials Katniss faces, including the Gamemaker-induced fire, and her tactical responses to survive. Amidst these trials, she reflects on her role and the way she is being perceived.
 
-*Analysis:* Despite her unsteadiness towards Peeta, this gratitude stems from recognizing the survival advantage offered by the "star-crossed lovers" narrative. It shows an evolving dynamic where strategy overrides pure emotion.
+**Analysis:**
+In this chapter, Katniss must navigate through a dangerous, Gamemaker-created fire intended to flush tributes into confrontation, showcasing her reliance on strategy and adaptability. Even though there is no immediate discussion with Peeta here, the broader narrative continues to build on the theme of survival strategy as a key layer of the Peeta-Katniss dynamic. Despite doubts about Peeta's loyalty—evident from previous chapters—this chapter subtly reinforces how Katniss understands the importance of perception and audience engagement in the Games, reminiscent of her considerations with Peeta’s confession being part of a survival narrative.
 
----
+--- 
 
 **Chapter 14: "On the Edge"**
 
