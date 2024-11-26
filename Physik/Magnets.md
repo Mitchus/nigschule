@@ -175,3 +175,4 @@ Ein Proton bewegt sich in einem homogenen Magnetfeld der Flußdichte B = 2Vs/m²
 ![[Pasted image 20241014142955.png]]
 
 
+hzol0pol0p0olplplpoooooooooooooooooooooooooooooooooooooooooooooooooooooo0000000000000000000000000plo0üü#olppülüpülppp
