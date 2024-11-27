@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Redoxreaktion.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redoxreaktion"
+              "title": "Unorganische Chemie"
             }
           },
           {
@@ -82,8 +82,7 @@
               "title": "Redoxreaktion"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,11 +275,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "14e2679368ee6afb",
+  "active": "4d4dc97830c5269f",
   "lastOpenFiles": [
+    "Chemie/Redoxreaktion.md",
+    "Englisch/Hunger Games.md",
     "Englisch/The Hunger Games Part 2.md",
     "Geschichte/Geschichte.md",
-    "Englisch/Hunger Games.md",
     "Physik/Magnets.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/files/Pasted image 20241125133938.png",
@@ -291,7 +291,6 @@
     "Mathe/Stochhastik.md",
     "Mathe/Analytische Geometrie und Vektorrechnung.md",
     "Wirtschaft/IWF HANDOUT.md",
-    "Chemie/Redoxreaktion.md",
     "Geschichte/IDKKKKKKKKKK.md",
     "Sozialkunde/Rechtsfunktionen.md",
     "Wirtschaft/Drawing 2024-11-15 09.49.42.excalidraw.md",
