@@ -2,17 +2,8 @@
 In "The Hunger Games" by Suzanne Collins, Peeta Mellark says that "stupid people are dangerous." This highlights how careless or ignorant actions can cause harm, especially in Panem's oppressive society. This idea is not just fictional but also applies to real life, where thoughtlessness often has serious consequences.
 
 Peeta’s statement shows how ignorance makes people easy to control. In Panem, the Capitol uses propaganda and fear to keep the districts divided and also claims the Hunger Games bring peace, which prevents the districts from uniting against oppression. For example, the annual Games are portrayed as a reminder of the cost of rebellion, but they are actually a tool of control. Lower districts citizens, like Katniss and her family, struggle daily for survival, leaving them no resources or time to question the Capitol.
-
-Careless actions can lead to unintended harm. In the Hunger Games, impulsive decisions often put people in danger. For example, tributes who act without thinking usually lose their lives. Peeta’s comment highlights the need for careful planning and thinking ahead.
-
-
-Peeta’s idea also applies to groups of people. In Panem, citizens of the Capitol ignore the suffering in the districts. Their lack of awareness allows the system of inequality to continue. When people stay uninformed, big problems like injustice or exploitation grow worse.
-
-**Example**: The Capitol’s citizens enjoy luxury but don’t care about the hardships faced by the districts, similar to real-world issues of inequality.
-
+Careless actions can lead to unintended harm. In the Hunger Games, impulsive decisions often put people in danger. Tributes who act without thinking usually lose their lives. For example a tribute’s rash decision to drink untested water led to poisoning and death. Katniss, in contrast, carefully purifies her water supply, ensuring her survival. Peeta’s comment highlights the need for careful planning and thinking ahead.
+Peeta’s idea also applies to other groups of people. In Panem, citizens of the Capitol ignore the suffering in the districts. Their lack of awareness allows the system to continue. When people stay uninformed, big problems like injustice or exploitation grow worse, similar to real-world issues of inequality.
 While ignorance can be harmful, not everyone is at fault for being uninformed. In the districts, people lack education because of oppression, not choice. These individuals are less dangerous than those who ignore facts intentionally.
 
-**Plausible Reason**: Improving education and access to information can help reduce ignorance and its harmful effects.
-
-
-Peeta’s statement, "Stupid people are dangerous," is true both in _The Hunger Games_ and in real life. Ignorance and thoughtlessness can cause harm to individuals and society, but these dangers can be reduced by improving education and awareness. The quote reminds us to think carefully and stay informed to create a better, fairer future.
+Peeta’s statement, "Stupid people are dangerous," is true both in _The Hunger Games_ and in real life. Ignorance and thoughtlessness can cause harm to individuals and society, but these dangers can be reduced by improving education and awareness. The quote reminds me to think carefully and stay informed to create a better future.
