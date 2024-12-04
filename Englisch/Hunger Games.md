@@ -323,3 +323,5 @@ Rue's death significantly transforms Katniss's thoughts about the Games and the 
 **Katniss's Thoughts on the Three-Finger Symbol:**
 
 At the moment Katniss shows the three-finger salute, she is thinking of showing respect and solidarity for Rue and her district. By using this gesture, Katniss aims to honor Rue's memory and demonstrate a form of silent protest to the Capitol, symbolizing unity and defiance.
+
+
