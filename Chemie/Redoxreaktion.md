@@ -193,3 +193,9 @@ Oxidation: C (0) → CO₂ (+4)
 Reduktion: Cu²⁺ (+2) → Cu (0)
 
 
+- Me bilden eine Redoxreihe
+- Me mit höherem Potential gibt e- an $\ce{ Me^z+ }$ mit niederem Potential ab
+  (umgekehrt läuft keine Redoxreaktion ab)
+- e- "wandern" immer bergab
+- oberhalb vom Hz stehen die unedlen Me
+  unterhalb vom Hz die edlen Me
