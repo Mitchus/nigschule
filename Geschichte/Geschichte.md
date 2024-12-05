@@ -1,3 +1,4 @@
+
 Biedermeier Kunst 19.J.H.
 [Karl Marks](Karl%20Marks)
 Friedrich Engel
@@ -1088,3 +1089,9 @@ Aus welchen Grund klagte die Opposition gegen diesen Grundlagenvertrag und wie b
 1. **Keine völkerrechtliche Anerkennung**: Das Bundesverfassungsgericht urteilte, dass der Grundlagenvertrag keine völkerrechtliche Anerkennung der DDR darstellt, sondern lediglich praktische Regelungen für die Beziehungen zwischen den beiden Staaten schafft.
 2. **Fortbestand des Wiedervereinigungsziels**: Der Vertrag widerspricht nicht der Präambel des Grundgesetzes, die die Wiedervereinigung Deutschlands als Ziel festlegt. Die Bundesrepublik behält ihre Rechtsauffassung bei, dass Deutschland als Ganzes fortbesteht.
 3. **Erfüllung des Grundgesetzes**: Der Vertrag war konform mit der Verantwortung der Bundesrepublik, für die Einheit Deutschlands einzutreten, und wurde als pragmatische Maßnahme zur Gestaltung der innerdeutschen Beziehungen bewertet.
+
+
+Beschreiben sie den Aufbau des Sozialismus in der DDR
+Bennen Sie die Ursachen und den Anlass für den Volksaufstand 1953 17.Juni
+Welche Forderungen wurden gestellt?
+Welche Gründe führten 1961 zum Mauerbau in Berlin?
