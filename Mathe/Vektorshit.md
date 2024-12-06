@@ -60,6 +60,17 @@ Eine Gerade ist eindeutig durch 2 Punkte oder einen Punkt + Richtungsvektor best
 6,7 = 4,3 + 1,6t
 8,8 = 5,2 + 2,4t
 
--4,5 1,9
-2,1 0,3
+3 4 -2
+1,5 2 0
+
+(3 4 -2)
+(-1,5 -2 2)
+
+2 = 3 + -1.5t = 2/3
+2 = 4 + -2t = 1
+1 = -2 + 2t =  2/3
+
+2    2/3
+8/3   2/3
+-2/3  2/3
 
