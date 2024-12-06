@@ -51,3 +51,15 @@ $\overrightarrow(a)$ ° $\overrightarrow(b)$ = ax * bx + ay * by
 Gerade in Ebene und Raum
 Eine Gerade ist eindeutig durch 2 Punkte oder einen Punkt + Richtungsvektor bestimmbar
 
+4,3 5,2
+5,9 7,6
+6,7 8,8
+
+4,3 5,2
+1,6 2,4
+6,7 = 4,3 + 1,6t
+8,8 = 5,2 + 2,4t
+
+-4,5 1,9
+2,1 0,3
+
