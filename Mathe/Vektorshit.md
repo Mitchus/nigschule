@@ -46,3 +46,8 @@ Sind $\overrightarrow(a)$ und $\overrightarrow(b)$ zwei beliebige Vektoren des R
 $\overrightarrow(a)$ ° $\overrightarrow(b)$ = $|\overrightarrow(a)|$ * $|\overrightarrow(b)|$ * cos a
 
 $\overrightarrow(a)$ ° $\overrightarrow(b)$ = ax * bx + ay * by
+
+
+Gerade in Ebene und Raum
+Eine Gerade ist eindeutig durch 2 Punkte oder einen Punkt + Richtungsvektor bestimmbar
+
