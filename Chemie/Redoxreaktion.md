@@ -199,3 +199,9 @@ Reduktion: Cu²⁺ (+2) → Cu (0)
 - e- "wandern" immer bergab
 - oberhalb vom Hz stehen die unedlen Me
   unterhalb vom Hz die edlen Me
+344
+
+VoltaElement
+zwei Metalle tauchen in eine Elektrolytlösung ein
+Galvanische Zelle
+jedes Metall Elektrode taucht in die eigene Metallionlösung ein
