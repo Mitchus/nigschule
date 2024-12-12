@@ -205,3 +205,8 @@ VoltaElement
 zwei Metalle tauchen in eine Elektrolytlösung ein
 Galvanische Zelle
 jedes Metall Elektrode taucht in die eigene Metallionlösung ein
+
+
+Anode: Oxidation läuft ab Elektronenabgabe
+Kathode: Reduktion läuft ab Elektronenaufnahme
+
