@@ -210,3 +210,23 @@ jedes Metall Elektrode taucht in die eigene Metallionlösung ein
 Anode: Oxidation läuft ab Elektronenabgabe
 Kathode: Reduktion läuft ab Elektronenaufnahme
 
+
+
+### Elektrolyte
+
+- **Definition**: Stoffe, die in Lösung oder im Schmelzzustand elektrisch leitfähig sind.
+- **Eigenschaft**: Zerfallen in positiv und negativ geladene Ionen.
+
+Elektrolyte: 
+Stoffe, die in Lösung oder im Schmelzzustand elektrisch leitfähig sind, da sie in Ionen zerfallen.
+Elektrolytische Dissoziation: 
+Zerfall von Elektrolyten in Ionen beim Lösen in Wasser.
+Echte Elektrolyte: 
+Stoffe, die in Wasser vollständig oder teilweise in Ionen zerfallen (z. B. Säuren, Basen, Salze).
+Potenzielle Elektrolyte: 
+Stoffe, die erst durch chemische Reaktion mit Wasser zu Ionen werden (z. B. HCl).
+Schwache Elektrolyte: 
+Substanzen, die nur teilweise in Ionen zerfallen (z. B. Essigsäure).
+Starke Elektrolyte: 
+Substanzen, die fast vollständig in Ionen zerfallen (z. B. NaCl, H2SO4).
+Beispiele für Elektrolyte: Säuren (HCl, H2SO4), Basen (NaOH), Salze (NaCl, KCl).).
