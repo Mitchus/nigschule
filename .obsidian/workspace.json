@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Vektorshit.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vektorshit"
+              "title": "Unorganische Chemie"
             }
           }
         ],
@@ -276,7 +276,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f746d0263c447e52",
+  "active": "14e2679368ee6afb",
   "lastOpenFiles": [
     "Chemie/Redoxreaktion.md",
     "Chemie/Unorganische Chemie.md",
