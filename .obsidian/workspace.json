@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Redoxreaktion.md",
+                "file": "Mathe/Vektorshit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redoxreaktion"
+              "title": "Vektorshit"
             }
           }
         ],
@@ -276,12 +276,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "14e2679368ee6afb",
+  "active": "f746d0263c447e52",
   "lastOpenFiles": [
+    "Chemie/Redoxreaktion.md",
     "Chemie/Unorganische Chemie.md",
     "Mathe/Vektorshit.md",
     "Geschichte/Geschichte.md",
-    "Chemie/Redoxreaktion.md",
     "Wirtschaft/Markt und Preis/Markt & Preis.md",
     "Wirtschaft/Markt und Preis/Markt-arten.md",
     "Wirtschaft/Markt und Preis/Lehrstellenmarkt.md",
