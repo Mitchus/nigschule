@@ -1,4 +1,4 @@
-mzooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo9lbnnnnnnnnnnnnnnnnnnnnnnnnhjlljjjjjjjjjjjjjjjljmmmmmmmzo9lpp# Konzepte der Chemie
+ Konzepte der Chemie
 Stoff - Teilchen - Konzept
 Struktur  - Eigenschafts-Konzept
 Energiekonzept

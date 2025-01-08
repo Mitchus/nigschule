@@ -61,3 +61,23 @@ Natürlich, hier sind die wichtigsten Punkte zu den genannten IEEE-Standards in 
 - Power over Ethernet (PoE)-Standard.
 - Ermöglicht es Strom über das Ethernet-Kabel zu erhalten
 - PoE-Geräte können ohne zusätzliche Verkabelung oder Steckdosen installiert werden.
+
+anwendung
+darste
+sitzungs
+transport
+vermittlungs
+sicher
+bit
+
+physical
+data
+nnetwork
+transport
+session
+present
+appli
+
+was ist das protokoll
+wie arbeitet es
+welche Osischicht etc
