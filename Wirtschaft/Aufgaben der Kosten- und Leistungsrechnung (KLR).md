@@ -50,3 +50,14 @@ Einzelkosten Gemeinkosten
 nach Ausbringungsmenge
 fixe Kosten
 variable Kosten
+
+
+Strukturelle Arbeitslosigkeit
+Individuum
+Umschulung Branchen wechsel 
+
+Unternehmen
+Diversifizieren Neue Produkte anbieten Innovieren
+
+Staat
+Umschulungen und Substitutionen anbieten 
