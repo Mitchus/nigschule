@@ -199,6 +199,7 @@ Reduktion: Cu²⁺ (+2) → Cu (0)
 - e- "wandern" immer bergab
 - oberhalb vom Hz stehen die unedlen Me
   unterhalb vom Hz die edlen Me
+
 344
 
 VoltaElement
@@ -230,3 +231,7 @@ Substanzen, die nur teilweise in Ionen zerfallen (z. B. Essigsäure).
 Starke Elektrolyte: 
 Substanzen, die fast vollständig in Ionen zerfallen (z. B. NaCl, H2SO4).
 Beispiele für Elektrolyte: Säuren (HCl, H2SO4), Basen (NaOH), Salze (NaCl, KCl).).
+
+Elektrochemische Doppelschicht
+Elektrodenpotential
+Standardelektrodenpotential
