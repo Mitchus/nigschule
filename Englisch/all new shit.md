@@ -13,30 +13,31 @@ Simulates a digital World that you can interact with through for example goggles
 
 positive
 progress development 
-autonomously
+autonomously uncontrolled
 protect preserve
-enhanced
+enhanced advanced
 
 
 natural
 potential
-improve
+improve 
 create 
 helpful
 breakthrough
-
+intelligence comprehension
 
 neutral
-abilities
+abilities 
 embrace utilize 
 supervision surveillance
 instructions command
 simulate reproduce
+
 negative
 extreme extensive 
 controversial contentious
 tampering with modify change
-manipulation modification
+manipulation modification change
 
 artificial
 risk
