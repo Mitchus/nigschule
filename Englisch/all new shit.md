@@ -10,3 +10,34 @@ Can  play games, translate different types of input and outputs (text to video i
 Is the manipulation of genes/dna, like cloning people/animals or cloning human cells for healthcare
 6 VR
 Simulates a digital World that you can interact with through for example goggles, Body Suits/haptic feedback, Sounds 
+
+positive
+progress development 
+autonomously
+protect preserve
+enhanced
+
+
+natural
+potential
+improve
+create 
+helpful
+breakthrough
+
+
+neutral
+abilities
+embrace utilize 
+supervision surveillance
+instructions command
+simulate reproduce
+negative
+extreme extensive 
+controversial contentious
+tampering with modify change
+manipulation modification
+
+artificial
+risk
+ban
