@@ -12,10 +12,10 @@ Is the manipulation of genes/dna, like cloning people/animals or cloning human c
 Simulates a digital World that you can interact with through for example goggles, Body Suits/haptic feedback, Sounds 
 
 positive
-progress development 
-autonomously uncontrolled
-protect preserve
-enhanced advanced
+progress development d
+autonomously uncontrolled d
+protect preserve d
+enhanced advanced d
 
 
 natural
@@ -24,20 +24,20 @@ improve
 create 
 helpful
 breakthrough
-intelligence comprehension
+intelligence comprehension d
 
 neutral
-abilities 
-embrace utilize 
-supervision surveillance
-instructions command
-simulate reproduce
+abilities function d
+embrace utilize d
+supervision surveillance d
+instructions command d
+simulate reproduce d
 
 negative
-extreme extensive 
-controversial contentious
-tampering with modify change
-manipulation modification change
+extreme extensive d
+controversial contentious  d
+tampering with modify change d
+manipulation modification change d
 
 artificial
 risk
