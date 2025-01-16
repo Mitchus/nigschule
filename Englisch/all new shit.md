@@ -17,28 +17,16 @@ autonomously uncontrolled d
 protect preserve d
 enhanced advanced d
 
-
-natural
-potential
-improve 
-create 
-helpful
-breakthrough
-intelligence comprehension d
-
 neutral
 abilities function d
 embrace utilize d
 supervision surveillance d
 instructions command d
 simulate reproduce d
+intelligence comprehension d
 
 negative
 extreme extensive d
 controversial contentious  d
 tampering with modify change d
 manipulation modification change d
-
-artificial
-risk
-ban
