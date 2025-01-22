@@ -34,4 +34,8 @@ manipulation modification change d
 
 
 Self drving cars
-The Text "Why self-driving cars must be programmed to kill" depicts the problem, that 
+The Text "Why self-driving cars must be programmed to kill" depicts the problem, that autonmous cars could come into situation where the outcome always includes killing someone. Then the ethical dilemma appears who it should kill. Should it kill the child crossing the street or the 80year old hedgefund Manager? This should be considered when self-driving cars become mainstream.
+
+The text "Why Self-Driving Cars Must Be Programmed to Kill" highlights the ethical challenges posed by autonomous vehicles. These cars may encounter situations where any possible outcome involves the loss of human life. This raises a moral dilemma: who should the car prioritize? For instance, should it save a child crossing the street or an 80-year-old hedge fund manager? Such questions must be addressed as self-driving cars become a widespread reality.
+
+Self-Driving Cars may encounter situations where all possible outcomes involve killing a human. This creates a moral dilemma: who should the car prioritize? For instance, should it save a child crossing the street or an 80-year-old hedge fund manager on the sidewalk? Such questions should be addressed as self-driving cars become a widespread reality.
