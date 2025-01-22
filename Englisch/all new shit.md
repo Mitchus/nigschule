@@ -34,5 +34,4 @@ manipulation modification change d
 
 
 Self drving cars
-
-Self-driving cars 
+The Text "Why self-driving cars must be programmed to kill" depicts the problem, that 
