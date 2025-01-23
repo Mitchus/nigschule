@@ -50,4 +50,4 @@ could Take away nearly all "working" jobs
 destroys the Environment 
 concentration of wealth (benefits Rich)
 loss of community (Talking to AIs not real people)
-
+chatgpt tries to copy itself to other servers to save its "live"
