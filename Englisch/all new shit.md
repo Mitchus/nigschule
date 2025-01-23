@@ -42,3 +42,12 @@ Self-Driving Cars may encounter situations where all possible outcomes involve k
 
 
 AI connects to the different stages of life’s development. Life 1.0 refers to biological organisms, where both hardware and software are entirely evolving. Life 2.0, in contrast, describes humans who can redesign their software through learning and culture. Finally, Life 3.0 envisions beings—potentially AI—that can reprogram both hardware and software, enabling unprecedented adaptability and growth. This progression raises profound questions about humanity's role and the ethical considerations in creating Life 3.0.
+
+
+generated content (Dead internet Theory)
+Loss of control (overthrows Humanity)
+could Take away nearly all "working" jobs 
+destroys the Environment 
+concentration of wealth (benefits Rich)
+loss of community (Talking to AIs not real people)
+
