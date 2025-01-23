@@ -51,3 +51,15 @@ destroys the Environment
 concentration of wealth (benefits Rich)
 loss of community (Talking to AIs not real people)
 chatgpt tries to copy itself to other servers to save its "live"
+
+1 h
+2 G
+3 A
+4 F
+5 k
+6 b
+7 j
+8 E
+9 C
+10 i
+11 D
