@@ -35,4 +35,18 @@ Sie sollte ungefähr der Differenz der Standardpotenziale Entsprechen, da $1 \fr
 
 ## Messergebnisse
 ### 3. 
-0.
+$0.397V$
+### 4. (Hälfte der Konzentration der Eisensalzlösung)
+$0.365V$
+
+### Auswertung
+### 1. 
+Gegeben:
+$V_{Lsg}=0.07l$
+$c=1 \frac{mol}{l}$
+$M_{\ce{ CuSO_{4} }}=159.6 \frac{g}{mol}$
+Gesucht:
+$m$
+Lösung:
+$n=c*V_{Lsg}=1 \frac{mol}{l} * 0.05l = 0.05mol$
+$m=M_{\ce{ CuSO_{4} }}*n = 159.6 \frac{g}{mol} * 0.05mol=7.98g$
