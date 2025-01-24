@@ -2,7 +2,6 @@
 
 **Autoren:** Julia Joch, Henrik Guhl, Tarik Alnawa  
 **Institution:** Hasso-Plattner-Institut
-
 - CPU ist das Gehirn des Computers.
 - Sie besteht aus mehreren Kernen, auf denen Threads ausgeführt werden können.
 
