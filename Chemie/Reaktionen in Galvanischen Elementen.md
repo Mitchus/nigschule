@@ -33,6 +33,23 @@ Sie sollte ungefähr der Differenz der Standardpotenziale Entsprechen, da $1 \fr
 
 ## Versuchsaufbau
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Messergebnisse
 ### 3. 
 $0.397V$
@@ -77,4 +94,10 @@ $\ce{ Zn -> Zn^{2+} +2e-}$
 Reduktion:
 $Fe^{2+} + 2e⁻ \to Fe$
 Gesamtreaktion:
-$\ce{ Zn + Fe^{2+} ->Zn^{2+} + }$
+$\ce{ Zn + Fe^{2+} ->Zn^{2+} + Fe}$
+Zellendiagramm:
+($1\frac{mol}{l}$)
+$\ce{ Zn }$|$\ce{ Zn^2+ }$||$\ce{ Fe^2+ }$|Fe
+
+### 5.
+Weniger -Ionen erschweren die Reduktion, wodurch das Potenzial an der Kathode abnimmt.
