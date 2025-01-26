@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Chemie/Addition.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unorganische Chemie"
+              "title": "Addition"
             }
           },
           {
@@ -67,7 +67,8 @@
               "title": "Hunger Games"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -232,7 +233,7 @@
               "type": "copilot-chat-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Erweiterung ist nicht mehr aktiv"
             }
           }
         ],
@@ -245,14 +246,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "audio-recorder:Audioaufzeichnung starten/stoppen": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -260,10 +261,25 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4d4dc97830c5269f",
+  "active": "ef1e79f8bca43d52",
   "lastOpenFiles": [
-    "Chemie/Redoxreaktion.md",
+    "Englisch/Hunger Games.md",
+    "Chemie/Addition.md",
+    "Chemie/Alkane.md",
+    "Chemie/Alkane als Lösungsmittel.md",
+    "Chemie/Chemie Michel Nowacki.md",
+    "Chemie/Drawing 2024-01-09 10.29.15.excalidraw.md",
     "Chemie/Elektrochemische Spannungsquellen.md",
+    "Chemie/Eliminierung.md",
+    "Chemie/Funktionelle Gruppen.md",
+    "Chemie/Halogen Alkane.md",
+    "Chemie/Isomerie der Alkane.md",
+    "Chemie/Klausurvorbereitung.md",
+    "Chemie/Kunstoffe.md",
+    "Chemie/Neutralisation Protokoll MN.md",
+    "Chemie/Substitution.md",
+    "Chemie/Unorganische Chemie.md",
+    "Chemie/Redoxreaktion.md",
     "Wirtschaft/Markt und Preis/Markt & Preis.md",
     "Chemie/Reaktionen in Galvanischen Elementen.md",
     "Chemie/Protokoll MN Protolyse von Salzen.md",
@@ -273,17 +289,6 @@
     "DVT/CPU.md",
     "DVT/Anschlüsse und Erweiterungen.md",
     "DVT/DVT Aufgaben.md",
-    "DVT/IP-Adressierung und Subnetting.md",
-    "DVT/Ram.md",
-    "DVT/Festplatten.md",
-    "DVT/Eingabe und Ausgabe.md",
-    "DVT/GPU.md",
-    "Geschichte/Geschichte.md",
-    "DVT/Tastatur Aufgaben.md",
-    "DVT/Scanner Aufgaben.md",
-    "Philosophie/Was darf ich hoffen? Metaphysik.md",
-    "Englisch/all new shit.md",
-    "Englisch/Comment on the Quote \"Stupid people are dangerous\".md",
     "Chemie/files/scanner_20250120_132732 1.jpg",
     "Chemie/files/scanner_20250120_132713 1.jpg",
     "Chemie/files/scanner_20250120_132651 1.jpg",
@@ -294,10 +299,6 @@
     "Chemie/files/scanner_20250120_132537.jpg",
     "Chemie/files/scanner_20250120_132732.jpg",
     "Chemie/files/scanner_20250120_132713.jpg",
-    "Chemie/Noten.md",
-    "Englisch/Obama.md",
-    "Chemie/Unorganische Chemie.md",
-    "Deutsch/Untitled.md",
     "Wirtschaft/Markt und Preis/files/TRUMPSHIT",
     "Wirtschaft/Markt und Preis/files",
     "Geschichte/Untitled.canvas",

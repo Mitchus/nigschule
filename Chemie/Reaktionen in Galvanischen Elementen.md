@@ -57,6 +57,24 @@ $m_{\ce{ ZnSO_{4} }}=M_{\ce{ ZnSO_{4} }}*n = 161.4 \frac{g}{mol} * 0.07mol=11.3g
 $m_{\ce{ FeSO_{4} }}=M_{\ce{ FeSO_{4} }}*n = 151.9 \frac{g}{mol} * 0.07mol=10.6g$
 
 ### 2.
-$U_{\ce{ Zn^{2+} }}=-0.76V$
-$U_{\ce{ Fe^{2+} }}=-0.41V$
+$U_{\ce{ Fe^{2+} }}=-0.41V$ - $U_{\ce{ Zn^{2+} }}=-0.76V$ 
+Differenz: $0.35V$
 
+Die berechnete Spannung $0.35V$ und die gemessene Spannung $0.397V$ weichen leicht voneinander ab.
+
+Fehlerquellen:
+- Temperatur Unterschied zu den Standardbedingungen
+- Abweichung des Messgeräts
+- Unreinheiten in den Elektroden oder in der Lösung
+
+### 3.
+Spannung entsteht durch die Redoxreaktionen zwischen Anode(Oxidation) und Kathode(Reduktion).
+Unterschiedliche Standardelektrodenpotenziale erzeugen ein elektrisches Potenzial.
+
+### 4.
+Oxidation:
+$\ce{ Zn -> Zn^{2+} +2e-}$
+Reduktion:
+$Fe^{2+} + 2e⁻ \to Fe$
+Gesamtreaktion:
+$\ce{ Zn + Fe^{2+} ->Zn^{2+} + }$
