@@ -6,18 +6,20 @@ Gruppe: Iven, Erik, Benno, Michel
 Für galvanische Zellen ist charakteristisch, dass chemische Energie in elektrische Energie umgewandelt wird. Es findet eine Redoxreaktion statt, bei er Elektronen vom unedleren Metall (Anode/Minuspol)  zum edleren Metall (Kathode/Pluspol) fließen.
 ### 2.
 Gesamtreaktion: $\ce{ Mg + Cu^2^{+} -> Mg^{2+} +Cu}$
-: $\ce{ Cu^{2+} + 2e^{-} -> Cu}$    Kathode Pluspol
-Anode Oxidation: $\ce{ Mg -> Mg^{2+} + 2e^{-}}$    Anode Minuspol
+Kathode Reduktion: $\ce{ Cu^{2+} + 2e^{-} -> Cu}$    (Pluspol)
+Anode Oxidation: $\ce{ Mg -> Mg^{2+} + 2e^{-}}$    (Minuspol)
 ### 3.
 Gegeben:
 $V_{Lsg}=0.05l$
 $c=1 \frac{mol}{l}$
 $M_{\ce{ CuSO_{4} }}=159.6 \frac{g}{mol}$
+$M_{\ce{ MgSO_{4} }}=120.4 \frac{g}{mol}$
 Gesucht:
 $m$
 Lösung:
 $n=c*V_{Lsg}=1 \frac{mol}{l} * 0.05l = 0.05mol$
 $m=M_{\ce{ CuSO_{4} }}*n = 159.6 \frac{g}{mol} * 0.05mol=7.98g$
+$m=M_{\ce{ MgSO_{4} }}*n = 120.4 \frac{g}{mol} * 0.05mol=6.02g$
 ### 4.
 Wenn die Zellreaktionen längere Zeit laufen:
 - Die Konzentration der Metallionen (z.B. $\ce{ Cu^{2+} }$) in der Lösung an der Kathode sinkt, da Metallionen reduziert werden.
@@ -27,13 +29,11 @@ Wenn die Zellreaktionen längere Zeit laufen:
 Sie sollte ungefähr der Differenz der Standardpotenziale Entsprechen, da $1 \frac{mol}{l}$ den Standardbedingungen entspricht.
 
 ## Geräte und Chemikalien
-- Galvanische Zelle
-- Messzylinder
-- Eisensulfatlösung
-- Zinksulfatlösung
-- Voltmeter
+-  **Geräte:** Bechergläser, Salzbrücke, Elektroden, Voltmeter, Waage
+- **Chemikalien:** Kupfersulfat, Magnesiumsulfat, Zinksulfat, Eisensulfat
 
 ## Versuchsaufbau
+Der Aufbau besteht aus zwei Halbzellen, verbunden durch eine Salzbrücke.
 ```
 
 
@@ -79,8 +79,7 @@ $U_{\ce{ Fe^{2+} }}=-0.41V$ - $U_{\ce{ Zn^{2+} }}=-0.76V$
 Differenz: $0.35V$
 
 Die berechnete Spannung $0.35V$ und die gemessene Spannung $0.397V$ weichen leicht voneinander ab.
-
-Fehlerquellen:
+Das könnte z.B. folgende Gründe haben:
 - Temperatur Unterschied zu den Standardbedingungen
 - Abweichung des Messgeräts
 - Unreinheiten in den Elektroden oder in der Lösung
@@ -88,6 +87,7 @@ Fehlerquellen:
 ### 3.
 Spannung entsteht durch die Redoxreaktionen zwischen Anode(Oxidation) und Kathode(Reduktion).
 Unterschiedliche Standardelektrodenpotenziale erzeugen ein elektrisches Potenzial.
+Die Spannung entsteht durch die Differenz der Elektrodenpotenziale.
 
 ### 4.
 Oxidation:
@@ -101,4 +101,10 @@ Zellendiagramm:
 $\ce{ Zn }$|$\ce{ Zn^2+ }$||$\ce{ Fe^2+ }$|Fe
 
 ### 5.
-Weniger -Ionen erschweren die Reduktion, wodurch das Potenzial an der Kathode abnimmt.
+Weniger -Ionen erschweren die Reduktion, wodurch das Potenzial an der Kathode abnimmt, was eine niedrigere Spannung erklärt.
+
+### Fehlerquellen:
+- Ungenaue Konzentratione
+- Kontaktprobleme an den Elektroden
+- Messungenauigkeiten des Voltmeters
+- Verunreinigungen in den Lösungen
