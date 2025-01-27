@@ -1129,3 +1129,48 @@ _**Bonns Deutschlandpolitik**_
 - **Grundlagenvertrag** und **KSZE Schlussakte**
 - Lösung humanitärer Fragen
 - Beachtung der Menschenrechte
+
+
+_**Bilder der DDR**_
+
+**Einerseits: Positive Aspekte**
+
+- Soziale Gleichheit
+- Soziale Sicherheit
+- Sozialistische Demokratie
+- Zustimmung der Massen zur Politik der Führung
+    - Wahlergebnisse regelmäßig über 99% Ja-Stimmen
+- Herausragende Leistungen, z.B. im Sport
+- Führender Industriestaat
+
+**Hohe Ideale**
+
+- Demokratie
+- Frieden
+- Gerechtigkeit
+- Menschenrechte
+- usw.
+
+**Andererseits: Negative Aspekte**
+
+- Mangel an Leistungsbereitschaft
+- Fehlende Eigenverantwortung
+- Keine freie Wahl, keine um die Macht konkurrierenden Parteien
+- Mauer und Stacheldraht zur Verhinderung des Verlassens der DDR
+- Überwachung und Unterdrückung jeglicher Opposition
+- Rückständigkeit auf vielen Gebieten, z.B. im Lebensstandard
+- Ständige Versorgungsmängel
+    - Warten auf Zuteilung eines PKW: weit mehr als 10 Jahre
+
+**Miserable Wirklichkeit**
+
+- Parteidiktatur
+- Militarisierung des öffentlichen Lebens
+- Privilegiengesellschaft
+- Verweigerung elementarer Menschenrechte, z.B.:
+    - Meinungsfreiheit
+    - Versammlungsrecht
+    - Freizügigkeit
+- Misswirtschaft
+- Korruption
+- Amtsmissbrauch
