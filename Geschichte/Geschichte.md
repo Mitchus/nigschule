@@ -1096,3 +1096,36 @@ Beschreiben sie den Aufbau des Sozialismus in der DDR
 Bennen Sie die Ursachen und den Anlass für den Volksaufstand 1953 17.Juni
 Welche Forderungen wurden gestellt?
 Welche Gründe führten 1961 zum Mauerbau in Berlin?
+
+
+***Honeckers Politik gegenüber der Bundesrepublik***
+
+**Friedliche Koexistenz**
+- Zusammenarbeit zum beiderseitigen Vorteil
+- Fortbestehender Gegensatz der Gesellschaftsordnung
+
+**Abgrenzung**
+- Zurückweisung jeder nationalen Gemeinsamkeit
+- Beispiel: Forderung der Anerkennung einer DDR-Staatsbürgerschaft
+
+**Berufung auf Verträge**
+- **Grundlagenvertrag** zwischen DDR und BRD (1972)
+- **Schlussakte von Helsinki** der Konferenz für Sicherheit und Zusammenarbeit in Europa (1975)
+    - Unverletzlichkeit der bestehenden Grenzen
+    - Nichteinmischung in innere Angelegenheiten anderer Staaten 
+
+_**Bonns Deutschlandpolitik**_
+
+**Besondere Beziehungen**
+- DDR ist kein Ausland
+- Ziel: Möglichst viele Kontakte über innerdeutsche Grenzen hinweg
+
+**Aspekte der Zusammenarbeit**
+- Politische Gespräche
+- Wirtschaftliche Zusammenarbeit
+- Besuchsreisen usw.
+
+**Berufung auf Verträge**
+- **Grundlagenvertrag** und **KSZE Schlussakte**
+- Lösung humanitärer Fragen
+- Beachtung der Menschenrechte
