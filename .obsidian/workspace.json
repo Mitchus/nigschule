@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mediation MN.md",
+                "file": "DVT/Prozessorkomponenten in RIPES.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mediation MN"
+              "title": "Prozessorkomponenten in RIPES"
             }
           }
         ],
@@ -102,7 +102,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -278,6 +279,8 @@
   },
   "active": "5875502b58e1cf27",
   "lastOpenFiles": [
+    "DVT/Anatomie eines PCs.md",
+    "DVT/CPU.md",
     "Mediation MN.md",
     "Englisch/Mediationsss.md",
     "Englisch/all new shit.md",
@@ -302,8 +305,6 @@
     "Chemie/Substitution.md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Redoxreaktion.md",
-    "Wirtschaft/Markt und Preis/Markt & Preis.md",
-    "Chemie/Protokoll MN Protolyse von Salzen.md",
     "Chemie/files/scanner_20250120_132732 1.jpg",
     "Chemie/files/scanner_20250120_132713 1.jpg",
     "Chemie/files/scanner_20250120_132651 1.jpg",
