@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "c668eedb296a54c4",
+            "id": "b4658ef3f6073d3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -292,12 +292,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c668eedb296a54c4",
+  "active": "5875502b58e1cf27",
   "lastOpenFiles": [
+    "DVT/Noten.md",
+    "DVT/Netzwerktechnik.md",
     "DVT/Prozessorkomponenten in RIPES.md",
+    "DVT/Scanner Aufgaben.md",
+    "DVT/Eingabe und Ausgabe.md",
+    "DVT/DVT Aufgaben.md",
+    "DVT/CPU.md",
     "DVT/files/2019_AUFGABEN_DVT_ABI.md",
     "DVT/Anatomie eines PCs.md",
-    "DVT/CPU.md",
     "Mediation MN.md",
     "Englisch/Mediationsss.md",
     "Englisch/all new shit.md",
@@ -315,11 +320,6 @@
     "Chemie/Eliminierung.md",
     "Chemie/Funktionelle Gruppen.md",
     "Chemie/Halogen Alkane.md",
-    "Chemie/Isomerie der Alkane.md",
-    "Chemie/Klausurvorbereitung.md",
-    "Chemie/Kunstoffe.md",
-    "Chemie/Neutralisation Protokoll MN.md",
-    "Chemie/Substitution.md",
     "Chemie/files/scanner_20250120_132732 1.jpg",
     "Chemie/files/scanner_20250120_132713 1.jpg",
     "Chemie/files/scanner_20250120_132651 1.jpg",
