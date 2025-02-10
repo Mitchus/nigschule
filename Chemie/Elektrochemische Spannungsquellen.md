@@ -13,11 +13,32 @@ Brennstoffzellen
 - solange Brennstoff zugeführt wird, kann e Strom erzeugt werden
 
 ![[scanner_20250120_132537 1.jpg]]
+1.
+von oben -> unten
+1
+2
+8
+3
+4
+5
+9
+7
+6
 
+oben -> unten 
+links->rechts
+4 1
+3 9 2 5
+7 8 6
+
+3.
+$\ce{ Zn +4OH- ->Zn(OH)}$
+4.
+Die Lebensdauer ist länger und kein Auslauf
 ![[scanner_20250120_132604 1.jpg]]
 Elektrodenreaktionen:  
     Minuspol (Anode): Li → Li⁺ + e⁻  
-    Pluspol (Kathode): MnO₂ + Li⁺ + e⁻ → LiMnO₂
+    Pluspol (Kathode): $\ce{ Mn^4+ + e- -> Mn_{3}+ }$
     
 
 3a. Warum ist Lithium als Elektrodenmaterial besonders geeignet?  
@@ -49,15 +70,19 @@ Der Blei-Akku besteht aus den folgenden Bauteilen:
 - Separatoren zwischen den Elektroden
 - Batteriegehäuse zur Isolierung und zum Schutz der Bestandteile
 
-![[scanner_20250120_132732 1.jpg]]Die Funktionsweise einer Brennstoffzelle basiert auf der kontrollierten Reaktion von Wasserstoff und Sauerstoff zu Wasser, bei der elektrische Energie erzeugt wird. Wasserstoff wird am Minuspol (Anode) in Protonen (H⁺) und Elektronen (e⁻) zerlegt. Die Protonen gelangen durch die Elektrolytmembran zur Kathode (Pluspol), während die Elektronen über einen äußeren Stromkreis fließen und dabei elektrische Energie liefern. An der Kathode reagieren die Protonen und Elektronen mit Sauerstoff zu Wasser. Die Elektrolytmembran sorgt dafür, dass nur Protonen durchgelassen werden, was den Stromfluss ermöglicht und die Reaktion räumlich trennt.
+![[scanner_20250120_132732 1.jpg]]1.
+Die Funktionsweise einer Brennstoffzelle basiert auf der kontrollierten Reaktion von Wasserstoff und Sauerstoff zu Wasser, bei der elektrische Energie erzeugt wird. Wasserstoff wird am Minuspol (Anode) in Protonen (H⁺) und Elektronen (e⁻) zerlegt. Die Protonen gelangen durch die Elektrolytmembran zur Kathode (Pluspol), während die Elektronen über einen äußeren Stromkreis fließen und dabei elektrische Energie liefern. An der Kathode reagieren die Protonen und Elektronen mit Sauerstoff zu Wasser. Die Elektrolytmembran sorgt dafür, dass nur Protonen durchgelassen werden, was den Stromfluss ermöglicht und die Reaktion räumlich trennt.
     
+2.
 a) Reaktionsgleichungen:
 - Anode (Minuspol): H₂ → 2H⁺ + 2e⁻
 - Kathode (Pluspol): O₂ + 4H⁺ + 4e⁻ → 2H₂O
 b) Die Elektronen fließen vom Minuspol durch den äußeren Stromkreis (über die angeschlossene Last) zum Pluspol. Dies ist in der Abbildung einzuzeichnen.
     
+3.
 Die Brennstoffzelle stellt eine Umkehrung der Wasserelektrolyse dar, da bei der Elektrolyse Wasser mithilfe elektrischer Energie in Wasserstoff und Sauerstoff zerlegt wird. In der Brennstoffzelle werden diese Gase kontrolliert wieder zu Wasser kombiniert, wobei elektrische Energie zurückgewonnen wird.
     
+4.
 Chancen des Einsatzes von Brennstoffzellen in einem Pkw:
 - Umweltfreundlich, da nur Wasser als Abfallprodukt entsteht
 - Hohe Effizienz
@@ -69,12 +94,8 @@ Probleme:
 - Schwierige Speicherung und Transport von Wasserstoff
 - Begrenzte Infrastruktur für Wasserstofftankstellen
 
+5.
 Brennstoffzellen werden in folgenden Bereichen eingesetzt:    
 - Stationäre Energieversorgung (z. B. Backup-Systeme, Blockheizkraftwerke)
 - Transportsektor (z. B. Pkw, Busse, Züge)
 - Tragbare Geräte (z. B. Laptops, militärische Anwendungen)
-
-Direkt-Methanol-Brennstoffzellen verwenden Methanol als Brennstoff, der direkt an der Anode oxidiert wird. Die Reaktionen sind:    
-- Anode: CH₃OH + H₂O → CO₂ + 6H⁺ + 6e⁻
-- Kathode: 3/2 O₂ + 6H⁺ + 6e⁻ → 3H₂O
-- Gesamtreaktion: CH₃OH + 3/2 O₂ → CO₂ + 2H₂O
