@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Mediationsss.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mediationsss"
+              "title": "Unorganische Chemie"
             }
           },
           {
@@ -294,11 +294,11 @@
   },
   "active": "ef1e79f8bca43d52",
   "lastOpenFiles": [
+    "Englisch/Mediationsss.md",
     "Chemie/Elektrochemische Spannungsquellen.md",
     "Chemie/Neutralisation Protokoll MN.md",
     "Chemie/Reaktionen in Galvanischen Elementen - MN.md",
     "Chemie/Chemie Michel Nowacki.md",
-    "Englisch/Mediationsss.md",
     "Englisch/Hunger Games.md",
     "DVT/Prozessorkomponenten in RIPES.md",
     "DVT/Noten.md",
