@@ -105,23 +105,26 @@ cherungspflichtiger Beschäftigung partizipieren
 - https://www.antidiskriminierungsstelle.de/SharedDocs/forschungsprojekte/DE/Expertise_BenachteiligErfahrungen_MigrantInnen.html
 4.
 https://statistik.arbeitsagentur.de/DE/Statischer-Content/Grundlagen/Lernmaterialien/Generische-Publikationen/Schule-Zahlt-sich-Bildung-aus.pdf?__blob=publicationFile&v=9
-Unausgebildete sind über die letzten Jahre viel Häufiger Arbe 
+Unausgebildete sind über die letzten Jahre viel Häufiger Arbeitslos als Leute mit Berufsausbildung 
 ![[Pasted image 20250213101330.png]]
 5.
 https://www.destatis.de/DE/Themen/Wirtschaft/Konjunkturindikatoren/Lange-Reihen/Arbeitsmarkt/lrarb003ga.html#fussnote-2-242394
 ![[Pasted image 20250213102655.png]]
-
+Erste Statistik Anzahl neue vs Alte Bundesländer
+Zweite in Prozent
 ![[Pasted image 20250213104457.png]]
-
+Sehe da keinen Zusammmenhang 
 6.
-
+Keine genaue Statistik gefunden
 7.
 ![[Pasted image 20250213103059.png]]
 https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/162491/arbeitslosenquoten-nach-geschlecht-und-staatsangehoerigkeit/
+Ja sind sie
 8.
 ![[Pasted image 20250213103323.png]]
 ![[Pasted image 20250213103411.png]]
 https://www.bpb.de/system/files/dokument_pdf/19_ITEM_NEU2.pdf
+
 9.
 Ja Quelle M1 Berlin 13,6 Stand 2010 
 nächstes: 12,7 MV
