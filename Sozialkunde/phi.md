@@ -105,8 +105,15 @@ cherungspflichtiger Beschäftigung partizipieren
 https://statistik.arbeitsagentur.de/DE/Statischer-Content/Grundlagen/Lernmaterialien/Generische-Publikationen/Schule-Zahlt-sich-Bildung-aus.pdf?__blob=publicationFile&v=9
 ![[Pasted image 20250213101330.png]]
 5.
+![[Pasted image 20250213102655.png]]
+https://www.destatis.de/DE/Themen/Wirtschaft/Konjunkturindikatoren/Lange-Reihen/Arbeitsmarkt/lrarb003ga.html#fussnote-2-242394
+
 6.
+
 7.
+![[Pasted image 20250213103059.png]]
+https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/162491/arbeitslosenquoten-nach-geschlecht-und-staatsangehoerigkeit/
 8.
+2
 9.
 10.
