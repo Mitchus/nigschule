@@ -86,35 +86,35 @@
     - Erwerbslose fokussieren sich auf Personen mit einer Beschäftigung unter 15 Stunden bzw. ohne Beschäftigung, was zu einer niedrigeren Zahl führt.
 
 
-Hier folgt eine Überprüfung der Aussagen anhand statistischer Befunde und Studien:
 
-1. **Der deutsche Arbeitsmarkt ist durch ein Nord-Süd-Gefälle geprägt**  
-   - **Fakten:**  
-     - Süddeutsche Bundesländer wie Bayern und Baden-Württemberg weisen regelmäßig **deutlich niedrigere Arbeitslosenquoten** auf (z. B. um 2–3 %), während einige nördliche Regionen wie Bremen und Hamburg deutlich höhere Quoten (teilweise 8–10 % oder mehr) verzeichnen.  
-     - Diese regionalen Unterschiede spiegeln sowohl Unterschiede in der Wirtschaftsstruktur als auch in der regionalen Wettbewerbsfähigkeit wider.  
-   - **Statistischer Nachweis:**  
-     - Daten der Bundesagentur für Arbeit zeigen, dass etwa in Bayern die Arbeitslosenquote konstant im niedrigen einstelligen Bereich liegt, während in Regionen im Norden und Nordosten tendenziell höhere Werte beobachtet werden.  
-   - **Bewertung:**  
-     - Die Aussage ist weitgehend korrekt – es gibt ein messbares Gefälle, wenngleich die Gründe vielfältig sind.
+Der deutsche Arbeitsmarkt ist durch ein Nord-Süd-Gefälle geprägt  
+Fakten:  
+- Süddeutsche Bundesländer wie Bayern und Baden-Württemberg weisen regelmäßig **deutlich niedrigere Arbeitslosenquoten** auf (z. B. um 2–3 %), während einige nördliche Regionen wie Bremen und Hamburg deutlich höhere Quoten (teilweise 8–10 % oder mehr) verzeichnen.  
+- Diese regionalen Unterschiede spiegeln sowohl Unterschiede in der Wirtschaftsstruktur als auch in der regionalen Wettbewerbsfähigkeit wider.
+Statistischer Nachweis:  
+- Daten der Bundesagentur für Arbeit zeigen, dass etwa in Bayern die Arbeitslosenquote konstant im niedrigen einstelligen Bereich liegt, während in Regionen im Norden und Nordosten tendenziell höhere Werte beobachtet werden.  
+Bewertung:  
+- Die Aussage ist weitgehend korrekt – es gibt ein messbares Gefälle, wenngleich die Gründe vielfältig sind.
+- https://www.iab-forum.de/das-nord-sued-gefaelle-bei-der-arbeitslosigkeit-ist-noch-staerker-als-das-ost-west-gefaelle/
 
-2. **Bei der Jobvorgabe bevorzugen Betriebe ältere, erfahrene Arbeitnehmer**  
-   - **Fakten:**  
-     - Empirische Studien belegen häufig ein **negatives Altersbias**: Ältere Bewerber (z. B. ab 50 Jahren) erhalten bei vergleichbaren Qualifikationen oft **deutlich weniger Rückmeldungen** als jüngere Bewerber.  
-     - Untersuchungen zur Altersdiskriminierung in Deutschland weisen darauf hin, dass vermeintlich „erfahrene“ Arbeitnehmer zwar in bestimmten Positionen gefragt sein können, jedoch im Bewerbungsprozess insgesamt **benachteiligt** werden.  
-   - **Statistischer Nachweis:**  
-     - Eine Studie ergab, dass Bewerbungen von älteren Kandidaten (50+) bis zu **40–50 % weniger** zu einer Einladung zum Vorstellungsgespräch führen als identische Bewerbungen von jüngeren Bewerbern.  
-   - **Bewertung:**  
-     - Die pauschale Behauptung, Betriebe würden ältere Arbeitnehmer bevorzugen, stimmt statistisch nicht – vielmehr zeigt die Datenlage häufig das Gegenteil, nämlich eine Tendenz zur Benachteiligung älterer Bewerber.
+Bei der Jobvorgabe bevorzugen Betriebe ältere, erfahrene Arbeitnehmer
+Fakten:  
+- Empirische Studien belegen häufig ein **negatives Altersbias**: Ältere Bewerber (z. B. ab 50 Jahren) erhalten bei vergleichbaren Qualifikationen oft **deutlich weniger Rückmeldungen** als jüngere Bewerber.  
+- Untersuchungen zur Altersdiskriminierung in Deutschland weisen darauf hin, dass vermeintlich „erfahrene“ Arbeitnehmer zwar in bestimmten Positionen gefragt sein können, jedoch im Bewerbungsprozess insgesamt **benachteiligt** werden.  
+Statistischer Nachweis:
+- Eine Studie ergab, dass Bewerbungen von älteren Kandidaten (50+) bis zu 40–50 % weniger zu einer Einladung zum Vorstellungsgespräch führen als identische Bewerbungen von jüngeren Bewerbern.  
 
-3. **Ausländer sind auf dem alten Arbeitsmarkt immer noch benachteiligt**  
-   - **Fakten:**  
-     - Zahlreiche Studien zur **Bewerbungsdiskriminierung** in Deutschland belegen, dass Bewerber mit ausländisch klingenden Namen oder einem nicht-deutschen Migrationshintergrund signifikant **weniger Rückmeldungen** erhalten als vergleichbare Bewerbungen mit „deutschen“ Merkmalen.  
-   - **Statistischer Nachweis:**  
-     - Untersuchungen haben gezeigt, dass Bewerbungen von Personen mit ausländisch konnotierten Namen oft **40–50 % weniger** zur Einladung zu einem Vorstellungsgespräch führen.  
-   - **Bewertung:**  
+Bewertung:  
+- Die pauschale Behauptung, Betriebe würden ältere Arbeitnehmer bevorzugen, stimmt statistisch nicht – vielmehr zeigt die Datenlage häufig das Gegenteil, nämlich eine Tendenz zur Benachteiligung älterer Bewerber.
+
+Ausländer sind auf dem alten Arbeitsmarkt immer noch benachteiligt
+Fakten:
+- Zahlreiche Studien zur **Bewerbungsdiskriminierung** in Deutschland belegen, dass Bewerber mit ausländisch klingenden Namen oder einem nicht-deutschen Migrationshintergrund signifikant **weniger Rückmeldungen** erhalten als vergleichbare Bewerbungen mit „deutschen“ Merkmalen.  
+Statistischer Nachweis:  
+- Untersuchungen haben gezeigt, dass Bewerbungen von Personen mit ausländisch konnotierten Namen oft **40–50 % weniger** zur Einladung zu einem Vorstellungsgespräch führen. Bewertung:**  
      - Die Aussage wird durch empirische Daten gestützt – Diskriminierung von ausländischen Bewerbern auf dem traditionellen Arbeitsmarkt ist weiterhin ein relevantes Phänomen.
 
-4. **Eine gute Ausbildung schützt vor Arbeitslosigkeit**  
+3. **Eine gute Ausbildung schützt vor Arbeitslosigkeit**  
    - **Fakten:**  
      - Es besteht ein klarer Zusammenhang zwischen **Bildungsniveau und Beschäftigungssicherheit**.  
      - Personen mit höherer formaler Qualifikation (z. B. Hochschulabschlüsse) weisen konstant **deutlich niedrigere Arbeitslosenquoten** auf als geringqualifizierte Arbeitskräfte.  
@@ -123,7 +123,7 @@ Hier folgt eine Überprüfung der Aussagen anhand statistischer Befunde und Stud
    - **Bewertung:**  
      - Die Aussage ist durch die statistische Evidenz bestätigt: Eine gute Ausbildung wirkt präventiv gegenüber Arbeitslosigkeit.
 
-5. **Arbeitslosigkeit in Deutschland folgt dem Auf und Ab der Wirtschaft**  
+4. **Arbeitslosigkeit in Deutschland folgt dem Auf und Ab der Wirtschaft**  
    - **Fakten:**  
      - Die Arbeitslosenquote in Deutschland zeigt eine **konjunkturelle Dynamik**: In wirtschaftlichen Aufschwüngen sinkt sie, in Rezessionen steigt sie.  
      - Dies spiegelt den engen Zusammenhang zwischen der konjunkturellen Lage und der Nachfrage nach Arbeitskräften wider.  
