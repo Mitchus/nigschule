@@ -116,3 +116,5 @@ AI’s ability to create art, music, and literature is transforming how we think
 
 
 In the Extract Never Let Me Go Kathy H. tells us that she was a carer for  the last 12 years. She comes from Haimish
+
+
