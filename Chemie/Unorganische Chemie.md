@@ -929,3 +929,5 @@ Ks von NH4+ = 5,6 * 10^-10: Schwache Säure → Lösung sauer.
 Ks von HCO3- = 4,3 * 10^-7, Kb = 2,3 * 10^-8: Basische Wirkung überwiegt → Lösung basisch.
 
 
+
+
