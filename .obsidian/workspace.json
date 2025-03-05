@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Chemie/Addition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unorganische Chemie"
+              "title": "Addition"
             }
           },
           {
@@ -309,6 +309,15 @@
   },
   "active": "1ca7951ea30f7b1b",
   "lastOpenFiles": [
+    "Chemie/Alkane.md",
+    "Chemie/Unorganische Chemie.md",
+    "Chemie/Substitution.md",
+    "Chemie/Reaktionen in Galvanischen Elementen - MN.md",
+    "Chemie/Protokoll MN Protolyse von Salzen.md",
+    "Chemie/Protokoll Kalorimetrische Bestimmung von Reaktionsenthalpien.md",
+    "Chemie/Neutralisation Protokoll MN.md",
+    "Chemie/MN Protokoll.md",
+    "Chemie/Funktionelle Gruppen.md",
     "Geschichte/Geschichte.md",
     "Englisch/Mediationsss.md",
     "Englisch/Analysis of Selin's Perception of Harvard in _The Idiot_ by Elif Batuman.md",
@@ -329,18 +338,9 @@
     "Sozialkunde/files/Pasted image 20250213103059.png",
     "Sozialkunde/files/Pasted image 20250213102655.png",
     "Sozialkunde/files/Pasted image 20250213101330.png",
-    "Chemie/Unorganische Chemie.md",
     "Chemie/Elektrochemische Spannungsquellen.md",
-    "Chemie/Neutralisation Protokoll MN.md",
-    "Chemie/Reaktionen in Galvanischen Elementen - MN.md",
     "Chemie/Chemie Michel Nowacki.md",
     "DVT/Prozessorkomponenten in RIPES.md",
-    "DVT/Noten.md",
-    "DVT/Netzwerktechnik.md",
-    "DVT/Scanner Aufgaben.md",
-    "DVT/Eingabe und Ausgabe.md",
-    "DVT/DVT Aufgaben.md",
-    "DVT/CPU.md",
     "Chemie/files/scanner_20250120_132732 1.jpg",
     "Chemie/files/scanner_20250120_132713 1.jpg",
     "Chemie/files/scanner_20250120_132651 1.jpg",
