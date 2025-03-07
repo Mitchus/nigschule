@@ -16,46 +16,23 @@ Dieses Thesenblatt widmet sich dem Thema der Benachteiligung von Frauen. Es fass
 
 ## Thesen und Argumente
 
-### 1. These: Frauen erfahren systematische Benachteiligung im Arbeitsmarkt.
-- **Argument 1:**  
-  Der sogenannte Gender Pay Gap zeigt, dass Frauen im Durchschnitt weniger verdienen als Männer.  
-  *Berechnungsformel:*  
-  Gender Pay Gap = ((Einkommen Männer − Einkommen Frauen) / Einkommen Männer) × 100%  
-  *Quelle:* Statistisches Bundesamt berichtet regelmäßig über diesen Unterschied. cite:Destatis2023
-- **Argument 2:**  
-  Frauen sind in Führungspositionen und in wirtschaftlich hochrangigen Berufen unterrepräsentiert, was ihre Einflussmöglichkeiten einschränkt. cite:FortuneWomen2019
-- **Argument 3:**  
-  Überproportional sind Frauen in Teilzeit- und prekären Beschäftigungsverhältnissen vertreten, was langfristig zu geringeren Rentenansprüchen und weniger Karrierechancen führt. cite:ILO2020
+# Thesenblatt: Reale Herausforderungen und Geschlechterrollen (Kurzfassung)
 
----
+**These 1: Frauen in traditionellen & sozialen Rollen**  
+- Überproportionale Beschäftigung in sozialen Berufen, oft mit niedriger Bezahlung. OECD2019 
+- Traditionelles Hausfrauenbild fördert ökonomische Abhängigkeit. BPB2021
 
-### 2. These: Traditionelle Rollenbilder und gesellschaftliche Stereotype verstärken die Benachteiligung.
-- **Argument 1:**  
-  Geschlechterstereotype prägen von Kindesbeinen an die Erwartungen an Männer und Frauen, was sich auf Bildungs- und Berufswahl auswirkt. cite:BPB2021
-- **Argument 2:**  
-  Medien und kulturelle Darstellungen tragen häufig dazu bei, traditionelle Rollenbilder zu verfestigen, wodurch Frauen in weniger einflussreichen Positionen verbleiben. cite:BPB2021
-- **Argument 3:**  
-  Die internalisierte Erwartung, weniger risikofreudig zu sein, führt dazu, dass Frauen oft konservativere Karriereentscheidungen treffen. cite:BPB2021
+**These 2: Mediale Darstellungen in Porno- und Sexsales**  
+- Stereotype: Frauen als Objekte, Männer als dominante Akteure. EIGE2020 
+- Normative Wirkung: Diese Darstellungen prägen Beziehungs- und Sexualitätsvorstellungen. MediaCrit2020
 
----
+**These 3: Biologische Diskurse und traditionelle Geschlechterrollen**  
+- Diskussion um "Männerpille": Biologische Argumente werden zur Festigung traditioneller Rollen genutzt. ReproMed2021 
+- Vereinfachte Darstellung von Hygiene und biologischen Unterschieden führt zu deterministischen Sichtweisen. GenderBio2022
 
-### 3. These: Rechtliche Rahmenbedingungen und institutionelle Strukturen bieten oft unzureichenden Schutz.
-- **Argument 1:**  
-  Trotz bestehender Antidiskriminierungsgesetze fehlt es häufig an deren konsequenter Umsetzung, sodass Frauen im Alltag weiterhin Diskriminierung erfahren. cite:EuropeanCommission2022
-- **Argument 2:**  
-  Unzureichende familienpolitische Maßnahmen, wie etwa eine mangelnde Kinderbetreuung, beeinträchtigen die beruflichen Aufstiegschancen von Frauen erheblich. cite:OECD2020
-- **Argument 3:**  
-  Die geringe politische Repräsentation von Frauen in Entscheidungspositionen schwächt den Einfluss auf die Gestaltung von Gleichstellungsmaßnahmen. cite:EuropeanCommission2022
-
----
-
-### 4. These: Die Benachteiligung von Frauen hat negative Auswirkungen auf die gesellschaftliche und wirtschaftliche Entwicklung.
-- **Argument 1:**  
-  Eine unzureichende Einbindung von Frauen in den Arbeitsmarkt hemmt das wirtschaftliche Wachstum und reduziert die Innovationskraft ganzer Wirtschaftszweige. cite:OECD2019
-- **Argument 2:**  
-  Gesellschaften, die auf Vielfalt und Chancengleichheit setzen, profitieren von einer stärkeren wirtschaftlichen Dynamik und besseren sozialen Kohäsionen. cite:WorldBank2021
-- **Argument 3:**  
-  Langfristig führen Benachteiligungen zu erhöhten sozialen Kosten, da Potenziale ungenutzt bleiben und strukturelle Ungleichheiten verstärkt werden. cite:OECD2019
+**These 4: Femizide und geschlechtsspezifische Gewalt**  
+- Alarmierende Zahlen von Femiziden zeigen strukturelle Gewalt gegen Frauen. UNWomen2021 
+- Patriarchale Machtstrukturen erfordern umfassende präventive und rechtliche Maßnahmen. EUViolence2020
 
 ---
 
@@ -71,16 +48,16 @@ Dieses Thesenblatt widmet sich dem Thema der Benachteiligung von Frauen. Es fass
 
 ## Quellenverzeichnis
 - **Destatis (2023):** Informationen zum Gender Pay Gap und zur Einkommensverteilung in Deutschland.  
-  cite:Destatis2023
+  Destatis2023
 - **Fortune Women (2019):** Analysen zur Unterrepräsentation von Frauen in Führungspositionen.  
-  cite:FortuneWomen2019
+  FortuneWomen2019
 - **International Labour Organization (2020):** Bericht zu Teilzeitbeschäftigung und prekären Arbeitsverhältnissen.  
-  cite:ILO2020
+  ILO2020
 - **Bundeszentrale für politische Bildung (2021):** Studien und Berichte zu Geschlechterstereotypen und deren Auswirkungen.  
-  cite:BPB2021
+  BPB2021
 - **Europäische Kommission (2022):** Evaluation von Gleichstellungsmaßnahmen und rechtlichen Rahmenbedingungen.  
-  cite:EuropeanCommission2022
+  EuropeanCommission2022
 - **OECD (2019, 2020):** Berichte zur wirtschaftlichen Bedeutung von Geschlechtergleichstellung und zu familienpolitischen Maßnahmen.  
-  cite:OECD2019 cite:OECD2020
+  OECD2019 OECD2020
 - **World Bank (2021):** Analyse der wirtschaftlichen Effekte von Diversität und Inklusion.  
-  cite:WorldBank2021
+  WorldBank2021
