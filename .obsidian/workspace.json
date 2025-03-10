@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sozialkunde/Thesenblatt.md",
+                "file": "Chemie/Unorganische Chemie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Thesenblatt"
+              "title": "Unorganische Chemie"
             }
           },
           {
@@ -309,8 +309,8 @@
   },
   "active": "1ca7951ea30f7b1b",
   "lastOpenFiles": [
-    "Wirtschaft/MN AL Aufgaben 1-10.md",
     "Sozialkunde/Thesenblatt.md",
+    "Wirtschaft/MN AL Aufgaben 1-10.md",
     "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
     "Chemie/Unorganische Chemie.md",
     "Chemie/Redoxreaktion.md",
