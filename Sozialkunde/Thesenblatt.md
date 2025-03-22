@@ -6,11 +6,10 @@ Dieses Thesenblatt widmet sich dem Thema der Benachteiligung von Frauen. Es fass
 ---
 
 ## Kopfzeile
-- **Autor:** Mitch
-- Klasse
-- Lehrer
+- **Autor:** Michel
+- FG23
 - **Titel:** Thesenblatt: Benachteiligung von Frauen
-- **Datum:** IDK
+- **Datum:** heute
 - **Einleitung:**  
   Frauen sehen sich in zahlreichen Lebensbereichen mit systematischen Benachteiligungen konfrontiert – sei es auf dem Arbeitsmarkt, in der Gesellschaft oder im rechtlichen Rahmen. Im Folgenden werden zentrale Thesen mit unterstützenden Argumenten und Quellen belegt.
 

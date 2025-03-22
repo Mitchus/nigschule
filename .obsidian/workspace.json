@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Unorganische Chemie.md",
+                "file": "Sozialkunde/Thesenblatt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unorganische Chemie"
+              "title": "Thesenblatt"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "KOH",
+                "query": "these",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -309,10 +310,10 @@
   },
   "active": "1ca7951ea30f7b1b",
   "lastOpenFiles": [
+    "Chemie/Unorganische Chemie.md",
     "Sozialkunde/Thesenblatt.md",
     "Wirtschaft/MN AL Aufgaben 1-10.md",
     "Wirtschaft/Aufgaben der Kosten- und Leistungsrechnung (KLR).md",
-    "Chemie/Unorganische Chemie.md",
     "Chemie/Redoxreaktion.md",
     "Chemie/Halogen Alkane.md",
     "Chemie/Funktionelle Gruppen.md",
