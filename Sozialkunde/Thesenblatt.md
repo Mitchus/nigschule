@@ -17,41 +17,32 @@ Der moderne Arbeitsmarkt steht vor großen Herausforderungen: Statt zur persönl
 ### These 1: Niedrige Löhne verhindern soziale und wirtschaftliche Aufstiegschancen
 
 - Systematisch niedrige Löhne führen dazu, dass Arbeitnehmer*innen nicht in der Lage sind, über die Armutsgrenze hinauszukommen.
-- ![[Pasted image 20250328101406.png]]
+- 
     ![[Pasted image 20250328100140.png]]
+    ![[Pasted image 20250328101833.png]]
+- Fehlende tarifliche Bindungen und unzureichende Lohnanpassungen bei steigenden Lebenshaltungskosten verstärken die ökonomische Benachteiligung.  
     
-- **Argument 2:**  
-    Fehlende tarifliche Bindungen und unzureichende Lohnanpassungen bei steigenden Lebenshaltungskosten verstärken die ökonomische Benachteiligung.  
-    ![[Pasted image 20250328100419.png]]
     ![[Pasted image 20250328101044.png]]
 
 ### These 2: Prekäre Arbeitsverhältnisse und unsichere Beschäftigungsmodelle führen zu dauerhafter wirtschaftlicher Instabilität
+  
+Befristete Arbeitsverträge und Leiharbeit verschieben wirtschaftliche Risiken auf den einzelnen Arbeitnehmer, anstatt sie kollektiv zu tragen.  
+    ![[Pasted image 20250328100419.png]]
 
-- **Argument 1:**  
-    Befristete Arbeitsverträge und Leiharbeit verschieben wirtschaftliche Risiken auf den einzelnen Arbeitnehmer, anstatt sie kollektiv zu tragen.  
-    _Beleg:_ Untersuchungen des Instituts für Arbeitsmarkt- und Berufsforschung (IAB) belegen den Zusammenhang zwischen befristeten Arbeitsverhältnissen und einem erhöhten Armutsrisiko.
-    
-- **Argument 2:**  
-    Die zunehmende Flexibilisierung des Arbeitsmarktes führt zu einer Entgrenzung fester Beschäftigungsverhältnisse, was langfristige Planbarkeit und soziale Absicherung erschwert.
     
 
 ### These 3: Der moderne Kapitalismus nutzt Arbeitskraft als Kostenelement, wodurch Profite auf Kosten der sozialen Absicherung maximiert werden
 
-- **Argument 1:**  
-    Unternehmen setzen zunehmend auf Kostendruck und Outsourcing, um Gewinne zu maximieren – häufig auf Kosten der Arbeitnehmer*innen.  
-    _Beleg:_ Ökonomische Analysen und empirische Daten der OECD belegen, dass eine starke Ausrichtung auf Profitmaximierung zu sinkenden Löhnen führt.
-    
-- **Argument 2:**  
-    Der Rückgriff auf flexible Arbeitsmodelle, digital unterstützte Arbeitsprozesse und Leiharbeit hat zur Folge, dass die sozialen Sicherungssysteme zunehmend an ihre Grenzen stoßen.
+Unternehmen setzen zunehmend auf Kostendruck und Outsourcing, um Gewinne zu maximieren – häufig auf Kosten der Arbeitnehmer*innen.  
+Der Rückgriff auf flexible Arbeitsmodelle, digital unterstützte Arbeitsprozesse und Leiharbeit hat zur Folge, dass die sozialen Sicherungssysteme zunehmend an ihre Grenzen stoßen.
     
 
-### Mathematische Darstellung (optional)
+### Mathematische Darstellung
 
 Um den Einfluss niedriger Löhne auf die Kaufkraft zu verdeutlichen, kann folgender mathematischer Zusammenhang herangezogen werden:
 
-Kaufkraftverlust=ΔLebenshaltungskosten−ΔLohnanpassungAnfangslohn×100%\text{Kaufkraftverlust} = \frac{\Delta \text{Lebenshaltungskosten} - \Delta \text{Lohnanpassung}}{\text{Anfangslohn}} \times 100\%Kaufkraftverlust=AnfangslohnΔLebenshaltungskosten−ΔLohnanpassung​×100%
+![[Pasted image 20250328102758.png]]
 
-Diese Formel veranschaulicht, wie eine unzureichende Lohnanpassung in Relation zu steigenden Lebenshaltungskosten direkt zu einem Verlust der Kaufkraft führt.
 
 ---
 
