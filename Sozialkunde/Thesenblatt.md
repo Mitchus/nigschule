@@ -16,14 +16,14 @@ Der moderne Arbeitsmarkt steht vor großen Herausforderungen: Statt zur persönl
 
 ### These 1: Niedrige Löhne verhindern soziale und wirtschaftliche Aufstiegschancen
 
-- **Argument 1:**  
-    Systematisch niedrige Löhne führen dazu, dass Arbeitnehmer*innen nicht in der Lage sind, über die Armutsgrenze hinauszukommen.  
-    _Beleg:_ Aktuelle Berichte der International Labour Organization (ILO) zeigen, dass prekäre Beschäftigungsverhältnisse die wirtschaftliche Stabilität untergraben.
+- Systematisch niedrige Löhne führen dazu, dass Arbeitnehmer*innen nicht in der Lage sind, über die Armutsgrenze hinauszukommen.
+- ![[Pasted image 20250328101406.png]]
+    ![[Pasted image 20250328100140.png]]
     
 - **Argument 2:**  
     Fehlende tarifliche Bindungen und unzureichende Lohnanpassungen bei steigenden Lebenshaltungskosten verstärken die ökonomische Benachteiligung.  
-    _Beleg:_ Studien der OECD verdeutlichen, dass ohne regelmäßige Lohnanpassungen die Kaufkraft kontinuierlich sinkt.
-    
+    ![[Pasted image 20250328100419.png]]
+    ![[Pasted image 20250328101044.png]]
 
 ### These 2: Prekäre Arbeitsverhältnisse und unsichere Beschäftigungsmodelle führen zu dauerhafter wirtschaftlicher Instabilität
 
