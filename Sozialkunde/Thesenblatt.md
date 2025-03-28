@@ -1,145 +1,78 @@
+# Thesenblatt: "Arbeit macht nicht frei, sondern arm"
 
-# Thesenblatt: Benachteiligung von Frauen
-
-Dieses Thesenblatt widmet sich dem Thema der Benachteiligung von Frauen. Es fasst zentrale Thesen, Argumente und Belege zusammen, die in gesellschaftlichen, wirtschaftlichen und politischen Diskursen immer wieder diskutiert werden. Ziel ist es, einen strukturierten Überblick über relevante Aspekte und Herausforderungen zu geben.
+**Autor:** Michel Nowacki
+**Kurs:** FG23
+**Datum:** heute
 
 ---
 
-## Kopfzeile
-- **Autor:** Michel
-- FG23
-- **Titel:** Thesenblatt: Benachteiligung von Frauen
-- **Datum:** heute
-- **Einleitung:**  
-  Frauen sehen sich in zahlreichen Lebensbereichen mit systematischen Benachteiligungen konfrontiert – sei es auf dem Arbeitsmarkt, in der Gesellschaft oder im rechtlichen Rahmen. Im Folgenden werden zentrale Thesen mit unterstützenden Argumenten und Quellen belegt.
+## Einleitung
+
+Der moderne Arbeitsmarkt steht vor großen Herausforderungen: Statt zur persönlichen Entfaltung und wirtschaftlichen Sicherheit beizutragen, führen flexible Arbeitsmodelle, niedrige Löhne und prekäre Beschäftigungsformen häufig zu finanzieller Unsicherheit und sozialer Ausgrenzung. Dieses Thesenblatt beleuchtet zentrale Aspekte, die die These „Arbeit macht nicht frei, sondern arm“ untermauern, und liefert Argumente, die die strukturellen Probleme des heutigen Arbeitsmarktes verdeutlichen.
 
 ---
 
 ## Thesen und Argumente
 
-# Thesenblatt: Reale Herausforderungen und Geschlechterrollen (Kurzfassung)
+### These 1: Niedrige Löhne verhindern soziale und wirtschaftliche Aufstiegschancen
 
-**These 1: Frauen in traditionellen & sozialen Rollen**  
-- Überproportionale Beschäftigung in sozialen Berufen, oft mit niedriger Bezahlung. OECD2019 
-- Traditionelles Hausfrauenbild fördert ökonomische Abhängigkeit. BPB2021
+- **Argument 1:**  
+    Systematisch niedrige Löhne führen dazu, dass Arbeitnehmer*innen nicht in der Lage sind, über die Armutsgrenze hinauszukommen.  
+    _Beleg:_ Aktuelle Berichte der International Labour Organization (ILO) zeigen, dass prekäre Beschäftigungsverhältnisse die wirtschaftliche Stabilität untergraben.
+    
+- **Argument 2:**  
+    Fehlende tarifliche Bindungen und unzureichende Lohnanpassungen bei steigenden Lebenshaltungskosten verstärken die ökonomische Benachteiligung.  
+    _Beleg:_ Studien der OECD verdeutlichen, dass ohne regelmäßige Lohnanpassungen die Kaufkraft kontinuierlich sinkt.
+    
 
-**These 2: Mediale Darstellungen in Porno- und Sexsales**  
-- Stereotype: Frauen als Objekte, Männer als dominante Akteure. EIGE2020 
-- Normative Wirkung: Diese Darstellungen prägen Beziehungs- und Sexualitätsvorstellungen. MediaCrit2020
+### These 2: Prekäre Arbeitsverhältnisse und unsichere Beschäftigungsmodelle führen zu dauerhafter wirtschaftlicher Instabilität
 
-**These 3: Biologische Diskurse und traditionelle Geschlechterrollen**  
-- Diskussion um "Männerpille": Biologische Argumente werden zur Festigung traditioneller Rollen genutzt. ReproMed2021 
-- Vereinfachte Darstellung von Hygiene und biologischen Unterschieden führt zu deterministischen Sichtweisen. GenderBio2022
+- **Argument 1:**  
+    Befristete Arbeitsverträge und Leiharbeit verschieben wirtschaftliche Risiken auf den einzelnen Arbeitnehmer, anstatt sie kollektiv zu tragen.  
+    _Beleg:_ Untersuchungen des Instituts für Arbeitsmarkt- und Berufsforschung (IAB) belegen den Zusammenhang zwischen befristeten Arbeitsverhältnissen und einem erhöhten Armutsrisiko.
+    
+- **Argument 2:**  
+    Die zunehmende Flexibilisierung des Arbeitsmarktes führt zu einer Entgrenzung fester Beschäftigungsverhältnisse, was langfristige Planbarkeit und soziale Absicherung erschwert.
+    
 
-**These 4: Femizide und geschlechtsspezifische Gewalt**  
-- Alarmierende Zahlen von Femiziden zeigen strukturelle Gewalt gegen Frauen. UNWomen2021 
-- Patriarchale Machtstrukturen erfordern umfassende präventive und rechtliche Maßnahmen. EUViolence2020
+### These 3: Der moderne Kapitalismus nutzt Arbeitskraft als Kostenelement, wodurch Profite auf Kosten der sozialen Absicherung maximiert werden
+
+- **Argument 1:**  
+    Unternehmen setzen zunehmend auf Kostendruck und Outsourcing, um Gewinne zu maximieren – häufig auf Kosten der Arbeitnehmer*innen.  
+    _Beleg:_ Ökonomische Analysen und empirische Daten der OECD belegen, dass eine starke Ausrichtung auf Profitmaximierung zu sinkenden Löhnen führt.
+    
+- **Argument 2:**  
+    Der Rückgriff auf flexible Arbeitsmodelle, digital unterstützte Arbeitsprozesse und Leiharbeit hat zur Folge, dass die sozialen Sicherungssysteme zunehmend an ihre Grenzen stoßen.
+    
+
+### Mathematische Darstellung (optional)
+
+Um den Einfluss niedriger Löhne auf die Kaufkraft zu verdeutlichen, kann folgender mathematischer Zusammenhang herangezogen werden:
+
+Kaufkraftverlust=ΔLebenshaltungskosten−ΔLohnanpassungAnfangslohn×100%\text{Kaufkraftverlust} = \frac{\Delta \text{Lebenshaltungskosten} - \Delta \text{Lohnanpassung}}{\text{Anfangslohn}} \times 100\%Kaufkraftverlust=AnfangslohnΔLebenshaltungskosten−ΔLohnanpassung​×100%
+
+Diese Formel veranschaulicht, wie eine unzureichende Lohnanpassung in Relation zu steigenden Lebenshaltungskosten direkt zu einem Verlust der Kaufkraft führt.
 
 ---
 
 ## Schlussfolgerung und Ausblick
-- **Zusammenfassung:**  
-  Die systematische Benachteiligung von Frauen zeigt sich in diversen Bereichen: vom ungleichen Einkommen über eingeschränkte Aufstiegsmöglichkeiten bis hin zu kulturell und institutionell verankerten Stereotypen. Diese Benachteiligungen beeinträchtigen nicht nur individuelle Lebensverläufe, sondern wirken sich auch negativ auf die gesamtwirtschaftliche Entwicklung und den gesellschaftlichen Zusammenhalt aus.
-- **Eigene Bewertung:**  
-  Es bedarf einer kritischen Überprüfung der bestehenden Strukturen sowie zielgerichteter Reformen, um Chancengleichheit herzustellen und die Potenziale aller Bevölkerungsgruppen voll auszuschöpfen.
-- **Ausblick:**  
-  Zukünftige Maßnahmen sollten intersektionale Ansätze berücksichtigen, um die vielfältigen Dimensionen von Benachteiligung – etwa in Bezug auf Ethnie, sozioökonomischen Status oder Alter – adäquat zu adressieren.
+
+Zusammenfassend zeigt sich, dass der moderne Arbeitsmarkt – geprägt von niedrigen Löhnen, prekären Beschäftigungsformen und einer konsequenten Ausrichtung auf Profitmaximierung – systematisch zur wirtschaftlichen Benachteiligung der Arbeitnehmer*innen beiträgt.  
+_Ausblick:_  
+Zukünftige Reformen sollten nicht nur auf tarifliche Bindungen und eine Anpassung der Löhne abzielen, sondern auch den sozialen Schutz und die langfristige Planbarkeit von Arbeitsverhältnissen stärken, um eine nachhaltige wirtschaftliche Stabilität zu erreichen.
 
 ---
 
 ## Quellenverzeichnis
-- **Destatis (2023):** Informationen zum Gender Pay Gap und zur Einkommensverteilung in Deutschland.  
-  Destatis2023
-- **Fortune Women (2019):** Analysen zur Unterrepräsentation von Frauen in Führungspositionen.  
-  FortuneWomen2019
-- **International Labour Organization (2020):** Bericht zu Teilzeitbeschäftigung und prekären Arbeitsverhältnissen.  
-  ILO2020
-- **Bundeszentrale für politische Bildung (2021):** Studien und Berichte zu Geschlechterstereotypen und deren Auswirkungen.  
-  BPB2021
-- **Europäische Kommission (2022):** Evaluation von Gleichstellungsmaßnahmen und rechtlichen Rahmenbedingungen.  
-  EuropeanCommission2022
-- **OECD (2019, 2020):** Berichte zur wirtschaftlichen Bedeutung von Geschlechtergleichstellung und zu familienpolitischen Maßnahmen.  
-  OECD2019 OECD2020
-- **World Bank (2021):** Analyse der wirtschaftlichen Effekte von Diversität und Inklusion.  
-  WorldBank2021
 
-# Thesenblatt: "Arbeit macht nicht frei, sondern arm"
-
-**Kernaussage:**  
-Der moderne Kapitalismus hält Menschen durch niedrige Löhne und unsichere Arbeitsverhältnisse in Armut gefangen.
-
----
-
-## Thesen und Argumente
-
-**These 1: Niedrige Löhne als Armutsfalle**  
-- **Argument 1:**  
-  Systematisch niedrige Löhne verhindern ein Einkommen oberhalb der Armutsgrenze.  
-  *Quelle:* International Labour Organization (ILO). (2020). *World Employment and Social Outlook: Trends 2020*.  
-  [Link](https://www.ilo.org/global/research/global-reports/world-employment-social-outlook/lang--en/index.htm)ILO2020  
-- **Argument 2:**  
-  Mangelnde Tarifbindung und Lohndumping verschärfen die Einkommensungleichheit.  
-  *Quelle:* Organisation for Economic Co-operation and Development (OECD). (2021). *OECD Employment Outlook 2021*.  
-  [Link](https://www.oecd.org/employment/emp/2021-outlook/)OECD2021  
-- **Argument 3:**  
-  Geringe Löhne schränken die Kaufkraft ein und verhindern nachhaltige finanzielle Selbstständigkeit.  
-  *Quelle:* OECD Employment Outlook 2021.OECD2021  
-- **Argument 4:**  
-  Fehlende Lohnanpassungen trotz steigender Lebenshaltungskosten führen zu einer dauerhaften Armutsfalle.  
-  *Quelle:* ILO, *World Employment and Social Outlook: Trends 2020*.ILO2020
-
----
-
-**These 2: Prekäre Arbeitsverhältnisse und Unsicherheit**  
-- **Argument 1:**  
-  Befristete und unsichere Arbeitsverträge führen zu fehlender finanzieller Stabilität.  
-  *Quelle:* Institut für Arbeitsmarkt- und Berufsforschung (IAB). (2022). *Prekäre Beschäftigung in Deutschland*.  
-  [IAB2022](https://www.iab.de)  
-- **Argument 2:**  
-  Unzureichender sozialer Schutz erhöht das Risiko von Armut und sozialer Ausgrenzung.  
-  *Quelle:* Statista. (2020). *Sozialschutz und Armutsrisiko in Europa*.  
-  [Statista2020](https://de.statista.com)  
-- **Argument 3:**  
-  Ständige Beschäftigungswechsel verhindern langfristige Planbarkeit und berufliche Sicherheit.  
-  *Quelle:* IAB, *Prekäre Beschäftigung in Deutschland*.IAB2022  
-- **Argument 4:**  
-  Fehlender Zugang zu umfassenden Sozialleistungen verschärft die prekäre Situation der Arbeitnehmer.  
-  *Quelle:* ILO, *World Employment and Social Outlook: Trends 2020*.ILO2020
-
----
-
-**These 3: Strukturelle Ausbeutung im Kapitalismus**  
-- **Argument 1:**  
-  Profitmaximierung wird oft durch Kostenreduktion bei Arbeitskräften realisiert.  
-  *Quelle:* Marx, K. (1867). *Das Kapital, Band 1*.Marx1867  
-- **Argument 2:**  
-  Flexible Arbeitsmodelle fördern prekäre Beschäftigungsformen und Unsicherheiten.  
-  *Quelle:* ILO, *World Employment and Social Outlook: Trends 2020*.ILO2020  
-- **Argument 3:**  
-  Outsourcing und Leiharbeit verlagern wirtschaftliche Risiken von Unternehmen auf die Arbeitnehmer.  
-  *Quelle:* ILO, *World Employment and Social Outlook: Trends 2020*.ILO2020  
-- **Argument 4:**  
-  Schwache Arbeitsrechtsdurchsetzung begünstigt die systematische Ausbeutung von Arbeitskräften.  
-  *Quelle:* OECD, *OECD Employment Outlook 2021*.OECD2021
-
----
-
-**These 4: Gesellschaftliche Folgen**  
-- **Argument 1:**  
-  Dauerhafte finanzielle Unsicherheit führt zu erhöhter sozialer Ungleichheit.  
-  *Quelle:* OECD, *OECD Employment Outlook 2021*.OECD2021  
-- **Argument 2:**  
-  Prekäre Arbeitsverhältnisse erhöhen psychische Belastungen und gesundheitliche Risiken.  
-  *Quelle:* World Health Organization (WHO). (2020). *Mental Health and the Workplace*.  
-  [WHO2020](https://www.who.int/mental_health/in_the_workplace/en/)  
-- **Argument 3:**  
-  Anhaltende Armut untergräbt das soziale Vertrauen und den gesellschaftlichen Zusammenhalt.  
-  *Quelle:* OECD, *OECD Employment Outlook 2021*.OECD2021  
-- **Argument 4:**  
-  Wirtschaftliche Instabilität durch Niedriglöhne kann langfristig zu politischer Radikalisierung und gesellschaftlicher Unruhe führen.  
-  *Quelle:* OECD, *OECD Employment Outlook 2021*.OECD2021
-
----
-
-## Fazit
-Der moderne Kapitalismus nutzt niedrige Löhne und unsichere Arbeitsverhältnisse, um Kosten zu senken und Gewinne zu maximieren – auf Kosten der sozialen Absicherung, der individuellen Lebensqualität und des gesellschaftlichen Zusammenhalts.
+- **International Labour Organization (2020):** _World Employment and Social Outlook: Trends 2020_
+    
+- **Organisation for Economic Co-operation and Development (OECD) (2021):** _OECD Employment Outlook 2021_
+    
+- **Institut für Arbeitsmarkt- und Berufsforschung (IAB) (2022):** _Prekäre Beschäftigung in Deutschland_
+    
+- **Weitere Literatur:**
+    
+    - Marx, K. (1867). _Das Kapital, Band 1_.
+        
+    - Diverse aktuelle Studien und Berichte zur Arbeitsmarktentwicklung
