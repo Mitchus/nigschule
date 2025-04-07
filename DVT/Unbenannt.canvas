@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0f98ddb485294728","type":"text","text":"# DVT Mindmap","x":-240,"y":-420,"width":220,"height":50,"color":"6"},
+		{"id":"3e02bb0abea55529","type":"text","text":"## Prozessoren","x":-680,"y":-264,"width":250,"height":60},
+		{"id":"27ea0b15ce119bfb","type":"text","text":"Rechnerarchitekturen","x":-680,"y":-180,"width":292,"height":50},
+		{"id":"ebe8204b18050936","x":-680,"y":-100,"width":400,"height":400,"type":"file","file":"DVT/CPU.md"}
+	],
+	"edges":[]
+}

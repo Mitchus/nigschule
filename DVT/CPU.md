@@ -1,10 +1,14 @@
 # CPU (Central Processing Unit)
-
-**Autoren:** Julia Joch, Henrik Guhl, Tarik Alnawa  
-**Institution:** Hasso-Plattner-Institut
 - CPU ist das Gehirn des Computers.
 - Sie besteht aus mehreren Kernen, auf denen Threads ausgeführt werden können.
 
+  
+- Arithmetisch-logische Einheit ([ALU](https://www.studysmarter.de/schule/informatik/technische-informatik/alu/))
+- Steuerwerk (CU)
+- Register
+- Speicher und Caches
+
+Die **Arithmetisch-logische Einheit ([ALU](https://www.studysmarter.de/schule/informatik/technische-informatik/alu/))** ist das Herzstück des Mikroprozessors. Sie führt arithmetische und logische Operationen aus. Das **Steuerwerk (CU)** hingegen ortet und interpretiert die Anweisungen aus Speicher und leitet sie an die entsprechenden Komponenten innerhalb des Mikroprozessors weiter. Die **Register** sind kleine Speicherbereiche innerhalb der CPU, die zur temporären Speicherung und Manipulation von Daten und Anweisungen verwendet werden. Und schließlich sind der **Speicher und die Caches** dafür zuständig, Daten und Anweisungen bereitzustellen, die von den anderen Komponenten des Mikroprozessors benötigt werden.
 ## Ablauf eines Befehls
 
 - Befehl laden (vordefinierter Befehlssatz).
