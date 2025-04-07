@@ -47,14 +47,8 @@ Zukünftige Reformen sollten nicht nur auf tarifliche Bindungen und eine Anpassu
 
 ## Quellenverzeichnis
 
-- **International Labour Organization (2020):** _World Employment and Social Outlook: Trends 2020_
-    
-- **Organisation for Economic Co-operation and Development (OECD) (2021):** _OECD Employment Outlook 2021_
-    
-- **Institut für Arbeitsmarkt- und Berufsforschung (IAB) (2022):** _Prekäre Beschäftigung in Deutschland_
-    
-- **Weitere Literatur:**
-    
-    - Marx, K. (1867). _Das Kapital, Band 1_.
-        
-    - Diverse aktuelle Studien und Berichte zur Arbeitsmarktentwicklung
+- [Armut in Deutschland – Statistiken zum Thema | Statista](https://de.statista.com/themen/120/armut-in-deutschland/)
+- [Arme bleiben öfter arm - Hans-Böckler-Stiftung](https://www.boeckler.de/de/boeckler-impuls-arme-bleiben-oefter-arm-4312.htm)
+- [Arm trotz Arbeit - working poor 2022 - Statistisches Bundesamt](https://www.destatis.de/Europa/DE/Thema/Bevoelkerung-Arbeit-Soziales/Soziales-Lebensbedingungen/Arm-trotz-arbeit.html)
+- [Arbeitsmarktpolitik | bpb.de](https://www.bpb.de/themen/arbeit/arbeitsmarktpolitik/)
+- [Destatis – Niedriglohnquote](https://www.google.com/search?client=firefox-b-d&q=Destatis+%E2%80%93+Niedriglohnquote)
