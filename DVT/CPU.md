@@ -2,13 +2,26 @@
 - CPU ist das Gehirn des Computers.
 - Sie besteht aus mehreren Kernen, auf denen Threads ausgeführt werden können.
 
-  
-- Arithmetisch-logische Einheit ([ALU](https://www.studysmarter.de/schule/informatik/technische-informatik/alu/))
-- Steuerwerk (CU)
-- Register
-- Speicher und Caches
 
-Die **Arithmetisch-logische Einheit ([ALU](https://www.studysmarter.de/schule/informatik/technische-informatik/alu/))** ist das Herzstück des Mikroprozessors. Sie führt arithmetische und logische Operationen aus. Das **Steuerwerk (CU)** hingegen ortet und interpretiert die Anweisungen aus Speicher und leitet sie an die entsprechenden Komponenten innerhalb des Mikroprozessors weiter. Die **Register** sind kleine Speicherbereiche innerhalb der CPU, die zur temporären Speicherung und Manipulation von Daten und Anweisungen verwendet werden. Und schließlich sind der **Speicher und die Caches** dafür zuständig, Daten und Anweisungen bereitzustellen, die von den anderen Komponenten des Mikroprozessors benötigt werden.
+**Allgemeiner Befehlszyklus:**
+- **Fetch (Holen):** Abruf der nächsten Instruktion aus dem Speicher
+- **Decode (Dekodieren):** Übersetzung der Instruktion in Steuerbefehle.
+- **Execute (Ausführen):** Durchführung der Operation (Rechenoperation, Datenzugriff etc.).
+- Dieser Zyklus wiederholt sich ständig, solange der Prozessor in Betrieb ist.
+  
+**Aufbau und Komponenten**
+- Mehrere Kerne, die parallel arbeiten.
+- Cache-Hierarchien (L1, L2, L3) zur Beschleunigung von Speicherzugriffen.
+- Integrierte Grafik- und andere spezialisierte Einheiten.
+- Steuerwerk, Rechenwerk, Registersatz und Bussystem, die zusammenarbeiten, um Instruktionen effizient zu verarbeiten.
+
+
+- **Aufgaben der Komponenten:**
+    - **Steuerwerk:** Koordiniert den Befehlszyklus und steuert alle Komponenten.
+    - **Rechenwerk:** Führt arithmetische und logische Operationen durch.
+    - **Registersatz:** Kurzzeitspeicher für schnelle Datenzugriffe.
+    - **Bussystem:** Verbindet die einzelnen Komponenten und ermöglicht Datentransfer.
+
 ## Ablauf eines Befehls
 
 - Befehl laden (vordefinierter Befehlssatz).

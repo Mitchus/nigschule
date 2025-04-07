@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DVT/files/2019_AUFGABEN_DVT_ABI.md",
+                "file": "DVT/Rechnerarchitekturen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2019_AUFGABEN_DVT_ABI"
+              "title": "Rechnerarchitekturen"
             }
           }
         ],
@@ -294,7 +294,11 @@
   },
   "active": "5875502b58e1cf27",
   "lastOpenFiles": [
+    "DVT/Rechnerarchitekturen.md",
+    "DVT/files/Pasted image 20250407133908.png",
+    "DVT/Tastatur Aufgaben.md",
     "DVT/Unbenannt.canvas",
+    "DVT/files/2019_AUFGABEN_DVT_ABI.md",
     "DVT/CPU.md",
     "BI/Bi Test notiz.md",
     "Sozialkunde/Thesenblatt.md",
@@ -309,7 +313,6 @@
     "Sozialkunde/files/Pasted image 20250328101406.png",
     "Sozialkunde/files/Pasted image 20250328101044.png",
     "Sozialkunde/files/Pasted image 20250328100419.png",
-    "Sozialkunde/files/Pasted image 20250328100140.png",
     "Mediation MN.md",
     "Wirtschaft/Markt und Preis/Wie entsteht ein Markt.md",
     "Wirtschaft/Drawing 2024-11-15 09.49.42.excalidraw.md",
@@ -327,9 +330,6 @@
     "Chemie/Alkane.md",
     "Chemie/Substitution.md",
     "Chemie/Reaktionen in Galvanischen Elementen - MN.md",
-    "Chemie/Protokoll MN Protolyse von Salzen.md",
-    "Chemie/Protokoll Kalorimetrische Bestimmung von Reaktionsenthalpien.md",
-    "Chemie/Neutralisation Protokoll MN.md",
     "Wirtschaft/Markt und Preis/files/TRUMPSHIT",
     "Wirtschaft/Markt und Preis/files",
     "Geschichte/Untitled.canvas",
