@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DVT/CPU.md",
+                "file": "DVT/Anschlüsse und Erweiterungen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "Anschlüsse und Erweiterungen"
             }
           },
           {
@@ -294,12 +294,21 @@
   },
   "active": "5875502b58e1cf27",
   "lastOpenFiles": [
+    "DVT/Anatomie eines PCs.md",
+    "DVT/Anschlüsse und Erweiterungen.md",
+    "DVT/GPU.md",
+    "DVT/Festplatten.md",
+    "DVT/IP-Adressierung und Subnetting.md",
+    "DVT/Netzwerktechnik.md",
+    "DVT/Maus Aufgaben.md",
+    "DVT/Scanner Aufgaben.md",
+    "DVT/Ram.md",
     "DVT/Rechnerarchitekturen.md",
+    "DVT/CPU.md",
     "DVT/files/Pasted image 20250407133908.png",
     "DVT/Tastatur Aufgaben.md",
     "DVT/Unbenannt.canvas",
     "DVT/files/2019_AUFGABEN_DVT_ABI.md",
-    "DVT/CPU.md",
     "BI/Bi Test notiz.md",
     "Sozialkunde/Thesenblatt.md",
     "DVT/Prozessorkomponenten in RIPES.md",
@@ -322,14 +331,6 @@
     "Wirtschaft/MN AL Aufgaben 1-10.md",
     "17D62L~H/Deutsch/Romantische Ironie.md",
     "Sozialkunde/phi.md",
-    "Chemie/Unorganische Chemie.md",
-    "Chemie/Redoxreaktion.md",
-    "Chemie/Halogen Alkane.md",
-    "Chemie/Funktionelle Gruppen.md",
-    "Chemie/Addition.md",
-    "Chemie/Alkane.md",
-    "Chemie/Substitution.md",
-    "Chemie/Reaktionen in Galvanischen Elementen - MN.md",
     "Wirtschaft/Markt und Preis/files/TRUMPSHIT",
     "Wirtschaft/Markt und Preis/files",
     "Geschichte/Untitled.canvas",
