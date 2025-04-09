@@ -114,7 +114,10 @@ Für die Harvard Architektur können die Phasen 1 und 3 des von Neumann Zyklus z
     Die Ergebnisse der Berechnung werden in den Speicher geschrieben.
 
 
-A
-D
-S
-T
+Anwendungsschicht
+Darstellungschicht
+Sitzungsschicht
+Transportschicht
+Vermittlungschicht
+SSicherungsschicht
+Bitübertragungsschicht
