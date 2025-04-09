@@ -101,3 +101,15 @@ Beispiel:
 192.168.1.15 - das ist ein Adresse, die einen Host im obigen Netz bezeichnet.
 
 192.168.1.255 ist die Broadcastadresse. Alle Bits im letzten Byte, also alle Bits, die die Hosts bezeichnen, sind auf 1 gesetzt.
+
+## Der Aufbau einer URL
+
+Eine URL besteht in der einfachsten Beschreibung aus drei Teilen: Protokoll (https://, ftp://), Domain- oder Server-Name (www.domain.de) und Dateipfad (/verzeichnis/datei.html). Der Dateipfad kann aus mehreren Verzeichnisebenen bestehen.
+
+Anstelle des Server-Namens könnte auch eine IP-Adresse stehen.
+
+Wird eine Datei nicht über einen Browser oder anderen Client im Web abgerufen, sondern von einem anderen Server, kann eine URL auch so aussehen:
+
+https://peter:beispiel@www.beispiel.de:8080/index.html
+
+In diesem Fall besteht die URL neben dem Protokoll/Schema noch aus dem User-Namen mit Kennwort, dem Host der Datei (www.beispiel.de) sowie dem Port (8080), über welchen die Daten abgerufen werden können.
