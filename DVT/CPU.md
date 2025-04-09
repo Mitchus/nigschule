@@ -112,3 +112,9 @@ Für die Harvard Architektur können die Phasen 1 und 3 des von Neumann Zyklus z
     Der Befehl wird von der ALU ausgeführt.
 4. `WRITE BACK`  
     Die Ergebnisse der Berechnung werden in den Speicher geschrieben.
+
+
+A
+D
+S
+T
