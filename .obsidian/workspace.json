@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DVT/Anschlüsse und Erweiterungen.md",
+                "file": "DVT/IsoOsi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Anschlüsse und Erweiterungen"
+              "title": "IsoOsi"
             }
           },
           {
@@ -294,8 +294,10 @@
   },
   "active": "5875502b58e1cf27",
   "lastOpenFiles": [
-    "DVT/Anatomie eines PCs.md",
+    "DVT/files/Pasted image 20250409144713.png",
     "DVT/Anschlüsse und Erweiterungen.md",
+    "DVT/IsoOsi.md",
+    "DVT/Anatomie eines PCs.md",
     "DVT/GPU.md",
     "DVT/Festplatten.md",
     "DVT/IP-Adressierung und Subnetting.md",
@@ -329,8 +331,6 @@
     "Wirtschaft/IWF HANDOUT.md",
     "Wirtschaft/Marketing wie verkaufen Meth schnell online.md",
     "Wirtschaft/MN AL Aufgaben 1-10.md",
-    "17D62L~H/Deutsch/Romantische Ironie.md",
-    "Sozialkunde/phi.md",
     "Wirtschaft/Markt und Preis/files/TRUMPSHIT",
     "Wirtschaft/Markt und Preis/files",
     "Geschichte/Untitled.canvas",
