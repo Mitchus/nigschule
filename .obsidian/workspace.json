@@ -156,9 +156,21 @@
               "icon": "lucide-file",
               "title": "Berufsausbildungskram"
             }
+          },
+          {
+            "id": "fb2e3ce8494e28e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -353,7 +365,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "29cf40730f2f0a66",
+  "active": "fb2e3ce8494e28e7",
   "lastOpenFiles": [
     "Sozialkunde/Europäisches Parlament.md",
     "Berufsausbildungsstuff/Berufsausbildungskram.md",
