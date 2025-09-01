@@ -70,8 +70,6 @@ Ziel:
 |**Bereitstellung von Ausbildungsmitteln**|Z. B. Bücher, Werkzeuge etc. müssen kostenlos gestellt werden.|**BBiG § 14 Abs. 1 Nr. 2**|
 |**Keine ausbildungsfremden Tätigkeiten**|Nur Tätigkeiten, die dem Ausbildungsziel dienen.|**BBiG § 14 Abs. 2**|
 
----
-
 ### 📚 Hinweis:
 
 > Das **BBiG (Berufsbildungsgesetz)** ist das wichtigste Gesetz für die Ausbildung. Ergänzend greifen z. B.:
