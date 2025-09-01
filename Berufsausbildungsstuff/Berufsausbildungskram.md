@@ -46,29 +46,29 @@ Ziel:
 ---
 ### 🧑‍🎓 **Pflichten der Auszubildenden**
 
-|Pflicht|Beschreibung|Gesetz / §|
-|---|---|---|
-|**Lernpflicht**|Azubis müssen sich bemühen, die notwendigen Kenntnisse & Fertigkeiten zu erwerben.|**BBiG § 13 Nr. 1**|
-|**Berufsschulpflicht**|Pflicht zur Teilnahme am Berufsschulunterricht.|**BBiG § 13 Nr. 2**, i. V. m. Schulgesetzen der Länder|
-|**Sorgfaltspflicht**|Azubis müssen ihnen übertragene Aufgaben sorgfältig ausführen.|**BBiG § 13 Nr. 3**|
-|**Befolgungspflicht (Weisungsgebundenheit)**|Anweisungen des Ausbilders/Weisungsberechtigten sind zu befolgen.|**BBiG § 13 Nr. 4**|
-|**Betriebs-/Geschäftsgeheimnisse wahren**|Schweigepflicht über interne Vorgänge.|**BBiG § 13 Nr. 5**|
-|**Pflicht zur Berichtsheftführung**|Regelmäßiges und wahrheitsgemäßes Führen des Ausbildungsnachweises.|**BBiG § 13 Nr. 7**|
-|**Schutz von Eigentum**|Werkzeuge, Maschinen etc. pfleglich behandeln.|**BBiG § 13 Nr. 6**|
+| Pflicht                                      | Beschreibung                                                                       | Gesetz / §                                             |
+| -------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| **Lernpflicht**                              | Azubis müssen sich bemühen, die notwendigen Kenntnisse & Fertigkeiten zu erwerben. | **BBiG § 13 Nr. 1**                                    |
+| **Berufsschulpflicht**                       | Pflicht zur Teilnahme am Berufsschulunterricht.                                    | **BBiG § 13 Nr. 2**, i. V. m. Schulgesetzen der Länder |
+| **Sorgfaltspflicht**                         | Azubis müssen ihnen übertragene Aufgaben sorgfältig ausführen.                     | **BBiG § 13 Nr. 3**                                    |
+| **Befolgungspflicht (Weisungsgebundenheit)** | Anweisungen des Ausbilders/Weisungsberechtigten sind zu befolgen.                  | **BBiG § 13 Nr. 4**                                    |
+| **Betriebs-/Geschäftsgeheimnisse wahren**    | Schweigepflicht über interne Vorgänge.                                             | **BBiG § 13 Nr. 5**                                    |
+| **Pflicht zur Berichtsheftführung**          | Regelmäßiges und wahrheitsgemäßes Führen des Ausbildungsnachweises.                | **BBiG § 13 Nr. 7**                                    |
+| **Schutz von Eigentum**<br>Sorgfaltspflicht  | Werkzeuge, Maschinen etc. pfleglich behandeln.                                     | **BBiG § 13 Nr. 6**                                    |
 
 ---
 
 ### 🧑‍🏫 **Pflichten des Ausbildenden / Ausbildungsbetriebs**
 
-|Pflicht|Beschreibung|Gesetz / §|
-|---|---|---|
-|**Ausbildungspflicht**|Vermittlung der beruflichen Handlungsfähigkeit gemäß Ausbildungsziel.|**BBiG § 14 Abs. 1 Nr. 1**|
-|**Fürsorgepflicht**|Azubi muss geschützt werden (z. B. vor Gefahren, Mobbing, Überforderung).|**BBiG § 14 Abs. 1 Nr. 3**|
-|**Freistellungspflicht**|Freistellung für Berufsschule, Prüfungen, u. a.|**BBiG § 15**, **JArbSchG § 10**|
-|**Zeugnispflicht**|Am Ende der Ausbildung muss ein schriftliches Zeugnis ausgestellt werden.|**BBiG § 16**|
-|**Berichtsheftkontrolle**|Das Berichtsheft muss regelmäßig kontrolliert und unterschrieben werden.|**BBiG § 14 Abs. 1 Nr. 4**|
-|**Bereitstellung von Ausbildungsmitteln**|Z. B. Bücher, Werkzeuge etc. müssen kostenlos gestellt werden.|**BBiG § 14 Abs. 1 Nr. 2**|
-|**Keine ausbildungsfremden Tätigkeiten**|Nur Tätigkeiten, die dem Ausbildungsziel dienen.|**BBiG § 14 Abs. 2**|
+| Pflicht                                   | Beschreibung                                                              | Gesetz / §                       |
+| ----------------------------------------- | ------------------------------------------------------------------------- | -------------------------------- |
+| **Ausbildungspflicht**                    | Vermittlung der beruflichen Handlungsfähigkeit gemäß Ausbildungsziel.     | **BBiG § 14 Abs. 1 Nr. 1**       |
+| **Fürsorgepflicht**                       | Azubi muss geschützt werden (z. B. vor Gefahren, Mobbing, Überforderung). | **BBiG § 14 Abs. 1 Nr. 3**       |
+| **Freistellungspflicht**                  | Freistellung für Berufsschule, Prüfungen, u. a.                           | **BBiG § 15**, **JArbSchG § 10** |
+| **Zeugnispflicht**                        | Am Ende der Ausbildung muss ein schriftliches Zeugnis ausgestellt werden. | **BBiG § 16**                    |
+| **Berichtsheftkontrolle**                 | Das Berichtsheft muss regelmäßig kontrolliert und unterschrieben werden.  | **BBiG § 14 Abs. 1 Nr. 4**       |
+| **Bereitstellung von Ausbildungsmitteln** | Z. B. Bücher, Werkzeuge etc. müssen kostenlos gestellt werden.            | **BBiG § 14 Abs. 1 Nr. 2**       |
+| **Keine ausbildungsfremden Tätigkeiten**  | Nur Tätigkeiten, die dem Ausbildungsziel dienen.                          | **BBiG § 14 Abs. 2**             |
 
 ### 📚 Hinweis:
 

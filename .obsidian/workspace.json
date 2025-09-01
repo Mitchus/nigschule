@@ -148,32 +148,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berufsausbildungsstuff/Berufsausbildungskram.md",
+                "file": "Mathe/Differenzialrechnung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Berufsausbildungskram"
-            }
-          },
-          {
-            "id": "fb2e3ce8494e28e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Berufsausbildungsstuff/Berufsausbildungskram.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Berufsausbildungskram"
+              "title": "Differenzialrechnung"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -362,8 +347,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fb2e3ce8494e28e7",
+  "active": "29cf40730f2f0a66",
   "lastOpenFiles": [
+    "Berufsausbildungsstuff/Berufsausbildungskram.md",
+    "DVT/files/2019_AUFGABEN_DVT_ABI.md",
     "copilot-conversations/überdenke_und_überarbeite_die_struktur@20250901_103417.md",
     "copilot-conversations",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -381,7 +368,6 @@
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "Sozialkunde/Europäisches Parlament.md",
-    "Berufsausbildungsstuff/Berufsausbildungskram.md",
     "Berufsausbildungsstuff",
     "Sozialkunde/Europäischer Gerichtshof.md",
     "Sozialkunde/Europäischer Rat.md",
@@ -393,7 +379,6 @@
     "Excalidraw/Kombinatorik.png",
     "Mathe/Differenzialrechnung.md",
     "Excalidraw/Entstehung einer revolutionären Situation in Frankreich.md",
-    "Excalidraw/Entwicklung der Industrie in der SBZ.md",
     "Excalidraw/Hunger Games.png",
     "DVT/files/Pasted image 20240215122456.png",
     "DVT/files/Pasted image 20240215122406.png",
