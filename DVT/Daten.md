@@ -95,3 +95,84 @@
 **Nachteile:**  
 ❌ Schwer analysierbar  
 ❌ Hoher Speicher- & Verarbeitungsaufwand
+
+### 📊 **Quantitative Daten**
+
+- **Definition**: Zahlenbasierte, messbare Daten → liefern **Mengenangaben**.
+    
+- **Eigenschaften**:
+    
+    - Objektiv messbar (z. B. Länge, Gewicht, Temperatur, Zeit).
+        
+    - Lassen sich mathematisch/statistisch berechnen (Durchschnitt, Summe, Varianz).
+        
+    - Darstellung oft in Diagrammen wie Balken-, Linien- oder Punktdiagramm.
+        
+- **Unterarten**:
+    
+    - **Diskrete Daten** → Zählbar, nur ganze Zahlen möglich (z. B. Anzahl von Kindern, Autos, Fehlern im Code).
+        
+    - **Stetige Daten** → Messbar mit beliebiger Genauigkeit (z. B. Körpergröße in cm, Temperatur in °C).
+        
+- **Beispiele**:
+    
+    - Einkommen in Euro
+        
+    - Blutdruckwerte
+        
+    - Geschwindigkeit in km/h
+        
+- **Vorteile**:
+    
+    - Gut vergleichbar und analysierbar
+        
+    - Mathematisch/statistisch stark auswertbar
+        
+- **Nachteile**:
+    
+    - Keine direkten Informationen zu „Qualität“ oder „Art“
+        
+    - Abstrakter → kann manchmal den Kontext verbergen
+        
+
+---
+
+### 📑 **Qualitative Daten**
+
+- **Definition**: Beschreibende, nicht-messbare Daten → liefern **Merkmale/Kategorien**.
+    
+- **Eigenschaften**:
+    
+    - Subjektiver und beschreibender Charakter (z. B. Farbe, Meinung, Geschlecht).
+        
+    - Ordnen Objekte in **Klassen** oder **Merkmalsausprägungen** ein.
+        
+    - Keine mathematische Berechnung (kein Mittelwert sinnvoll).
+        
+- **Unterarten**:
+    
+    - **Nominalskaliert** → reine Kategorien, keine Rangfolge (z. B. Nationalität, Religion, Automarke).
+        
+    - **Ordinalskaliert** → Kategorien mit Rangordnung, aber ohne genaue Abstände (z. B. Schulnoten, Zufriedenheitsskala, Platzierung im Sport).
+        
+- **Beispiele**:
+    
+    - Haarfarbe (blond, braun, schwarz)
+        
+    - Ja/Nein-Antworten
+        
+    - Berufskategorie
+        
+- **Vorteile**:
+    
+    - Liefert wichtige Zusatzinfos (Meinungen, Eigenschaften, Gruppen).
+        
+    - Oft leichter zu erheben (z. B. Umfragen mit Kategorien).
+        
+- **Nachteile**:
+    
+    - Weniger genau, keine Berechnung von Mittelwerten etc.
+        
+    - Nur eingeschränkte statistische Verfahren möglich
+
+Ist besser um gesamtbild der Situation zu bekommen
