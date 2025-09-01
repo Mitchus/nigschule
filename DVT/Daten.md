@@ -77,21 +77,16 @@
 
 **Beschreibung:**
 - Keine feste Struktur, schwer automatisiert auswertbar.
-    
 
 **Eigenschaften:**
 - Große Vielfalt (Texte, Bilder, Audio, Video).
-    
 - Wichtiger Bestandteil von Big Data.
-    
 
 **Einsatzgebiete:**
 - Social Media, Kommunikation, Multimedia, Kundenfeedback.
-    
 
 **Beispiele:**
 - E-Mails, Fotos, Videos, Chatnachrichten.
-    
 
 **Vorteile:**  
 ✅ Sehr vielfältig, flexibel  
