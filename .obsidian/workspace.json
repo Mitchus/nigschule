@@ -161,12 +161,15 @@
             "id": "fb2e3ce8494e28e7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Berufsausbildungsstuff/Berufsausbildungskram.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Berufsausbildungskram"
             }
           }
         ],
