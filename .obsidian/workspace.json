@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Differenzialrechnung.md",
-                "mode": "source",
+                "file": "DVT/Daten.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Differenzialrechnung"
+              "title": "Daten"
             }
           }
         ],
@@ -350,6 +350,8 @@
   "active": "29cf40730f2f0a66",
   "lastOpenFiles": [
     "Berufsausbildungsstuff/Berufsausbildungskram.md",
+    "DVT/Daten.md",
+    "Mathe/Differenzialrechnung.md",
     "DVT/files/2019_AUFGABEN_DVT_ABI.md",
     "copilot-conversations/überdenke_und_überarbeite_die_struktur@20250901_103417.md",
     "copilot-conversations",
@@ -377,8 +379,6 @@
     "Excalidraw/Hunger Games.md",
     "Excalidraw/Kombinatorik.md",
     "Excalidraw/Kombinatorik.png",
-    "Mathe/Differenzialrechnung.md",
-    "Excalidraw/Entstehung einer revolutionären Situation in Frankreich.md",
     "Excalidraw/Hunger Games.png",
     "DVT/files/Pasted image 20240215122456.png",
     "DVT/files/Pasted image 20240215122406.png",
