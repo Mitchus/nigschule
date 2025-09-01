@@ -337,7 +337,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,7 +362,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2bc27620e532585f",
+  "active": "fb2e3ce8494e28e7",
   "lastOpenFiles": [
     "copilot-conversations/überdenke_und_überarbeite_die_struktur@20250901_103417.md",
     "copilot-conversations",

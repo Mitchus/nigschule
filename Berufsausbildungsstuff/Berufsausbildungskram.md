@@ -44,29 +44,42 @@ Ziel:
 - **Recht auf ein Zeugnis**
 
 ---
+### 🧑‍🎓 **Pflichten der Auszubildenden**
 
-### 4. 📌 Pflichten der Auszubildenden
-in §13 
-- **Lernpflicht** (aktiv mitarbeiten)
-- **Sorgfaltspflicht** (mit Materialien umgehen)
-- **Schweigepflicht** (Betriebsgeheimnisse)
-- **Berichtsheft führen**
-- **Weisungen befolgen**
-- **Regelmäßiger Berufsschulbesuch**
-- **Unentschuldigtes Fehlen vermeiden**
+|Pflicht|Beschreibung|Gesetz / §|
+|---|---|---|
+|**Lernpflicht**|Azubis müssen sich bemühen, die notwendigen Kenntnisse & Fertigkeiten zu erwerben.|**BBiG § 13 Nr. 1**|
+|**Berufsschulpflicht**|Pflicht zur Teilnahme am Berufsschulunterricht.|**BBiG § 13 Nr. 2**, i. V. m. Schulgesetzen der Länder|
+|**Sorgfaltspflicht**|Azubis müssen ihnen übertragene Aufgaben sorgfältig ausführen.|**BBiG § 13 Nr. 3**|
+|**Befolgungspflicht (Weisungsgebundenheit)**|Anweisungen des Ausbilders/Weisungsberechtigten sind zu befolgen.|**BBiG § 13 Nr. 4**|
+|**Betriebs-/Geschäftsgeheimnisse wahren**|Schweigepflicht über interne Vorgänge.|**BBiG § 13 Nr. 5**|
+|**Pflicht zur Berichtsheftführung**|Regelmäßiges und wahrheitsgemäßes Führen des Ausbildungsnachweises.|**BBiG § 13 Nr. 7**|
+|**Schutz von Eigentum**|Werkzeuge, Maschinen etc. pfleglich behandeln.|**BBiG § 13 Nr. 6**|
 
 ---
 
-### 5. 🛠️ Pflichten des Ausbildungsbetriebs
-in §14  
-- **Ausbildungsziel vermitteln**
-- **Ausbildungsnachweis kontrollieren**
-- **Geeignete Ausbilder einsetzen**  Pflicht zur einwandfreien Ausbildung
-- **Keine ausbildungsfremden Tätigkeiten**
-- **Arbeitszeitregelungen einhalten**
-- **Gesundheits- & Arbeitsschutz gewährleisten**
-    
+### 🧑‍🏫 **Pflichten des Ausbildenden / Ausbildungsbetriebs**
 
+|Pflicht|Beschreibung|Gesetz / §|
+|---|---|---|
+|**Ausbildungspflicht**|Vermittlung der beruflichen Handlungsfähigkeit gemäß Ausbildungsziel.|**BBiG § 14 Abs. 1 Nr. 1**|
+|**Fürsorgepflicht**|Azubi muss geschützt werden (z. B. vor Gefahren, Mobbing, Überforderung).|**BBiG § 14 Abs. 1 Nr. 3**|
+|**Freistellungspflicht**|Freistellung für Berufsschule, Prüfungen, u. a.|**BBiG § 15**, **JArbSchG § 10**|
+|**Zeugnispflicht**|Am Ende der Ausbildung muss ein schriftliches Zeugnis ausgestellt werden.|**BBiG § 16**|
+|**Berichtsheftkontrolle**|Das Berichtsheft muss regelmäßig kontrolliert und unterschrieben werden.|**BBiG § 14 Abs. 1 Nr. 4**|
+|**Bereitstellung von Ausbildungsmitteln**|Z. B. Bücher, Werkzeuge etc. müssen kostenlos gestellt werden.|**BBiG § 14 Abs. 1 Nr. 2**|
+|**Keine ausbildungsfremden Tätigkeiten**|Nur Tätigkeiten, die dem Ausbildungsziel dienen.|**BBiG § 14 Abs. 2**|
+
+---
+
+### 📚 Hinweis:
+
+> Das **BBiG (Berufsbildungsgesetz)** ist das wichtigste Gesetz für die Ausbildung. Ergänzend greifen z. B.:
+> 
+> - **JArbSchG** (für unter 18-Jährige),
+>     
+> - **ArbZG**, **BUrlG**, **AGG**, **BetrVG** je nach Situation.
+>
 ---
 
 ### 6. ⏰ Arbeitszeit & Urlaub
