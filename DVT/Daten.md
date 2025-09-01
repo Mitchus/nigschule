@@ -178,7 +178,8 @@
 Ist besser um gesamtbild der Situation zu bekommen
 
 1  material manufacturing 
-2 automotive technology wheels copany
+2 automotive technology company
 3 sheetmetal-factory  
 4 independent
 5 IT sysintegration
+![[Pasted image 20250901141711.png]]
