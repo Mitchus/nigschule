@@ -61,7 +61,7 @@ in §13
 in §14  
 - **Ausbildungsziel vermitteln**
 - **Ausbildungsnachweis kontrollieren**
-- **Geeignete Ausbilder einsetzen**
+- **Geeignete Ausbilder einsetzen**  Pflicht zur einwandfreien Ausbildung
 - **Keine ausbildungsfremden Tätigkeiten**
 - **Arbeitszeitregelungen einhalten**
 - **Gesundheits- & Arbeitsschutz gewährleisten**
@@ -82,11 +82,11 @@ in §14
 
 ### 7. 📅 Probezeit & Kündigung
 
-|Punkt|Regelung|
-|---|---|
-|**Probezeit**|min. 1 Monat – max. 4 Monate|
-|**Kündigung in Probezeit**|jederzeit, ohne Frist|
-|**Kündigung nach Probezeit**|nur aus wichtigem Grund, oder vom Azubi mit 4 Wochen Frist bei Berufswechsel|
+| Punkt                        | Regelung                                                                     |
+| ---------------------------- | ---------------------------------------------------------------------------- |
+| **Probezeit**                | min. 1 Monat – max. 4 Monate                                                 |
+| **Kündigung in Probezeit**   | jederzeit, ohne Frist                                                        |
+| **Kündigung nach Probezeit** | nur aus wichtigem Grund, oder vom Azubi mit 4 Wochen Frist bei Berufswechsel |
 
 ---
 

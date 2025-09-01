@@ -318,18 +318,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "839c453dec210c08",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -338,17 +328,16 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 526.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -365,11 +354,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fb2e3ce8494e28e7",
+  "active": "2bc27620e532585f",
   "lastOpenFiles": [
+    "copilot-conversations/überdenke_und_überarbeite_die_struktur@20250901_103417.md",
+    "copilot-conversations",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
     "Sozialkunde/Europäisches Parlament.md",
     "Berufsausbildungsstuff/Berufsausbildungskram.md",
     "Berufsausbildungsstuff",
@@ -384,23 +393,9 @@
     "Mathe/Differenzialrechnung.md",
     "Excalidraw/Entstehung einer revolutionären Situation in Frankreich.md",
     "Excalidraw/Entwicklung der Industrie in der SBZ.md",
-    "Excalidraw/Flachbettscanner.md",
     "Excalidraw/Hunger Games.png",
-    "Excalidraw/Markt Übersicht.md",
-    "Excalidraw/Mathestuff.md",
-    "Excalidraw/Philo Platon.md",
-    "Excalidraw/Plastik.md",
-    "Excalidraw/Soziale Lage am Vorabend der Revolution 48u49.md",
-    "Excalidraw/Soziales Handeln Selbstbestimmung.md",
-    "BI/Bi Test notiz.md",
     "DVT/files/Pasted image 20240215122456.png",
     "DVT/files/Pasted image 20240215122406.png",
-    "DVT/files/2019_AUFGABEN_DVT_ABI.md",
-    "DVT/DVT Aufgaben.md",
-    "DVT/CPU.md",
-    "DVT/Eingabe und Ausgabe.md",
-    "DVT/Festplatten.md",
-    "DVT/GPU.md",
     "DVT/files/Pasted image 20250409144713.png",
     "DVT/files/Pasted image 20250407133908.png",
     "DVT/Unbenannt.canvas",
@@ -417,8 +412,6 @@
     "Noten.ods",
     "lu6014jshx.tmp",
     "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
-    "13./Deutsch",
-    "13.",
     "Chemie/Untitled.canvas",
     "Englisch/Timeline.canvas",
     "Physik/Energie.canvas",
