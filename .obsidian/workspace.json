@@ -146,10 +146,15 @@
             "id": "29cf40730f2f0a66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graphansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Sozialkunde/Europäisches Parlament.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Europäisches Parlament"
             }
           }
         ],
@@ -349,10 +354,18 @@
   },
   "active": "29cf40730f2f0a66",
   "lastOpenFiles": [
+    "Sozialkunde/Europäischer Gerichtshof.md",
+    "Sozialkunde/Europäischer Rat.md",
+    "Sozialkunde/Europäische Kommission.md",
+    "Excalidraw/Arbeitsblatt Marktarten.md",
+    "Excalidraw/AusgabeMonitor.md",
+    "Excalidraw/Hunger Games.md",
+    "Excalidraw/Kombinatorik.md",
+    "Excalidraw/Kombinatorik.png",
+    "Mathe/Differenzialrechnung.md",
     "Excalidraw/Entstehung einer revolutionären Situation in Frankreich.md",
     "Excalidraw/Entwicklung der Industrie in der SBZ.md",
     "Excalidraw/Flachbettscanner.md",
-    "Excalidraw/Hunger Games.md",
     "Excalidraw/Hunger Games.png",
     "Excalidraw/Markt Übersicht.md",
     "Excalidraw/Mathestuff.md",
@@ -360,8 +373,6 @@
     "Excalidraw/Plastik.md",
     "Excalidraw/Soziale Lage am Vorabend der Revolution 48u49.md",
     "Excalidraw/Soziales Handeln Selbstbestimmung.md",
-    "Excalidraw/Arbeitsblatt Marktarten.md",
-    "Excalidraw/AusgabeMonitor.md",
     "BI/Bi Test notiz.md",
     "DVT/files/Pasted image 20240215122456.png",
     "DVT/files/Pasted image 20240215122406.png",
@@ -373,11 +384,6 @@
     "DVT/GPU.md",
     "DVT/IP-Adressierung und Subnetting.md",
     "DVT/IsoOsi.md",
-    "DVT/Maus Aufgaben.md",
-    "DVT/Netzwerktechnik.md",
-    "DVT/Noten.md",
-    "DVT/Prozessorkomponenten in RIPES.md",
-    "DVT/Ram.md",
     "DVT/files/Pasted image 20250409144713.png",
     "DVT/files/Pasted image 20250407133908.png",
     "DVT/Unbenannt.canvas",
@@ -385,7 +391,6 @@
     "Sozialkunde/files/Pasted image 20250328102758.png",
     "Sozialkunde/files/Pasted image 20250328103128.png",
     "Sozialkunde/files/Pasted image 20241018095812.png",
-    "Sozialkunde/files/Pasted image 20241018095748.png",
     "Wirtschaft/Markt und Preis/files/TRUMPSHIT",
     "Wirtschaft/Markt und Preis/files",
     "Geschichte/Untitled.canvas",
