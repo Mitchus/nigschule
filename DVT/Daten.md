@@ -176,3 +176,9 @@
     - Nur eingeschränkte statistische Verfahren möglich
 
 Ist besser um gesamtbild der Situation zu bekommen
+
+1  material manufacturing 
+2 automotive technology wheels copany
+3 sheetmetal-factory  
+4 independent
+5 IT sysintegration
