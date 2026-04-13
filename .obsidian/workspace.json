@@ -23,142 +23,154 @@
             }
           },
           {
-            "id": "6f7deafd08f07295",
+            "id": "342f7d3a051f1ea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaft/Markt und Preis/Markt & Preis.md",
+                "file": "ZQ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Markt & Preis"
+              "title": "ZQ"
             }
           },
           {
-            "id": "ef1e79f8bca43d52",
+            "id": "2a50a6e54f7a541c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Mediationsss.md",
+                "file": "Deutsch/Faust.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mediationsss"
+              "title": "Faust"
             }
           },
           {
-            "id": "14e2679368ee6afb",
+            "id": "24b262fe26d1ba2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Hunger Games.md",
+                "file": "Mathe/Stochhastik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hunger Games"
+              "title": "Stochhastik"
             }
           },
           {
-            "id": "5875502b58e1cf27",
+            "id": "d229cb1db3ce4b78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DVT/CPU.md",
+                "file": "ZQ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "ZQ"
             }
           },
           {
-            "id": "b4658ef3f6073d3a",
+            "id": "43d9028ba82440f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DVT/Rechnerarchitekturen.md",
+                "file": "Deutsch/Sachtextanalyse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rechnerarchitekturen"
+              "title": "Sachtextanalyse"
             }
           },
           {
-            "id": "447f5f1d78166cd2",
+            "id": "845dc9c4c7acac4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Deutsch/Barock.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.12.7"
               },
-              "icon": "lucide-file",
-              "title": "Barock"
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.12.7"
             }
           },
           {
-            "id": "7862a324ecb1f10b",
+            "id": "6d931ab48abcf844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Abi.md",
+                "file": "DVT/Netzwerktechnik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Abi"
+              "title": "Netzwerktechnik"
             }
           },
           {
-            "id": "6431e198290ef745",
+            "id": "c1c949c709424dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DVT/Prozessorkomponenten in RIPES.md",
+                "file": "DVT/Kurt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prozessorkomponenten in RIPES"
+              "title": "Kurt"
             }
           },
           {
-            "id": "29cf40730f2f0a66",
+            "id": "09dba4e70a8ca174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DVT/Daten.md",
+                "file": "Mediation MN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Daten"
+              "title": "Mediation MN"
+            }
+          },
+          {
+            "id": "c75180790a7261c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DVT/Kurt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Kurt"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DSGVO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,7 +223,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -303,8 +316,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -313,22 +326,12 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "a0a199983fa70d7a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -337,80 +340,78 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Graph-Ansicht öffnen": false,
-      "bases:Create new base": false,
       "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "markdown-importer:Markdown Importprogramm öffnen": false,
       "audio-recorder:Audioaufzeichnung starten/stoppen": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Copilot Chat": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "29cf40730f2f0a66",
+  "active": "c75180790a7261c3",
   "lastOpenFiles": [
-    "DVT/files/Pasted image 20250901141711.png",
-    "DVT/files/Pasted image 20250901141643.png",
-    "Berufsausbildungsstuff/Berufsausbildungskram.md",
-    "DVT/Daten.md",
-    "Mathe/Differenzialrechnung.md",
-    "DVT/files/2019_AUFGABEN_DVT_ABI.md",
-    "copilot-conversations/überdenke_und_überarbeite_die_struktur@20250901_103417.md",
-    "copilot-conversations",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot-custom-prompts",
-    "Sozialkunde/Europäisches Parlament.md",
-    "Berufsausbildungsstuff",
-    "Sozialkunde/Europäischer Gerichtshof.md",
-    "Sozialkunde/Europäischer Rat.md",
-    "Sozialkunde/Europäische Kommission.md",
-    "Excalidraw/Arbeitsblatt Marktarten.md",
-    "Excalidraw/AusgabeMonitor.md",
-    "Excalidraw/Hunger Games.md",
-    "Excalidraw/Kombinatorik.png",
-    "Excalidraw/Hunger Games.png",
-    "DVT/files/Pasted image 20240215122456.png",
-    "DVT/files/Pasted image 20240215122406.png",
-    "DVT/files/Pasted image 20250409144713.png",
-    "DVT/files/Pasted image 20250407133908.png",
-    "DVT/Unbenannt.canvas",
-    "Sozialkunde/files/Pasted image 20250328101833.png",
-    "Sozialkunde/files/Pasted image 20250328102758.png",
-    "Sozialkunde/files/Pasted image 20250328103128.png",
-    "Wirtschaft/Markt und Preis/files/TRUMPSHIT",
-    "Wirtschaft/Markt und Preis/files",
+    "Prompt Engineering in der Anwendungsentwicklung.md",
+    "DVT/Kurt.md",
+    "Deutsch/Unfallbericht und Berichtsheft-Eintrag – Montag, 23.02.2026.md",
+    "Chemie/files/scanner_20250120_132713.jpg",
+    "Mediation MN.md",
+    "DVT/files/Pasted image 20260413124540.png",
+    "DVT/files/Pasted image 20260413124521.png",
+    "DVT/files/Pasted image 20260413124504.png",
+    "DVT/files/Pasted image 20260413124209.png",
+    "DVT/Netzwerktechnik.md",
+    "Deutsch/Spielablauf.md",
+    "Deutsch/Untitled.md",
+    "ZQ 2.md",
+    "Chemie/files/Pasted image 20240502074120.png",
+    "Chemie/files/Pasted image 20240130103308.png",
+    "Chemie/files/Pasted image 20231121101939.png",
+    "files/Pasted image 20260302111424.png",
+    "17D62L~H/Deutsch/Romantische Ironie.md",
+    "Englisch/files/Pasted image 20231110094456.png",
+    "Englisch/Noten.md",
+    "Englisch/Obama.md",
+    "Englisch/Outline of _Globalization is under attack_ by John Rennie Short.md",
+    "Englisch/Privacy.md",
+    "Englisch/Summary.md",
+    "Englisch/The Hunger Games Part 2.md",
+    "Englisch/Timeline.canvas",
+    "Englisch/Untitled.md",
+    "Englisch/Charakterisierung.md",
+    "Englisch/Analysis of Selin's Perception of Harvard in _The Idiot_ by Elif Batuman.md",
+    "Englisch/all new shit.md",
+    "Englisch/Adolescence.md",
+    "Englisch/Mediationsss.md",
+    "Englisch/Klausurstuff.md",
+    "Englisch/Hunger Games.md",
+    "LF2 Aufgaben.md",
+    "DVT/Unbenannt 1.md",
+    "DVT/IP-Adressierung und Subnetting.md",
+    "files",
     "Geschichte/Untitled.canvas",
     "Geschichte/Untitled 1.canvas",
+    "Physik/Energie.canvas",
+    "DVT/Untitled.canvas",
+    "Berufsausbildungsstuff/files",
+    "DVT/Unbenannt.canvas",
+    "Religion",
+    "copilot-conversations",
+    "copilot-custom-prompts",
+    "Berufsausbildungsstuff",
+    "Wirtschaft/Markt und Preis/files/TRUMPSHIT",
+    "Wirtschaft/Markt und Preis/files",
     "Sozialkunde/files",
     "lu6014jsl7.tmp",
-    "Noten.ods",
-    "lu6014jshx.tmp",
-    "Geschichte/files/2024_09_06 10_28 Office Lens.pdf",
     "Chemie/Untitled.canvas",
-    "Englisch/Timeline.canvas",
-    "Physik/Energie.canvas",
     "Untitled 1.canvas"
   ]
 }

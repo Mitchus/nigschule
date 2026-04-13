@@ -1,6 +1,9 @@
 ![[Ram]]
 ![[Festplatten]]
+
 ![[CPU]]
+
+
 ![[Anschlüsse und Erweiterungen]]
 ![[Prozessorkomponenten in RIPES]]
 ![[GPU]]

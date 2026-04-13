@@ -8,7 +8,7 @@
 | Datenübertragung              | Beschreibung von Netzwerkdaten.                                          |
 | Bandbreite und Datendurchsatz | Erläuterungen zur Übertragungsgeschwindigkeit und -kapazität des Netzes. |
 |                               |                                                                          |
-## Netzwerktyen
+## Netzwerktypen
 Lokale Netzwerke:
 Kleine Heimnetzwerke
 
@@ -178,6 +178,55 @@ Eine kostengünstige Option, die eine beliebige Telefonleitung und ein Modem ver
 
 Satellitenverbindung
 ![[Pasted image 20240215122854.png]]
+
+# Übersicht: Netzwerk-Clients
+
+## Definition
+Ein **Client** ist ein Endgerät oder ein Programm, das Dienste oder Ressourcen von einem **Server** anfordert.  
+Er ist also die **anfragende Instanz** in einer Client-Server-Architektur.
+
+## Wann ist etwas ein Client?
+- Immer dann, wenn es eine Verbindung zu einem Server herstellt und **Anfragen stellt**.  
+- Der Client **nutzt** Dienste, stellt sie aber nicht zur Verfügung.  
+- Beispiele: Ein Webbrowser lädt eine Webseite von einem Webserver, ein E-Mail-Programm ruft Nachrichten von einem Mailserver ab.
+
+## Häufige Arten von Clients
+- **Web-Client**  
+  - Beispiel: Browser (Chrome, Firefox, Edge)  
+  - Kommuniziert mit Webservern über HTTP/HTTPS.  
+
+- **Mail-Client**  
+  - Beispiel: Outlook, Thunderbird  
+  - Holt Mails von Mailservern (IMAP/POP3) und sendet über SMTP.  
+
+- **FTP-Client**  
+  - Beispiel: FileZilla  
+  - Ermöglicht Dateiübertragung mit einem FTP-Server.  
+
+- **SSH-Client**  
+  - Beispiel: PuTTY, OpenSSH  
+  - Stellt sichere Verbindungen zu Servern her (Remote-Login, Administration).  
+
+- **Datenbank-Client**  
+  - Beispiel: phpMyAdmin, DBeaver  
+  - Greift auf Datenbanken (z. B. MySQL, PostgreSQL) zu.  
+
+- **Chat-/Messenger-Client**  
+  - Beispiel: Signal, WhatsApp Desktop, Slack  
+  - Verbindet sich mit Messaging-Servern.  
+
+- **Spiele-Client**  
+  - Beispiel: Steam, Minecraft-Launcher  
+  - Verbindet sich mit Gaming-Servern und verwaltet Daten.  
+
+- **Dateifreigabe-/Cloud-Client**  
+  - Beispiel: Nextcloud Client, Google Drive Sync  
+  - Synchronisiert Dateien zwischen Endgerät und Cloud-Server.  
+
+---
+👉 Merksatz:  
+Ein **Client** = fragt an, nutzt Ressourcen.  
+Ein **Server** = antwortet, stellt Ressourcen bereit.
 
 
 ## Modul 2

@@ -61,3 +61,39 @@ neue Hosts pro Subnetzwerk= 2⁶
 
 
 11000000.10101000.00000101.0000|0000
+
+1.     **Nennen** Sie die drei Adressierungsverfahren und **beschreiben**, wie diese sich unterscheiden.
+Unicast Einer Broadcast Alle MultiCast Mehrere
+
+2.     Folgend ist eine IP-Adresse dargestellt. **Beschriften** Sie an dieser die folgenden Begriffe:        _Hostanteil, Netzanteil, Oktett, 32 Bit, Subnetzmaske, CIDR-Notation_
+
+172.10.77.2 / 16
+Netz  | Host
+255.255.0.0
+
+3.     Eine IPv4-Adresse unterteilt sich in einen Netzanteil und eine Hostanteil. **Beschreiben** Sie, wofür wir diese beiden Bereiche verwenden.
+Netz Anteil beschreibt in welchem Netzwerk, Host Anteil welcher Host in diesem Netzwerk
+4.     Lucas, unser Administrator, möchte ein neues Netzwerk konfigurieren. In diesem sollen 55 Hosts eingebunden werden. **Bestimmen** Sie für die folgenden Netzbereiche die mögliche Anzahl an Adressen, die für Host vergeben werden können. **Entscheiden** Sie anschließend, ob diese für Lucas Vorhaben ausreichend sind.
+
+|         |                  |                                 |                  |
+| ------- | ---------------- | ------------------------------- | ---------------- |
+| **Nr.** | **Netzbereich**  | **Mögliche Anzahl an Adressen** | **Ausreichend?** |
+| 1       | 192.168.0.0 / 27 | 30                              |                  |
+| 2       | 192.168.0.0 / 24 | 254                             |                  |
+| 3       | 192.168.0.0 / 30 | 4                               |                  |
+| 4       | 192.168.0.0 / 23 | 512                             |                  |
+
+5.     **Beschreiben** Sie in 2 – 3 Sätzen, was wir unter dem Default Gateway verstehen und wo wir es in der Regel in einem Netzwerk konfigurieren.
+
+Erste Adresse des Netzwerks, Verbindung zum Internet/anderes Netzwerken / Router
+
+6.     **Beschreiben** Sie kurz, wie sich private und öffentliche IP-Adressen unterscheiden und warum diese Unterscheidung eingeführt wurde.
+Private IPs/ Localips
+
+
+7.     **Nennen** Sie den Command Line Befehl, um die eigene Netzwerkkonfiguration eines Hosts anzuzeigen.
+ifconfig
+8.     **Nennen** Sie den Command Line Befehl, mit dem wir überprüfen, ob ein anderer Host im Netzwerk erreichbar ist.
+ping
+9.     **Nennen** Sie den Befehl, den Sie im CLI eingeben, wenn Sie für das Netzwerk 192.168.0.0 / 24 einen Broadcast an alle Hosts in dem Netzwerk versenden wollen.
+Curl / Ping

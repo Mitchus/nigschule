@@ -81,3 +81,21 @@ appli
 was ist das protokoll
 wie arbeitet es
 welche Osischicht etc
+
+
+**Aufgabe:**
+
+1. **Notieren** Sie sich in Einzelarbeit Tätigkeiten mit digitalen Geräten in Ihrem Alltag und überlegen sich, wie diese mit einem Netzwerk zusammenhängen. Wenn Sie bereits Begriffe dazu kennen, notieren Sie sich diese ebenfalls. - ca. 15 Minuten
+tcp udp http/s ssh sftp tls 
+Tv Handy PC Laptop 
+Clients
+
+1. Begeben Sie sich in Ihre Teams und **besprechen** Ihre Ergebnisse aus Ihrer Einzelarbeit. **Gestalten** Sie gemeinsam eine Übersicht, die folgende Aspekte enthält:
+    - Was wir täglich tun
+        - Medien Konsumieren
+    - Was im Hintergrund passiert (Stichworte)
+        - Medien werden übertragen
+    - Was wäre ohne Netzwerke nicht möglich  
+        - Die Übertragung von Medien
+            Hinweis: Ein Aspekt soll in Bilder/Icons/etc. dargestellt werden, ein Aspekt in Text und ein Aspekt in Gedichtsform ;)  
+            - ca. 20 Minuten

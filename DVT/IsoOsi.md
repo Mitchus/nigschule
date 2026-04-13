@@ -113,3 +113,70 @@ Wird eine Datei nicht über einen Browser oder anderen Client im Web abgerufen, 
 https://peter:beispiel@www.beispiel.de:8080/index.html
 
 In diesem Fall besteht die URL neben dem Protokoll/Schema noch aus dem User-Namen mit Kennwort, dem Host der Datei (www.beispiel.de) sowie dem Port (8080), über welchen die Daten abgerufen werden können.
+
+
+0.016 106 127 360
+14Pb 14 000 000 000 MB
+4 398 046 511 104 Bytes
+
+
+7 x 13 
+294 840 000 Bits pro bild
+**Lösung:**
+
+1. Umrechnung in Inch:
+    - Breite: 33,02 cm ÷ 2,54 = 13 Inch
+    - Höhe: 17,78 cm ÷ 2,54 = 7 Inch
+2. Pixel berechnen:
+    - Breite: 13 × 300 = 3.900 Pixel
+    - Höhe: 7 × 300 = 2.100 Pixel
+    - Gesamt: 3.900 × 2.100 = 8.190.000 Pixel
+3. Speicherbedarf pro Bild:
+    - Pro Pixel: 3 Kanäle × 12 Bit = 36 Bit = 4,5 Byte
+    - Pro Bild: 8.190.000 × 4,5 = 36.855.000 Byte
+4. Für 1000 Bilder:
+    - 36.855.000 × 1.000 = 36.855.000.000 Byte
+    - **= 36,855 GB = 34,33 GiB = 0,03369 TiB**
+
+
+786 432 Pixel x 12Bit/Pixel
+9 437 184 Bits pro Bild
+31 850 496 000 Bytes pro Video uncompressed
+318 504 960 compressed 
+1 592 524 800 000 Bytes 5k Vids
+1,448 392 868 TiB
+
+
+
+BC lwl können einfACH BRECHEN MAX BIEGE RADIUS
+
+![[Pasted image 20251118085106.png]]
+Wir unterscheiden grundsätzlich in zwei Arten von LWL, je nachdem wieviele Moden “gleichzeitig” übertragen werden; Eine Mode (Single- bzw. Monomode) oder mehrere Moden (Multimode) [2].
+
+Multimode-Faser mit Stufenindexprofil
+![[Pasted image 20251118085450.png]]
+
+Gesamtdurchmesser von 200 bis 500 µm
+mehrere Lichtwellen gleichzeitig geschickt
+Signal hart reflektiert
+Ausgangssignal wird dadurch schlechter
+
+Multimode-Faser mit Gradientenindexprofil
+![[Pasted image 20251118085510.png]]
+Gesamtdurchmesser von 125 µm
+mehrere Lichtwellen gleichzeitig
+Signal weich reflektiert (Gradient)
+Ausgangssignal ist noch sehr gut
+
+Monomode-Faser / Singlemode-Faser
+![[Pasted image 20251118085529.png]]
+Gesamtdurchmesser von 125 µm
+weite Strecken
+nur ein Modus (Moden)
+erfordern den Einsatz sehr teurer Laser
+für Stadt- und Zugangsnetze optimiert
+
+
+Störungfreies Übertragungsmittel 
+Schelligkeit
+Distanz

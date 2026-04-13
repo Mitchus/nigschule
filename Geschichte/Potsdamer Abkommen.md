@@ -7,7 +7,9 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+
+## Text Elements
 Stalin, Truman, 
 Churchill ^YhS1kgL2
 
@@ -33,532 +35,66 @@ Die D's ^ztqZkRW8
 
 der pol. Weitblick ^xkLYtjV9
 
-
-# Embedded files
+## Embedded Files
 510df286bf7d792168178954d864f06c8bdc2f95: [[Pasted Image 20241010083937_131.png]]
 
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
-	"elements": [
-		{
-			"id": "MHso44DhrhJuaCIlZgV8p",
-			"type": "image",
-			"x": -436.04325726738244,
-			"y": -531.0108108520508,
-			"width": 789.8857122480216,
-			"height": 1062.0045166015625,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 676330228,
-			"version": 116,
-			"versionNonce": 2114030924,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728542397021,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "510df286bf7d792168178954d864f06c8bdc2f95",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"id": "YhS1kgL2",
-			"type": "text",
-			"x": -368.3581210063749,
-			"y": -191.02816430856342,
-			"width": 157.43983459472656,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2071593932,
-			"version": 27,
-			"versionNonce": 1877288436,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728542414170,
-			"link": null,
-			"locked": false,
-			"text": "Stalin, Truman, \nChurchill",
-			"rawText": "Stalin, Truman, \nChurchill",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 41,
-			"containerId": null,
-			"originalText": "Stalin, Truman, \nChurchill",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "bhQVNOFv",
-			"type": "text",
-			"x": -119.19396059581237,
-			"y": -79.54027539993245,
-			"width": 188.93980407714844,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 539179252,
-			"version": 24,
-			"versionNonce": 2137644660,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543100127,
-			"link": null,
-			"locked": false,
-			"text": "4 Besatzungszonen",
-			"rawText": "4 Besatzungszonen",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "4 Besatzungszonen",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "Q94pAAUT",
-			"type": "text",
-			"x": -211.22759618615447,
-			"y": -24.918724171856866,
-			"width": 426.4195556640625,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1731449204,
-			"version": 41,
-			"versionNonce": 249525196,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543148274,
-			"link": null,
-			"locked": false,
-			"text": "Wurde unter GB F USA UDSSR aufgeteilt ",
-			"rawText": "Wurde unter GB F USA UDSSR aufgeteilt ",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "Wurde unter GB F USA UDSSR aufgeteilt ",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "ANMHsEyR",
-			"type": "text",
-			"x": -176.80850888994001,
-			"y": 2.766153993467242,
-			"width": 200.93978881835938,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 974516428,
-			"version": 45,
-			"versionNonce": 542487540,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543195805,
-			"link": null,
-			"locked": false,
-			"text": "Alliierten Kontrollrat",
-			"rawText": "Alliierten Kontrollrat",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "Alliierten Kontrollrat",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "SrySb7ha",
-			"type": "text",
-			"x": -191.02509386314426,
-			"y": 25.213364900182967,
-			"width": 118.81988525390625,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1548240628,
-			"version": 18,
-			"versionNonce": 1348686708,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543206716,
-			"link": null,
-			"locked": false,
-			"text": "An der Oder",
-			"rawText": "An der Oder",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "An der Oder",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "f4Kz30s3",
-			"type": "text",
-			"x": -361.6239467820477,
-			"y": 103.03041551732076,
-			"width": 359.9595947265625,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 638846580,
-			"version": 105,
-			"versionNonce": 286921292,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543285656,
-			"link": null,
-			"locked": false,
-			"text": "Zwangsumsiedlung aus Sudetengebiet",
-			"rawText": "Zwangsumsiedlung aus Sudetengebiet",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "Zwangsumsiedlung aus Sudetengebiet",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "lL2jiRUE",
-			"type": "text",
-			"x": -253.12905932468288,
-			"y": 156.90372546393615,
-			"width": 371.93963623046875,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2014782924,
-			"version": 40,
-			"versionNonce": 1430101364,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543330075,
-			"link": null,
-			"locked": false,
-			"text": "Zahlungen, Demontage für Ressourcen",
-			"rawText": "Zahlungen, Demontage für Ressourcen",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "Zahlungen, Demontage für Ressourcen",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "EsxTpGuj",
-			"type": "text",
-			"x": -102.73270872878953,
-			"y": 184.58864531914725,
-			"width": 198.27978515625,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1013174388,
-			"version": 29,
-			"versionNonce": 1024713972,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543462762,
-			"link": null,
-			"locked": false,
-			"text": "Nürnberger Prozesse",
-			"rawText": "Nürnberger Prozesse",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "Nürnberger Prozesse",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "XPe5GCxa",
-			"type": "text",
-			"x": -366.1133927428207,
-			"y": 207.03582926771747,
-			"width": 155.07981872558594,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 300824564,
-			"version": 22,
-			"versionNonce": 2002323916,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543497680,
-			"link": null,
-			"locked": false,
-			"text": "Nazis entlassen",
-			"rawText": "Nazis entlassen",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "Nazis entlassen",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "uYrwXua2",
-			"type": "text",
-			"x": -366.86164283401814,
-			"y": 314.7825083237719,
-			"width": 656.0994262695312,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1973552844,
-			"version": 74,
-			"versionNonce": 559327604,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543548722,
-			"link": null,
-			"locked": false,
-			"text": "Entwaffnen, keine Vernichtung der Deutschen, nur deren Kriegsgeist",
-			"rawText": "Entwaffnen, keine Vernichtung der Deutschen, nur deren Kriegsgeist",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "Entwaffnen, keine Vernichtung der Deutschen, nur deren Kriegsgeist",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "ztqZkRW8",
-			"type": "text",
-			"x": -365.36516349656665,
-			"y": 340.2226942132321,
-			"width": 72.69992065429688,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 919033036,
-			"version": 8,
-			"versionNonce": 107948148,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543564579,
-			"link": null,
-			"locked": false,
-			"text": "Die D's",
-			"rawText": "Die D's",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "Die D's",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "xkLYtjV9",
-			"type": "text",
-			"x": -362.3722048216637,
-			"y": 412.8020358818744,
-			"width": 163.7198028564453,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 820943732,
-			"version": 23,
-			"versionNonce": 1554326732,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1728543613765,
-			"link": null,
-			"locked": false,
-			"text": "der pol. Weitblick",
-			"rawText": "der pol. Weitblick",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 16,
-			"containerId": null,
-			"originalText": "der pol. Weitblick",
-			"lineHeight": 1.25
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 488.3572192888632,
-		"scrollY": 112.63828358994394,
-		"zoom": {
-			"value": 1.4640278661668522
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+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=
 ```
 %%

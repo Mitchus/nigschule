@@ -7,7 +7,9 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+
+## Text Elements
 Westliches Bündnissystem Nato gegr. 4.4.1949 Aufgabe: militärische Verteridigung d.h. Beistand bei einem bewaffneten Angriff gegen einen oder mehrere der Mitgliedsstaaten in Europa oder Nordamerika (art. 5, Nato-Vertrag ^1fP8XY12
 
 Bundesrepublik Deutschland 
@@ -30,791 +32,92 @@ Aufgabe: militärische Verleidigung d.h. Beistand im Falle eines bewaffneten Üb
 (Art. 4, Warschauer Vertrag) ^1jtkkPvu
 
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
-	"elements": [
-		{
-			"id": "_RnGDfMhOIPvO2S6kX5xj",
-			"type": "rectangle",
-			"x": -598.8447723388672,
-			"y": -351.1828155517578,
-			"width": 154,
-			"height": 567,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 1798239022,
-			"version": 336,
-			"versionNonce": 709849390,
-			"isDeleted": false,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "1fP8XY12"
-				},
-				{
-					"id": "A4a2t_QZdRlWMsEhuFZ2Q",
-					"type": "arrow"
-				},
-				{
-					"id": "EE8AIrTPM2AZfWObLi6eQ",
-					"type": "arrow"
-				}
-			],
-			"updated": 1731321183359,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "1fP8XY12",
-			"type": "text",
-			"x": -593.8346862792969,
-			"y": -305.1828155517578,
-			"width": 143.97982788085938,
-			"height": 475,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 413712430,
-			"version": 974,
-			"versionNonce": 1709513582,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321183359,
-			"link": null,
-			"locked": false,
-			"text": "Westliches \nBündnissystem\nNato gegr. \n4.4.1949 \nAufgabe: \nmilitärische \nVerteridigung \nd.h. Beistand \nbei einem \nbewaffneten \nAngriff gegen \neinen oder \nmehrere der \nMitgliedsstaat\nen in Europa \noder \nNordamerika \n(art. 5, Nato-\nVertrag",
-			"rawText": "Westliches Bündnissystem Nato gegr. 4.4.1949 Aufgabe: militärische Verteridigung d.h. Beistand bei einem bewaffneten Angriff gegen einen oder mehrere der Mitgliedsstaaten in Europa oder Nordamerika (art. 5, Nato-Vertrag",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 467,
-			"containerId": "_RnGDfMhOIPvO2S6kX5xj",
-			"originalText": "Westliches Bündnissystem Nato gegr. 4.4.1949 Aufgabe: militärische Verteridigung d.h. Beistand bei einem bewaffneten Angriff gegen einen oder mehrere der Mitgliedsstaaten in Europa oder Nordamerika (art. 5, Nato-Vertrag",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "rectangle",
-			"version": 198,
-			"versionNonce": 564766830,
-			"isDeleted": false,
-			"id": "QQe8Nq_BZqV6NYCrgFuKq",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -347.546630859375,
-			"y": -358.5214538574219,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 186,
-			"height": 137,
-			"seed": 1325517234,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "TdxcSTZY"
-				},
-				{
-					"id": "A4a2t_QZdRlWMsEhuFZ2Q",
-					"type": "arrow"
-				}
-			],
-			"updated": 1731321171427,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "TdxcSTZY",
-			"type": "text",
-			"x": -340.93653106689453,
-			"y": -340.0214538574219,
-			"width": 172.77980041503906,
-			"height": 100,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 992172718,
-			"version": 175,
-			"versionNonce": 997616302,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321171427,
-			"link": null,
-			"locked": false,
-			"text": "Bundesrepublik \nDeutschland \nMitglied seit 1955\nBundeswehr",
-			"rawText": "Bundesrepublik Deutschland \nMitglied seit 1955 Bundeswehr",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 92,
-			"containerId": "QQe8Nq_BZqV6NYCrgFuKq",
-			"originalText": "Bundesrepublik Deutschland \nMitglied seit 1955 Bundeswehr",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "rectangle",
-			"version": 216,
-			"versionNonce": 1987975982,
-			"isDeleted": false,
-			"id": "Uk9ksC_G80KV_vUFli1cg",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -157.290771484375,
-			"y": -370.2177429199219,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 208,
-			"height": 160,
-			"seed": 1305663790,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "P2XRsJwl"
-				},
-				{
-					"id": "kGXFPIOHruuz4cTfL0sHK",
-					"type": "arrow"
-				}
-			],
-			"updated": 1731321173672,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "P2XRsJwl",
-			"type": "text",
-			"x": -144.90066528320312,
-			"y": -365.2177429199219,
-			"width": 183.21978759765625,
-			"height": 150,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 112689518,
-			"version": 199,
-			"versionNonce": 1252951406,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321173672,
-			"link": null,
-			"locked": false,
-			"text": "Deutsche \nDemokratische \nRepublik\nMitglied seit 1956 \nNationale \nVolksarmee",
-			"rawText": "Deutsche Demokratische Republik\nMitglied seit 1956 Nationale Volksarmee",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 142,
-			"containerId": "Uk9ksC_G80KV_vUFli1cg",
-			"originalText": "Deutsche Demokratische Republik\nMitglied seit 1956 Nationale Volksarmee",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "rectangle",
-			"version": 550,
-			"versionNonce": 1881727342,
-			"isDeleted": false,
-			"id": "HYqBVlqnIaU87CY2yuJRU",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 118.77032470703125,
-			"y": -326.7469482421875,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 222,
-			"height": 460,
-			"seed": 1880630066,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "1jtkkPvu"
-				},
-				{
-					"id": "kGXFPIOHruuz4cTfL0sHK",
-					"type": "arrow"
-				},
-				{
-					"id": "6F57ZgTm96fXkaRUFJh8D",
-					"type": "arrow"
-				}
-			],
-			"updated": 1731321180508,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "1jtkkPvu",
-			"type": "text",
-			"x": 125.01045227050781,
-			"y": -321.7469482421875,
-			"width": 209.51974487304688,
-			"height": 450,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1115317170,
-			"version": 969,
-			"versionNonce": 1202095022,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321180508,
-			"link": null,
-			"locked": false,
-			"text": "Östichees \nBündnissystem:\nWarschauer Pakt\ngegr. 14.5.1955\nzuvor einzelne \nzweiseitige \nBeistandsverträge\nAufgabe: militärische \nVerleidigung d.h. \nBeistand im Falle \neines bewaffneten \nÜberfalls in Europa \nauf einen oder \nmehrere \nMitgliedsstaaten des\nVerrages\n(Art. 4, Warschauer \nVertrag)",
-			"rawText": "Östichees Bündnissystem:\nWarschauer Pakt\ngegr. 14.5.1955\nzuvor einzelne zweiseitige Beistandsverträge\nAufgabe: militärische Verleidigung d.h. Beistand im Falle eines bewaffneten Überfalls in Europa auf einen oder mehrere Mitgliedsstaaten des Verrages\n(Art. 4, Warschauer Vertrag)",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 442,
-			"containerId": "HYqBVlqnIaU87CY2yuJRU",
-			"originalText": "Östichees Bündnissystem:\nWarschauer Pakt\ngegr. 14.5.1955\nzuvor einzelne zweiseitige Beistandsverträge\nAufgabe: militärische Verleidigung d.h. Beistand im Falle eines bewaffneten Überfalls in Europa auf einen oder mehrere Mitgliedsstaaten des Verrages\n(Art. 4, Warschauer Vertrag)",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "rectangle",
-			"version": 363,
-			"versionNonce": 383304174,
-			"isDeleted": false,
-			"id": "1Um13mRPCzI-05fJ8gkww",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -344.26788330078125,
-			"y": -188.38583374023438,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 351,
-			"height": 152,
-			"seed": 1274002414,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "Wl3BmxQ5"
-				},
-				{
-					"id": "EE8AIrTPM2AZfWObLi6eQ",
-					"type": "arrow"
-				},
-				{
-					"id": "6F57ZgTm96fXkaRUFJh8D",
-					"type": "arrow"
-				},
-				{
-					"id": "d_2iwhCFjUWv3xzTujuF8",
-					"type": "arrow"
-				}
-			],
-			"updated": 1731321175369,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "Wl3BmxQ5",
-			"type": "text",
-			"x": -329.8876953125,
-			"y": -162.38583374023438,
-			"width": 322.2396240234375,
-			"height": 100,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 263020658,
-			"version": 425,
-			"versionNonce": 1048990766,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321175369,
-			"link": null,
-			"locked": false,
-			"text": "Abschreckung durch militärisches \nGleichgewicht \nSicherheit durch \nVerteidigungsfähigkeit, aber:",
-			"rawText": "Abschreckung durch militärisches Gleichgewicht \nSicherheit durch Verteidigungsfähigkeit, aber:",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 92,
-			"containerId": "1Um13mRPCzI-05fJ8gkww",
-			"originalText": "Abschreckung durch militärisches Gleichgewicht \nSicherheit durch Verteidigungsfähigkeit, aber:",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "rectangle",
-			"version": 430,
-			"versionNonce": 1142277294,
-			"isDeleted": false,
-			"id": "NpZWPSdaTRFAK_G8zfMJQ",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -336.4609375,
-			"y": 16.75738525390625,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 356,
-			"height": 123,
-			"seed": 663960818,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "Uhx4UxcA"
-				},
-				{
-					"id": "d_2iwhCFjUWv3xzTujuF8",
-					"type": "arrow"
-				}
-			],
-			"updated": 1731321178470,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "Uhx4UxcA",
-			"type": "text",
-			"x": -301.0207824707031,
-			"y": 40.75738525390625,
-			"width": 285.11968994140625,
-			"height": 75,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 762995438,
-			"version": 220,
-			"versionNonce": 714407662,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321178470,
-			"link": null,
-			"locked": false,
-			"text": "Wettrüsten\nRüstungsspirale, Gefahr der \natomaren Katastrophe",
-			"rawText": "Wettrüsten\nRüstungsspirale, Gefahr der atomaren Katastrophe",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 67,
-			"containerId": "NpZWPSdaTRFAK_G8zfMJQ",
-			"originalText": "Wettrüsten\nRüstungsspirale, Gefahr der atomaren Katastrophe",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "A4a2t_QZdRlWMsEhuFZ2Q",
-			"type": "arrow",
-			"x": -363.4378662109375,
-			"y": -295.9638330551278,
-			"width": 64.4122314453125,
-			"height": 12.834283692783629,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1606311790,
-			"version": 1023,
-			"versionNonce": 1262563566,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321183376,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-64.4122314453125,
-					12.834283692783629
-				]
-			],
-			"lastCommittedPoint": [
-				-114.36444091796875,
-				19.718017578125
-			],
-			"startBinding": {
-				"elementId": "QQe8Nq_BZqV6NYCrgFuKq",
-				"gap": 15.8912353515625,
-				"focus": 0.3194279770352826
-			},
-			"endBinding": {
-				"elementId": "_RnGDfMhOIPvO2S6kX5xj",
-				"gap": 16.994674682617188,
-				"focus": -0.6582669138704699
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "kGXFPIOHruuz4cTfL0sHK",
-			"type": "arrow",
-			"x": 54.583984375,
-			"y": -291.10991534351194,
-			"width": 52.581298828124986,
-			"height": 3.871978938585812,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1292105262,
-			"version": 826,
-			"versionNonce": 426402350,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321180607,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					52.581298828124986,
-					3.871978938585812
-				]
-			],
-			"lastCommittedPoint": [
-				46.0086669921875,
-				1.31451416015625
-			],
-			"startBinding": {
-				"elementId": "Uk9ksC_G80KV_vUFli1cg",
-				"gap": 3.874755859375,
-				"focus": -0.10062962733275879
-			},
-			"endBinding": {
-				"elementId": "HYqBVlqnIaU87CY2yuJRU",
-				"gap": 11.60504150390625,
-				"focus": 0.7618915061861504
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "EE8AIrTPM2AZfWObLi6eQ",
-			"type": "arrow",
-			"x": -427.85009765625,
-			"y": -139.06098778489428,
-			"width": 64.4122314453125,
-			"height": 28.03222095426942,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 852277742,
-			"version": 1162,
-			"versionNonce": 1906330990,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321183376,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					64.4122314453125,
-					28.03222095426942
-				]
-			],
-			"lastCommittedPoint": [
-				102.53363037109375,
-				70.98480224609375
-			],
-			"startBinding": {
-				"elementId": "_RnGDfMhOIPvO2S6kX5xj",
-				"gap": 16.994674682617188,
-				"focus": -0.35454519523573014
-			},
-			"endBinding": {
-				"elementId": "1Um13mRPCzI-05fJ8gkww",
-				"gap": 19.16998291015625,
-				"focus": -0.5648958240251305
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "6F57ZgTm96fXkaRUFJh8D",
-			"type": "arrow",
-			"x": 108.47985839843751,
-			"y": -136.6672015126481,
-			"width": 87.36218261718754,
-			"height": 42.80132891069013,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 9332974,
-			"version": 1117,
-			"versionNonce": 362688174,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321180607,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-87.36218261718754,
-					42.80132891069013
-				]
-			],
-			"lastCommittedPoint": [
-				-65.7266845703125,
-				65.7266845703125
-			],
-			"startBinding": {
-				"elementId": "HYqBVlqnIaU87CY2yuJRU",
-				"gap": 10.29046630859375,
-				"focus": 0.3493550804458981
-			},
-			"endBinding": {
-				"elementId": "1Um13mRPCzI-05fJ8gkww",
-				"gap": 14.38555908203125,
-				"focus": 0.6886572630509087
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "d_2iwhCFjUWv3xzTujuF8",
-			"type": "arrow",
-			"x": -152.5271961468342,
-			"y": -27.3194580078125,
-			"width": 0.2844534260418925,
-			"height": 28.64434814453125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 260599726,
-			"version": 910,
-			"versionNonce": 1826134894,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1731321178470,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.2844534260418925,
-					28.64434814453125
-				]
-			],
-			"lastCommittedPoint": [
-				0,
-				30.23431396484375
-			],
-			"startBinding": {
-				"elementId": "1Um13mRPCzI-05fJ8gkww",
-				"gap": 9.066375732421875,
-				"focus": -0.08734845233893737
-			},
-			"endBinding": {
-				"elementId": "NpZWPSdaTRFAK_G8zfMJQ",
-				"gap": 15.4324951171875,
-				"focus": 0.039091576296201226
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1022.224853515625,
-		"scrollY": 650.7046508789062,
-		"zoom": {
-			"value": 1
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+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
 ```
 %%
