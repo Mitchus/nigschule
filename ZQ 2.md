@@ -1,3 +1,9 @@
+---
+thema: ZQ 2
+tags: [zusatzqualifikation, digitale-kompetenz]
+datum: 2026-04-13
+typ: notiz
+---
 # Technische Dokumentation – Bestellverwaltung
 **Fach:** ZQ
 **Thema:** Prompting – KI als Entwicklungsassistent im Berufsalltag**Datum:** 02.03.202
@@ -423,3 +429,7 @@ die Grundlagen nicht kennt, erkennt auch die Fehler nicht. Der sinnvollste
 Einsatz ist: KI generiert den Rahmen, der Entwickler prüft, korrigiert und
 entscheidet. Wie bei einem Junior-Entwickler — man gibt ihm Aufgaben
 übernimmt aber nicht blind sein Ergebnis.
+
+## Siehe auch
+- [[ZQ]]
+- [[Prompt Engineering in der Anwendungsentwicklung]]

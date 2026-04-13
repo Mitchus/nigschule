@@ -1,3 +1,10 @@
+---
+fach: Physik
+thema: Der Energieerhaltungssatz der Mechanik
+tags: [physik]
+datum: 2024-04-18
+typ: notiz
+---
 11-09-2023
 
 In einem angeschlossenen mechanischen System gilt:
@@ -21,3 +28,9 @@ dt 20s
 7.5kn
 150kNs
 150m/s
+
+## Siehe auch
+- [[Energie]]
+- [[Mechanische Energie]]
+- [[Stoßvorgänge]]
+- [[Physik Index]]

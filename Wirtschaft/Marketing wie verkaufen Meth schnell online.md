@@ -1,3 +1,10 @@
+---
+fach: Wirtschaft
+thema: Marketing wie verkaufen Meth schnell online
+tags: [marketing]
+datum: 2024-04-18
+typ: notiz
+---
 a. **Werbemittel:**
 
 - Die RX 6700XT nutzt verschiedene Werbemittel, darunter:

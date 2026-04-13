@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Summary
+tags: [methodik]
+datum: 2024-04-18
+typ: zusammenfassung
+---
 Write a short summary to the given Text, use these tipps:
 1. Don't retell the story
 2. Decide what the main chars and events are

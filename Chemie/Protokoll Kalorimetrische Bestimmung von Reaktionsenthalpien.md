@@ -1,4 +1,10 @@
-
+---
+fach: Chemie
+thema: Protokoll Kalorimetrische Bestimmung von Reaktionsenthalpien
+tags: [chemie]
+datum: 2024-04-18
+typ: protokoll
+---
 ## A) Kupfer(II)-sulfat - Lösung und Zink
 ### Geräte und Chemikalien
 - Kalorimeter

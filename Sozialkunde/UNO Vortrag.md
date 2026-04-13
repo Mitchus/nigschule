@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: UNO Vortrag
+tags: [internationale-organisationen]
+datum: 2024-04-18
+typ: praesentation
+---
 ## Vereinte Nationen/United Nations Organization
 
 ### Entstehung

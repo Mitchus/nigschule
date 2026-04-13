@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Comment
+tags: [methodik, comment]
+datum: 2024-04-18
+typ: notiz
+---
 ![[Pasted image 20231110094456.png]]
 ![[Pasted image 20231110094611.png]]
 ![[Pasted image 20231110094627.png]]

@@ -1,3 +1,11 @@
+---
+fach: DVT
+thema: IsoOsi
+tags: [netzwerk, osi-modell]
+datum: 2025-04-09
+aliases: [ISO/OSI Modell, OSI-Modell]
+typ: notiz
+---
 ### Einteilung des OSI-Schichtenmodells
 
 - Das OSI-Schichtenmodell besteht aus 7 Schichten.
@@ -180,3 +188,8 @@ für Stadt- und Zugangsnetze optimiert
 Störungfreies Übertragungsmittel 
 Schelligkeit
 Distanz
+
+## Siehe auch
+- [[Netzwerktechnik]]
+- [[IP-Adressierung und Subnetting]]
+- [[DVT Index]]

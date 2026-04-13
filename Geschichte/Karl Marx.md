@@ -1,3 +1,10 @@
+---
+fach: Geschichte
+thema: Karl Marx
+tags: [ideengeschichte, sozialismus]
+datum: 2024-04-18
+typ: notiz
+---
 ## Eltern Leben Familie
 Heinrich Marx Anwalt und Hentriette Marx (Juden->protestantisch (damit er Anwalt bleiben kann))
 

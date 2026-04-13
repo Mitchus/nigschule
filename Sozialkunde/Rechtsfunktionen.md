@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: Rechtsfunktionen
+tags: [recht]
+datum: 2024-10-11
+typ: notiz
+---
 - **Ordnungsfunktion**  
   - ordnet das Zusammenleben z.B. durch  Verordnungen, Gesetze 
   - Gerechtigkeit spielt eher eine untergeordnete Rolle

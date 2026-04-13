@@ -1,3 +1,10 @@
+---
+fach: Mathematik
+thema: Differenzialrechnung Verhalten im Unendlichen
+tags: [analysis, differenzialrechnung]
+datum: 2024-04-18
+typ: notiz
+---
 ### Ganz rationale Funktionen
 
 |    | $a>0$ | $a<0$ |

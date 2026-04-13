@@ -1,3 +1,10 @@
+---
+fach: Geschichte
+thema: Timeline
+tags: [uebersicht]
+datum: 2024-04-18
+typ: notiz
+---
 1848 Revolution und Dänemark Schleswig-Holstein abkommen
 1864 Deutsch Dänischer Krieg wegen Schleswig-Holstein (aufgeteilt Preußen + Österreich)
 1866 Preußen Österreich Bruderkrieg Schleswig-Holstein streit, Bismarck

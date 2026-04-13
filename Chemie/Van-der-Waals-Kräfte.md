@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Van-der-Waals-Kräfte
+tags: [zwischenmolekulare-kraefte]
+datum: 2024-04-18
+typ: notiz
+---
 - **Van-der-Waals-Kräfte (VDW):** Schwache intermolekulare Kräfte zwischen Atomen und Molekülen.
 - **Dipol-Dipol-Wechselwirkungen:** Zwischen permanenten Dipolen in polarisierten Molekülen.
 - **London-Dispersion-Kräfte:** Zwischen vorübergehenden Dipolen in nichtpolarisierten Molekülen.

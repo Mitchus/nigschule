@@ -1,5 +1,9 @@
 ---
-
+fach: Sozialkunde
+thema: Internationale Beziehungen
+tags: [internationale-beziehungen]
+datum: 2024-04-18
+typ: notiz
 ---
 ----
 

@@ -1,3 +1,9 @@
+---
+thema: ZQ
+tags: [zusatzqualifikation, digitale-kompetenz]
+datum: 2026-04-13
+typ: notiz
+---
 # Meine digitale Kompetenz und Erwartungen an die Zusatzqualifikation
 
 ## 1. Vorstellung meiner Person
@@ -48,3 +54,7 @@ Kommunikation mit nicht-technischen Kollegen.
 **Legende:**
 - Kenntnisse: 1 = Keine Kenntnisse, 2 = Grundkenntnisse, 3 = Solide Kenntnisse, 4 = Fortgeschritten, 5 = Experte
 - Nutzung: Selten / Gelegentlich / Häufig / Täglich
+
+## Siehe auch
+- [[ZQ 2]]
+- [[Prompt Engineering in der Anwendungsentwicklung]]

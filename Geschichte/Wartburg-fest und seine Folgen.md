@@ -1,3 +1,10 @@
+---
+fach: Geschichte
+thema: Wartburg-fest und seine Folgen
+tags: [vormaerz]
+datum: 2024-04-18
+typ: notiz
+---
 ## Aufgaben
 Welche Forderungen hatten die Studenten und was taten sie?
 Notieren sie im einzelnen, welche Auswirkungen dieses Fest hatte.

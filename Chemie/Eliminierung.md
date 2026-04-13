@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Eliminierung
+tags: [organische-chemie, reaktionsmechanismen]
+datum: 2024-04-18
+typ: notiz
+---
 Abspalten von Atomen oder Atomgruppen aus einem Molekül unter Bildung einer Mehrfachbindung.
 ![[Pasted image 20230914080855.png]]
 - **Eliminierung:**
@@ -22,3 +29,9 @@ Abspalten von Atomen oder Atomgruppen aus einem Molekül unter Bildung einer Meh
 
 Propan -> Propen + Wasserstoff
 $\ce{ C_{3}H_{8} -> C_{3}H_{6} + H_{2} }$
+
+## Siehe auch
+- [[Addition]]
+- [[Substitution]]
+- [[Organische Chemie]]
+- [[Chemie Index]]

@@ -1,3 +1,10 @@
+---
+fach: Physik
+thema: Magnets
+tags: [elektromagnetismus]
+datum: 2024-04-18
+typ: notiz
+---
 Abstand der Feldlinien ist ein Maß für die Stärke des Feldes
 
 Die Magnetische Flußdichte 

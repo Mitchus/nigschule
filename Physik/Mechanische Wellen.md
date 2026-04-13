@@ -1,3 +1,10 @@
+---
+fach: Physik
+thema: Mechanische Wellen
+tags: [mechanik, wellen]
+datum: 2024-04-18
+typ: notiz
+---
 ![[Pasted image 20240408095456.png]]Dabei gilt der Zusammenhang 
  <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi>&#x3BB;</mi>

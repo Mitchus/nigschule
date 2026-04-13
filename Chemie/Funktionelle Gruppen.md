@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Funktionelle Gruppen
+tags: [organische-chemie]
+datum: 2024-04-18
+typ: notiz
+---
 # Funktionelle Gruppen in der Organischen Chemie
 
 ## Alkane
@@ -48,3 +55,9 @@ Ether enthalten eine Ethergruppe ($\text{O}$) in der Molekülstruktur.
 Beispiel: Dimethylether $\text{CH}_3\text{OCH}_3$.
 
 Dies sind nur einige der häufigsten funktionellen Gruppen in der organischen Chemie. Es gibt viele weitere, die in komplexeren Molekülen vorkommen können.
+
+## Siehe auch
+- [[Organische Chemie]]
+- [[Alkane]]
+- [[Halogen Alkane]]
+- [[Chemie Index]]

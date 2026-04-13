@@ -1,3 +1,11 @@
+---
+fach: DVT
+thema: SLA OLA UC und SaaS
+tags: [itil, service-management]
+datum: 2026-04-13
+aliases: [SLA, OLA, UC, SaaS]
+typ: notiz
+---
 ![[Pasted image 20260413124209.png]]
 https://www.pureconsultant.de/de/prozessmanagement/sla-vs-ola-vs-uc-unterschiede-einfach-erklaert/
 

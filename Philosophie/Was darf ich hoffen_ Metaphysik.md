@@ -1,3 +1,10 @@
+---
+fach: Philosophie
+thema: Was darf ich hoffen_ Metaphysik
+tags: [philosophie]
+datum: 2024-09-05
+typ: notiz
+---
 Wissenschaft - Naturwissenschaft
 Erklärung der Welt durch Formeln
 

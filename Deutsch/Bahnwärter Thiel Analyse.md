@@ -1,3 +1,10 @@
+---
+fach: Deutsch
+thema: Bahnwärter Thiel Analyse
+tags: [literatur, naturalismus]
+datum: 2024-12-02
+typ: notiz
+---
 1. **Analyse des Textes**
 
 a. **Einführung und Charakterisierung von Thiel:**

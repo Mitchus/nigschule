@@ -1,18 +1,11 @@
-----
-#Chemie
-- Methan    
-- Propan    
-- Butan
-- Pentan
-- Heptan
-- Oktan
-- Dekan
-- Paraffin
-
-Die Strukturformel ist manchmal sinnvoll da es [[Isomerie der Alkane|Isomere]] gibt.
-
-|   |   |   |   |
-|---|---|---|---|   
+---
+fach: Chemie
+thema: Alkane
+tags: [organische-chemie, kohlenwasserstoffe]
+datum: 2024-04-18
+typ: notiz
+---
+|---|---|---|   
 |Stamm|Alkane|Alkene|Alkine|
 |Eth-|$\ce{C2H6}$|$\ce{C2H4}$|$\ce{C2H2}$|
 |Prop-|$\ce{C3H8}$|$\ce{C3H6}$|$\ce{C3H4}$|
@@ -33,3 +26,10 @@ Alkene/Alkine:
 Je länger die Kette der CHs umso stärker wirken die [[Van-der-Waals-Kräfte]] und damit steigen die Siede- und Schmelztemperaturen.
 
 Es werden Atome bzw Atomgruppen in einem Molekül ausgetauscht.
+
+## Siehe auch
+- [[Organische Chemie]]
+- [[Isomerie der Alkane]]
+- [[Alkane als Lösungsmittel]]
+- [[Halogen Alkane]]
+- [[Chemie Index]]

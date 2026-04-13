@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: 2019_AUFGABEN_DVT_ABI
+tags: [abitur, aufgaben]
+datum: 2025-02-04
+typ: aufgabe
+---
 ![background image](2019_AUFGABEN_DVT_ABI001.png)
 
 Mecklenburg-Vorpommern

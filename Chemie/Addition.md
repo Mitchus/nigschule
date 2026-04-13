@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Addition
+tags: [organische-chemie, reaktionsmechanismen]
+datum: 2024-04-18
+typ: notiz
+---
 ## Addition
 
 
@@ -52,3 +59,9 @@ Substitution
 $\ce{ C_{2}H_{6} + Br_{2} -> C_{2}H_{5}Br + HBr }$
 $\ce{ C_{2}H_{4} + Br_{2} -> C_{2}H_{5}Br_{2} }$
 $\ce{ C_{2}H_{2} + 2Br_{2} -> C_{2}H_{2}Br_{4} }$
+
+## Siehe auch
+- [[Eliminierung]]
+- [[Substitution]]
+- [[Organische Chemie]]
+- [[Chemie Index]]

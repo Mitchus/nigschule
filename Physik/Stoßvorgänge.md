@@ -1,3 +1,10 @@
+---
+fach: Physik
+thema: Stoßvorgänge
+tags: [mechanik, impuls]
+datum: 2024-04-18
+typ: notiz
+---
 # Elastischer Stoß
 
 - beide Körper laufen nach dem Stoß auseinander
@@ -60,4 +67,9 @@ u=v1+2m / 2m
 b) m1<< m2
 -m2 * v1 / m2
 c) m1 >> m2
-v1 
+v1
+
+## Siehe auch
+- [[Mechanische Energie]]
+- [[Der Energieerhaltungssatz der Mechanik]]
+- [[Physik Index]]

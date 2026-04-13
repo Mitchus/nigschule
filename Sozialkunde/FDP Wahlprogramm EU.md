@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: FDP Wahlprogramm EU
+tags: [parteien, europapolitik]
+datum: 2024-04-25
+typ: notiz
+---
 Das Wahlprogramm der FPD konzentriert sich auf drei thematische Schwerpunkte, um die Europäische Union zu stärken und Freiheit und Wohlstand zu fördern:
 
 1. Vereinfachung Europas: 

@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Tastatur Aufgaben
+tags: [hardware, eingabe]
+datum: 2024-04-18
+typ: aufgabe
+---
 1. **Unterschied QUERTZ- und QUERTY-Tastatur:**
    - **QUERTZ:** Buchstabenanordnung Q-W-E-R-T-Z
    - **QUERTY:** Buchstabenanordnung Q-W-E-R-T-Y

@@ -1,3 +1,10 @@
+---
+fach: BI
+thema: Bi Test notiz
+tags: [biologie]
+datum: 2024-04-18
+typ: klausur
+---
 ```mermaid
 erDiagram
     CUSTOMER }|..|{ Taxis : uses

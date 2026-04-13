@@ -1,3 +1,10 @@
+---
+fach: Physik
+thema: Leifi E Lehre
+tags: [elektrizitaetslehre]
+datum: 2024-04-18
+typ: notiz
+---
 # Elektrisches Feld und Ladungen: Das Wichtigste auf einen Blick
 
 ## Elektrisches Feld und Feldliniendarstellung

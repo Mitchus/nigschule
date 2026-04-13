@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Anschlüsse und Erweiterungen
+tags: [hardware]
+datum: 2024-04-18
+typ: notiz
+---
 # Anschlüsse und Erweiterungen
 
 ## Präsentatoren

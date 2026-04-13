@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Chemie Michel Nowacki
+tags: [chemie]
+datum: 2024-09-09
+typ: notiz
+---
 ## Aufgabe 1:
 
 Gegeben:

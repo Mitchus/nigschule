@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Klausurstuff
+tags: [klausur]
+datum: 2024-06-13
+typ: klausur
+---
 ## Stylistic Devices in Speech with Examples and Explanations
 
 1. **Metaphor**

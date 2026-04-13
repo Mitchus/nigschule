@@ -1,3 +1,10 @@
+---
+fach: Geschichte
+thema: Die Französische Revolution - Auftakt zur Modernen Gesellschaft in Europa
+tags: [geschichte]
+datum: 2024-04-18
+typ: notiz
+---
 ## Zusammenfassung des Beginns der Französischen Revolution
 **Erster Akt: Die Wahl der Generalstände**
 - Wirtschaftliche Unruhe und steigende Lebensmittelpreise.

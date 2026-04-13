@@ -1,8 +1,47 @@
+---
+fach: Geschichte
+thema: Geschichte
+tags: [uebersicht]
+datum: 2024-04-18
+typ: notiz
+---
+## Themenübersicht
 
+### Französische Revolution & Vormärz
+- [[Die Französische Revolution - Auftakt zur Modernen Gesellschaft in Europa]]
+- [[Berufung der Generalstände und Bildung deer Nationalversammlung]]
+- [[Verfassung 1791]]
+- [[Auswirkung der französischen Julirevolution 1830 in Deutschland]]
+- [[Wartburg-fest und seine Folgen]]
+- [[Biedermeier Kunst 19.J.H.]]
+- [[Die Revolution 1848-49]]
+- [[Preußischer Verfassungskonflikt (1861-66)]]
 
+### Ideengeschichte
+- [[Karl Marx]]
+- [[Wilhelm II]]
+
+### 20. Jahrhundert
+- [[Kampf um die Republik]]
+- [[Der deutsche Wiederstand]]
+- [[NS Außenpolitik 1933-36]]
+- [[NATO und Warschauer Pakt]]
+
+### Nachkriegszeit
+- [[Potsdamer Abkommen]]
+- [[Bodenreform]]
+
+### Aufgaben & Sonstiges
+- [[Facharbeit]]
+- [[Timeline]]
+- [[Noten]]
+
+---
+
+## Notizen
 
 Biedermeier Kunst 19.J.H.
-[Karl Marks](Karl%20Marks)
+[[Karl Marx]]
 Friedrich Engel
 Biographie über Bismark
 Erster Weltkrieg
@@ -942,7 +981,7 @@ Konflikte zwischen Staaten und Bündnissystemen
 
 Zweiter Weltkrieg und sein Ende 1945
 Teilung Europas - Konfrontation und Einbeziehung der beiden Teile Deutschlands in den Ost-West-Konflikt (Blockbildung)
-![[IDKKKKKKKKKK]]
+![[NATO und Warschauer Pakt]]
 1. Erläutern Sie den Ost-West-Konflikt und den Kalten Krieg umfassend in mehr als einem Satz.
 2. Stellen Sie anhand ausgewählter Beispiele dar, welche bedeutende Rolle der Sport im Kalten Krieg spielte (z.B. Olympiaboykott, Medaillenjagd, Doping).
 3. Berichten Sie, wie ernst die beiden Supermächte den Wettstreit um die Eroberung des Weltalls nahmen (Sputnik-Schock, SDI, bemannte und unbemannte Missionen, Wettlauf zum Mond etc.).

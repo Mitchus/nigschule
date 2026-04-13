@@ -1,3 +1,10 @@
+---
+fach: Berufsausbildung
+thema: Wirtschaft
+tags: [wirtschaft]
+datum: 2026-04-13
+typ: notiz
+---
 ![[Pasted image 20251110081115.png]]
 ![[Pasted image 20251110081129.png]]
 realer Strom (Güterstrom)

@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: MN Protokoll
+tags: [protokoll]
+datum: 2024-10-30
+typ: protokoll
+---
 Name: Michel Nowacki 
 Gruppe: Heinrich, Stefan Lasse L. 
 Klasse: FG23

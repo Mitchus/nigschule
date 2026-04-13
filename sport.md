@@ -1,3 +1,9 @@
+---
+thema: sport
+tags: [sport]
+datum: 2024-05-23
+typ: notiz
+---
 ## Aufwärmen
 ### Definition und Funktion
 

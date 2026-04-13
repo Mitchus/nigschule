@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Englisch Vokabeln und Notizen
+tags: [englisch]
+datum: 2025-01-23
+typ: notiz
+---
 1 Utopia vs Dystopia
 Utopia is a place that doesnt exist (yet) but its a positive prediction. Dystopia is a negative prediction
 2 android

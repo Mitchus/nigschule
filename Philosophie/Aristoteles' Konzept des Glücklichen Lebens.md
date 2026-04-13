@@ -1,3 +1,10 @@
+---
+fach: Philosophie
+thema: Aristoteles' Konzept des Glücklichen Lebens
+tags: [antike-philosophie, ethik]
+datum: 2024-04-18
+typ: notiz
+---
 Aristoteles betont, dass alle Menschen nach Glück streben, nach _eudaimonia_, und untersucht verschiedene Lebensformen, um Wege zum Glück zu identifizieren. Er kommt zu folgenden Ergebnissen:
 
 ## 1. Das Leben des Genusses

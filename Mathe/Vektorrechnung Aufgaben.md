@@ -1,3 +1,11 @@
+---
+fach: Mathematik
+thema: Vektorrechnung Aufgaben
+tags: [analytische-geometrie, vektoren]
+datum: 2024-12-06
+aliases: [Vektor Übungen]
+typ: aufgabe
+---
 Unter einem Vektor verstehen wir die Menge aller Pfeile, die gleich lang sind, parallel zu einander liegen und den gleichen Richtungssinn haben. Ein einzelner Pfeil aus dieser Menge heißt Repräsentant dieses Vektors.
 
 	A = 2 3 -1

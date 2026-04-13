@@ -1,3 +1,10 @@
+---
+fach: Religion
+thema: Heinz Eduard Tödt
+tags: [ethik, theologie]
+datum: 2026-04-13
+typ: notiz
+---
 1. Feststellung des Problems
 2. Analyse des Sachverhalts oder der Situation
 3. Erörterung der Verhaltensalternativen

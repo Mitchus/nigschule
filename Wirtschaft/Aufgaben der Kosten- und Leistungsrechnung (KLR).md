@@ -1,3 +1,11 @@
+---
+fach: Wirtschaft
+thema: Aufgaben der Kosten- und Leistungsrechnung (KLR)
+tags: [wirtschaft]
+datum: 2024-06-03
+aliases: [KLR]
+typ: aufgabe
+---
 1)
 
 1. **Ermittlung der Selbstkosten**:

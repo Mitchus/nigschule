@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Untitled
+tags: [englisch]
+datum: 2024-04-18
+typ: notiz
+---
 # Understanding How Selin Saw Harvard in "The Idiot" by Elif Batuman
 
 In Elif Batuman's "The Idiot," Selin experiences Harvard in a way that differs from what most people expect. The author uses various writing techniques to depict Selin's feelings of being lost and disconnected as a student at Harvard.

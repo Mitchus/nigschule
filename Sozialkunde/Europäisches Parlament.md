@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: Europäisches Parlament
+tags: [eu, institutionen]
+datum: 2024-04-18
+typ: notiz
+---
 - **Aufgaben**: direkt gewähltes EU-Organ, zuständig für Gesetzgebung, Kontrolle und Haushalt
 - **Mitglieder**: 705 Abgeordnete (Mitglieder des Europäischen Parlaments)
 - **Präsidentin**: Roberta Metsola
@@ -10,3 +17,9 @@
 	    - Aufstellung des Haushaltsplan mit Rat der EU
 	    - Zustimmungsrecht bei allen intern. Abkommen und EU-Beitritten
 	    - Sitz in Straßburg
+
+## Siehe auch
+- [[Instis der EU]]
+- [[Europäische Kommission]]
+- [[Europäischer Rat]]
+- [[Sozialkunde Index]]

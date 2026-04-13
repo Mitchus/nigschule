@@ -1,3 +1,10 @@
+---
+fach: Berufsausbildung
+thema: Human enhancement
+tags: [ethik, technologie]
+datum: 2026-04-13
+typ: notiz
+---
 ## 1. Zusammenfassung Human Enhancement
 
 Human Enhancement umfasst verschiedene Technologien zur Erweiterung körperlicher und geistiger Fähigkeiten des Menschen über die natürlichen Grenzen hinaus.

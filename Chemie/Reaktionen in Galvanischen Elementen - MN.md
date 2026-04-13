@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Reaktionen in Galvanischen Elementen - MN
+tags: [chemie]
+datum: 2025-01-22
+typ: notiz
+---
 Name: Michel Nowacki
 Klasse: FG23
 Gruppe: Iven, Erik, Benno, Michel 

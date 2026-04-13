@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Analysis of Selin's Perception of Harvard in _The Idiot_ by Elif Batuman
+tags: [literatur, analyse]
+datum: 2024-04-18
+typ: notiz
+---
 In the extract from Elif Batumans novel "The Idiot" (2017) the author employs several narrative techniques to vividly show the reader how Selin perceives being a student au Harvard.
 
 Through the first-person narration, readers dive into Selin's inner thoughts and emotions, experiencing her initial days at Harvard University. The repetitive phrasing of "long days and even longer nights" (ll. 1-2) lays the groundwork for the relentless endurance Selin faces, emphasizing her struggle and setting a melancholic tone from the outset. 

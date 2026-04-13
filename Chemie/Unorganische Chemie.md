@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Unorganische Chemie
+tags: [anorganische-chemie]
+datum: 2024-04-18
+typ: notiz
+---
 ch Konzepte der Chemie
 Stoff - Teilchen - Konzept
 Struktur  - Eigenschafts-Konzept

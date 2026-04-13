@@ -1,3 +1,11 @@
+---
+fach: Mathematik
+thema: Stochastik
+tags: [stochastik]
+datum: 2024-09-09
+aliases: [Wahrscheinlichkeitsrechnung]
+typ: notiz
+---
 ### Kombinatorik
 
 ! Fakultät

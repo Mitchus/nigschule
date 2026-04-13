@@ -1,3 +1,9 @@
+---
+thema: Prompt Engineering in der Anwendungsentwicklung
+tags: [ki, prompt-engineering]
+datum: 2026-04-13
+typ: notiz
+---
 # Prompt Engineering in der Anwendungsentwicklung
 
 ## Bringen detailliertere Prompts was?
@@ -148,3 +154,7 @@ Du antwortest NUR zu Themen rund um unsere Produkte.</system>
 | 5 | Context Engineering (RAG, Memory, Tools) | Entscheidend für Production |
 | 6 | Prompt Chaining (aufteilen) | Besser als Monster-Prompts |
 | 7 | Iteration & Testing | Kumulativer Effekt |
+
+## Siehe auch
+- [[ZQ]]
+- [[ZQ 2]]

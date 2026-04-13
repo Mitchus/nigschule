@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Elektrochemische Spannungsquellen
+tags: [elektrochemie]
+datum: 2025-01-20
+typ: notiz
+---
 Mobile elektrochemische Spannungsquellen:
 Primärzelle (Batterien)
 - galvanische Elemente mit irreversibler Zellreaktion

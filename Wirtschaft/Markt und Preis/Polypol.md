@@ -1,3 +1,10 @@
+---
+fach: Wirtschaft
+thema: Polypol
+tags: [marktformen]
+datum: 2024-04-18
+typ: notiz
+---
 - **Definition:** Polypol, auch bekannt als vollkommener Markt, ist ein Markt mit vielen Anbietern und Nachfragern.
 - **Marktteilnehmer:** Es gibt eine große Anzahl von Anbietern und Nachfragern, keine einzelne Partei hat Marktmacht.
 - **Homogene Produkte:** Produkte sind homogen, dh sie sind identisch und nicht differenziert.
@@ -5,3 +12,9 @@
 - **Keine Markteintrittsbarrieren:** Es gibt keine oder nur sehr geringe Hindernisse für den Markteintritt neuer Anbieter.
 - **Perfekte Information:** Alle Marktteilnehmer verfügen über perfekte Informationen über Preise und Produktqualität.
 
+## Siehe auch
+- [[Monopol]]
+- [[Oligopol]]
+- [[Marktformen]]
+- [[Vollkommene Konkurrenz]]
+- [[Wirtschaft Index]]

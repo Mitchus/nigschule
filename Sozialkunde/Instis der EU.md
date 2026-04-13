@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: Instis der EU
+tags: [eu, institutionen]
+datum: 2024-04-18
+typ: notiz
+---
 ##   Die Institutionen der Europäischen Union (EU):
 
 **1. Übersicht:**
@@ -74,3 +81,11 @@ Europäischer Rat (ER):
 
 
 **Zusammenspiel:** Die Institutionen der EU arbeiten eng zusammen, um die Ziele der EU zu erreichen. Dabei spielen das EP, der Rat und die EK zentrale Rollen. Der Europäische Rat gibt die Leitlinien vor, der EuGH wacht über die Rechtsstaatlichkeit und der EuRH kontrolliert die Finanzen.
+
+## Siehe auch
+- [[Europäisches Parlament]]
+- [[Europäische Kommission]]
+- [[Europäischer Rat]]
+- [[Rat der EU]]
+- [[Europäischer Gerichtshof]]
+- [[Sozialkunde Index]]

@@ -1,3 +1,10 @@
+---
+fach: Geschichte
+thema: Facharbeit
+tags: [facharbeit]
+datum: 2024-04-18
+typ: facharbeit
+---
 Themenvorschläge:
 - Reichsgründung 1871
 		- Warum erfolgte sie in Versailles? 

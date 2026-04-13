@@ -1,3 +1,10 @@
+---
+fach: Deutsch
+thema: Romantische Ironie und Fontane
+tags: [literatur, romantik, realismus]
+datum: 2024-10-07
+typ: notiz
+---
 Das lit. Werk thematisiert selbst reflexiv seine eigenen Produktionsbedingungen.
 Kunstmärchen          / Volksmärchen
 Von einem Künstler / vom Volk weitererzählt

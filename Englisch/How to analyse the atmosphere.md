@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: How to analyse the atmosphere
+tags: [englisch]
+datum: 2024-04-18
+typ: notiz
+---
 setting: 
  - looks makeshift
  - full of non-creative spray tags

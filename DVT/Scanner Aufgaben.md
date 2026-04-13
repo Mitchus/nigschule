@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Scanner Aufgaben
+tags: [hardware, eingabe]
+datum: 2024-04-18
+typ: aufgabe
+---
 # 1. Vorteile von LEDs in Scannern
 
 LEDs in Scannern bieten:

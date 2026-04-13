@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Hunger Games
+tags: [literatur, dystopie]
+datum: 2024-06-25
+typ: notiz
+---
 ## Introduction
 1. 
 - war reports and TV shows

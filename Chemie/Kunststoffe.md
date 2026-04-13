@@ -1,3 +1,11 @@
+---
+fach: Chemie
+thema: Kunststoffe
+tags: [organische-chemie, polymere]
+datum: 2023-12-14
+aliases: [Polymere]
+typ: notiz
+---
 ## Kunststoffe
 
 ### Struktur Eigenschaften

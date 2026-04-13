@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Outline of _Globalization is under attack_ by John Rennie Short
+tags: [englisch]
+datum: 2024-06-18
+typ: notiz
+---
 The article "Why there's a backlash against Globalization and what needs to change", written by John Rennie Short and published in "The Conversation," discusses the backlash against globalization through various political, economic, cultural developments.
 
 It begins by highlighting political events such as Donald Trump's electoral victory, the Brexit vote, and the rise of nationalism in Europe and globally, reflecting growing dissatisfaction with globalization.

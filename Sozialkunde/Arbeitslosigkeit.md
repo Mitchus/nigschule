@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: Arbeitslosigkeit
+tags: [wirtschaftspolitik]
+datum: 2025-02-13
+typ: notiz
+---
 - Friktionelle Arbeitslosigkeit
     - Kurzfristige Arbeitslosigkeit, die beim Jobwechsel oder Berufseinstieg entsteht.
     - Natürlicher Bestandteil eines dynamischen Arbeitsmarktes.
@@ -134,3 +141,7 @@ https://www.boeckler.de/de/boeckler-impuls-digitalisierung-kein-grund-fuer-horro
 Das ZEW kommt zu dem Ergebnis, dass der Anteil der Beschäftigten, deren Job durch Automatisierung bedroht ist, in Deutschland „nur“ bei 12 Prozent liegt.
 Q: ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung
 Jobs von Bildungslosn sind gefährdeter
+
+## Siehe auch
+- [[Arbeitsmarkt]]
+- [[Sozialkunde Index]]

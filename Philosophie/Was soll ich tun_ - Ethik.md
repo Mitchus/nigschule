@@ -1,3 +1,10 @@
+---
+fach: Philosophie
+thema: Was soll ich tun_ - Ethik
+tags: [philosophie]
+datum: 2024-04-18
+typ: notiz
+---
 #Philosophie #Ethik 
 _Was ist Philosophie?_
 

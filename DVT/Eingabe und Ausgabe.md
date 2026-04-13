@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Eingabe und Ausgabe
+tags: [hardware, eva-prinzip]
+datum: 2024-04-18
+typ: notiz
+---
 # Zusammenfassung: Eingabegeräte
 
 ## Eingabegeräte

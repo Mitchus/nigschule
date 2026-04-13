@@ -1,3 +1,10 @@
+---
+fach: Geschichte
+thema: Berufung der Generalstände und Bildung deer Nationalversammlung
+tags: [geschichte]
+datum: 2024-04-18
+typ: notiz
+---
 Am 5. Mai 1789 wurden die Generalstände in Versailles eröffnet. Konflikte zwischen König und Abgeordneten waren vorhersehbar, da ihre Vorstellungen bezüglich der Finanzkrise und Vorrechte weit auseinanderlagen. Der dritte Stand forderte politische Mitwirkung und Verfassungsänderungen. Nach einem Streit um die Beratungsverfahren bildeten die Abgeordneten des dritten Standes am 17. Juni die Nationalversammlung und luden die anderen Stände dazu ein. In Paris führten Unruhen und die Belagerung der Bastille am 14. Juli zu einem symbolischen Wendepunkt, obwohl er nicht den eigentlichen Beginn der Revolution markierte.
 
 ### Welche Ziele verfolgte die Revolution

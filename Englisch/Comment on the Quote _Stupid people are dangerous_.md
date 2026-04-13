@@ -1,4 +1,10 @@
-
+---
+fach: Englisch
+thema: Comment on the Quote _Stupid people are dangerous_
+tags: [methodik, comment]
+datum: 2024-11-27
+typ: notiz
+---
 In "The Hunger Games" by Suzanne Collins, Peeta Mellark says that "stupid people are dangerous." This highlights how careless or ignorant actions can cause harm, especially in Panem's oppressive society. This idea is not just fictional but also applies to real life, where thoughtlessness often has serious consequences.
 
 Peeta’s statement shows how ignorance makes people easy to control. In Panem, the Capitol uses propaganda and fear to keep the districts divided and also claims the Hunger Games bring peace, which prevents the districts from uniting against oppression. For example, the annual Games are portrayed as a reminder of the cost of rebellion, but they are actually a tool of control. Lower districts citizens, like Katniss and her family, struggle daily for survival, leaving them no resources or time to question the Capitol.

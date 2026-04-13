@@ -1,3 +1,10 @@
+---
+fach: Geschichte
+thema: Verfassung 1791
+tags: [franzoesische-revolution, verfassungsgeschichte]
+datum: 2024-04-18
+typ: notiz
+---
 Erarbeiten sie sich sie Wesensmerkmale der Verfassung von 1791.
 
 Die Regierung kann keine Rechte erlassen die mit der Verfassung in Konflikt treten.  

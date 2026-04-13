@@ -1,3 +1,10 @@
+---
+fach: Mathematik
+thema: Differenzialrechnung
+tags: [analysis, differenzialrechnung]
+datum: 2024-04-18
+typ: notiz
+---
 	
 **Wiederholung**
 

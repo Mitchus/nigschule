@@ -1,3 +1,10 @@
+---
+fach: Deutsch
+thema: Erörtern
+tags: [methodik]
+datum: 2024-04-18
+typ: notiz
+---
 ö# Arten der Erörterung
 ## Lineare Erörterung
 

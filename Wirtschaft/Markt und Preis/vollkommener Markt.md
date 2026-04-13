@@ -1,5 +1,15 @@
+---
+fach: Wirtschaft
+thema: vollkommener Markt
+tags: [marktformen]
+datum: 2024-04-18
+typ: notiz
+---
+## Vollkommener Markt & Vollkommene Konkurrenz
 
-## Vollkommener Markt
+In einer vollkommenen Konkurrenz gibt es viele Anbieter und Nachfrager, homogene Produkte und niedrige Markteintrittsbarrieren, was zu einem Markt führt, auf dem die Preise von Angebot und Nachfrage bestimmt werden.
+
+### Merkmale eines vollkommenen Marktes
 
 - Vollständiger Wettbewerb
 	- viele Anbieter und Nachfrager
@@ -85,3 +95,8 @@ Welche Vorteile hat der Anbieter auf einem unvollkommenen Markt?
 - **Höhere Gewinnmargen:** Aufgrund der begrenzten Konkurrenz können Anbieter höhere Preise festlegen und somit höhere Gewinnmargen erzielen.
 - **Produktdifferenzierung:** Anbieter können ihre Produkte differenzieren und gezielt auf bestimmte Zielgruppen ausrichten, was zu einem loyalen Kundenstamm führen kann.
 - **Langfristige Planung:** Die geringe Konkurrenz ermöglicht es den Anbietern, langfristige Strategien zu entwickeln, ohne ständig auf kurzfristige Marktveränderungen reagieren zu müssen.
+
+## Siehe auch
+- [[Vollkommene Konkurrenz]]
+- [[Marktformen]]
+- [[Wirtschaft Index]]

@@ -1,3 +1,10 @@
+---
+fach: Mathematik
+thema: Mathe Klausur Themen
+tags: [klausur]
+datum: 2024-04-18
+typ: klausur
+---
 ### A Teil: 
 Analysis
 ....

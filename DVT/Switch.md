@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Switch
+tags: [netzwerk, hardware]
+datum: 2026-04-13
+typ: notiz
+---
 Der Switch ist eine Aktive Netzwerkkomponente diedas Netzwerk vergrößert, anders als ein HUB hat er einen Max Adressen Table und sendet Pakete nur per Unicast an angeschlossene Geräte.
 
 Der Switch arbeitet nach dem FIFO out Prinzip, wases Netzwerk Geräten mit einer höhen Datenrate erlaubt schneller Pakete zu senden und verarbeiten zu lassen, wobei es bei langsameren Geräten zu einem delay führen kann
@@ -8,3 +15,9 @@ PoE
 - Der Kunde möchte ein Gastnetzwerk hinzufügen (VLAN)
 - 10gbE oder mehr meist managed
 - Securityl
+
+## Siehe auch
+- [[Netzwerktechnik]]
+- [[AccessPoint]]
+- [[WIFI IEEE 802.11]]
+- [[DVT Index]]

@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Festplatten
+tags: [hardware, speicher]
+datum: 2024-04-18
+typ: notiz
+---
 # Festplatten
 
 **Autoren:** Julia Joch, Henrik Guhl, Tarik Alnawa  
@@ -40,3 +47,8 @@
 - HDDs verwenden magnetische Speicherung.
 - SSDs verwenden elektrisch geladene Zellen.
 - Unterschiedliche Speichertypen haben unterschiedliche Vor- und Nachteile für verschiedene Anwendungen.
+
+## Siehe auch
+- [[Anatomie eines PCs]]
+- [[Ram]]
+- [[DVT Index]]

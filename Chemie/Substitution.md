@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Substitution
+tags: [organische-chemie, reaktionsmechanismen]
+datum: 2024-04-18
+typ: notiz
+---
 ## Substitution
 
 Bei einer Substitution werden Atome oder Atomgruppen zwischen den Ausgangsstoffen ausgetauscht. Die Anzahl der Einfach- und Mehrfachbindungen an den Kohlenstoffatomen bleibt dabei gleich.  
@@ -10,3 +17,9 @@ C_{3}H_{4} + Cl_{2} → C_{3}H_{4}Cl_{2}
 \\
 C_{3}H_{4}Cl_{2} + Cl_{2} → C_{3}H_{4}Cl_{4}
 \end{eqnarray*}$$
+
+## Siehe auch
+- [[Addition]]
+- [[Eliminierung]]
+- [[Organische Chemie]]
+- [[Chemie Index]]

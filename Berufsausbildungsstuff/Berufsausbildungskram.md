@@ -1,3 +1,10 @@
+---
+fach: Berufsausbildung
+thema: Berufsausbildungskram
+tags: [berufsausbildung]
+datum: 2025-09-01
+typ: notiz
+---
 # Duale Ausbildung IT Berufe
 Ziel: 
 - Berufsfähigkeit verbunden mit Fachkompetenz und speziellen Fähigkeiten 

@@ -1,3 +1,10 @@
+---
+fach: Deutsch
+thema: Spielablauf
+tags: [deutsch]
+datum: 2024-04-23
+typ: notiz
+---
 Name: Michel Nowacki
 Fach: Deutsch
 Datum: 23.04. 2024

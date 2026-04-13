@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Klausurvorbereitung
+tags: [klausur]
+datum: 2024-04-18
+typ: klausur
+---
 ### Bildung von Ethansäure aus Ethanol und Sauerstoff
 $\ce{2C2H5OH + O_{2} -> 2C2H5OOH}$
 

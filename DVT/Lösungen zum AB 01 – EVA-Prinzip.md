@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Lösungen zum AB 01 – EVA-Prinzip
+tags: [eva-prinzip, aufgaben]
+datum: 2026-04-13
+typ: notiz
+---
 a### **Aufgabe 1: EVA-Prinzip erklären**
 
 **a) Beispiel Taschenrechner (Addition zweier Zahlen):**

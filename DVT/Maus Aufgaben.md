@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Maus Aufgaben
+tags: [hardware, eingabe]
+datum: 2024-04-18
+typ: aufgabe
+---
 1. **Komponenten der Maus:**
    - Sensor
    - Gehäuse

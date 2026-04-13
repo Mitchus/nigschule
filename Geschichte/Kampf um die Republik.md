@@ -1,3 +1,10 @@
+---
+fach: Geschichte
+thema: Kampf um die Republik
+tags: [weimarer-republik]
+datum: 2024-05-02
+typ: notiz
+---
 ### Die Krisenjahre 
 #### Frühjahr 1920 **kapp-putsch** Verseier Vertrag 
 -> Reichswehr von 250 000 auf 100 000 mann Walther von Lüttwitz (kommendierder General) verlangt Rücknahme Ebert sagt nein 13.März Wolfgang kapp erklärt die Reichsregierung für abgesetzt und ernennt sich zum Kanzler 

@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Adolescence
+tags: [gesellschaft, jugend]
+datum: 2024-04-18
+typ: notiz
+---
 #Englisch 
 **2)a**
 rapid fast speedy

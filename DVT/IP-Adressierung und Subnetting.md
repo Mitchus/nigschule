@@ -1,3 +1,11 @@
+---
+fach: DVT
+thema: IP-Adressierung und Subnetting
+tags: [netzwerk, ip-adressierung, subnetting]
+datum: 2024-05-17
+aliases: [IP-Adressierung, Subnetting]
+typ: notiz
+---
 |              | IPV4              | IPV6                |     |
 | ------------ | ----------------- | ------------------- | --- |
 | Schreibweise | Dezimal           | Hexa                |     |
@@ -97,3 +105,9 @@ ifconfig
 ping
 9.     **Nennen** Sie den Befehl, den Sie im CLI eingeben, wenn Sie für das Netzwerk 192.168.0.0 / 24 einen Broadcast an alle Hosts in dem Netzwerk versenden wollen.
 Curl / Ping
+
+## Siehe auch
+- [[IsoOsi]]
+- [[Netzwerktechnik]]
+- [[IPV4]]
+- [[DVT Index]]

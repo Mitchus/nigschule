@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: Europäischer Rat
+tags: [eu, institutionen]
+datum: 2024-04-18
+typ: notiz
+---
  - Festlegung der allgemeinen politischen Ziele und Prioritäten der EU
  - Festlegung der Leitlinien (keine Gesetzgebung)
    - Staats und Regierungschef der Staaten, präsident eur. Komission und hohe Vertreter von außen für Sicherheitspolitik
@@ -14,3 +21,9 @@
     - Vertretung nach außen
 - Zusammenarbeit mit anderen EU-Institutionen
 - Rolle: Politische Leitlinien und Prioritäten festlegen
+
+## Siehe auch
+- [[Instis der EU]]
+- [[Rat der EU]]
+- [[Europäisches Parlament]]
+- [[Sozialkunde Index]]

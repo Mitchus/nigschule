@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Isomerie der Alkane
+tags: [organische-chemie]
+datum: 2024-04-18
+typ: notiz
+---
 [[Alkane]]  #Chemie
 Verbindungen, deren Moleküle bei gleicher Summenformel unterschiedliche Strukturformeln haben, heißen Isomere.
 Diese Erscheinung bezeichnet man als Isomerie.

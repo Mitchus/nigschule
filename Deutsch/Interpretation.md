@@ -1,3 +1,10 @@
+---
+fach: Deutsch
+thema: Interpretation
+tags: [methodik]
+datum: 2024-04-18
+typ: notiz
+---
 ## Gedichte
 
 ---

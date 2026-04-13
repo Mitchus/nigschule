@@ -1,7 +1,10 @@
 ---
-
+fach: Chemie
+thema: Organische Chemie
+tags: [organische-chemie]
+datum: 2024-04-18
+typ: notiz
 ---
-
 - ist ein Teilgebiet der #Chemie, welches sich mit dem Aufbau, der Herstellung und den Eigenschaften der Verbindungen des Kohlenstoffs beschäftigt
 - organische Stoffe sind Kohlenstoffverbindungen. (ehemals von lebenden Organismen hergestellt (1807 Berzelius).)
 - Kohlenwasserstoffe: Stoffe, die nur Kohlenstoff und Wasserstoff enthalten.
@@ -77,3 +80,9 @@ $$
 
 
 [[Protein]]
+
+## Siehe auch
+- [[Alkane]]
+- [[Funktionelle Gruppen]]
+- [[Halogen Alkane]]
+- [[Chemie Index]]

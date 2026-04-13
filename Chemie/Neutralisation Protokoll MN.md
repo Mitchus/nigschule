@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Neutralisation Protokoll MN
+tags: [saeuren-basen]
+datum: 2024-10-28
+typ: protokoll
+---
 Name: Michel Nowacki
 Gruppe: Heinrich, Stefan Lasse L.
 Klasse: FG23

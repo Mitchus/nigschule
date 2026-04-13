@@ -1,3 +1,9 @@
+---
+thema: Notizen
+tags: [notizen]
+datum: 2024-04-18
+typ: notiz
+---
 PI: 217.95.175.248
 ````
 # Heading 1

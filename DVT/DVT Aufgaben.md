@@ -1,3 +1,11 @@
+---
+fach: DVT
+thema: DVT Aufgaben
+tags: [aufgaben]
+datum: 2024-04-18
+aliases: [DVT Übungen]
+typ: aufgabe
+---
 Welche Vorteile der digitalen Vernetzung kommen in jedem Szenario zum Tragen.
 
 

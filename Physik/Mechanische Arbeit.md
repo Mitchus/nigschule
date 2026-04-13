@@ -1,3 +1,10 @@
+---
+fach: Physik
+thema: Mechanische Arbeit
+tags: [mechanik, arbeit]
+datum: 2024-04-18
+typ: notiz
+---
 Arbeit ist eine Prozessgröße. Im Prozess der Arbeit wird Energie übertragen und (oder) umgewandelt.
 # Mechanische Arbeit
 
@@ -32,4 +39,9 @@ v2=0kmh
 
 ges:
 Ekin
-hoehe wenn mans fallen lässt um Ekin zu bekommen 
+hoehe wenn mans fallen lässt um Ekin zu bekommen
+
+## Siehe auch
+- [[Mechanische Energie]]
+- [[Energie]]
+- [[Physik Index]]

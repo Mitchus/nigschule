@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Daten
+tags: [daten]
+datum: 2025-09-01
+typ: notiz
+---
 # Einteilung von Daten nach Struktur
 
 ## 🔹 Strukturierte Daten

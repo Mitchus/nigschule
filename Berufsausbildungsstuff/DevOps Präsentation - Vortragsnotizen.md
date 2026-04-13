@@ -1,3 +1,10 @@
+---
+fach: Berufsausbildung
+thema: DevOps Präsentation - Vortragsnotizen
+tags: [devops, it]
+datum: 2026-04-13
+typ: praesentation
+---
 ## Slide 1: Das Problem - Warum DevOps?
 
 **Hauptpunkte:**

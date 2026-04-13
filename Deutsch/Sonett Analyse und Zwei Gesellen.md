@@ -1,3 +1,10 @@
+---
+fach: Deutsch
+thema: Sonett Analyse und Zwei Gesellen
+tags: [literatur, lyrik]
+datum: 2024-06-05
+typ: notiz
+---
 Michel und Heinrich
 Im milden Abendlicht, die Welt entspannt, 
 Ein Flüstern weht durch Wald und Wiesenrand, 

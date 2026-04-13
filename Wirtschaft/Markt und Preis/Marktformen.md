@@ -1,7 +1,14 @@
-![**Vollkommene Konkurrenz**](Vollkommene%20Konkurrenz.md)
-![**Monopol**](Monopol.md)
-![**Oligopol**](Oligopol)
-**![[Polypol]]**
+---
+fach: Wirtschaft
+thema: Marktformen
+tags: [marktformen]
+datum: 2024-04-18
+typ: notiz
+---
+![[Vollkommene Konkurrenz]]
+![[Monopol]]
+![[Oligopol]]
+![[Polypol]]
 
 beschränktes Nachfragemonopol
 beschränktes Nachfrageoligopol

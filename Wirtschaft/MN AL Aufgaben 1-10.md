@@ -1,3 +1,10 @@
+---
+fach: Wirtschaft
+thema: MN AL Aufgaben 1-10
+tags: [aufgaben]
+datum: 2025-02-13
+typ: aufgabe
+---
 1.
 
 Q:M1 Südliche Länder haben im Durchscnitt eine geringere Arbeitslosenquote

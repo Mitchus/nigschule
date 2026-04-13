@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: CPU
+tags: [hardware, prozessor]
+datum: 2024-04-18
+typ: notiz
+---
 # CPU (Central Processing Unit)
 - CPU ist das Gehirn des Computers.
 - Sie besteht aus mehreren Kernen, auf denen Threads ausgeführt werden können.
@@ -121,3 +128,10 @@ Transportschicht
 Vermittlungschicht
 SSicherungsschicht
 Bitübertragungsschicht
+
+## Siehe auch
+- [[Anatomie eines PCs]]
+- [[GPU]]
+- [[Ram]]
+- [[Prozessorkomponenten in RIPES]]
+- [[DVT Index]]

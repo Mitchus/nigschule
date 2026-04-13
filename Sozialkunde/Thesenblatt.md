@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: Thesenblatt
+tags: [sozialkunde]
+datum: 2025-03-07
+typ: notiz
+---
 # Thesenblatt: "Arbeit macht nicht frei, sondern arm"
 
 **Autor:** Michel Nowacki

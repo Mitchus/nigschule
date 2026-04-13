@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: Internationaler Gerichtshof
+tags: [recht, internationale-organisationen]
+datum: 2024-04-18
+typ: notiz
+---
 # Internationaler Gerichtshof (IGH)
 
 ### Gründung

@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Redoxreaktion
+tags: [elektrochemie]
+datum: 2024-04-18
+typ: notiz
+---
 $\ce{ CH_{3}OH }$ - Methanol 
 $C_{2}H_{5}OH$ - Ethanol 
 $\ce{ CHOOH }$ - Ameisensäure 

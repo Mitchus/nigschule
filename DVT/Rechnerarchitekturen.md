@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Rechnerarchitekturen
+tags: [hardware, architektur]
+datum: 2025-04-07
+typ: notiz
+---
 ### Vergleich von John-von-Neumann- und Harvard-Architektur
 
 **John-von-Neumann-Architektur:**

@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: Für und Wider Humanitäre Interventionen
+tags: [sozialkunde]
+datum: 2024-04-18
+typ: notiz
+---
 | Pro Für Humanitäre Interventionen                                                                              | Contra  Wider Humanitäre Interventionen                                                              |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Souveränität und Integrität eines Staates sind ein sekundäres Folgerecht aus den Grundr. der Individuen        | ist militärische Gewalt, Tötung/Verletzung von Menschen<br>verstößt gegen Art.2 Abs. 4 der UN-Charta |

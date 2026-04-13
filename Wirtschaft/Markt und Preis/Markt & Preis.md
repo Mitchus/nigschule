@@ -1,5 +1,11 @@
-
-#Chemie 
+---
+fach: Wirtschaft
+thema: Markt & Preis
+tags: [markt, preisbildung]
+datum: 2024-04-18
+aliases: [Markt und Preis, Preisbildung]
+typ: notiz
+---
 ![[Marktformen]]
 ![[Markt-arten]]
 ![[Regeln]]
@@ -62,5 +68,3 @@ Lenkungsfunktionen
 - Preis = Lenker der Produktion
 Erziehungsfunktion
 - Preis erzielt Anbieter für Kostensenkung Nachfrager zum Preisvergleich
-
-![[Wirtschaft/Markt und Preis/files/TRUMPSHIT]]

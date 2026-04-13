@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Netzwerktechnik
+tags: [netzwerk]
+datum: 2024-04-18
+typ: notiz
+---
 **Titel des Moduls:** Kommunikation in einer vernetzten Welt
 
 **Modulziel:** Erläutern wichtiger Konzepte in der Netzwerkkommunikation.
@@ -258,3 +265,11 @@ Ein **Server** = antwortet, stellt Ressourcen bereit.
   - Automatische Zuweisung: Dynamic Host Configuration Protocol (DHCP)
 
 - **IPv4-Adress
+
+## Siehe auch
+- [[IsoOsi]]
+- [[IP-Adressierung und Subnetting]]
+- [[Switch]]
+- [[AccessPoint]]
+- [[WIFI IEEE 802.11]]
+- [[DVT Index]]

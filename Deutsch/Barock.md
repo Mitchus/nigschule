@@ -1,3 +1,10 @@
+---
+fach: Deutsch
+thema: Barock
+tags: [literatur, epochen]
+datum: 2024-04-18
+typ: notiz
+---
 1600-1750
 Hintergrund:
 Dreißig Jährige Krieg 1618-1648 führte mit Wiederaufbau Maßnahmen in den Absolutismus

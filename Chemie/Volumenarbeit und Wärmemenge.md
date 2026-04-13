@@ -1,3 +1,10 @@
+---
+fach: Chemie
+thema: Volumenarbeit und Wärmemenge
+tags: [thermodynamik]
+datum: 2024-04-18
+typ: notiz
+---
 # Versuch 1
 ## Geräte und Chemikalien:
 0,2g Magnesiumspäne, 

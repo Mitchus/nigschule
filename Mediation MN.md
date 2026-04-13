@@ -1,3 +1,9 @@
+---
+thema: Mediation MN
+tags: [mediation]
+datum: 2025-01-30
+typ: notiz
+---
 Creative AI: New Possibilities, Big Market, and Important Questions
 
 Hello Readers!

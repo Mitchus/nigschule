@@ -1,3 +1,11 @@
+---
+fach: Physik
+thema: E-Lehre
+tags: [elektrizitaetslehre]
+datum: 2024-04-18
+aliases: [Elektrizitätslehre]
+typ: notiz
+---
 _Physikalische Grundlagen_
 
   ![[Pasted image 20231113132540.png]]

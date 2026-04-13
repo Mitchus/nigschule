@@ -1,3 +1,10 @@
+---
+fach: Mathematik
+thema: Mathe Aufgaben
+tags: [aufgaben]
+datum: 2024-04-24
+typ: aufgabe
+---
 $f(x)=\frac{1}{8}*(x³-15x²+50x)$
 $f'(x)=\frac{3}{8}*x²+ \frac{-15}{4}x+6.25$
 $f''(x)=\frac{3}{4}*x+ \frac{-15}{4}x$

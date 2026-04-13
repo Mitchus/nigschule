@@ -1,3 +1,10 @@
+---
+fach: Sozialkunde
+thema: Völkerrecht
+tags: [recht, voelkerrecht]
+datum: 2024-04-18
+typ: notiz
+---
 **Völkerrechte in Kürze:**
 
 - **Definition:** Internationales Recht für Staatenbeziehungen.

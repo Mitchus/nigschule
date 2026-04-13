@@ -1,3 +1,10 @@
+---
+fach: Wirtschaft
+thema: IWF HANDOUT
+tags: [internationale-wirtschaft]
+datum: 2024-10-30
+typ: praesentation
+---
 Michel Nowacki
 30.10.2024
 #### 1. **Definition und Hauptaufgaben**

@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Untitled
+tags: [dvt]
+datum: 2026-04-13
+typ: notiz
+---
 “We will be the most important software company in the world” ~ Alex Karp   
 
 “The mission of Palantir is to give an unfair advantage to our friends.” ~ Alex Karp   

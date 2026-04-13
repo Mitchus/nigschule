@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Unveiling Globalization A Look at Our Interconnected World
+tags: [globalisierung]
+datum: 2024-04-18
+typ: notiz
+---
 ## Unveiling Globalization: A Look at Our Interconnected World
 
 **Slide 1: Title Slide**

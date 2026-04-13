@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Obama
+tags: [politik, usa]
+datum: 2024-05-21
+typ: notiz
+---
 The speech delivered by President Barack Obama through the Untied Nations on September 20, 2016,  is concerned with the progress made during his presidency and the present global challenges. 
 The speech delivered by President Barack Obama through the Untied Nations on September 20, 2016. The occasion was his final address to the UN General Assembly as President. The target audience included international delegates and global leaders, focusing on the progress made during his presidency and the ongoing global challenges.
 

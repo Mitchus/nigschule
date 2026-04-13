@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Mediation
+tags: [methodik, mediation]
+datum: 2025-02-13
+typ: notiz
+---
 Michel Nowacki
 Ladies and Gentlemen,
 

@@ -1,1 +1,10 @@
-1. In einer vollkommenen Konkurrenz gibt es viele Anbieter und Nachfrager, homogene Produkte und niedrige Markteintrittsbarrieren, was zu einem Markt führt, auf dem die Preise von Angebot und Nachfrage bestimmt werden.
+---
+fach: Wirtschaft
+thema: Vollkommene Konkurrenz
+tags: [marktformen]
+datum: 2024-04-18
+aliases: [Vollständige Konkurrenz]
+typ: notiz
+---
+
+Siehe [[vollkommener Markt]] für die vollständige Übersicht zu vollkommener Konkurrenz und vollkommenem Markt.

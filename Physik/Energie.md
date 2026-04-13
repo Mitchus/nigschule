@@ -1,5 +1,9 @@
 ---
-
+fach: Physik
+thema: Energie
+tags: [mechanik, energie]
+datum: 2024-04-18
+typ: notiz
 ---
 ---
 #Physik
@@ -94,3 +98,8 @@ h = nm/m * g
 [Federkonstante](https://www.maschinenbau-wissen.de/skript3/mechanik/kinetik/114-federkonstante)
 D=F/s
 
+## Siehe auch
+- [[Mechanische Energie]]
+- [[Mechanische Arbeit]]
+- [[Der Energieerhaltungssatz der Mechanik]]
+- [[Physik Index]]

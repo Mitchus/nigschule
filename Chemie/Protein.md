@@ -1,4 +1,10 @@
-
+---
+fach: Chemie
+thema: Protein
+tags: [biochemie]
+datum: 2024-04-18
+typ: notiz
+---
 ### ***Bildung einer Peptidbindung***
 ![[IMG_20231024_094323.jpg]]
 

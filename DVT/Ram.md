@@ -1,3 +1,10 @@
+---
+fach: DVT
+thema: Ram
+tags: [hardware, speicher]
+datum: 2024-04-18
+typ: notiz
+---
 # Arbeitsspeicher
 
 **Autoren:** Julia Joch, Henrik Guhl, Tarik Alnawa  
@@ -40,3 +47,9 @@
 - RAM dient als temporäres Kurzzeitgedächtnis für aktuelle Programme und Daten.
 - RAM ist volatil und erfordert regelmäßiges Aufladen.
 - Es existieren verschiedene RAM-Technologien mit unterschiedlichen Spezifikationen.
+
+## Siehe auch
+- [[Anatomie eines PCs]]
+- [[CPU]]
+- [[Festplatten]]
+- [[DVT Index]]

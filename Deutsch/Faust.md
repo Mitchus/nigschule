@@ -1,3 +1,10 @@
+---
+fach: Deutsch
+thema: Faust
+tags: [literatur, goethe]
+datum: 2024-04-18
+typ: notiz
+---
 [[Spielablauf]]
 
 - Mephisto bietet Faust einen Pakt an, der Wünsche erfüllen soll, im Austausch für Fausts Seele nach dem Tod (1635-1674)

@@ -1,3 +1,10 @@
+---
+fach: Englisch
+thema: Privacy
+tags: [gesellschaft, datenschutz]
+datum: 2024-04-18
+typ: notiz
+---
 ### Where and why does Privacy matter?
 
 **1. Healthcare Privacy**:

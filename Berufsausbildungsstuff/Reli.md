@@ -1,3 +1,10 @@
+---
+fach: Berufsausbildung
+thema: Reli
+tags: [religion, ethik]
+datum: 2026-04-13
+typ: notiz
+---
 # Ethische Beratung: Facebook-Nutzung
 
 
@@ -84,3 +91,6 @@ Jetzt ist mein Problem: Meta hat in letzter Zeit Maßnahmen ergriffen, die polit
 Was ist denn hier ethisch gesehen das Richtige? Muss ich wirklich auf mein soziales Leben verzichten, nur um konsequent zu sein?'
 
 Eine wirklich schwierige Frage. Was meinen Sie dazu?"
+
+## Siehe auch
+- [[Heinz Eduard Tödt]]

@@ -1,3 +1,10 @@
+---
+fach: Deutsch
+thema: Abi
+tags: [abitur]
+datum: 2025-04-28
+typ: notiz
+---
 ## 1. Einleitung
 
 **Aufbau­punkte:**
