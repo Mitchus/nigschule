@@ -138,14 +138,67 @@ Netzwerkerweiterung in die 1. Etage der ZeroTake Coffee UG.
 > [!example] Aufgabe 1 - Netzwerke im Alltag (15 Min.)
 > Identifiziere Netzwerke in deinem Alltag. Welche Funktionen erfüllen sie?
 
+> [!success] Lösung
+> | Netzwerk | Typ | Funktion |
+> | -------- | --- | -------- |
+> | **Heimnetzwerk (Router/WLAN)** | LAN | Verbindet Smartphones, PCs, Smart-TV – gemeinsamer Internetzugang |
+> | **Mobilfunknetz (4G/5G)** | WAN | Ermöglicht mobiles Internet und Telefonie über Sendemasten |
+> | **Bluetooth-Verbindung (Kopfhörer, Smartwatch)** | PAN | Kurzstrecken-Datenübertragung zwischen persönlichen Geräten |
+> | **Schulnetzwerk / Firmennetzwerk** | LAN | Zentrale Ressourcennutzung (Drucker, Server, Internetzugang, Benutzerkonten) |
+> | **Internet** | WAN | Weltweites Netz aus Millionen Einzelnetzwerken – Datenaustausch, Kommunikation, Dienste |
+> | **Kassensystem im Supermarkt** | LAN/WAN | Vernetzt Kassen mit zentralem Server, Lagerverwaltung und Zahlungsdienstleister |
+> | **Smart-Home (Zigbee/Z-Wave)** | PAN | Verbindet Lampen, Thermostate und Sensoren zur automatisierten Haussteuerung |
+
 > [!example] Aufgabe 2 - Teamvorträge (S. 282-296)
 > Themen: Netzwerke und Funktionen, Server, Clients, Netzwerkreichweiten, Rechenzentren
+
+> [!success] Lösung
+> **Netzwerke und Funktionen:** Ein Netzwerk ist der Zusammenschluss mehrerer Geräte über ein Übertragungsmedium (Kabel oder Funk). Hauptfunktionen: gemeinsame Ressourcennutzung, Kommunikation, zentrale Datenspeicherung und -sicherung. Unterschieden wird nach Übertragungsmedium, Reichweite und Topologie.
+>
+> **Server:** Ein Server stellt Dienste und Ressourcen für andere Geräte (Clients) bereit. Typen: Dateiserver (Dateifreigabe), Webserver (HTTP), Druckserver, DHCP-Server (IP-Vergabe), DNS-Server (Namensauflösung), Mailserver. Server laufen meist dauerhaft und haben leistungsfähige Hardware (ECC-RAM, RAID).
+>
+> **Clients:** Ein Client ist ein Endgerät, das Dienste eines Servers in Anspruch nimmt. Beispiele: PC, Laptop, Smartphone. Im Client-Server-Modell initiiert der Client immer die Verbindung; der Server antwortet. Clients haben in der Regel keine zentrale Verwaltungsrolle.
+>
+> **Netzwerkreichweiten:** Netzwerke werden nach ihrer geografischen Ausdehnung klassifiziert – PAN (persönlich, < 10 m), LAN (lokal, Gebäude/Campus), MAN (städtisch, bis 100 km), WAN (weltweit, z. B. Internet). Die Reichweite bestimmt auch die eingesetzte Technologie und Übertragungsgeschwindigkeit.
+>
+> **Rechenzentren (Data Centers):** Rechenzentren sind speziell gesicherte Gebäude oder Räume, die Server, Netzwerkkomponenten und Speichersysteme beherbergen. Sie gewährleisten hohe Verfügbarkeit (USV, redundante Kühlung, Brandschutz), physische Sicherheit und schnelle Internetanbindung. Cloud-Dienste (AWS, Azure) basieren auf globalen Rechenzentren.
 
 > [!example] Aufgabe 3 - OSI-Modell (S. 322-326)
 > 1. Welchen Zweck erfüllt das OSI-Modell?
 > 2. Warum wurde es entwickelt?
 > 3. Nenne alle 7 Schichten mit Namen und Aufgaben
 > 4. Vergleiche OSI mit dem DoD-Modell (S. 191, Aufgabe 15)
+
+> [!success] Lösung
+> **1. Zweck des OSI-Modells:**
+> Das OSI-Modell (Open Systems Interconnection) ist ein Referenzmodell, das Netzwerkkommunikation in 7 abstrakte Schichten unterteilt. Es dient als gemeinsame Sprache für Hersteller und Entwickler, um interoperable Netzwerksysteme zu bauen. Es hilft bei der Fehlersuche (Troubleshooting) und beim Verständnis, auf welcher Ebene ein Problem auftritt.
+>
+> **2. Warum wurde es entwickelt?**
+> In den 1970er–80er Jahren existierten viele inkompatible, proprietäre Netzwerkprotokolle verschiedener Hersteller (IBM, DEC etc.). Die ISO (International Organization for Standardization) entwickelte das OSI-Modell 1984, um einen herstellerunabhängigen Standard für Netzwerkkommunikation zu schaffen und die Interoperabilität zwischen verschiedenen Systemen zu ermöglichen.
+>
+> **3. Die 7 OSI-Schichten:**
+> | Schicht | Name | Aufgabe | Protokolle/Geräte |
+> | ------- | ---- | -------- | ----------------- |
+> | 7 | Anwendung | Schnittstelle zu Benutzerprogrammen | HTTP, FTP, SMTP, DNS |
+> | 6 | Darstellung | Datenformatierung, Verschlüsselung, Komprimierung | SSL/TLS, JPEG, ASCII |
+> | 5 | Sitzung | Aufbau, Verwaltung und Abbau von Sitzungen | NetBIOS, RPC |
+> | 4 | Transport | Zuverlässige Ende-zu-Ende-Übertragung, Segmentierung | TCP, UDP |
+> | 3 | Vermittlung | Logische Adressierung, Routing | IP, ICMP, Router |
+> | 2 | Sicherung | Fehlererkennung, MAC-Adressierung, Frames | Ethernet, WLAN, Switch |
+> | 1 | Bitübertragung | Physikalische Übertragung von Bits | Kabel, Funk, Hub, Repeater |
+>
+> **4. OSI vs. DoD/TCP-IP-Modell:**
+> | OSI (7 Schichten) | DoD/TCP-IP (4 Schichten) | Erläuterung |
+> | ----------------- | ------------------------ | ----------- |
+> | 7 Anwendung | Anwendung | Alle anwendungsnahen Protokolle zusammengefasst |
+> | 6 Darstellung | Anwendung | In TCP/IP nicht separat – in Anwendungsschicht integriert |
+> | 5 Sitzung | Anwendung | In TCP/IP nicht separat – in Anwendungsschicht integriert |
+> | 4 Transport | Transport | TCP/UDP – identische Funktion |
+> | 3 Vermittlung | Internet | IP-Routing – identische Funktion |
+> | 2 Sicherung | Netzzugang | Zusammengefasst in einer Schicht |
+> | 1 Bitübertragung | Netzzugang | Zusammengefasst in einer Schicht |
+>
+> Das DoD-Modell ist praxisorientierter und bildet die Grundlage des tatsächlich genutzten Internets. Das OSI-Modell ist konzeptioneller und eignet sich besser für Lehre und Fehleranalyse.
 
 ---
 

@@ -178,6 +178,25 @@ Simulationssoftware für Netzwerke. Damit werden Netzwerke geplant, gebaut und g
 > 3. Erkläre die Funktion eines Routers
 > 4. Ordne die Geräte den OSI-Schichten zu
 
+> [!success] Lösung
+> **1. Switch – Paketweiterleitung:**
+> Ein Switch verbindet mehrere Geräte innerhalb eines lokalen Netzwerks (LAN) und leitet eingehende Ethernet-Frames gezielt an den richtigen Zielport weiter. Dazu lernt er selbstständig die MAC-Adressen der angeschlossenen Geräte und speichert sie in einer MAC-Adresstabelle (CAM-Table). Kommt ein Frame an, schlägt der Switch die Ziel-MAC-Adresse in der Tabelle nach und sendet den Frame nur an den entsprechenden Port – anders als ein Hub, der an alle Ports sendet (Flooding). Dies reduziert Kollisionen und erhöht die Effizienz erheblich.
+>
+> **2. Access Point – Funktion:**
+> Ein Access Point (AP) dient als Brücke (Bridge) zwischen dem kabelgebundenen LAN und einem WLAN. Er empfängt Datenpakete aus dem Ethernet-Netzwerk und überträgt sie per Funk an WLAN-Clients (Smartphones, Laptops) – und umgekehrt. Der AP selbst ist per Ethernet-Kabel (oft via PoE) mit dem Switch verbunden. Mehrere APs können ein Netzwerk flächendeckend abdecken und sich eine SSID teilen, sodass Clients nahtlos zwischen APs wechseln können (Roaming).
+>
+> **3. Router – Funktion:**
+> Ein Router verbindet zwei oder mehr unterschiedliche Netzwerke (z. B. LAN und Internet) und leitet IP-Pakete anhand der Ziel-IP-Adresse und seiner Routing-Tabelle weiter. Er führt NAT (Network Address Translation) durch, um private IP-Adressen auf eine öffentliche Adresse abzubilden. Häufig sind auch DHCP-Server und Firewall-Funktionen integriert. Der Router ist das Standard-Gateway für alle Geräte im lokalen Netzwerk.
+>
+> **4. OSI-Schichtzuordnung:**
+> | Gerät | OSI-Schicht | Adressierungsebene | Weiterleitung basierend auf |
+> | ----- | ----------- | ------------------ | --------------------------- |
+> | **Hub / Repeater** | Schicht 1 (Bitübertragung) | – | Kein Filtern – sendet an alle Ports |
+> | **Switch** | Schicht 2 (Sicherung) | MAC-Adresse | MAC-Adresstabelle (CAM-Table) |
+> | **Access Point** | Schicht 1–2 (Bridge) | MAC-Adresse | Überbrückt LAN ↔ WLAN |
+> | **Router** | Schicht 3 (Vermittlung) | IP-Adresse | Routing-Tabelle |
+> | **Layer-3-Switch** | Schicht 2–3 | MAC + IP | Kombiniert Switching und Routing |
+
 > [!example] Aufgabe 2 - Bedarfsanalyse aktive Komponenten
 > Wähle aus dem Lieferantenkatalog passende Switches und Access Points für die ZeroTake Coffee UG.
 > Dokumentiere: Modell, Leistungsmerkmale, Preise.
@@ -188,6 +207,40 @@ Simulationssoftware für Netzwerke. Damit werden Netzwerke geplant, gebaut und g
 > 3. Default Gateway erklären
 > 4. CLI-Befehle testen: `ipconfig`, `ping`, Broadcast
 
+> [!success] Lösung
+> **1. Netzwerktopologien – Zusammenfassung:**
+> | Topologie | Aufbau | Vorteil | Nachteil |
+> | --------- | ------ | ------- | -------- |
+> | Stern | Alle Geräte am zentralen Switch | Einfach, Ausfall eines Geräts unkritisch | Switch = Single Point of Failure |
+> | Ring | Geräte in geschlossener Kette | Deterministische Übertragung | Ein Ausfall unterbricht das ganze Netz |
+> | Bus | Alle an einem Kabel | Günstig, wenig Kabel | Kollisionen, schwer zu erweitern |
+> | Mesh | Jeder mit jedem verbunden | Sehr ausfallsicher | Teuer, hoher Verkabelungsaufwand |
+> | Baum | Hierarchische Sternstruktur | Skalierbar, strukturiert | Root-Knoten ist kritisch |
+> In modernen LANs wird fast ausschließlich die **Sterntopologie** eingesetzt (physisch), während logisch oft eine Baumstruktur entsteht.
+>
+> **2. IPv4-Grundlagen:**
+> Eine IPv4-Adresse besteht aus 32 Bit (4 Oktette), z. B. `192.168.1.100/24`. Die Subnetzmaske (`/24` = `255.255.255.0`) trennt den Netzanteil vom Hostanteil.
+> - **Private Adressen** (RFC 1918): `10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16` – nur im internen Netz, nicht im Internet routbar
+> - **Öffentliche Adressen**: weltweit eindeutig, vom ISP zugewiesen
+> - **CIDR** (Classless Inter-Domain Routing): flexible Subnetzmaske statt fixer Klassen (`/24`, `/25` etc.)
+> - **Subnetting-Formel**: Hosts = 2^(32 − Präfix) − 2 (−2 für Netz- und Broadcastadresse)
+> - **Beispiel /26**: 2^(32−26) − 2 = 62 nutzbare Hosts
+>
+> **3. Default Gateway:**
+> Das Default Gateway ist die IP-Adresse des Routers im lokalen Netzwerk. Wenn ein Gerät ein Paket an eine IP-Adresse außerhalb des eigenen Subnetzes senden will, schickt es das Paket an das Gateway, das es dann ins richtige Netzwerk weiterleitet. Ohne konfiguriertes Gateway ist keine Kommunikation über das eigene Subnetz hinaus möglich.
+> Beispiel: PC `192.168.1.100/24` → Gateway `192.168.1.1` → Internet
+>
+> **4. Wichtige CLI-Befehle:**
+> | Befehl | OS | Funktion |
+> | ------ | -- | -------- |
+> | `ipconfig` | Windows | Zeigt IP-Adresse, Subnetzmaske, Gateway |
+> | `ipconfig /all` | Windows | Zeigt zusätzlich MAC-Adresse, DHCP-Server, DNS |
+> | `ip a` / `ifconfig` | Linux | Netzwerkkonfiguration anzeigen |
+> | `ping 192.168.1.1` | beide | Erreichbarkeit des Gateways prüfen |
+> | `ping 255.255.255.255` | beide | Broadcast-Ping an alle im Subnetz |
+> | `tracert` / `traceroute` | Win/Linux | Route zum Zielgerät mit allen Hops anzeigen |
+> | `arp -a` | beide | ARP-Tabelle (IP ↔ MAC Zuordnungen) anzeigen |
+
 > [!example] Aufgabe 4 - Cisco Packet Tracer
 > 1. Cisco PT Training durcharbeiten
 > 2. Übungsaufgabe lösen
@@ -196,8 +249,51 @@ Simulationssoftware für Netzwerke. Damit werden Netzwerke geplant, gebaut und g
 > [!example] Aufgabe 5 - IPv4-Header
 > Analysiere im PT-Simulationsmodus den IPv4-Header eines Pakets. Recherchiere die Felder.
 
+> [!success] Lösung
+> Der IPv4-Header ist mindestens 20 Byte groß und enthält folgende wichtige Felder:
+>
+> | Feld | Größe | Beschreibung |
+> | ---- | ----- | ------------ |
+> | **Version** | 4 Bit | Protokollversion – bei IPv4 immer `4` |
+> | **IHL (Internet Header Length)** | 4 Bit | Länge des Headers in 32-Bit-Wörtern (min. 5 = 20 Byte) |
+> | **DSCP / TOS** | 8 Bit | Dienstgüte (Quality of Service) – Priorität des Pakets |
+> | **Total Length** | 16 Bit | Gesamtlänge des IP-Pakets (Header + Nutzdaten) in Byte |
+> | **Identification** | 16 Bit | ID zur Zusammensetzung fragmentierter Pakete |
+> | **Flags** | 3 Bit | Steuerung der Fragmentierung (z. B. DF = Don't Fragment) |
+> | **Fragment Offset** | 13 Bit | Position dieses Fragments im ursprünglichen Paket |
+> | **TTL (Time to Live)** | 8 Bit | Maximale Hop-Anzahl; wird bei jedem Router um 1 verringert – bei 0 wird das Paket verworfen |
+> | **Protocol** | 8 Bit | Übergeordnetes Protokoll: TCP = 6, UDP = 17, ICMP = 1 |
+> | **Header Checksum** | 16 Bit | Prüfsumme des Headers zur Fehlererkennung |
+> | **Source Address** | 32 Bit | IP-Adresse des Absenders |
+> | **Destination Address** | 32 Bit | IP-Adresse des Empfängers |
+> | **Options** | variabel | Optionale Felder (selten genutzt, z. B. Routing-Vorgaben) |
+>
+> Im Cisco Packet Tracer Simulationsmodus kann man ein Paket anklicken und im PDU-Fenster alle Headerfelder mit ihren aktuellen Werten einsehen.
+
 > [!example] Aufgabe 6 - OSI-Modell erweitern
 > Erweitere deine OSI-Übersicht um: Topologien, IPv4-Adressierung, Header-Struktur, Konnektivitätstests
+
+> [!success] Lösung
+> Erweiterung der OSI-Übersicht um die in dieser Lerneinheit behandelten Inhalte:
+>
+> | Schicht | Name | Ergänzungen aus LF3 |
+> | ------- | ---- | ------------------- |
+> | **7** | Anwendung | Konnektivitätstests: `ping`, `tracert` nutzen ICMP auf höherer Ebene; DNS-Auflösung (nslookup) |
+> | **6** | Darstellung | – (keine direkten Ergänzungen in dieser LE) |
+> | **5** | Sitzung | – (keine direkten Ergänzungen in dieser LE) |
+> | **4** | Transport | TCP/UDP-Protokollfeld im IPv4-Header (Protocol-Feld = 6/17); Ports identifizieren Dienste |
+> | **3** | Vermittlung | **IPv4-Adressierung**: private/öffentliche Adressen, CIDR, Subnetting; **IPv4-Header**: TTL, Protocol, Src/Dst Address; **Routing** über Default Gateway; Geräte: Router, Layer-3-Switch |
+> | **2** | Sicherung | **Topologien** (physisch): Stern, Ring, Bus, Mesh, Baum; **Switch** (MAC-Adresstabelle, Paketweiterleitung); **Access Point** (Bridge LAN↔WLAN); Ethernet-Frames mit MAC-Adressen |
+> | **1** | Bitübertragung | **Verkabelung**: TP (Cat 6a), LWL (Single/Multi-Mode); **WLAN** (Wi-Fi 6/6E, Frequenzbänder); **Topologie** (physisch): bestimmt, wie Geräte physisch verbunden sind |
+>
+> **Konnektivitätstests im Überblick:**
+> | Test | Befehl | Getestete Schicht | Zweck |
+> | ---- | ------- | ----------------- | ----- |
+> | Loopback | `ping 127.0.0.1` | Schicht 3 (lokal) | TCP/IP-Stack des eigenen Geräts prüfen |
+> | Gateway | `ping 192.168.x.1` | Schicht 3 | LAN-Verbindung und Router prüfen |
+> | Internet | `ping 8.8.8.8` | Schicht 3 | Internetverbindung prüfen |
+> | DNS | `nslookup google.com` | Schicht 7 | DNS-Auflösung prüfen |
+> | Route | `tracert / traceroute` | Schicht 3 | Alle Hops auf dem Weg zum Ziel anzeigen |
 
 ---
 

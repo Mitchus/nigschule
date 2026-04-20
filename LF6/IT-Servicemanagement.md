@@ -57,6 +57,33 @@ Ein SLA ist ein **Vertrag** zwischen Dienstleister und Kunde, der die Qualität 
 | 99,99%        | 52,6 Minuten     | Sehr hoch              |
 | 99,999%       | 5,26 Minuten     | Höchstverfügbar        |
 
+> [!success] Lösung – Muster-SLA: E-Mail-Service für KMU
+>
+> **Service Level Agreement – E-Mail-Dienst**
+> *Zwischen: IT-Solutions GmbH (Dienstleister) und Musterfirma GmbH (Kunde)*
+>
+> | SLA-Element           | Vereinbarung                                                                 |
+> | --------------------- | ---------------------------------------------------------------------------- |
+> | **Servicebezeichnung** | Betrieb des unternehmensweiten E-Mail-Dienstes (Microsoft 365 Exchange)     |
+> | **Servicezeit**        | Mo–Fr 07:00–19:00 Uhr (außer gesetzliche Feiertage NRW)                    |
+> | **Verfügbarkeit**      | 99,5 % pro Monat (max. ca. 3,6 h Ausfall/Monat)                            |
+> | **Reaktionszeit**      | Kritisch (kein E-Mail-Empfang): 30 Minuten / Sonstige Störung: 4 Stunden   |
+> | **Lösungszeit**        | Kritisch: 4 Stunden / Sonstige: nächster Werktag                            |
+>
+> **Eskalationsstufen:**
+>
+> | Stufe   | Auslöser                          | Ansprechpartner                      |
+> | ------- | --------------------------------- | ------------------------------------ |
+> | Stufe 1 | Störung gemeldet                  | 1st-Level-Support (Helpdesk)         |
+> | Stufe 2 | Reaktionszeit überschritten       | 2nd-Level-Support (Systemadmin)      |
+> | Stufe 3 | Lösungszeit überschritten         | Projektleiter + Geschäftsführung     |
+>
+> **Pönalen (Vertragsstrafen bei Nichteinhaltung):**
+> - Unterschreitung der Verfügbarkeit: Gutschrift von 5 % der monatlichen Servicegebühr je angefangene Stunde Ausfall über dem Limit
+> - Max. Gutschrift: 30 % der monatlichen Gebühr
+>
+> **Ausschlüsse:** Geplante Wartungsfenster (Sa 02:00–05:00 Uhr, mind. 48 h Vorankündigung), Störungen durch den Kunden oder höhere Gewalt
+
 ---
 
 ## Managementarten

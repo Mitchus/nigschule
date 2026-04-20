@@ -92,6 +92,25 @@ Antrag (Angebot) + Annahme = Kaufvertrag
 Anfrage → Angebot → Bestellung → Auftragsbestätigung → Lieferung → Rechnung → Zahlung
 ```
 
+> [!success] Lösung – Praxisbeispiel: Laptop-Kauf online
+>
+> **Szenario:** Schüler Lukas (18 Jahre) kauft bei einem Online-Shop einen Laptop für 899 €.
+>
+> | Schritt                    | Was passiert                                                                              |
+> | -------------------------- | ----------------------------------------------------------------------------------------- |
+> | **1. Anfrage**             | Lukas besucht die Website und vergleicht Laptops – noch keine Bindung                    |
+> | **2. Angebot**             | Der Shop zeigt Artikel mit Preis, Lieferzeit und Beschreibung (verbindliches Angebot)    |
+> | **3. Bestellung**          | Lukas legt den Laptop in den Warenkorb und klickt „Kaufen" – Willenserklärung des Käufers |
+> | **4. Auftragsbestätigung** | Shop sendet eine E-Mail: „Ihre Bestellung wurde angenommen" – Kaufvertrag kommt zustande  |
+> | **5. Lieferung**           | Laptop wird innerhalb von 3 Werktagen geliefert (Pflicht des Verkäufers)                 |
+> | **6. Rechnung**            | Rechnung liegt der Lieferung bei oder kommt per E-Mail                                   |
+> | **7. Zahlung**             | Lukas überweist 899 € (Pflicht des Käufers)                                              |
+>
+> **Rechtliche Besonderheiten:**
+> - Lukas ist voll geschäftsfähig (18 Jahre) – kein Einverständnis der Eltern nötig
+> - Als Verbraucher hat er ein **14-tägiges Widerrufsrecht** (Fernabsatzvertrag, § 312g BGB)
+> - Bei Mängeln hat er Anspruch auf **Nacherfüllung** (Reparatur oder Ersatzlieferung) innerhalb der gesetzlichen Gewährleistung (2 Jahre)
+
 ---
 
 ## Materialien

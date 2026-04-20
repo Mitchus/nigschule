@@ -168,6 +168,21 @@ print("a" in "Hallo")       # True
 > | `-5 % -4`          |          |
 > | `5 % -4`           |          |
 
+> [!success] Lösung – Aufgabe 1
+> | Anweisung          | Ergebnis | Herleitung                          |
+> | ------------------ | -------- | ----------------------------------- |
+> | `120 % 10`         | `0`      | 120 / 10 = 12, Rest **0**           |
+> | `14 % 3`           | `2`      | 14 / 3 = 4, Rest **2**              |
+> | `61 % 17`          | `10`     | 61 / 17 = 3, Rest **10**            |
+> | `243 % 13`         | `9`      | 243 / 13 = 18, Rest **9**           |
+> | `4 % 5`            | `4`      | 4 / 5 = 0, Rest **4**              |
+> | `5 % 4`            | `1`      | 5 / 4 = 1, Rest **1**              |
+> | `-5 % 4`           | `3`      | Python: Ergebnis hat Vorzeichen des Divisors: -5 = (-2)*4 + **3** |
+> | `-5 % -4`          | `-1`     | Python: Ergebnis hat Vorzeichen des Divisors: -5 = 1*(-4) + **-1** |
+> | `5 % -4`           | `-3`     | Python: Ergebnis hat Vorzeichen des Divisors: 5 = (-1)*(-4) + **-3** |
+>
+> Hinweis: In Python gilt immer `a == (a // b) * b + (a % b)`. Bei negativen Zahlen richtet sich das Vorzeichen des Ergebnisses nach dem **Divisor**.
+
 > [!example] Aufgabe 2 - Zuweisungsoperatoren (a = 11)
 > Berechne schrittweise, was `a` nach jeder Zeile ist:
 >
@@ -181,6 +196,33 @@ print("a" in "Hallo")       # True
 > a += a * a + a      # a = ?
 > a = a + a * 3 + a   # a = ?
 > a = (a - 1) / 2 + 7 # a = ?
+> ```
+
+> [!success] Lösung – Aufgabe 2
+> | Zeile                    | Berechnung                        | Wert von `a` |
+> | ------------------------ | --------------------------------- | ------------ |
+> | `a = 11`                 | Startwert                         | `11`         |
+> | `a = a % 10`             | 11 % 10 = **1**                   | `1`          |
+> | `a = a % a`              | 1 % 1 = **0**                     | `0`          |
+> | `a = a * a`              | 0 * 0 = **0**                     | `0`          |
+> | `a -= a / a`             | 0 / 0 → **ZeroDivisionError!**    | Fehler       |
+>
+> Ab `a -= a / a` tritt eine **ZeroDivisionError**-Exception auf, da `a = 0` ist. Das Programm bricht hier ab.
+>
+> Wenn man die Division überspringt und mit `a = 0` weitermacht (zur Demonstration):
+>
+> | Zeile (hypothetisch, a=1 angenommen) | Berechnung                | Wert von `a` |
+> | ------------------------------------- | ------------------------- | ------------ |
+> | `a -= a / a`   (mit a=1)             | 1 - 1/1 = 1 - 1.0 = **0.0** | `0.0`     |
+> | `a += a + a`   (mit a=0.0)           | 0.0 + 0.0 + 0.0 = **0.0**   | `0.0`     |
+>
+> Korrekte schrittweise Ausführung bis zum Fehler:
+> ```python
+> a = 11       # a = 11
+> a = a % 10   # a = 1
+> a = a % a    # a = 0
+> a = a * a    # a = 0
+> a -= a / a   # ZeroDivisionError: division by zero
 > ```
 
 > [!example] Aufgabe 3 - Buchaufgaben (S. 544)
@@ -203,10 +245,145 @@ print("a" in "Hallo")       # True
 > 4. Programm: Elektrischen Widerstand berechnen (U/I = R)
 > 5. Programm: Speicherplatzbedarf von Bildern in GiB berechnen
 
+> [!success] Lösung – Aufgabe 3
+>
+> **Teilaufgabe 1 – Variablendeklaration:**
+>
+> ```python
+> laufende_nummer = 3                          # int
+> name           = "Müller, Karl"              # str
+> alter          = 34                          # int
+> adresse        = "Mühlenweg 1A, 01069 Dresden"  # str
+> telefon        = "0177-1234567"              # str  (Bindestriche -> kein int!)
+> beruf          = "Fachinformatiker"          # str
+> verheiratet    = True                        # bool
+> steuerklasse   = 3                           # int
+> kinder         = 2                           # int
+> lohn           = 2870.00                     # float
+> ```
+>
+> **Teilaufgabe 2 – Modulo-Ergebnisse:**
+>
+> | Ausdruck        | Ergebnis | Herleitung                     |
+> | --------------- | -------- | ------------------------------ |
+> | `123 % 7`       | `4`      | 123 / 7 = 17, Rest **4**       |
+> | `12345 % 100`   | `45`     | 12345 / 100 = 123, Rest **45** |
+> | `121 % 11`      | `0`      | 121 / 11 = 11, Rest **0**      |
+> | `8 % 2`         | `0`      | 8 / 2 = 4, Rest **0** (gerade) |
+> | `9 % 2`         | `1`      | 9 / 2 = 4, Rest **1** (ungerade) |
+> | `3 % 5`         | `3`      | 3 / 5 = 0, Rest **3**          |
+>
+> **Teilaufgabe 3 – Kraftstoffverbrauch auf 100 km:**
+>
+> ```python
+> # Kraftstoffverbrauch in L/100km berechnen
+> distanz_km    = float(input("Gefahrene Strecke (km): "))
+> verbrauch_l   = float(input("Verbrauchter Kraftstoff (Liter): "))
+>
+> verbrauch_100km = (verbrauch_l / distanz_km) * 100
+>
+> print(f"Durchschnittsverbrauch: {verbrauch_100km:.2f} L/100km")
+> ```
+>
+> **Teilaufgabe 4 – Elektrischen Widerstand berechnen (R = U / I):**
+>
+> ```python
+> # Ohmsches Gesetz: R = U / I
+> spannung_V  = float(input("Spannung U (Volt): "))
+> stromstaerke_A = float(input("Stromstärke I (Ampere): "))
+>
+> widerstand_Ohm = spannung_V / stromstaerke_A
+>
+> print(f"Widerstand R = {widerstand_Ohm:.2f} Ohm")
+> ```
+>
+> **Teilaufgabe 5 – Speicherplatzbedarf von Bildern in GiB:**
+>
+> ```python
+> # Speicherbedarf: Breite * Höhe * Farbtiefe (Bit) / 8 -> Byte -> GiB
+> breite_px    = int(input("Bildbreite (Pixel): "))
+> hoehe_px     = int(input("Bildhöhe (Pixel): "))
+> farbtiefe_bit = int(input("Farbtiefe (Bit, z.B. 24 für RGB): "))
+> anzahl_bilder = int(input("Anzahl der Bilder: "))
+>
+> groesse_byte = breite_px * hoehe_px * (farbtiefe_bit / 8) * anzahl_bilder
+> groesse_gib  = groesse_byte / (1024 ** 3)   # 1 GiB = 2^30 Byte
+>
+> print(f"Speicherbedarf: {groesse_gib:.4f} GiB")
+> ```
+
 > [!example] Aufgabe 4 - Praxisaufgaben
 > 1. **Übertragungsrate:** Berechne die Zeit für eine Datenübertragung (Eingabe: MB + Kbit/s, Ausgabe: Minuten)
 > 2. **Nettolohn:** Berechne aus dem Bruttolohn den Nettolohn (Steuerklasse I: 30%, + KV, RV, AV)
 > 3. **Zinsrechnung:** Berechne den Zinsbetrag (Eingabe: Geldbetrag + Zinssatz)
+
+> [!success] Lösung – Aufgabe 4
+>
+> **Teilaufgabe 1 – Übertragungszeit berechnen:**
+>
+> ```python
+> # Übertragungszeit: t = Datenmenge / Übertragungsrate
+> # Einheiten: MB -> Mbit (1 MB = 8 Mbit), Kbit/s -> Mbit/s (/1000)
+> datenmenge_mb  = float(input("Datenmenge (MB): "))
+> rate_kbit_s    = float(input("Übertragungsrate (Kbit/s): "))
+>
+> datenmenge_kbit = datenmenge_mb * 8 * 1000   # MB -> Kbit (1 MB = 8 Mbit = 8000 Kbit)
+> zeit_sekunden   = datenmenge_kbit / rate_kbit_s
+> zeit_minuten    = zeit_sekunden / 60
+>
+> print(f"Übertragungszeit: {zeit_sekunden:.2f} Sekunden ({zeit_minuten:.2f} Minuten)")
+> ```
+>
+> Beispiel: 100 MB bei 512 Kbit/s → 100 * 8000 / 512 = 1562,5 s ≈ 26,04 Minuten
+>
+> **Teilaufgabe 2 – Nettolohn berechnen (Steuerklasse I):**
+>
+> ```python
+> # Abzüge Steuerklasse I (Näherungswerte):
+> #   Lohnsteuer:           19,0 %
+> #   Solidaritätszuschlag:  5,5 % der Lohnsteuer (= 1,045 % vom Brutto)
+> #   Krankenversicherung:   7,3 %
+> #   Rentenversicherung:    9,3 %
+> #   Arbeitslosenversicherung: 1,3 %
+> brutto = float(input("Bruttolohn (€): "))
+>
+> lohnsteuer   = brutto * 0.190
+> soli         = lohnsteuer * 0.055
+> kv           = brutto * 0.073
+> rv           = brutto * 0.093
+> av           = brutto * 0.013
+>
+> gesamt_abzug = lohnsteuer + soli + kv + rv + av
+> netto        = brutto - gesamt_abzug
+>
+> print(f"Bruttolohn:            {brutto:>10.2f} €")
+> print(f"  - Lohnsteuer:        {lohnsteuer:>10.2f} €")
+> print(f"  - Solidaritätszuschlag: {soli:>7.2f} €")
+> print(f"  - Krankenversicherung: {kv:>8.2f} €")
+> print(f"  - Rentenversicherung:  {rv:>8.2f} €")
+> print(f"  - Arbeitslosenvers.:   {av:>8.2f} €")
+> print(f"Gesamtabzüge:          {gesamt_abzug:>10.2f} €")
+> print(f"Nettolohn:             {netto:>10.2f} €")
+> ```
+>
+> **Teilaufgabe 3 – Zinsrechnung:**
+>
+> ```python
+> # Einfache Zinsrechnung: Z = K * p / 100
+> # Mit Laufzeit: Z = K * p * t / 100
+> kapital    = float(input("Kapital (€): "))
+> zinssatz   = float(input("Zinssatz (% pro Jahr): "))
+> laufzeit   = float(input("Laufzeit (Jahre): "))
+>
+> zinsbetrag     = kapital * zinssatz * laufzeit / 100
+> endkapital     = kapital + zinsbetrag
+>
+> print(f"Kapital:      {kapital:.2f} €")
+> print(f"Zinssatz:     {zinssatz:.2f} % p.a.")
+> print(f"Laufzeit:     {laufzeit:.1f} Jahre")
+> print(f"Zinsbetrag:   {zinsbetrag:.2f} €")
+> print(f"Endkapital:   {endkapital:.2f} €")
+> ```
 
 ---
 

@@ -94,6 +94,52 @@ Berechnet den **kritischen Pfad** (längster Weg = Mindestprojektdauer).
 | **FP**           | Freier Puffer                             |
 | **Kritischer Pfad** | Vorgänge mit GP = 0 (keine Verzögerung möglich) |
 
+> [!success] Lösung – Beispiel Netzplantechnik
+>
+> **Vorgangsliste:**
+>
+> | Vorgang | Dauer | Vorgänger |
+> | ------- | ----- | --------- |
+> | A       | 3     | –         |
+> | B       | 5     | A         |
+> | C       | 2     | A         |
+> | D       | 4     | B, C      |
+> | E       | 3     | D         |
+>
+> **Vorwärtsrechnung (FAZ / FEZ):**
+>
+> | Vorgang | Dauer | FAZ | FEZ |
+> | ------- | ----- | --- | --- |
+> | A       | 3     | 0   | 3   |
+> | B       | 5     | 3   | 8   |
+> | C       | 2     | 3   | 5   |
+> | D       | 4     | 8   | 12  |
+> | E       | 3     | 12  | 15  |
+>
+> Projektdauer = **15 Tage** (FEZ des letzten Vorgangs)
+>
+> **Rückwärtsrechnung (SEZ / SAZ):**
+>
+> | Vorgang | Dauer | SEZ | SAZ |
+> | ------- | ----- | --- | --- |
+> | E       | 3     | 15  | 12  |
+> | D       | 4     | 12  | 8   |
+> | B       | 5     | 8   | 3   |
+> | C       | 2     | 8   | 6   |
+> | A       | 3     | 3   | 0   |
+>
+> **Gesamtpuffer GP = SAZ − FAZ:**
+>
+> | Vorgang | SAZ | FAZ | GP | Kritisch? |
+> | ------- | --- | --- | -- | --------- |
+> | A       | 0   | 0   | 0  | ja        |
+> | B       | 3   | 3   | 0  | ja        |
+> | C       | 6   | 3   | 3  | nein      |
+> | D       | 8   | 8   | 0  | ja        |
+> | E       | 12  | 12  | 0  | ja        |
+>
+> **Kritischer Pfad: A → B → D → E** (alle GP = 0, Verzögerung verlängert das gesamte Projekt)
+
 ---
 
 ## Materialien
