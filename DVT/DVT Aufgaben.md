@@ -6,6 +6,7 @@ datum: 2024-04-18
 aliases: [DVT Übungen]
 typ: aufgabe
 ---
+
 Welche Vorteile der digitalen Vernetzung kommen in jedem Szenario zum Tragen.
 
 
@@ -107,3 +108,8 @@ Clients
         - Die Übertragung von Medien
             Hinweis: Ein Aspekt soll in Bilder/Icons/etc. dargestellt werden, ein Aspekt in Text und ein Aspekt in Gedichtsform ;)  
             - ca. 20 Minuten
+
+## Siehe auch
+
+- [[DVT/IsoOsi|ISO/OSI-Modell]]
+- [[DVT/WIFI IEEE 802.11|WLAN]]

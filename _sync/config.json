@@ -1,0 +1,45 @@
+{
+  "iserv": {
+    "base_url": "https://bbs1-lueneburg.de",
+    "group_path": "/iserv/file/-/Groups/IT25B"
+  },
+  "moodle": {
+    "base_url": "https://moodle.bbs1-lg.de",
+    "service": "moodle_mobile_app"
+  },
+  "vault_path": "/home/mitch/Dokumente/Obsidian Vault",
+  "course_mapping": {
+    "_comment": "Maps Moodle course names (substring match) to vault folders. Unmapped courses get their own folder.",
+    "LF 3": "LF3",
+    "LF3": "LF3",
+    "Clients in Netzwerke": "LF3",
+    "Lernfeld 5": "LF5",
+    "LF 5": "LF5",
+    "LF5": "LF5",
+    "LF 5_2": "LF5",
+    "Softwareprojekt": "LF5",
+    "LF 5.4": "LF4",
+    "Python": "LF4",
+    "Programmier": "LF4",
+    "DVT": "DVT",
+    "Netzwerk": "DVT",
+    "Lernfeld 2": "LF2",
+    "LF2": "LF2",
+    "LF 2": "LF2",
+    "LF6": "LF6",
+    "LF 6": "LF6",
+    "Lernfeld 6": "LF6",
+    "Einschulung": "BBS-Allgemein",
+    "00_Einschulung": "BBS-Allgemein",
+    "ZQ": "ZQ",
+    "Englisch": "Englisch",
+    "Deutsch": "Deutsch",
+    "Mathe": "Mathe",
+    "Sozialkunde": "Sozialkunde",
+    "Politik": "Sozialkunde",
+    "Religion": "Religion",
+    "Sport": "Sport"
+  },
+  "ignore_extensions": [".exe", ".msi"],
+  "sync_state_file": "_sync/sync_state.json"
+}

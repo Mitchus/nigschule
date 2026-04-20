@@ -5,6 +5,7 @@ tags: [hardware]
 datum: 2024-04-18
 typ: notiz
 ---
+
 # Anschlüsse und Erweiterungen
 
 ## Präsentatoren
@@ -56,3 +57,7 @@ typ: notiz
 ## Zusammenfassung
 - Computer haben viele unterschiedliche Anschlüsse und Protokolle.
 - Vielfältige Erweiterungsmöglichkeiten für Computer existieren.
+
+## Siehe auch
+
+- [[DVT/Festplatten|Festplatten]]

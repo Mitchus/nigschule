@@ -5,6 +5,7 @@ tags: [abitur]
 datum: 2025-04-28
 typ: notiz
 ---
+
 ## 1. Einleitung
 
 **Aufbau­punkte:**
@@ -182,3 +183,7 @@ typ: notiz
     - Der Kurs behandelt **HTML, CSS, JavaScript und Python**.  
     - Für das Projekt benötigen wir **Daten, Ideen, Zeit und Geld**.
 ```
+
+## Siehe auch
+
+- [[LF5/Python Grundlagen|Python]]

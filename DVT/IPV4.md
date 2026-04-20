@@ -41,12 +41,86 @@ typ: notiz
 - `0.0.0.0` = Standardroute / nicht zugewiesen
 - `255.255.255.255` = begrenzte Broadcast-Adresse
 
+## IPv4-Header
+
+Jedes IPv4-Paket beginnt mit einem Header (mindestens **20 Byte**). Die maximale Paketgroesse betraegt 65.535 Byte. Der Header ist in 32-Bit-Bloecke organisiert.
+
+```
+ 0                   1                   2                   3
+ 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|Version|  IHL  |    ToS        |         Paketlaenge           |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|         Kennung               |Flags|    Fragment-Offset      |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|    TTL        |  Protokoll    |     Header-Checksumme         |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|                    Quell-IP-Adresse                           |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|                    Ziel-IP-Adresse                            |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|                    Optionen (optional)              | Padding |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+```
+
+### Felder im Detail
+
+| Feld                             | Bits  | Beschreibung                                                                                                                                  |
+| -------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Version**                      | 4     | IP-Protokollversion (`4` fuer IPv4)                                                                                                           |
+| **IHL** (Internet Header Length) | 4     | Laenge des Headers als Vielfaches von 32 Bit. Min. 5 (=20 Byte), Max. 15 (=60 Byte)                                                           |
+| **ToS** (Type of Service)        | 8     | Dienstequalitaet (QoS). 3 Bit Prioritaet + 5 Bit Uebertragungseigenschaften                                                                   |
+| **Paketlaenge**                  | 16    | Gesamtlaenge des IP-Pakets in Byte (Header + Nutzdaten). Max. 65.535 Byte                                                                     |
+| **Kennung** (Identification)     | 16    | Eindeutige, fortlaufende Nummer zur Identifikation. Wird bei Fragmentierung benoetigt um Fragmente zusammenzusetzen                           |
+| **Flags**                        | 3     | Fragmentierungskontrolle: Bit 1 = reserviert (0), Bit 2 = **DF** (Don't Fragment), Bit 3 = **MF** (More Fragments = weitere Fragmente folgen) |
+| **Fragment-Offset**              | 13    | Position des Fragments im urspruenglichen Paket (in 8-Byte-Einheiten)                                                                         |
+| **TTL** (Time to Live)           | 8     | Lebensdauer: Jeder Router zieht mindestens 1 ab. Bei 0 wird das Paket verworfen. Typisch: 64 oder 128. Verhindert endloses Kreisen im Netz    |
+| **Protokoll**                    | 8     | Uebergeordnetes Protokoll: `1` = ICMP, `6` = TCP, `17` = UDP                                                                                  |
+| **Header-Checksumme**            | 16    | Pruefsumme ueber den Header. Jeder Router prueft und berechnet neu (da TTL sich aendert)                                                      |
+| **Quell-IP-Adresse**             | 32    | IP-Adresse des Absenders                                                                                                                      |
+| **Ziel-IP-Adresse**              | 32    | IP-Adresse des Empfaengers (oder Multicast-Adresse)                                                                                           |
+| **Optionen**                     | 0-320 | Optional: Routing-, Debugging-, Sicherheitsinformationen. Mit Nullen aufgefuellt (Padding) auf 32-Bit-Grenze                                  |
+
+### Fragmentierung
+
+Wenn ein IP-Paket groesser ist als die **MTU** (Maximum Transmission Unit) eines Netzwerksegments (Ethernet: 1500 Byte), wird es fragmentiert:
+- Jedes Fragment bekommt die gleiche **Kennung**
+- Der **Fragment-Offset** gibt die Position im Originalpaket an
+- Das **MF-Flag** zeigt an, ob weitere Fragmente folgen
+- Erst der Empfaenger setzt die Fragmente wieder zusammen
+
+## NAT (Network Address Translation)
+
+- Uebersetzt private IP-Adressen in oeffentliche und umgekehrt
+- Ermoeglicht mehreren Geraeten mit privaten IPs den Zugang zum Internet ueber eine oeffentliche IP
+- Router merkt sich in einer **NAT-Tabelle**, welcher interne Host welche Verbindung hat
+- **PAT** (Port Address Translation): Unterscheidung ueber Portnummern
+
+## CIDR (Classless Inter-Domain Routing)
+
+- Ersetzt das starre Klassensystem (A/B/C) durch flexible Praefixlaengen
+- Notation: `192.168.1.0/24` (die 24 gibt die Anzahl der Netzbits an)
+- Ermoeglicht effizientere Nutzung des Adressraums
+- Beispiel: `/25` = 128 Adressen, `/26` = 64 Adressen, `/27` = 32 Adressen
+
+| CIDR | Subnetzmaske | Hosts |
+|---|---|---|
+| /24 | 255.255.255.0 | 254 |
+| /25 | 255.255.255.128 | 126 |
+| /26 | 255.255.255.192 | 62 |
+| /27 | 255.255.255.224 | 30 |
+| /28 | 255.255.255.240 | 14 |
+| /29 | 255.255.255.248 | 6 |
+| /30 | 255.255.255.252 | 2 |
+
 ## Grenzen von IPv4
-- Nur ca. **4,3 Milliarden** mögliche Adressen (2^32)
-- Adressraum ist erschöpft → Lösung: **IPv6** mit 128-Bit-Adressen
-- Übergangslösungen: NAT (Network Address Translation), CIDR
+- Nur ca. **4,3 Milliarden** moegliche Adressen (2^32)
+- Adressraum ist erschoepft → Loesung: **IPv6** mit 128-Bit-Adressen
+- Uebergangsloesungen: NAT, CIDR, Dual-Stack, Tunneling
 
 ## Siehe auch
 - [[IP-Adressierung und Subnetting]]
+- [[Netzwerkprotokolle]]
+- [[IsoOsi]]
 - [[Netzwerktechnik]]
 - [[DVT Index]]

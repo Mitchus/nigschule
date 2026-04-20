@@ -1,34 +1,55 @@
 ---
 fach: Englisch
-thema: Englisch Index
-tags: [englisch, uebersicht]
-datum: 2026-04-13
-typ: notiz
+thema: Englisch
+tags: [index, englisch]
+datum: 2026-04-14
+typ: index
 ---
 
-# Englisch Index
+# Englisch
 
-## Literatur
-- [[Hunger Games]]
-- [[The Hunger Games Part 2]]
-- [[Analysis of Selin's Perception of Harvard in _The Idiot_ by Elif Batuman]]
+Business English, Technical Communication und Prüfungsvorbereitung.
 
-## Globalisierung & Gesellschaft
-- [[Unveiling Globalization A Look at Our Interconnected World]]
-- [[Outline of _Globalization is under attack_ by John Rennie Short]]
-- [[Privacy]]
-- [[Adolescence]]
-- [[Obama]]
+## Abi-Notizen (alt)
 
-## Methodik
-- [[Comment]]
-- [[Comment on the Quote _Stupid people are dangerous_]]
-- [[Charakterisierung]]
-- [[How to analyse the atmosphere]]
-- [[Mediation]]
-- [[Summary]]
-- [[Klausurstuff]]
+![[Adolescence]]
+![[Hunger Games]]
+![[The Hunger Games Part 2]]
+![[Obama]]
+![[Privacy]]
+![[Unveiling Globalization A Look at Our Interconnected World]]
+![[Outline of _Globalization is under attack_ by John Rennie Short]]
+![[Analysis of Selin's Perception of Harvard in _The Idiot_ by Elif Batuman]]
+![[Comment on the Quote _Stupid people are dangerous_]]
 
-## Sonstiges
-- [[Englisch Vokabeln und Notizen]]
-- [[Noten]]
+## Methoden & Textformen
+
+![[Klausurstuff]]
+![[Summary]]
+![[Comment]]
+![[Mediation]]
+![[Charakterisierung]]
+![[How to analyse the atmosphere]]
+![[01_How to write a Mediation]]
+![[02_Mediation_Checklist_allgemein]]
+
+## BBS - IT English
+
+![[00 IT Intro]]
+![[01 IT presenting yourself]]
+![[02 Company and Departments]]
+![[02a Giving Directions]]
+![[03 Recruitment Mediation]]
+![[06 Recruiting new Staff]]
+![[07 Your Workspace]]
+![[07a Emailing]]
+![[14 Dealing with customers - tickets]]
+![[15 Dealing with customers - Technical Support]]
+![[16 complaints]]
+![[golden rules]]
+![[help telephoning]]
+
+## Vokabeln & Notizen
+
+![[Englisch Vokabeln und Notizen]]
+![[Noten]]

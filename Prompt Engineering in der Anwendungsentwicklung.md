@@ -84,10 +84,10 @@ Context Engineering umfasst:
 
 [57% der Orgs](https://www.firecrawl.dev/blog/context-engineering) haben AI-Agents in Production, aber 32% nennen Qualität als Hauptproblem → schlechtes Context-Management, nicht Modell-Limitierungen.
 
-Siehe auch: [Anthropic - Effective Context Engineering](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+Siehe: [Anthropic - Effective Context Engineering](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 
 > [!important] Lost in the Middle
-> LLMs verarbeiten Infos in der Mitte langer Kontexte am schlechtesten. Relevantes gehört an den Anfang oder ans Ende.
+> LLMs verarbeiten Infos in der Mitte langer Kontexte am schlechtesten. Relevantes gehört an den Anfang oder ans Ende. (Needle(s) in a Haystack)
 
 ---
 
@@ -97,7 +97,7 @@ Siehe auch: [Anthropic - Effective Context Engineering](https://www.anthropic.co
 - Kontext-Annahmen → das Modell kennt dein Business nicht, explizit erklären
 - Alles in einen Prompt → komplexe Workflows aufbrechen (Prompt Chaining)
 - Kein Output-Format → immer spezifizieren: JSON, Tabelle, Prosa, Bullets?
-- [Nicht iterieren](https://treyworks.com/common-prompt-engineering-mistakes-to-avoid/) → erster Prompt ist selten optimal, systematisch testen
+- [Nicht iterieren](https://treyworks.com/common-prompt-engineering-mistakes-to-avoid/) → erster Prompt ist selten optimal, systematisch testen (hohe Kosten)
 - Negative Anweisungen → "Benutze kein Markdown" schlechter als "Antworte in fließendem Prosatext"
 - Veraltete Quelldaten → Zugang zu Dokumenten ≠ korrekte Antworten
 
@@ -154,7 +154,3 @@ Du antwortest NUR zu Themen rund um unsere Produkte.</system>
 | 5 | Context Engineering (RAG, Memory, Tools) | Entscheidend für Production |
 | 6 | Prompt Chaining (aufteilen) | Besser als Monster-Prompts |
 | 7 | Iteration & Testing | Kumulativer Effekt |
-
-## Siehe auch
-- [[ZQ]]
-- [[ZQ 2]]

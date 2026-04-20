@@ -268,6 +268,8 @@ Ein **Server** = antwortet, stellt Ressourcen bereit.
 
 ## Siehe auch
 - [[IsoOsi]]
+- [[Netzwerkprotokolle]]
+- [[IPV4]]
 - [[IP-Adressierung und Subnetting]]
 - [[Switch]]
 - [[AccessPoint]]

@@ -5,6 +5,7 @@ tags: [hardware, eingabe]
 datum: 2024-04-18
 typ: aufgabe
 ---
+
 1. **Unterschied QUERTZ- und QUERTY-Tastatur:**
    - **QUERTZ:** Buchstabenanordnung Q-W-E-R-T-Z
    - **QUERTY:** Buchstabenanordnung Q-W-E-R-T-Y
@@ -386,3 +387,10 @@ Serverraum R1.6                          Raum R1.4 (3 Doppeldosen)
 **Puffer: 870 € für unvorhergesehene Kosten oder Upgrades**
 
 Brauchst du noch Details zu bestimmten Punkten oder eine Visualisierung der Verkabelung? 🔧
+
+## Siehe auch
+
+- [[DVT/AccessPoint|Access Point]]
+- [[DVT/Switch|Switch]]
+- [[DVT/WIFI IEEE 802.11|WLAN]]
+- [[LF3/Strukturierte Verkabelung|Strukturierte Verkabelung]]

@@ -22,6 +22,7 @@ typ: notiz
 ## Netzwerk
 - [[Netzwerktechnik]]
 - [[IsoOsi]]
+- [[Netzwerkprotokolle]] (TCP, UDP, ICMP, ARP, DHCP, DNS)
 - [[IP-Adressierung und Subnetting]]
 - [[IPV4]]
 - [[Switch]]

@@ -5,6 +5,7 @@ tags: [eva-prinzip, aufgaben]
 datum: 2026-04-13
 typ: notiz
 ---
+
 a### **Aufgabe 1: EVA-Prinzip erklären**
 
 **a) Beispiel Taschenrechner (Addition zweier Zahlen):**
@@ -139,3 +140,8 @@ Falls du keinen eigenen Betrieb hast, kannst du das Beispiel für eine **fiktive
 - Hebe hervor, wie **EVA-Prinzip** in Softwareentwicklung sichtbar ist (Input-Daten, Verarbeitung durch Code, Ausgabe an Nutzer).
     
 - Beispielprojekt vorstellen (z. B. kleines Shop-System, Website oder App).
+
+## Siehe auch
+
+- [[DVT/Eingabe und Ausgabe|EVA-Prinzip]]
+- [[LF5/Vorgehensmodelle|Wasserfallmodell]]
