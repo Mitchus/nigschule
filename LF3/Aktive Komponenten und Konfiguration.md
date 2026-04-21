@@ -80,6 +80,8 @@ IP-Adresse    Subnetzmaske (CIDR-Notation)
 | **A**  | 1.0.0.0 - 126.x.x.x  | /8         | 16.777.214    |
 | **B**  | 128.0.0.0 - 191.x.x.x | /16       | 65.534        |
 | **C**  | 192.0.0.0 - 223.x.x.x | /24       | 254           |
+| **D**  | 224.0.0.0 - 239.x.x.x | –         | Multicast     |
+| **E**  | 240.0.0.0 - 255.x.x.x | –         | Reserviert    |
 
 ### Private IP-Adressen (RFC 1918)
 
@@ -95,11 +97,12 @@ IP-Adresse    Subnetzmaske (CIDR-Notation)
 
 | Adresse          | Bedeutung                    |
 | ---------------- | ---------------------------- |
-| 0.0.0.0          | Unbekannter Host             |
-| 127.0.0.1        | Localhost (Loopback)         |
-| 255.255.255.255  | Broadcast (alle im Netzwerk) |
-| x.x.x.0          | Netzwerkadresse              |
-| x.x.x.255        | Broadcast-Adresse (/24)      |
+| 0.0.0.0          | Unbekannter Host / Standardroute      |
+| 127.0.0.1        | Localhost (Loopback)                  |
+| 169.254.x.x      | **APIPA** (kein DHCP erreichbar)      |
+| 255.255.255.255  | Broadcast (alle im Netzwerk)          |
+| x.x.x.0          | Netzwerkadresse                       |
+| x.x.x.255        | Broadcast-Adresse (/24)               |
 
 ### Subnetzmaske und CIDR
 
@@ -121,6 +124,22 @@ Maske:  255.255.255.0    = /24
 | /28  | 255.255.255.240     | 14     |
 
 **Formel:** Hosts = 2^(32 - Präfix) - 2
+
+### VLSM (Variable Length Subnet Mask)
+
+Verschiedene Subnetze im selben Netzwerk können **unterschiedliche Präfixlängen** haben. So wird der Adressraum effizienter genutzt (z.B. eine Abteilung /25, eine andere /27).
+
+### Subnetting-Beispiel (IHK-typisch)
+
+**Gegeben:** `172.16.50.130/27`
+
+1. /27 = 27 Netz-Bits, **5 Host-Bits**
+2. Blockgröße = 2^5 = **32**
+3. Subnetz-Grenzen bei Vielfachen von 32: ...96, **128**, 160...
+4. 130 liegt im Block **128-159**
+5. **Netzadresse:** `172.16.50.128`
+6. **Broadcast:** `172.16.50.159`
+7. **Nutzbarer Bereich:** `.129` bis `.158` (30 Hosts)
 
 ### Default Gateway
 
